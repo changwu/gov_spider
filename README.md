@@ -3,7 +3,7 @@
 ### 帮助
 
 1. 安装python
-2. git clone git@github.com:changwu/gov_spider.git
+2. git clone https://github.com/changwu/gov_spider.git
 3. cd gov_spider
 4. pip install -r requirements.txt
 5. python start.py
