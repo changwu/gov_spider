@@ -1,6 +1,6 @@
 # gov_spider
 
-### 安装
+### 帮助
 
 1. 安装python
 2. git clone git@github.com:changwu/gov_spider.git
