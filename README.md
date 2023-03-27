@@ -14,3 +14,12 @@
 wjbfb.txt 文件按行存储文章解析结果，每行对应一个文章页。
 
 ### 其它
+1. 将wjbfb.txt文件的数据导成单个文件
+```
+python export.py
+```
+
+2. 制作语料库
+```
+python make_corpus.py
+```
