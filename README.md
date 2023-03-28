@@ -23,3 +23,9 @@ python export.py
 ```
 python make_corpus.py
 ```
+
+3. glove向量计算
+```
+# cal.py中列出了计算相似度和距离的例子，可以修改源文件。
+python cal.py
+```
