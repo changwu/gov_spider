@@ -1,0 +1,223 @@
+
+    
+
+
+DATE
+TV
+PRINT
+RADIO
+
+ 
+
+1-Jun
+NBC
+Christian Science Monitor
+AP
+
+
+2-Jun
+ABC
+TIME
+AURN
+
+
+3-Jun
+CBS
+USA Today
+BBC
+
+
+4-Jun
+CNN
+Wall Street Journal
+CBS
+
+
+5-Jun
+FOX
+Washington Blade
+FOX
+
+
+6-Jun
+NBC
+Washington Examiner
+iHeartMedia
+
+
+7-Jun
+ABC
+Washington Post
+NPR
+
+
+8-Jun
+CBS
+Washington Times
+SRN
+
+
+9-Jun
+CNN
+Yahoo
+VOA
+
+
+10-Jun
+FOX
+Axios
+ABC
+
+
+11-Jun
+NBC
+Bloomberg Government
+AP
+
+
+12-Jun
+ABC
+Boston Globe
+AURN
+
+
+13-Jun
+CBS
+Roll Call
+BBC
+
+
+14-Jun
+CNN
+Daily Beast
+CBS
+
+
+15-Jun
+FOX
+Daily Caller
+FOX
+
+
+16-Jun
+NBC
+Daily Mail
+iHeartMedia
+
+
+17-Jun
+ABC
+Dallas Morning News
+NPR
+
+
+18-Jun
+CBS
+The Grio
+SRN
+
+
+19-Jun
+CNN
+The Guardian
+VOA
+
+
+20-Jun
+FOX
+Hearst Newspapers
+ABC
+
+
+21-Jun
+NBC
+The Hill
+AP
+
+
+22-Jun
+ABC
+HuffPost
+AURN
+
+
+23-Jun
+CBS
+Los Angeles Times
+BBC
+
+
+24-Jun
+CNN
+McClatchy
+CBS
+
+
+25-Jun
+FOX
+National Journal
+FOX
+
+
+26-Jun
+NBC
+Newsday
+iHeartMedia
+
+
+27-Jun
+ABC
+Newsweek
+NPR
+
+
+28-Jun
+CBS
+New York Post
+SRN
+
+
+29-Jun
+CNN
+New York Times
+VOA
+
+
+30-Jun
+FOX
+Politico
+ABC
+
+
+1-Jul
+NBC
+RealClearPolitics
+AP
+
+
+2-Jul
+ABC
+Regional Reporters
+AURN
+
+
+3-Jul
+CBS
+Roll Call
+BBC
+
+
+4-Jul
+CNN
+TIME
+CBS
+
+
+5-Jul
+FOX
+USA Today
+FOX
+
+
+
+  

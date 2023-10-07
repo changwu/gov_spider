@@ -1,0 +1,216 @@
+
+    
+
+
+DATE
+TV
+PRINT
+RADIO
+
+
+1-Jun
+NBC
+BuzzFeed
+FOX
+
+
+2-Jun
+ABC
+Christian Science Monitor
+NPR
+
+
+3-Jun
+CBS
+Daily Beast
+SRN
+
+
+4-Jun
+CNN
+Daily Caller
+VOA
+
+
+5-Jun
+FOX
+Daily Mail
+ABC
+
+
+6-Jun
+NBC
+Dallas Morning News
+AP
+
+
+7-Jun
+ABC
+The Guardian
+AURN
+
+
+8-Jun
+CBS
+Hearst Newspapers
+BBC
+
+
+9-Jun
+CNN
+The Hill
+CBS
+
+
+10-Jun
+FOX
+HuffPost
+FOX
+
+
+11-Jun
+NBC
+Los Angeles Times
+iHeartMedia
+
+
+12-Jun
+ABC
+McClatchy
+NPR
+
+
+13-Jun
+CBS
+National Journal
+SRN
+
+
+14-Jun
+CNN
+Newsday
+VOA
+
+
+15-Jun
+FOX
+Newsweek
+ABC
+
+
+16-Jun
+NBC
+New York Post
+AP
+
+
+17-Jun
+ABC
+New York Times
+AURN
+
+
+18-Jun
+CBS
+Politico
+BBC
+
+
+19-Jun
+CNN
+RealClearPolitics
+CBS
+
+
+20-Jun
+FOX
+Regional Reporters
+FOX
+
+
+21-Jun
+NBC
+Roll Call
+iHeartMedia
+
+
+22-Jun
+ABC
+TIME
+NPR
+
+
+23-Jun
+CBS
+USA Today
+SRN
+
+
+24-Jun
+CNN
+Wall Street Journal
+VOA
+
+
+25-Jun
+FOX
+Washington Blade
+ABC
+
+
+26-Jun
+NBC
+Washington Examiner
+AP
+
+
+27-Jun
+ABC
+Washington Post
+AURN
+
+
+28-Jun
+CBS
+Washington Times
+BBC
+
+
+29-Jun
+CNN
+Yahoo
+CBS
+
+
+30-Jun
+FOX
+Axios
+FOX
+
+
+1-Jul
+NBC
+BNA
+iHeartMedia
+
+
+2-Jul
+ABC
+Boston Globe
+NPR
+
+
+3-Jul
+CBS
+BuzzFeed
+SRN
+
+
+4-Jul
+CNN
+Christian Science Monitor
+VOA
+
+
+
+  

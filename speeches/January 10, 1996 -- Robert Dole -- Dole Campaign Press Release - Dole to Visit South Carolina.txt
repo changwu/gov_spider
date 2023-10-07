@@ -1,0 +1,29 @@
+
+    GOP Presidential frontrunner Bob Dole will visit South Carolina Thursday, January 11th. Senator Dole and Governor David Beasley will tour the Amoco Corporation Cooper River Plant in Wando. They will also hold a news conference at the Balanced Budget Billboard on SC Highway 170. Later in the day they will tour the DuPont Plant in Florence. Attending media should arrive thirty minutes early and will be asked to provide local or national media credentials.
+WHO:           Senator Bob Dole
+                Governor David Beasley
+WHAT:          Tour of the Amoco Corporation Cooper River Plant
+WHERE:         Plant Facility
+                Highway 98 (Clements Ferry Road)
+                Cooper River Plant, Wando, S.C.
+WHEN:          Thursday, January 11th from 10:30am to 11:30am
+FACILITIES:    mult, riser, TV lighting
+WHAT:          Balanced Budget Billboard News Conference
+WHERE:         SC Highway 170
+                Adjacent to Bob White's Bait & Tackle
+                From Savannah, GA sake Route 95 North
+                 to 462 East (Exit 28)
+                462 East turns into 278 East
+                278 East turns into 170 West
+                Bob White's is 1.5 miles down on left
+                From Hilton Head Airport take 278 West to 170 East
+                Bob White's is 2.0 miles down on right
+                Hilton Head, SC
+WHEN:          Thursday, January 11th from 1:50pm to 2:20pm
+FACILITIES:    mult, TV lighting
+WHAT:          Tour of the DuPont Plant
+WHERE:         6901 DuPont Road
+                Florence, SC
+WHEN:          Thursday, January 11th from 4:00pm to 5:00pm
+FACILITIES:    mult, riser, TV lighting
+  

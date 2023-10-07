@@ -1,0 +1,24 @@
+
+    The Rudy Giuliani Presidential Committee today announced the launch of a new television ad entitled "Liderazgo." The ad begins airing in Florida today.
+To view the ad, click here: http://www.blip.tv/file/586277. The script is below.
+Script for "Liderazgo":
+Voice Over: "El Presidente Reagan depositó su confianza en él para combatir el crimen. Nueva York lo eligió su alcalde cuando esa ciudad se veía perdida. Rudy Giuliani. Redujo el crimen."
+Chyron: "Redujo el crimen"
+Voice Over: "Rebajó los impuestos."
+Chyron: "Rebajó los impuestos"
+Voice Over: "Creó nuevos empleos y recortó la burocracia."
+Chyron: "Creó nuevos empleos"
+Chyron: "Recortó la burocracia"
+Voice Over: "Se pudo en Nueva York y se puede en Washington. Rudy Giuliani: Experiencia, Resultado, Liderazgo."
+Mayor Giuliani: "Soy Rudy Giuliani y apruebo este mensaje."
+English Translation:
+Voice Over: "President Reagan trusted him to combat crime. New York elected him mayor when the city seemed doomed (lost). Rudy Giuliani. He cut down on crime."
+Chyron: "He cut down on crime"
+Voice Over: "He lowered taxes."
+Chyron: "He lowered taxes"
+Voice Over: "He created new jobs and slashed bureaucracy."
+Chyron: "He created new jobs"
+Chyron: "Slashed bureaucracy"
+Voice Over: "It was done in New York. It can be done in Washington. Rudy Giuliani: Experience, Results, Leadership."
+Mayor Giuliani: "I'm Rudy Giuliani and I approved this message."
+  

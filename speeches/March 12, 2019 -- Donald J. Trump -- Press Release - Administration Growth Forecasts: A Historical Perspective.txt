@@ -1,0 +1,25 @@
+
+    Forecasting macroeconomic growth is never an exact science. The macroeconomic forecasts that accompany the President's Budget are no exception. The "policy-inclusive" nature of these forecasts even introduces additional sources of uncertainty. Since policy-inclusive growth forecasts include the estimated effects of the President's proposed policies, errors in these forecasts can indicate the absence of a policy's implementation as well as error in the forecast of the growth effects of the given policy. The data available on the forecasts themselves do not permit the disaggregation of these possible sources of error.
+Nonetheless, historical data on Administration macroeconomic forecasts present an opportunity to contextualize the macroeconomic forecasts released with the Fiscal Year 2020 budget.
+The requirement in the Congressional Budget and Impoundment Control Act of 1974 of the publication of "the economic and programmatic assumptions" that underlie a budget has had the effect of creating a record of the Administration growth forecasts released since calendar year 1975. The data therefore permit the evaluation of an Administration's initial growth forecast for its first year in office (i.e., the "current year" forecast released in the calendar year of the new President's Inauguration) as far back as the Carter Administration. From the Carter Administration through the Trump Administration, Figure 1 documents how growth in each Administration's first year in office compares to its initial forecast for growth in that year.
+	
+
+  
+
+ 
+download-full-size-image 
+
+		
+
+The recent release of the advanced estimate of 2018:Q4 Gross Domestic Product from the Bureau of Economic Analysis permits, over the same sample spanning the Carter Administration through the Trump Administration, an assessment of how an Administration's second set of growth forecasts predicts growth in the year current to its release (e.g., how the forecast published in February of 2018 predicted growth in 2018). Figure 2 documents the performance of each Administration's growth forecast according to this metric.
+	
+
+  
+
+ 
+download-full-size-image 
+
+		
+
+The data on the accuracy of an Administration's forecasts during its first two years offers an opportunity to look for any number of patterns. One set of patterns that you might expect to observe pertains to variation in forecast error over time. Forecasts today could perform better than forecasts in the past, for instance, due to improvements over time in the economics literature. The data seem consistent with at least this pattern: this Administration, as the figures in aggregate show, is the first on record to have experienced economic growth that meets or exceeds its own forecasts in each of its first two years in office.
+  

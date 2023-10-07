@@ -1,0 +1,55 @@
+
+    Just weeks after President Biden signed the CHIPS and Science Act into law, communities across America are seeing corporations make historic investments to grow America's manufacturing base and advanced manufacturing capabilities.
+Today, Intel broke ground on its plans to build two state-of-the-art factories in Ohio. According to the Ohio Governor's Office, this $20 billion investment – the largest ever made by a single company in Ohio – will impact the entire state and "an estimated $2.8 billion is expected to be added to the state's annual gross product". This represents "the largest single private sector company investment in Ohio's history."
+In North Carolina, Wolfspeed announced the construction of a new silicon chip factory that will invest $5 billion to create 1,800 new, good-paying jobs. Governor Roy Cooper reiterated the significance of the announcement stating, "And it's an historic day for our economy. An amazing day for high-paying jobs. And it's an important day for putting money in the pockets of everyday working families in our state." According to WRAL in North Carolina, "The investment over time stands to be the largest in North Carolina history."
+This groundbreaking in Ohio and plant announcement in North Carolina join a number of recent investments and announcements made by First Solar, Toyota, Honda and Corning resulting from the President's economic plan. For the first time in decades, there is a resurgence in American manufacturing, ensuring that the future is made in America and builds an economy from the bottom up and middle out.
+Read the full stories below:
+Cleveland 19 News: President Biden travels to Ohio as Intel breaks ground on $20B semiconductor site[Chris Anderson and Avery Williams, 9/8/22]
+CLEVELAND, Ohio (WOIO) - President Joe Biden joined Ohio Gov. Mike DeWine and Intel executives in Licking County on Friday morning for a ceremony celebrating the company's historic semiconductor manufacturing site.
+Two state-of-the-art manufacturing factories, an investment of $20 billion, will be built in central Ohio by 2025, according to Intel.
+The groundbreaking event came approximately one month after Biden signed the CHIPS and Science Act into law.
+The chips that will be manufactured at the plant can be used in various products, including cell phones, appliances, and vehicles.
+Even though the facilities will be located in Licking County, the impact is expected to be felt statewide.
+An estimated $2.8 billion is expected to be added to the state's annual gross product, the governor's office said.
+The project is the largest single private sector company investment in Ohio's history.
+Licking County is approximately 35 miles northeast of Columbus.
+The News & Observer: Wolfspeed to build chip manufacturing plant in NC, bringing 1,800 jobs to Chatham County[Brian Gordon and Richard Stradling, 9/9/22]
+Wolfspeed, a Durham silicon chip manufacturer, will build a massive new factory in Chatham County — an investment that's expected to pour $5 billion into the growing rural county and create 1,800 new jobs.
+The company said Friday that the $5 billion is a record for a project receiving state incentives.
+Gov. Roy Cooper announced the chip project at the Executive Mansion on Friday morning, touting the project's role in providing chips for electric vehicles.
+"Today's another step in our drive toward a clean energy economy," Cooper said. "And it's an historic day for our economy. An amazing day for high-paying jobs. And it's an important day for putting money in the pockets of everyday working families in our state."
+On Friday, the N.C. Economic Investment Committee awarded the company an $76.1 million job development investment grant, or JDIG, with future payroll tax breaks. To benefit from the full financial package, Wolfspeed must create at least 1,802 jobs over five years from 2026 to 2030. The average minimum wage will be $77,753, officials said.
+Wolfspeed also must retain the 3,023 positions it already has in the state.
+The facility will be built on the Chatham-Siler City Advanced Manufacturing (CAM) Site, an 1,802-acre megasite near the county's western border. The plant is expected to occupy 445 acres.
+Securing the JDIG opens up even more funding for the Wolfspeed project: The latest state budget appropriated $112.5 million for a chip manufacturing project in Chatham, provided the incoming company received a grant from the Economic Investment Committee. The funds include $57 million for site work and $55 million to enhance water infrastructure in the city of Asheboro, which is about 20 miles west of Siler City.
+Among other state incentives, the N.C. Department of Transportation will spend about $10 million building roads needed to access the site from U.S. 64, and the state community college system will provide worker training worth $3.6 million.
+In addition to state support, the project will receive incentives and tax breaks from Chatham County and Siler City worth $615.5 million.
+North Carolina beat out New York for the project, state officials said, where Wolfspeed also has a facility with room for expansion.
+But they insist that the company's decision did not rest on economic incentives alone.
+"With the world watching us now, everyone will see once again all the natural advantages that North Carolina can offer a company," Secretary of Commerce Machelle Sanders said. "From our education system, where we ensure that we have a well-trained workforce, to our business climate, to our unparalleled quality of life, to our collaborative and togetherness in how we get things done, and our leadership in a sustainable, cleaner environment."
+State officials estimate Wolfspeed's investment in the Chatham plant will add $17.5 billion to the state's economy by 2045 and net the state $312 million in revenue.
+The announcement represents another major economic boon for growing Chatham County. In March, the Vietnamese automotive startup VinFast announced it would build a 7,500-worker assembly plant in the southeastern portion of the county. It's scheduled to become operational in 2024.
+And the plant will be just down the road from a Toyota car battery plant now under construction on another megasite in Randolph County. Toyota says it expects to invest about $3.8 billion in the plant and eventually employ about 2,100 people there.
+DEMAND FOR SILICON CHIPSWolfspeed was founded in 1987 by a group mostly made up of N.C State University graduate students. The company has been eyeing expansion for months as the demand for electric vehicles, which use silicon chips, has exploded.
+"We literally can't make enough," John Palmour, the chief technology officer and cofounder of Wolfspeed, said in an interview with The News & Observer.
+The company makes a particular type of chip made from silicon carbide, a semiconducting compound. The company turns the compound into thin blank chips called wafers before sending them to its fabrication factories to make functioning chips.
+Wolfspeed has a pair of fabrication, or fab, facilities in Durham and one in upstate New York. The Chatham site will produce the wafers. In addition to supplying its own facilities with wafers, Wolfspeed sells wafers to other chip manufacturers.
+Palmour estimated the company provides around 60% of the silicon carbide wafers on the market today. The future Chatham plant will eventually increase the company's wafer production by at least 10 times its current capacity, the company said.
+Palmour said the Siler City megasite presented an attractive balance: It's close enough to the Durham facilities for the plants to exchange talent and resources while still being far enough away to provide operational capabilities in the event a natural disaster or other unforeseen event hindered the Durham plant.
+"From the continuance of supply, we're now feeding an automotive market, and having one location for silicon carbide growth is concerning," he said. "We didn't want to just expand on this (Durham) campus because it's too much concentrated in one place."
+In August, the federal government passed the CHIPS Act, which directs $52 billion to bolster domestic chip manufacturing. Wolfspeed CEO Gregg Lowe attended the White House signing ceremony celebrating the legislation.
+"We would expect to get some support from the CHIPS Act," Palmour said.
+WHO DID NC BEAT OUT?Under North Carolina law, state tax incentives are restricted to businesses that are considering at least one other state for their projects. States including Ohio and New York have also made aggressive efforts to lure a chip manufacturer.
+Wolfspeed considered putting the factory in Marcy, New York, near Utica, where it has a 434-acre site.
+"I'm not going to wade into who was competing," Palmour said. "Obviously, we're located in North Carolina, and we're located in New York."
+Wolfspeed went public in the early 1990s and operated under the name Cree until last October. It employs 3,500 people worldwide, with around 2,500 workers in the Triangle.
+Among those joining Cooper and Sanders at Friday's announcement were state House Speaker Tim Moore and Ronnie Chatterji, a Durham native who is now Chief Economist for the U.S. Office of the Under Secretary for Economic Affairs.
+Both Moore and Chatterji mentioned the national security benefits of making silicon chips in the United States.
+"We've seen what a tyrant in another country can do when he controls the supply of energy," Chatterji said. "No one in this audience should ever want any other country to have that much leverage over us."
+WHERE WILL WORKERS COME FROM?Palmour acknowledged finding workers in a market struggling with vacancies may be a challenge.
+"That is a concern frankly, getting the right talent and the right educational background to work in a factory like this," he said.
+During the press conference Friday, Lowe announced Wolfspeed will expand its scholarship partnership with N.C. A&T State University to help ready a workforce for the company's particular kind of chip manufacturing.
+"Leading a once-in-a-generation technology shift from silicon to silicon carbide requires a skilled workforce that the Governor talked about that can help transform these industries," he said.
+Investing in N.C. A&T, a historically Black college in Greensboro, is a wise decision said Hilda Pinnix-Ragland, chair of the school's board of trustees. Speaking after Cooper and Lowe, she noted the university has a robust history as a land-grant school of providing economic opportunities.
+"This partnership with Wolfspeed smartly builds on that foundation, she said.
+  

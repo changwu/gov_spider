@@ -1,0 +1,14 @@
+
+    WASHINGTON - The Cybersecurity and Infrastructure Security Agency (CISA) and the Federal Bureau of Investigation (FBI) issued a cybersecurity reminder for public and private sector organizations to remain vigilant and take appropriate precautions to reduce their risk to ransomware and other cyberattacks leading up to and during the holiday season. This advisory is based on observations on the timing of high impact ransomware attacks that have occurred previously rather than a reaction to specific threat reporting. Specifically, malicious cyber actors have often taken advantage of holidays and weekends to disrupt critical networks and systems belonging to organizations, businesses, and critical infrastructure.
+Among the mitigations described in the joint alert includes the need for entities to identify IT security employees for weekends and holidays who would be available during these times in the event of a ransomware attack. Other best practice recommendations include:
+
+Implement multi-factor authentication for remote access and administrative accounts
+Mandate strong passwords and ensure they are not reused across multiple accounts
+If you use remote desktop protocol (RDP) or other potentially risky services, ensure it is secure and monitored
+Remind employees not to click on suspicious links, and conduct exercises to raise awareness
+Review and, if needed, update incident response and communication plans that list actions an organization will take if impacted by a ransomware incident
+
+"While we are not currently aware of a specific threat, we know that threat actors don't take holidays," said CISA Director Jen Easterly. "We will continue to provide timely and actionable information to help our industry and government partners stay secure and resilient during the holiday season. We urge all organizations to remain vigilant and report any cyber incidents to CISA or FBI."
+"The FBI is dedicated to combatting cyber-crimes targeting the American public and our private sector partners. Cyber criminals have historically viewed holidays as attractive times to strike," said FBI Cyber Assistant Director Bryan Vorndran. "We will continue to provide cyber threat information and share best safeguard practices. We urge network defenders to prepare and remain alert over the upcoming holiday weekend and report any suspicious activity to www.ic3.gov."
+Ransomware continues to be a national security threat and a critical challenge; however, there are actions that executives, leaders, and workers in any organization can take to proactively reduce their risk to cyberattacks during the upcoming holiday season. Organizations large and small should visit www.stopransomware.gov, the federal government's one-stop-shop for resources on how to protect yourself from becoming a victim of ransomware.
+  

@@ -1,0 +1,8 @@
+
+    Memorandum for the Heads of Executive Departments and Agencies
+Subject: National Insider Threat Policy and Minimum Standards for Executive Branch Insider Threat Programs
+This Presidential Memorandum transmits the National Insider Threat Policy and Minimum Standards for Executive Branch Insider Threat Programs (Minimum Standards) to provide direction and guidance to promote the development of effective insider threat programs within departments and agencies to deter, detect, and mitigate actions by employees who may represent a threat to national security. These threats encompass potential espionage, violent acts against the Government or the Nation, and unauthorized disclosure of classified information, including the vast amounts of classified data available on interconnected United States Government computer networks and systems.
+The Minimum Standards provide departments and agencies with the minimum elements necessary to establish effective insider threat programs. These elements include the capability to gather, integrate, and centrally analyze and respond to key threat-related information; monitor employee use of classified networks; provide the workforce with insider threat awareness training; and protect the civil liberties and privacy of all personnel.
+The resulting insider threat capabilities will strengthen the protection of classified information across the executive branch and reinforce our defenses against both adversaries and insiders who misuse their access and endanger our national security.
+Barack Obama
+  

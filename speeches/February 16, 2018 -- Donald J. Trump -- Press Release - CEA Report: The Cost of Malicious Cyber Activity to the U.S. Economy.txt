@@ -1,0 +1,14 @@
+
+    Today, the Council of Economic Advisers (CEA) released a report detailing the economic costs of malicious cyber activity on the U.S. economy. Please see below for the executive summary and read the full report here.
+This report examines the substantial economic costs that malicious cyber activity imposes on the U.S. economy. Cyber threats are ever-evolving and may come from sophisticated adversaries. Due to common vulnerabilities, instances of security breaches occur across firms and in patterns that are difficult to anticipate. Importantly, cyberattacks and cyber theft impose externalities that may lead to rational underinvestment in cybersecurity by the private sector. Firms in critical infrastructure sectors may generate especially large negative spillover effects into the wider economy. Successful protection against cyber threats requires accurate data and cooperation across firms and between private and public sectors.
+Overall:
+
+We estimate that malicious cyber activity cost the U.S. economy between $57 billion and $109 billion in 2016.
+Malicious cyber activity directed at private and public entities manifests as denial of service attacks, data and property destruction, business disruption (sometimes for the purpose of collecting ransoms) and theft of proprietary data, intellectual property, and sensitive financial and strategic information.
+Damages from cyberattacks and cyber theft may spill over from the initial target to economically linked firms, thereby magnifying the damage to the economy.
+Firms share common cyber vulnerabilities, causing cyber threats to be correlated across firms. The limited understanding of these common vulnerabilities impedes the development of the cyber insurance market.
+Scarce data and insufficient information sharing impede cybersecurity efforts and slow down the development of the cyber insurance market.
+Cybersecurity is a common good; lax cybersecurity imposes negative externalities on other economic entities and on private citizens. Failure to account for these negative externalities results in underinvestment in cybersecurity by the private sector relative to the socially optimal level of investment.
+Cyberattacks against critical infrastructure sectors could be highly damaging to the U.S. economy.
+
+  

@@ -1,0 +1,222 @@
+
+    
+
+
+DATE
+TV
+PRINT
+RADIO
+
+
+1-Oct
+CBS
+Boston Globe
+BBC
+
+
+2-Oct
+CNN
+Christian Science Monitor
+VOA
+
+
+3-Oct
+FOX
+Dallas Morning News
+ABC
+
+
+4-Oct
+NBC
+Daily Mail
+AP
+
+
+5-Oct
+ABC
+Daily Beast
+AURN
+
+
+6-Oct
+CBS
+The Grio
+BBC
+
+
+7-Oct
+CNN
+The Guardian
+CBS
+
+
+8-Oct
+FOX
+The Hill
+FOX
+
+
+9-Oct
+NBC
+HuffPost
+iHeartMedia
+
+
+10-Oct
+ABC
+Los Angeles Times
+NPR
+
+
+11-Oct
+CBS
+McClatchy
+SRN
+
+
+12-Oct
+CNN
+National Journal
+VOA
+
+
+13-Oct
+FOX
+Newsday
+ABC
+
+
+14-Oct
+NBC
+Newsweek
+AP
+
+
+15-Oct
+ABC
+New York Post
+AURN
+
+
+16-Oct
+CBS
+New York Times
+BBC
+
+
+17-Oct
+CNN
+Politico
+CBS
+
+
+18-Oct
+FOX
+RealClearPolitics
+FOX
+
+
+19-Oct
+NBC
+Regional Reporters
+iHeartMedia
+
+
+20-Oct
+ABC
+Roll Call
+NPR
+
+
+21-Oct
+CBS
+TIME
+SRN
+
+
+22-Oct
+CNN
+USA Today
+VOA
+
+
+23-Oct
+FOX
+Wall Street Journal
+ABC
+
+
+24-Oct
+NBC
+Washington Blade
+AP
+
+
+25-Oct
+ABC
+Washington Examiner
+AURN
+
+
+26-Oct
+CBS
+Washington Post
+SRN
+
+
+27-Oct
+CNN
+Washington Times
+CBS
+
+
+28-Oct
+FOX
+Yahoo
+FOX
+
+
+29-Oct
+NBC
+Axios
+iHeartMedia
+
+
+30-Oct
+ABC
+Bloomberg Government
+NPR
+
+
+31-Oct
+CBS
+Boston Globe
+SRN
+
+
+1-Nov
+CNN
+Christian Science Monitor
+VOA
+
+
+2-Nov
+FOX
+Daily Beast
+ABC
+
+
+3-Nov
+NBC
+Daily Mail
+AP
+
+
+4-Nov
+ABC
+Dallas Morning News
+AURN
+
+
+
+  

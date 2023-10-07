@@ -1,0 +1,95 @@
+
+    "My hope is this continues to encourage a culture of public service among our innovators, and tech entrepreneurs, so that we can keep building a government that's as modern, as innovative, and as engaging as our incredible tech sector is. To all the Fellows who've served so far – thank you. I encourage all Americans with bold ideas to apply. And I can't wait to see what those future classes will accomplish on behalf of the American people." –- President Barack Obama
+Today, President Obama signed an executive order that makes the Presidential Innovation Fellows Program a permanent part of the Federal government going forward. The program brings executives, entrepreneurs, technologists, and other innovators into government, and teams them up with Federal employees to improve programs that serve more than 150 million Americans.
+The Presidential Innovation Fellows Program is built on four key principles:
+
+• Recruit the best our nation has to offer: Fellows include entrepreneurs, startup founders, and innovators with experience at large technology companies and startups, each of whom leverage their proven skills and technical expertise to create huge value for the public.
+• Partner with innovators inside government: Working as teams, the Presidential Innovation Fellows and their partners across the government create products and services that are responsive, user-friendly, and help to improve the way the Federal government interacts with the American people.
+• Deploy proven private sector strategies: Fellows leverage best practices from the private sector to deliver better, more effective programs and policies across the Federal government.
+• Focus on some of the Nation's biggest and most pressing challenges: Projects focus on topics such as improving access to education, fueling job creation and the economy, and expanding the public's ability to access their personal health data.
+Additional Details on Today's Announcements
+The Executive Order formally establishes the Presidential Innovation Fellows Program within the General Services Administration (GSA), where it will continue to serve departments and agencies throughout the Executive Branch. The Presidential Innovation Fellow Program will be administered by a Director and guided by a newly-established Advisory Board. The Director will outline steps for the selection, hiring, and deployment of Fellows within government.
+Announcing New Fellows
+Today, the Administration is also announcing 6 new Presidential Innovation Fellows from industry that will begin serving in the coming weeks. Since the launch of the Presidential Innovation Fellows pilot program in 2012, 96 top innovators have been recruited into this highly-competitive program from across the country.
+The new Fellows being announced today are:
+
+• Adam Bonnifield, from Washington, DC, a digital strategist, developer and the co-founder of Spinnakr, a platform for making big data accessible and actionable.
+• Ross Dakin, from Palo Alto, CA, a software engineer who has created novel financial services at Upstart Network, cyber threat intelligence tools at BrightPoint Security, and same-day infrastructure at Deliv.
+• Luke Keller, from Brooklyn, NY, a product designer and strategist who developed products to help educators introduce character development to their classrooms at Character Lab.
+• Kate McCall-Kiley, from Kensington, MD, a designer specializing in human-centered design and social change who previously served on innovation teams at Booz Allen Hamilton, Capital One, and Design for America.
+• Josh Patterson, from Columbia, SC, a data scientist and economist who most recently lead the development of big data systems at Accenture Technology Labs.
+• Alexandra Pelletier, from Jamaica Plain, MA, a product manager who most recently served as the digital lead for the Innovation Acceleration Program at Boston Children's Hospital.
+Building on Success: Additional Details on the Presidential Innovation Fellows Program to Date
+Since the launch of the Presidential Innovation Fellows program in 2012, 96 top innovators have been recruited into this highly-competitive program from across the country, including places like: Silicon Valley; New York City; Austin; Washington, D.C.; and Boston.
+Recruit the Best
+A core element of the Presidential Innovation Fellows Program is to recruit leading entrepreneurs, innovators, developers, designers, and engineers into government for "tours of duty." In the past three years, Fellows who have served include:
+
+• Director of Engineering at Macromedia, Sarah Allen
+• Open Source Health Developer and Navy Veteran, Tom Black
+• Lecturer at the d.School (Institute of Design at Stanford) and Director of Social Innovation at Hot Studio, Sarah Brooks
+• Manager of Mobile Analytics at The New York Times, Rachel Harrison Gordon
+• Partner at Mohr Davidow Ventures, Scott Hartley
+• Business Development Lead at IDEO, Ashley Jablow
+• Co-Founder of Blue State Digital, Clay Johnson
+• Lead Developer at Google Maps, Susannah Raub
+• President and CFO of Shutterstock, Adam Riggs
+• Director of Enterprise Information for City of New Orleans, Denice Ross
+• Co-Founder of DMV.org, Vidya Spandana
+• Founder of the weather service Weather Underground, Alan Steremberg
+• Principal Software Architect at Boston Children's Hospital, Gajen Sunthara
+• Senior Medical Director at Aetna, Henry Wei, MD
+From Fellow to Leader
+To date, 35 Fellows have stayed on inside government to continue to serve in new roles once their Fellowship ended. These former Fellows include:
+
+• Chief Architect of Data.gov, Phil Ashlock (2012 Fellow)
+• Chief Data Officer of the Department of Commerce, Ian Kalin (2012 Fellow)
+• Chief Technology Officer of the Department of Veterans Affairs, Marina Martin (2012 Fellow)
+• U.S. Deputy Chief Technology Officer at the White House, Ryan Panchadsaram (2012 Fellow)
+• Executive Director of 18F, Aaron Snow, and Deputy Executive Director of 18F, Hillary Hartley (2013 Fellows)
+• Director of the Presidential Innovation Fellows Program, Garren Givens (2013 Fellow)
+• Chief Technology Officer of the Environmental Protection Agency, Gregory Godbout (2013 Fellow)
+• Senior Policy Advisor, Office of the Secretary at the State Department, Adam Riggs (2013 Fellow)
+• Founding team of the United States Digital Service, Charles Worthington and Mollie Ruskin (2013 Fellows)
+The full list of Fellows and their backgrounds can be found here: https://presidentialinnovationfellows.gov/fellows/.
+Presidential Innovation Fellow Projects and Accomplishments
+Fellows have partnered with leaders at more than 25 government agencies, delivering impressive results in months, not years, driving extraordinary work and innovative solutions in areas such as health care; open data and data science; crowd-sourcing initiatives; education; veterans affairs; jobs and the economy; and disaster response and recovery. Examples of projects include:
+Open Data
+When government acts as a platform, entrepreneurs, startups, and the private sector can build value-added services and tools on top of federal datasets supported by federal policies. Taking this approach, Fellows and agency stakeholders have supported the creation of new products and services focused on education, health, the environment, and social justice. As a result of their efforts and the agencies they have worked with:
+
+• To date, the Administration has opened more than 130,000 data sets. Fellows working with GSA prototyped and delivered an upgrade to  Data.gov, making it easier for agencies to provide data to the public, while also spurring innovation around new tools and services to make that data more useful. In addition, Fellows helped drive the rollout of open data standards at nearly a dozen agencies in support of the  President's Executive Order making open data the default practice for the Federal Government.
+• Millions of adverse event and medication error reports on FDA-regulated drugs are now online. The Food and Drug Administration (FDA) partnered with a Fellow to launch  openFDA, an initiative that puts millions of adverse event and medication error reports on FDA-regulated drugs in the public domain and available through an application programming interface (API).
+• Leveraging open data to build trust between law enforcement agencies and the communities that they serve. A team of Fellows, in collaboration with the White House Domestic Policy Council, the Office of Science Technology & Policy, and other White House offices and Departments and Agencies, have been at the forefront of the Police Data Initiative, which responds to the recommendations of the President's Task Force on 21st Century Policing. The initiative has brought together police chiefs, municipal chief technology officers, and the private-sector to facilitate the efforts of law enforcement agencies to publish open data about police activities such as officer-involved-shootings, vehicle stops, and citizen complaints. There are currently 26 jurisdictions working to make available new data sets to the public through this initiative.
+• More than 150 utilities and vendors have committed to providing over 60 million households in the United States access to their personalized energy data. Fellows, in collaboration with the Department of Energy, National Institute of Standards and Technology, the North American Energy Standards Board, utilities and vendors, worked to double the reach of  Green Button, which aims to reduce waste and shrink energy bills by providing consumers with secure, easy-to-understand information about how they are using energy in their households.
+• With more than 205,000 downloads, the OSHA Heat App is helping to protect workers and save lives. As part of the Occupational Safety and Health Administration's (OSHA) effort to help outdoor workers prevent heat illness, a Fellow worked with OSHA to release of a new version of the Heat Safety Tool mobile app. Since the update, the app has 30,000 new users. The app informs employers and workers about current weather conditions and provides information to help users plan work schedules accordingly and take other precautions to prepare for extreme heat.
+Jobs and the Economy
+Fellows continue to work on solutions that will give the government better access to innovative tools and services. This is also helping small and medium-sized companies create jobs and compete for Federal government contracts.
+
+• Fellows learned that greater transparency on procurements led to more competitive bids. Working with the U.S. Small Business Administration (SBA), Fellows helped SBA pilot an online platform called RFP-EZ in only six months to make it easier for small tech businesses to bid on government contracts. Critical feedback from this pilot showed that greater transparency led to more competitive bids, benefitting both the agencies and the taxpayers they serve.
+• Fellows are helping small businesses search for opportunities to work with the Federal government. Working with GSA, a team of Fellows designed FBOpen, a platform that opens the catalogue of Federal opportunities to a larger audience, and helps small business more easily find opportunities to work with the Federal government.
+• Fellows are working to make it easier for government to engage modern software development services. Fellows partnered with GSA's Office of Integrated Technology Services to begin the process of establishing a government-wide Agile Delivery Services Blanket Purchase Agreement (BPA). When finished, this product aims to enable agencies to buy agile web and mobile development services in a more cost effective and easier way.
+• A Fellow helped streamlined the review process for international development grants. A Fellow advised USAID's Development Innovation Ventures (DIV) fund leaders on methods to streamline operations and improve the selection and review process for grants.
+Digital Government
+The Presidential Innovation Fellows Program is a part of the Administration's strategy to create lasting change across the Federal Government by improving how it uses technology. The Fellows played a part in launching 18F within the General Services Administration (GSA) and the U.S. Digital Services (USDS) team within the Office of Management and Budget.
+
+• Helping agencies better deliver on their missions through advancing a collaborative, creative and modern approach to software development. 18F is the consultancy inside the GSA that helps government agencies build and buy digital services. In just 18 months, 18F has grown from its founding team to over 110 specialists providing software delivery, consulting, infrastructure and talent services to nearly every major federal agency.
+• Transforming government's most important digital services. The United States Digital Service brings America's best technical talent into the Federal government to apply their skills and knowledge to improve the nation's most important citizen-facing digital services. USDS teams work side by side with agency partners and leadership across government to transform some of our most important services to work better for users.
+• These teams are employing the best of product design and engineering practices to ensure projects are delivered, scale, and meet the needs of the public. 
+Supporting Our Veterans
+
+• Launched an online tool to make it easier for Veterans to calculate their education benefits. Fellows helped the Department of Veterans Affairs launch an online  GI Bill Comparison Tool that makes it easier for Veterans, Servicemembers, and dependents to calculate their Post-9/11 GI Bill benefits and learn about the VA's approved colleges, universities, and available education and training programs across the country.
+• Built a one-stop shop for finding employment opportunities. The Veterans Employment Center was developed by a team of Fellows working with the Department of Veterans Affairs in connection with the First Lady's Joining Forces Initiative and the Department of Labor. This is the first interagency website connecting Veterans, transitioning Servicemembers, and their spouses to meaningful employment opportunities. The portal has resulted in cost savings of over $27 million to the Department of Veterans Affairs.
+Education
+
+• More than 1,900 superintendents pledged to more effectively leverage education technology in their schools. Fellows working at the Department of Education helped develop the idea of Future Ready, which later informed the creation of the Future Ready District Pledge. The Future Ready District Pledge is designed to set out a roadmap to achieve successful personalized digital learning for every student and to commit districts to move as quickly as possible towards our shared vision of preparing students for success. Following the President's announcement of this effort in 2014, more than 1,900 superintendents have signed this pledge, representing 14 million students.
+• Launched a resource for students to learn how to respond to and prevent sexual assault on campuses. As part of a recommendation from the White House Task Force to Protect Students from Sexual Assault, Fellows contributed to the launch of NotAlone.gov, a Department of Education website that provides resources for students, schools, and citizens on how to respond to, and prevent, sexual assault on college and university campuses and in schools. NotAlone.gov has received over 540,000 page views to-date.
+• Crowdsourcing platform enabled volunteers to review more than 18,000 historic and scientific records. A team of Fellows helped develop a crowdsourcing platform for the Smithsonian Transcription Center that allows the public to transcribe handwritten historical documents and records, support important research, and provide an important avenue for Americans to help preserve the Nation's history. In just six months, working with partners at the Smithsonian, Fellows launched an end-to-end solution for creating digital records for historic files, leading to a cost-savings of $6 million for outsourcing transcriptions.
+Health and Patient Care
+
+• More than 150 million Americans are able to access their health records online. Multiple rounds of Fellows have worked with the Department of Health and Human Services (HHS) and the Department of Veterans Affairs (VA) to expand the reach of the Blue Button Initiative. As a result, patients are able to access their electronic health records to make more informed decisions about their own health care. The Blue Button Initiative has received more than 600 commitments from organizations to advance health information access efforts across the country and has expanded into other efforts that support health care system interoperability.
+• Fellows were part of the Healthcare.gov rescue team that helped stabilize and support enrollment website. Two Fellows were part of the initial Healthcare.gov "rescue" team. After stabilizing the site, the team continued to support the Department of Health and Human Services and Centers for Medicare & Medicaid Services via open enrollment, ultimately enrolling millions of people in affordable health coverage.
+Disaster Response and Recovery
+
+• Communities are piloting crowdsourcing tools to assess damage after disasters. Fellows developed the GeoQ platform with FEMA and the National Geospatial-Intelligence Agency that crowdsources photos of disaster-affected areas to assess damage over large regions. This information helps the Federal government better allocate critical response and recovery efforts following a disaster and allows local governments to use geospatial information in their communities.
+Calling All Innovators
+The Presidential Innovation Fellows program is on the lookout for more of the most talented innovators and technologists to join the team and work on our Nation's most pressing challenges. Fellows serve for 12 months as entrepreneurs-in-residence, working quickly and iteratively to turn promising ideas into game-changing solutions. The first step is to apply online at www.pif.gov.
+  

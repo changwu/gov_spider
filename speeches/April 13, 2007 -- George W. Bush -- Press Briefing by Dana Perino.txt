@@ -1,0 +1,145 @@
+
+    White House Conference Center Briefing Room
+1:41 P.M. EDT
+MS. PERINO: Good afternoon. Happy Friday. Okay, I don't have anything to announce. I'll just go to questions.
+Q: Have you been able to determine why Karl Rove's ability to delete emails was --
+MS. PERINO: No, not between the gaggle and now, I haven't.
+Q: Okay. How about the list of the 22 officials; are you ready to release that?
+MS. PERINO: No, but we've taken it under consideration. No, I don't have that ready yet, but we are consulting -- obviously, we're in communication with the committee, meaning the House Judiciary Committee, as well as the RNC general counsel. And so a lot of these things are being discussed at that level. And so in between 10 a.m. and now I wasn't able to get a conclusion.
+Q: Do you know whether White House officials were able to delete their own emails even after this archival policy went into effect?
+MS. PERINO: White House officials -- you mean somebody like myself?
+Q: Who had the RNC accounts.
+MS. PERINO: If they could have deleted their own emails --
+Q: After the 2005 archive provision went into effect. Did they retain the ability?
+MS. PERINO: I believe that that would have been within the realm of possibility, but I don't know of anybody that -- again, we don't know of anybody that actually was doing that, to my knowledge, and we do not have any indication that there was any basis to conclude that there was any wrongdoing, intentional wrongdoing in the use of the RNC emails. You're talking about the double-delete function, where you can delete your deleted files?
+Q: Yes.
+MS. PERINO: I don't know.
+Q: Dana, is there a limit to the mailbox size with the RNC accounts? Do you know that level of detail, whether you'd have to delete at some point or you couldn't get any more emails?
+MS. PERINO: I don't know. I know that oftentimes our computers can slow down, but we have an automatic archiving system that comes through and cleans it up for us. And all of the emails, except for the ones -- the very small slice of the universe I've told you about that have the GWB accounts -- any email that touches any part of an EOP or White House server or computer, those are automatically preserved.
+Q: Dana, Democrats are concerned that perhaps these accounts were used in order to keep information -- harder to be under public scrutiny, harder to find through discovery, things like that. They're not satisfied that these emails can't be retrieved. What's your --
+MS. PERINO: I would caution against anyone making any broad, sweeping conclusions. What we have done is come forward to talk about the small slice of universe -- small slice of the universe of the emails that we've identified that have the potential to possibly not be there. And, again, I think that one of the things that's difficult is the things that we don't know. We don't know them, but we're trying to find them out. And there are ways that you can retrieve any emails that are potentially lost. And we are beginning conversations with outside consultants, forensic consultants who could tell us the best way to do that, the best way to retrieve those. But, again, I would stress to you that we have seen no basis to conclude that there was any intentional wrongdoing with the use of these emails.
+Q: But this was a problem, a mistake.
+MS. PERINO: I said it yesterday, I think I said it concisely.
+Q: Dana, if I could follow. We have mentioned before the group called Citizens for Responsibility and Ethics in Washington. They issued this report, and they are saying their analysis shows that between March 2003-October 2005, there were hundreds of days in which emails were missing -- this being in the White House system, not the RNC -- and that this equated -- it was estimated that roughly over 5 million email messages were missing.
+MS. PERINO: I don't know if that group actually has -- I don't know how they do an analysis on an internal White House system. But I did check it out, and we are in communication with the Office of Administration to see if there are days or partial days when there were emails that would have gone missing. And in terms of -- "missing" is a word that -- maybe misplaced, or not necessarily lost forever. I think there are backup tapes, there are different ways in order to go back and find emails.
+And in talking with them and with the Counsel's Office, there is no indication that anyone who is working on a server or in terms of technical capability that would be able to look at a server, clean up a server, or, in terms of when we converted from Lotus Notes to Microsoft Outlook if there would have been any potential loss there, that there was any intentional loss of any document. I think that those folks take those jobs very seriously and endeavor to make sure that all of the records are preserved for the Presidential Records Act, as well as the Federal Records Act.
+Q: So, just to be clear, are you taking issue with their conclusions, or are you just saying --
+MS. PERINO: I'm not taking issue with their conclusions at this point. We're checking into them. And, again, there's 1,700 people in the Executive Office of the President. I don't know how -- we'll try to find out how many emails a day are sent with that many people. I can assure you it's a high number. But I also will tell you that the technical folks that we've spoken to in the preliminary discussions was that if there had been an inadvertent human error or a technical problem where there were days where emails might have been misplaced, that either, one -- well, one, it wouldn't have been intentional; and, two, there are ways that we can try to gather those if need be.
+Think about it. I mean, there are sometimes -- and I don't have a list of the days with me -- but if it was a Saturday or a Sunday, oftentimes because we have such a large organization that works 24/7, but mostly Monday through Friday, if they do any maintenance on our servers, just like in your organizations, they often do it on times when it's slow -- slow periods. And so if they are looking at those days -- we just need to do a little bit more work before I can answer definitively.
+Q: So, to your knowledge, there's no problem within the White House email system, in terms of messages or emails that have been deleted? Or at this point, you just don't know?
+MS. PERINO: No, what I'm saying is that -- the way that the system is set up, and the way to comply with the Presidential Records Act is that any email that goes to or from a White House account, an EOP account that you all email us on, those are automatically preserved. Their question was specific not to GWB emails but to White House account emails, and their question is -- the allegations that there could be days, whole days missing.
+And what I'm saying is, we're looking into that. But I would caution people from making any broad conclusions about that, for the reasons I've stated -- which is, there's no indication that that would have been intentional, and there are ways that you can find missing emails. And that's one of the ways that they do that. I'm not a technical expert, but they have the expertise on that.
+Q: Just a quick follow here. They alleged that White House Counsel Harriet Miers was informed of this problem at the time, these missing emails, and that they -- that she didn't do anything about it or the White House didn't do anything about it. Are you aware of that, or --
+MS. PERINO: I haven't spoken to Harriet. Obviously, she's no longer working here. But we are -- Scott Stanzel and I are working to find as much information as possible, and we're talking to the Office of Administration. Remember, sometimes -- we don't have the same personnel, necessarily, that we had three or four years ago. So we're working to get the answers for you.
+Q: Dana, can we go back broadly for just one moment?
+MS. PERINO: Okay.
+Q: You've had a change of policy here. Why?
+MS. PERINO: Well, as I said, this -- now stepping back away from that particular problem on EOP emails and talking about, specifically about GWB RNC-hosted accounts, out of an abundance of caution at the beginning of the administration, there were two basic notices, in terms of policy, on this issue. One was, official White House business should be done on official White House accounts.
+The second one was -- and it was much more extensive -- how an individual who has responsibilities in both the political and the official worlds would avoid violating the Hatch Act. And that was very explicit, and the Hatch Act says you cannot use a government-issued computer or any sort of government-issued equipment, which is paid for by taxpayer dollars, to do any sort of political business. And so out of an abundance of caution, and because people were concerned about violating the Hatch Act, and because of convenience, in terms of managing multiple devices, as the BlackBerrys became more ubiquitous, the policy wasn't always followed correctly.
+And so we decided that the best thing to do was to let you know that, and to, secondly, have a new policy, one that makes it much more clear and gives the employee much more clear guidance. There was a failing both on not having a clear guidance, not having good management or overseeing of the issue, and then individuals not following through on the guidance.
+Again, I think it was more -- I don't think it was intentional, and there's no indication that there was anything improper or improper use of these RNC emails. But it is better now to have a clearer policy in which people know exactly where the lines are, and if they have questions about whether they fall in the gray area and where the line is, the Counsel's Office has let them know that their door is open and that they're happy to help them make those judgments.
+Q: Could you enunciate what that policy is and when it went into effect?
+MS. PERINO: It was recently, only in the last couple weeks or so, I think.
+Q: And what is that policy?
+MS. PERINO: I think it's what I've just described to you, which is that you still need -- that White House business still needs to be done on White House official accounts; political -- I see your point -- political affairs business needs to be done on your RNC account. We want to make sure that people aren't using government-sponsored -- or government-paid-for equipment to do political business, but that, out of an abundance of wanting to make sure we're complying with the Presidential Records Act, that you should figure out a way to preserve those documents, so either by printing them out or saving them in some way on your computer or CC-ing yourself so that if, in the future, at any time the Counsel's Office needs to review those documents, they are available.
+Q: Dana, I'm unclear on -- you said the policy wasn't always followed before. But then is there an indication of wrongdoing there, and violation of the Hatch Act?
+MS. PERINO: I think the way to describe it would be that there's no indication that anyone was intentionally not following the policy. I think that the policy wasn't very clear, and that people needed a clearer policy. And especially because technology changed pretty rapidly. I think people at the White House -- and I don't know about you all -- but we didn't have access to BlackBerrys until well after -- right around after September 11th. And then at that point, it was only a very few people. And now it's much more widespread.
+Q: Are you certain there was no violation of the Hatch Act? I mean, you just said the policy wasn't always followed. So what does that mean, exactly?
+MS. PERINO: I don't know of anybody that violated the Hatch Act.
+Q: Whether it was intentional or not --
+MS. PERINO: I don't know of anyone that violated the Hatch Act or would have intentionally violated the Hatch Act.
+Q: Dana, just following up on that, two questions. First, at the outset of the administration you had this policy. Were there ethics trainings? Was it just a written policy that was distributed? How was the policy communicated to your staff?
+MS. PERINO: I've worked here a long time; I can't remember. I do know that we get a written policy. I do know that -- and there is ethics training for everyone. I can't remember specifically how this was described in that ethics training.
+Q: And then you said -- actually, three questions. You said there wasn't enough oversight of the policy. Whose job is it to oversee that people were adhering to this policy? Who fell down on the job?
+MS. PERINO: That's a good question. I don't specifically know. I think it was more a definition of senior staff, senior management.
+Q: And then with respect to Karl, Henry Waxman, after his meeting with the RNC, or his aide's meeting with the RNC lawyer yesterday, wrote a letter stating that the committee had, in 2005, adopted a policy specifically aimed at Karl Rove, that precluded him from manually deleting his emails from the RNC server. Why did the RNC need a special policy for Karl Rove?
+MS. PERINO: As I said this morning, there are ongoing discussions between our Counsel's Office and the RNC general counsel, and it's just not something I'm able to answer right now. I understand that you want the answer, I just don't have it for you.
+Go ahead, Holly.
+Q: When you talk about this guidance at the beginning of the administration, our understanding is that Gonzales, when he was in the White House Counsel's Office, he issued some guidance on this. Is that true, and can you release that guidance?
+MS. PERINO: Can I look into it?
+Q: Yes.
+MS. PERINO: It would follow that as Counsel to the President and in charge of the ethics counsel -- that's not illogical, but I need to check.
+Q: Can that be released, so we could actually see what was --
+MS. PERINO: We typically have not released internal White House documents, but I'll take a look.
+Q: The thing is, since you're saying it was unclear, it was confusing, that way we could see for ourselves, and judge it.
+MS. PERINO: Yes. Go ahead, John.
+Q: Have you read or been briefed on the letter from Waxman to Gonzales?
+MS. PERINO: I have read the letter.
+Q: Okay, because at the end it seems to indicate that Rove's email capabilities were changed -- I'm sorry, I don't have the specific language in front of me -- but it seems to indicate that his email capabilities were changed because of an investigation. There's some mention of an investigation.
+MS. PERINO: This follows within what Sheryl was asking about, and it's just not something I can answer right now.
+Q: Do you think that the increased focus on Karl Rove's
+email and possibly his emails being missing might give more ammunition to Democrats who want to see him brought up to testify?
+MS. PERINO: My experience has been that any time Karl Rove's name is mentioned, it adds to the ammunition, regardless of merit.
+Q: Do you think it has merit?
+MS. PERINO: No comment. Go ahead, Peter.
+Q: Following up on a question from yesterday, were you able to determine who determined that the emails were missing and how this was determined?
+MS. PERINO: Broadly but not specifically, in terms of the Counsel's Office review. I think that's when they realized that that -- remember, the Justice Department has been working to be responsive to the Congress, providing the documents that they ask for. And in one of those documents it showed that a White House employee had sent an email to the Justice Department, and it was from a GWB account. And that's what raised a question about it. There was nothing improper about using that account, but that's where it initiated. And so I think that from there, that's where they started looking into it more.
+Q: So someone went back and looked into that and found that it and others were missing, is that what you're saying?
+MS. PERINO: Well, I'm not saying that anyone said that they were missing. The question is, is there a potential that some could have been lost. And, yes, there is a potential that some could have been lost, but we don't have a definition in terms of that universe or an answer specifically on that, until we are able to talk more about the forensics.
+Q: You've been talking about so many policies today and in the other briefing. Just to try to clarify, you said the policy wasn't clear, the policy was not always followed correctly. Which policy or policies are you talking about?
+MS. PERINO: Just specifically about -- the example that I can give you is that from the White House manual that I've looked at, there is one paragraph explaining -- it's a short paragraph explaining that you should do White House official business on your White House official account. And then when you get to the part about how to avoid violating the Hatch Act, there's two pages of very explicit instruction. That's why I say that that policy was a little bit more clear.
+Q: And that's been sharpened now?
+MS. PERINO: Yes. Go ahead, Alexis.
+Q: Dana, I want to go back in time, related to what Sheryl was asking. When the White House Counsel told the White House employees to be in full compliance with the subpoenas and requests for information in the Plame investigation, for example, did the Counsel's Office, with knowledge of the RNC accounts -- which the counsel did have -- instruct or inform the RNC that the White House officials should all be responsive to the subpoenas, in relation to their RNC accounts?
+MS. PERINO: Going back to the Plame investigation?
+Q: Yes.
+MS. PERINO: I don't -- I don't know the answer to that, and to avoid --
+Q: Can you check on that, and whether any information was then transferred from the RNC to the White House and then the White House to the investigators?
+MS. PERINO: I will check into it and I'll see what we can say.
+Q: And then the second question I have is, currently now the White House network system has a pop-up message when or if employees try to delete something, that says, you can't delete, you're in violation of the blah-blah-blah law.
+MS. PERINO: I must not have ever violated it, because it's never popped up on my computer. I don't know what you're talking about. I've never seen it.
+Q: Okay, so you've never seen it. My question is, is the new policy now installing that sort of message in any way on the RNC accounts?
+MS. PERINO: Not that I'm aware of, but, again, I've never seen such a message, so I'll have to check into it.
+Let me go to Suzanne, and then I'll go to the back again.
+Q: Dana, you keep saying that there's no indication that anybody willfully or intentionally misused the email system. What is that based on? Is the White House conducting interviews with the 22 people who had double accounts or --
+MS. PERINO: I'll decline to talk about the internal review that we have that is ongoing, but I feel pretty confident in the source that I talked to that we are able to say that there is no basis to say that anyone was improperly and intentionally misusing one of the accounts that they were provided to avoid violating the Hatch Act. There's just no -- there's no indication of that.
+And that's why I encourage people to not make any broad, sweeping conclusions about this, and to understand that our position has been, let's let people know that we think we had a problem, we're going to fix the problem and we're going to be working with the committee, with the RNC and then the House Judiciary Committee in their inquiry.
+Q: So it's fair to say that at least those 22 people have been approached in some way by the White House, through your investigation, and you've been reassured that their intentions were not --
+MS. PERINO: Since I don't know that -- I don't know specifically if that's true about all 22 people. Let me check into it.
+Q: Karl Rove, perhaps?
+MS. PERINO: I think he's aware. He's aware.
+Goyal.
+Q: Two quick questions. One, if President has been informed or briefed on the situation in Bangladesh? Because there's a new army man and he has arrested and charged the two former --
+MS. PERINO: I don't know. But I'll check into it.
+Q: And, second, how is our friend, dear friend, Tony Snow doing? And we pray for him.
+MS. PERINO: Tony is doing really, really well. So he'd be happy to know you're thinking of him.
+Go ahead, Joanie.
+Q: Does the President think that Paul Wolfowitz should remain President of the World Bank, given the controversy?
+MS. PERINO: The President has full confidence in Paul Wolfowitz. He's done a remarkable job at the World Bank, where they are working to lift people up out of poverty from around the world. He's apologized for the matter, and his board is undergoing an internal review. And we expect him to remain as World Bank President -- he has the President's support. But for more detail and questions I would have to refer you over to the World Bank, who is conducting that independent review.
+I'll go to Mark, and then I'll do Les.
+Q: Next week's schedule, Dana, as you described it to us as war on terrorism speeches Wednesday, Thursday, and Friday, if I've got my days right this time.
+MS. PERINO: Yes.
+Q: Is this all a continuation of the Iraq supplemental debate, or is it something beyond that?
+MS. PERINO: You can be sure that there's going to be discussion about the Iraq war supplemental debate. Remember, Wednesday is when we have the members coming down, the bipartisan, bicameral leadership on Wednesday. But the President, when he goes to visit the United States Holocaust Memorial Museum and make a statement there, he will not be talking about the Iraq war supplemental. That will be different type of remarks. And then we'll travel the next two days.
+Q: But he will in Ohio and Michigan?
+MS. PERINO: Yes.
+Q: What time is the --
+MS. PERINO: It's in the afternoon, mid-afternoon.
+Les.
+Q: Thank you very much, Dana. If I could follow up this question. Page one of this morning's New York Times reports that Mr. Wolfowitz's tenure as President of the World Bank was, "thrown into turmoil by disclosure that he helped arrange a pay raise for his companion, Shaha Riza, for which he was greeted with, 'booing, cat calls, and cries for his resignation by staff members.'" And I have two questions. Does the President believe it was right or wrong for Mr. Wolfowitz to do this for what the Times terms "his companion"?
+MS. PERINO: As I said, the President apologized for the matter. He's taken full responsibility for it. I'm sorry, Paul Wolfowitz apologized for the matter, and has talked to his board about it, and there's a review underway.
+Q: What definition of this word, "companion," can the public conclude, other than mistress? Does the President believe that people he nominated to such posts --
+MS. PERINO: I'm not going to go there, Les -- not going to do it.
+Q: -- a mistress, rather than getting married?
+MS. PERINO: Not going to do it. Thanks for trying to push the envelope, but not going to do it.
+Q: You'd like to run away from that?
+MS. PERINO: Kelly, go ahead.
+Q: I just want to go back one more time. You've talked about not finding any indication of wrongful intent. But there were employees who used their RNC accounts for official government business, isn't that what you were --
+MS. PERINO: I think that there were probably instances of that, but I think that was probably either out of an abundance of caution, or because of convenience. As I said, you're managing multiple email accounts, and plus we live in a world where we work 24/7. And I think that, again, there was no willful intention, but that there is a possibility that because you're using multiple accounts and trying to juggle that, that that was a problem. That's why we're working to fix it.
+Q: Out of an abundance of caution they used their RNC accounts to do official business?
+MS. PERINO: Well, I think that when people have -- I think there are gray areas -- when they feel that there was a gray area that possibly they erred on the wrong side of it. I haven't seen copies of these emails, where they would -- where these were described.
+Q: Can you talk about what gray area would be?
+Q: It wasn't discussing the firing of federal prosecutors? That clearly is official business, is it not?
+Q: Or is it politics?
+MS. PERINO: Well, I guess that is one of the questions that's before us in the U.S. attorney matter. I'm going to decline to comment on that specific question. Let me take it back to the Counsel's Office and see what I can say.
+Q: Is the President meeting with any potential candidates for this war czar position this weekend?
+MS. PERINO: No. Steve Hadley is -- he hasn't even narrowed the list down, so he hasn't sent anyone to the President yet.
+Q: And he won't this weekend?
+MS. PERINO: Not that I'm aware of, no. I'm going to do one more in the back -- go ahead.
+Q: Regarding the bombing in the Iraqi parliament, is there any new information as to how that occurred, and where was the lapse in security?
+MS. PERINO: No, we don't have an update yet. Dr. Al-Dabbagh was here this morning, the press secretary for the government of Iraq. I was thrilled to have him here; I hope that you guys enjoyed it, as well. But right now we don't have any update, but if we get some over the weekend, we'll let you know.
+Q: One more topic, Dana. Governor Corzine was in a very serious accident, and it's been reported that he was not wearing a seat belt. Does the President wear a seat belt when he is in motorcades?
+MS. PERINO: You know, I've never been with him in the limo to have personal knowledge of that, so we'll see if we can ask.
+Q: Thank you.
+END 2:03 P.M. EDT
+  

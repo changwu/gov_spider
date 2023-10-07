@@ -1,0 +1,6 @@
+
+    STATEMENT OF ADMINISTRATION POLICY
+(House)(Glickman (D) Kansas and 10 others)
+The Administration opposes enactment of H.R. 2889, because it mandates unwarranted changes in government policy toward maintaining computer security. Specifically, current law authorizes, and Presidential and 0MB directives require, agencies to establish computer security programs, including training of personnel. The process required by H.R. 2889 to develop and approve all government computer security plans for all computer systems operated by the Federal Government and its contractors is paperwork intensive, quite expensive, and unlikely to result in significantly greater security of these efforts. The guidelines and standards governing computer security systems required by the bill are already being carried out under existing authority.
+Furthermore, H.R. 2889, as reported, contains an amendment, under the guise of a technical arid conforming change, that would give the General Services Administration (GSA) exclusive authority to purchase "computer systems" for all government agencies. This would greatly expand GSA's authority, which is currently limited to automated data processing equipment. For example, GSA would become the exclusive purchaser for custom software and certain telecommunications for all agencies.
+  

@@ -1,0 +1,20 @@
+
+    The 2022 Medicare Trustees Report projected that the Hospital Insurance (HI) trust fund would be depleted in calendar year 2028. Based on additional data and a different set of assumptions included in the Fiscal Year (FY) 2024 President's Budget baseline, the HI trust fund is projected to be depleted in FY 2032 under current law.
+Working with Treasury, the Office of Management and Budget (OMB) provided an estimate for additional HI revenue that would result from certain provisions included in the President's Budget. These provisions—
+
+Increase the Net Investment Income Tax (NIIT) rate by 1.2 percentage points for taxpayers with more than $400,000 of income and dedicate those revenues, along with current NIIT revenue, to the HI trust fund.
+
+
+Increase the additional Medicare tax rates for employment taxes under the Self-Employment Contributions Act (SECA) and the Federal Insurance Contribution Act (FICA) tax by 1.2 percentage points for taxpayers with more than $400,000 of earnings.
+
+
+Ensure that all pass-through business income of high-income taxpayers is subject to either NIIT or SECA taxes.
+
+
+Credit proposed drug reform savings to the HI trust fund.
+
+The additional revenue that is to be credited to the HI trust fund from FY 2023 through FY 2033 is estimated to be $1.451 trillion.1 With this additional revenue stream, the HI program would be sufficiently funded for at least an additional 25 years based on the assumptions reflected in the President's Budget.
+The HI program can be directly modeled for a 25-year period by extending the President's Budget assumptions through that period. In the 25th year of the modeling, the trust fund balance is positive and growing. When the modeling is further extended to FY 2057, the HI trust fund continues to increase, suggesting that the additional revenue may extend the trust fund depletion date by significantly more than 25 years.
+
+1 The Office off the Actuary at CMS did not independently assess the reasonability of the revenue estimates for the stated proposals.
+  

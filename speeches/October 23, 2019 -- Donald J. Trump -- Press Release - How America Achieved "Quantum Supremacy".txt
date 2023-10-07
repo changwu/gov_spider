@@ -1,0 +1,10 @@
+
+    By: Michael Kratsios, U.S. CTO
+The United States has taken a giant leap forward in quantum computing. Google announced Wednesday that its quantum computer Sycamore has proven the scientific theory of "quantum supremacy," demonstrating that a quantum computer can perform tasks that reach beyond the capabilities of classical computers. Sycamore showcased an algorithm that becomes exponentially harder for classical machines to emulate as the number of quantum bits increases.
+All of this happened because of America's unparalleled innovation ecosystem.
+This ecosystem is the result of the uniquely American cooperation between academia, the private sector, and the federal government.
+...
+No one entity could have achieved this historic milestone on its own. Instead, academic, industrial, and government teams worked together from the bottom up to push the boundaries of science and unlock new potential for human advancement.
+Read full op-ed here.
+This article appeared in Fortune on October 23, 2019.
+  

@@ -1,0 +1,21 @@
+
+    Mountain View, California – Today, Senator John Edwards sent a letter to the Federal Communications Commission urging it to use the upcoming auction of the 700 megahertz slice of the broadband spectrum to make the Internet more affordable and more accessible to all Americans, regardless of where they live or how much money they have. Edwards is visiting California today to attend a town hall meeting with Google employees where he will discuss this issue among others.
+"In recent years, the Internet has grown to touch everything and transform much of what it touches," wrote Edwards. "It's not the answer to everything, but it can powerfully accelerate the best of America. It improves our democracy by making quiet voices loud, improves our economy by making small markets big, and improves opportunity by making unlikely dreams possible."
+Edwards called on the FCC to set bidding and service rules for the upcoming auction to ensure that the public airwaves benefit everyone, not just big companies. Edwards asked the FCC to:
+
+
+Set aside as much as half of the spectrum for wholesalers who can lease access to smaller start-ups, which would improve service in rural and underserved areas.
+Require anyone who wins rights to this valuable public resource not to discriminate among data and services and to allow any device to be attached to their service.
+Make bidding anonymous to avoid collusion and retaliatory bids.
+
+The full text of the letter is below.
+Dear Chairman Martin:
+The upcoming 700 megahertz spectrum auction presents a once-in-a-lifetime opportunity to shape the next generation of American technology.
+In recent years, the Internet has grown to touch everything and transform much of what it touches. It's not the answer to everything, but it can powerfully accelerate the best of America. It improves our democracy by making quiet voices loud, improves our economy by making small markets big, and improves opportunity by making unlikely dreams possible.
+As you know, the Federal Communications Commission is now preparing to auction the 700 megahertz slice of the spectrum. This "beachfront" band is particularly well suited to wireless broadband because it has wide coverage and can easily pass through walls.
+By setting bid and service rules that unleash the potential of smaller new entrants, you can transform information opportunity for people across America -- rural and urban, wealthy and not. As much as half of the spectrum should be set aside for wholesalers who can lease access to smaller start-ups, which has the potential to improve service to rural and underserved areas. Additionally, anyone winning rights to this valuable public resource should be required not to discriminate among data and services and to allow any device to be attached to their service. Finally, bidding should be anonymous to avoid collusion and retaliatory bids.
+I urge you to seize this chance to transform the Internet and the future.
+Sincerely,
+John Edwards
+
+  

@@ -1,0 +1,85 @@
+
+    Today, U.S. Chief Technology Officer Megan Smith, Cabinet Secretary and Chair of the My Brother's Keeper Task Force Broderick Johnson, and Secretary of Labor Thomas Perez, will travel to Baltimore, Maryland to announce new steps to advance the President's TechHire initiative and expand opportunities for young Americans to get trained and placed into well-paying tech jobs. Baltimore is launching its TechHire initiative to expand pathways into tech jobs to those who have historically been left out of Baltimore's economy and those who are underrepresented in tech fields.
+America has about 5.5 million open jobs today. Over half a million job openings are in information technology fields such as software development, network administration, and cybersecurity—rapidly growing sectors with many more jobs than just a decade ago. Whether in manufacturing, advertising, retail or banking, the average salary in a job that requires information technology (IT) skills is 50 percent higher than the average private-sector American job.
+Businesses have added 13.5 million jobs over 68 straight months of private-sector job growth, extending the longest streak on record. While this progress is significant, employers are in critical need of tech talent and too many Americans lack the skills and experience to access these well-paying jobs. Over six million young Americans between the ages of 16 and 24 are out of school and work, which represents a significant untapped resource of productivity and talent for the country.
+That is why in March 2015, President Obama launched TechHire, a bold multi-sector effort and call to action to empower Americans with the skills they need, through universities and community colleges, but also nontraditional approaches like "coding bootcamps" and high-quality online courses that can rapidly train workers for a well-paying job, often in just a few months.
+Since then, 35 cities, states, and rural areas with more than 500 employer partners in need of this workforce, have begun working together to find new ways to recruit and place applicants based on their actual skills and to create more fast track tech training opportunities. The President has set a goal of reaching more than 40 communities by the end of 2015.
+Today, the Administration announced new steps to ensure that Americans, including youth and young adults ages 17-29, individuals with disabilities, individuals with limited English proficiency, and individuals with criminal records, get access including:
+
+$100 Million TechHire Grant Competition. Earlier this year, the President announced that as a part of the TechHire initiative, the Administration would commit $100 million to expanding accelerated tech training. Today, the Department of Labor (DOL) is releasing the application for those grants. They will award $100 million or more in H-1B funds, including at least $50 million specifically dedicated to supporting young Americans, ages 17-29, with barriers to training and employment, to partnerships that can that rapidly train and connect workers to well-paying, high-growth jobs across industries such as information technology, healthcare, and advanced manufacturing. 
+
+$20 Million Training to Work Grant Competition. Building off the President's announcement from earlier this month of new actions to promote rehabilitation and reintegration for the formerly incarcerated, today the Administration is also announcing the launch of the fourth round of DOL's Training to Work grant competition that will award approximately 14 grants to expand access to tech jobs and other high growth occupations for adults ages 18 and older returning from correctional facilities. Interested applicants may apply to this opportunity here.
+
+14 Cities and States Have Made New Commitments to Expand Access to Tech Training and Jobs Since the Launch. Since the launch of TechHire earlier this year, the President has announced that 14 new communities including Baltimore have responded to the TechHire initiative with commitments to work with employer partners on new ways to recruit and place applicants based on their skills, create more accelerated tech training opportunities, and invest in innovative placement programs to connect trained workers with entrepreneurial opportunities and well-paying jobs. Today, the City of Baltimore is launching its TechHire initiative with an emphasis on including those who have historically been left out of Baltimore's economy and those who are underrepresented in tech fields.
+
+New cities and states that have joined since March 
+
+
+
+
+
+Akron, OH
+
+Baltimore, MD
+
+Birmingham, AL
+
+Cincinnati, OH
+
+Lynchburg, VA
+
+
+
+Maine
+
+New Haven, CT
+
+Newark, NJ
+
+New Orleans, LA
+
+Oakland, CA
+
+
+
+
+Pittsburgh, PA
+
+Rhode Island
+
+San Jose, CA
+
+Washington, DC
+
+
+
+
+More Details on Today's Announcements: 
+$100 Million TechHire Grant Competition Includes at Least $50 Million for Young Americans
+The DOL competition will award $100 million or more in H-1B funds, including at least $50 million specifically dedicated to supporting young Americans ages 17-29 with employment and training barriers. Grants will be awarded to approximately 30-40 grantees to pilot and scale innovative partnerships between employers, labor organizations, community colleges, and other training providers, local and state governments, the workforce system, non-profits and faith-based organizations that:
+1) Expand access to accelerated learning options that provide a quick path to good jobs, such as "bootcamp" style programs, online options, and competency-based programs.
+2) Use data and innovative hiring practices to expand openness to non-traditional hiring by working with employers to build robust data on where they have the greatest needs, identify what skills they are looking for, and build willingness to hire from both nontraditional and traditional training programs.
+3) Offer specialized training strategies, supportive services, and other participant-focused services that assist targeted populations to overcome barriers, including networking and job search, active job development, transportation, mentoring, and financial counseling.
+4) Connect people to jobs with hiring on-ramp programs with steps ranging from investing in and working with industry-trusted organizations, which will vouch for those who have the skills to do the job, but who may lack the typical profile of degrees and career experience.
+While this funding opportunity supports the broader goals of the White House TechHire Initiative, there is no preference given to designated TechHire communities.
+Interested applicants can find more information on the TechHire Grants Competition at the Grants.gov application page and at DOL's TechHire page.
+$20 Million Training to Work Grant Competition
+The DOL Training to Work competition will award approximately 14 grants totaling $20 million to collaborative partnerships among employers, industry associations, work release programs, and the workforce system that:
+1) Create career pathways into high-demand occupations and industries, such as tech.
+2) Target services to areas with high rates of poverty and crime, with special consideration for communities designated by the Administration as Promise Zones.
+3) Provide a coordinated suite of customized services, including case management, mentoring, education, training, job placement, and post-employment services.
+TechHire Progress Since the Launch
+ In June at the U.S. Conference of Mayors, the President set a goal to double the number of TechHire cities and states from 21 to over 40 by the end of 2015. Since then, 14 new communities have made independent commitments to make sure that Americans can find work based on their skills and not just their degree, to create more accelerated tech training opportunities, and to invest in innovative placement programs to connect diverse workers with entrepreneurial opportunities and jobs.
+•      Additionally, several communities that launched initiatives in March have been making progress in their pilot efforts. For example:
+
+°      Memphis, Tennessee is partnering with local correctional facilities and the Tennessee College of Applied Technology to offer a new one-stop career center inside correctional facilities to train non-violent offenders prior to their release in PC repair, networking, and application development. They are partnering with Seedco to assist with soft-skills and career path development as well.
+°      New York City, New York through the NYC Tech Talent Pipeline, has launched the City University of New York Tech Prep program to connect a broad group of individuals, including women and minorities, across the system's numerous campuses, with industry-informed training and connections to internships or full-time software development jobs with the help of employers like Etsy, Foursquare, Goldman Sachs, MongoDB and Trello.
+°      In Minneapolis, Minnesota the first class of graduates from the Minneapolis partner Prime Digital Academy are being hired. Additionally, they have launched a $500 scholarship for any student of color applying to participate in the program this year.
+•      Launch of Baltimore TechHire Initiative. Today Baltimore is launching its TechHire initiative, which will provide alternative pathways to web development, advertising technology, digital fabrication, and cybersecurity jobs for residents including the unemployed, underemployed, and formerly incarcerated. The initiative will be led by OneBaltimore, which will launch a TechHire Council with primary partners including the Baltimore City Mayor's Office of Employment Development, Greater Baltimore Urban League, Code in the Schools, Betamore, the Center for Urban Families, and Goodwill. Employer partners include Verizon, Browns Communications, Delmock Technology, G&G Solutions, Locas Technology, Digit All Systems, Intellibit, SeeFuture, Microsoft, and BITH energy group. The initiative will also be integrated into the work of My Brother's Keeper Baltimore in support of its Local Action Plan goal to strengthen and expand career-exploration and training programs for opportunity youth.
+The President's Agenda to Create Pathways to the Middle-Class through High-Quality, Job-Driven Training. TechHire is part of the President's broader agenda to invest in job-driven training for young Americans and others to get into better, well-paying jobs.
+•      Vice President Biden's Job-Driven Training Review. Last July, the Administration—with the leadership of Vice President Biden—released a plan to expand the number of pathways for Americans to gain the skills they need to get better, higher-paying jobs and increase access to those pathways. Since then, we have taken a number of steps to realize that vision, which is laid out in this progress report.
+The President's FY 2016 Budget Connecting for Opportunity proposal provides $1.5 billion to fund subsidized summer and year-round job opportunities for 600,000 youth and initiates a competitive grant program for municipalities to create educational and career pathways for disconnected youth.
+•      Educational Quality through Innovative Partnerships ("EQUIP") Title IV Experiment. Some non-traditional learning providers (MOOC's, bootcamps, etc.) show evidence of excellent student outcomes and employment outcomes. However, without financial aid, these programs are largely inaccessible to low-income students. To meet this need, the Department of Education is currently  accepting applications for a new financial aid experiment that will allow students to access to Title IV student aid to enroll in non-traditional programs that are partnering with educational to produce strong student and employment outcomes. Letters of interest received prior to December 14, 2015, will receive priority consideration.
+•      Performance Partnership Pilots (P3) for Disconnected Youth. P3 provides communities with flexibility to implement innovative programs to improve education, employment, and other key outcomes for disconnected youth. The Administration launched the P3 initiative to work with communities to strengthen efforts to overcome challenges through new flexibility in how federal funds are used. State, local, and tribal governments will have an opportunity to test new strategies for serving disconnected youth, including by pooling funding for programs and services and better coordinating and aligning the systems that serve youth. This Fall, the Department of Education, in partnership with the Departments of Labor, Health and Human Services, and Justice, as well as Corporation for National and Community Service and Institute For Museum and Library Services, selected the first round of nine pilots including Broward County, FL; Chicago, IL; East Baton Rouge, LA; Indianapolis, IN; Los Angeles, CA; the State of Oklahoma; Seattle, WA; Southeastern, KY; and Ysleta del Sur Pueblo, a Federally-recognized Indian tribe.
+•      VA Accelerated Learning Competition. To ensure that Veterans can take full advantage of innovative learning models, VA has applied $5 million in innovation funding in FY15 and continuing into FY16 to leverage accelerated learning and test its effectiveness for transitioning Servicemembers and Veterans. The initiative is focused on amplifying Veteran's and transitioning Servicemembers' Information Technology experience through fast-tracked training leading to industry certification. Since its launch, the program received an overwhelming applicant response and students are currently progressing through the initial training phase of the program.
+  

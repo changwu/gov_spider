@@ -1,0 +1,145 @@
+
+    "My administration will work with tech innovators and launch new challenges under our Climate Data Initiative, focused initially on rising sea levels and their impact on the coasts, but ultimately focused on how all these changes in weather patterns are going to have an impact up and down the United States…and how do we start preparing for that." - President Obama, remarks on the California Drought, February 14, 2014.
+In March 2014, the Obama Administration unveiled the Climate Data Initiative—a key deliverable of the President's Climate Action Plan to cut carbon pollution in America, prepare communities for the impacts of climate change, and lead international efforts to address this global challenge. The Climate Data Initiative leverages the Federal Government's vast and open data resources to stimulate the kinds of innovation and entrepreneurship that can empower America's communities and businesses to take action against climate change and prepare for the future.
+Today, building on the Climate Data Initiative's initial focus on coastal resilience, the Obama Administration is unveiling the Initiative's "Food Resilience" theme, aimed at empowering America's agricultural sector and strengthening the resilience of the global food system in a changing climate.
+The National Climate Assessment, released in May, 2014, confirms that climate disruptions to agriculture have been increasing, are projected to become more severe over this century, and that climate-change effects on agriculture will have consequences for food security, both nationally and globally, through changes in crop yields and food prices, as well as effects on food processing, storage, transportation, and retailing.
+That's why the Obama Administration is working to connect farmers, food distributors, and agricultural businesses with the data, tools, and information they need to understand how climate change impacts—such as more intense heat waves, heavier downpours, and severe droughts and wildfires out west—are affecting their operations today and steps they can take to both prepare for and help fight climate change.
+To continue momentum under the Climate Data Initiative, the Obama Administration is today renewing the President's call to America's private-sector innovators to leverage open government data and other resources to build tools that will make the U.S. and global food systems more resilient against the impacts of climate change. In response to this call, today's launch includes a number of commitments by Federal agencies and private-sector collaborators to combat climate change and support food resilience through data-driven innovation.
+Administration Commitments:
+
+Convening Agriculture and Technology Leaders at the White House. Today, Senior Obama Administration officials are meeting at the White House with representatives of leading food, agriculture and technology businesses to discuss ways these companies are leveraging open government data, related information tools, and other innovations to improve the resilience of the U.S. and global food system and reduce the contributions of food production to climate change.
+
+
+
+    New Features on climate.data.gov. The Obama Administration is today unveiling an expanded climate.data.gov to include new pages and features that make data about the risks of climate change to food production, supply, nutrition, and security more open and accessible to innovators, entrepreneurs, and researchers. Through a collaboration between the U.S. Department of Agriculture (USDA), the National Aeronautics and Space Administration (NASA), the National Oceanic and Atmospheric Administration (NOAA), and other Federal agency partners, hundreds of datasets, web services, and tools on these topics and more are being made accessible through climate.data.gov, including data from the Census of Agriculture, current and historical data on production, supply, and distribution of agricultural products, and data on climate-change-related risks such as storms, pests, and drought. The Administration is also expanding climate.data.gov to include datasets from climate models, projecting potential future climate impacts.
+  
+
+
+Hosting Agriculture-Innovation Workshops. The Obama Administration will host and participate in a series of innovation workshops focused on data-driven innovation at the nexus of climate-change and agriculture, including:
+
+•    On July 30, USDA will host two innovation workshops in Washington, DC, one with young and beginning farmers and another with food distributors, to spur the development of creative information-technology tools that can help farmers and those in the food supply chain to prepare for climate-change impacts.
+•    On August 1, USDA and NYU's Governance Lab (GovLab) will host an Open Data event in Washington, DC, focused on food resilience and climate change, as well as preparedness for food emergencies. The event will encourage dialogue between government agencies and the businesses and organizations that use their data, in support of the goals of the Climate Data Initiative.
+•    On August 5, concurrent with the US-Africa Leaders' Summit in Washington, D.C., the U.S. Government, IBM, and partners of the Global Open Data for Agriculture and Nutrition Initiative will host a data-innovation event focused on developing technological innovations based on open data that can help address global food security and nutrition in Africa.
+Private-Sector Commitments:
+
+Principles for Responsible Investment. The United-Nations-supported Principles for Responsible Investment (PRI) has formed an investor group made up of Rockefeller & Co. and five European-based institutional investors (PGGM, Aberdeen Asset Management, Hermes, MN, and Nordea) to address the risks from climate change to companies with agricultural supply chains - including in the food, beverage, and apparel sectors. Using data from the World Wildlife Fund's (WWF) Water Risk Filter mapping tool and Pricewaterhouse Coopers' (PwC) ESCHER model, the investor group will engage approximately 50 major companies in constructive dialogue to increase resilience to water risks and foster more informed investment decision-making. PRI and the investor group are launching an Investor Guidance Document and issuing a call to action to support the effort to PRI's 1260 global signatories representing more than $45 trillion USD in assets.
+
+
+
+    Microsoft. In support of the President's Climate Data Initiative's, Microsoft and USDA will co-host a series of workshops, webinars, and an app-athon aimed at demonstrating the value of open-data and data-driven tools to boost climate preparedness and resilience in the agricultural sector. Microsoft and USDA will also jointly launch a climate-change-focused Innovation Challenge to inspire the development of new tools and services that harness data available via data.gov, as well as an initial collection of USDA datasets that will be made available through Microsoft's Azure Marketplace. Microsoft Research will issue a special request for proposals focused on food resilience and climate change and grant 12 months of free cloud-computing resources to 20 awardees whose proposals are submitted by Sept. 15, 2014 through the Azure for Research program.
+  
+
+
+Innovation Center for U.S. Dairy. Through the Innovation Center for U.S. Dairy, the U.S. dairy industry is today committing to advance a series of science-based efforts, including additional research to understand and optimize dairy's role in a resilient, efficient, and sustainable food system, as well as testing and piloting four new Farm Smart modules—energy, feed, nutrient, and herd management—by the end of 2014. Farm Smart is a data-driven online tool that helps dairy farmers assess their farm's environmental footprint; explore the potential environmental value and cost-effectiveness of on-farm innovations; and communicate progress.
+
+
+The U.S. Water Partnership. Recognizing that open data can help inform actions to meet the growing water crisis in regions at home and abroad, the U.S. Water Partnership (USWP) will deploy a web-based portal called "H2InfO" during World Water Week on September 2, 2014, to increase access to high quality US-based water- and drought- information resources. In addition, the U.S. Water Partnership will develop a virtual community of practice to share data, experiences, lessons, and best practices and will convene an in-person technical dialogue for community members and other key public and private stakeholders to create a two-way exchange of expertise on drought preparedness and water resilience.
+
+
+
+    IBM. IBM is announcing an expansion of its philanthropic World Community Grid program, which enables members of the public to donate their computer or mobile device's unused computing power to scientists. The expansion will provide scientists studying climate change topics including staple food crops and water management with free access to dedicated virtual supercomputing resources and a platform to engage the public on their research. Each researcher will have access to up to 100,000 years of computing time, a value of $60m in today's costs. IBM is inviting researchers to submit project proposals and members of the public to donate their unused computing power to these efforts at worldcommunitygrid.org.
+  
+
+    GoodCompanyVentures. During the summer of 2015, GoodCompanyVentures will launch Climate Ventures 2.0, a project to source, accelerate, and deploy entrepreneurial solutions to climate-change preparedness in collaboration with the Wharton Social Impact Initiative, the Impact Hub, and the MIT Climate CoLab. Over a nine-month period, Climate Ventures 2.0 will provide mentoring, design consulting, and access to capital for 10 high-potential teams working on ongoing climate data innovation challenges, such as those issued by NASA and MIT. Climate Ventures 2.0 will focus on innovations that leverage scientific and government data to enhance climate change preparedness in areas such as food security, agriculture, flood, and drought.
+  
+
+
+The Coca-Cola Company. To help reduce the company's environmental footprint across its value chain, the Coca-Cola Company is committing to rapidly expand the application of the Field-to-Market program and its data-driven tool to quantify water use, fertilizer use, energy use, greenhouse emissions and more. By the end of 2014, Coca-Cola will launch major initiatives with two of its four leading suppliers to implement this commitment. By the end of 2015, Coca-Cola will aim to engage farmers representing 250,000 acres, and by 2020, up to 1 million acres—equating to roughly 50% of the company's global corn supply.
+
+
+
+    World Wildlife Fund. In support of the World Wildlife Fund's (WWF's) collaboration with the UN-supported Principles for Responsible Investment (PRI), WWF is combining detailed agricultural, water, and economic data from its Water Risk Filter to help the PRI's 1000+ signatories better assess and manage water risks in the agro-commodity supply chains of portfolio companies. WWF will work with leading technology partners to make public and leverage detailed datasets that include more than 15,000 agricultural-crop/water-basin combinations in order to empower industry, financiers, and policy-makers as they work to strengthen global water stewardship, food security, and climate resilience.
+  
+
+
+
+    The Agricultural Model Intercomparison & Improvement Program and the Center for Integrated Modeling of Sustainable Agriculture and Nutrition Security. The Agricultural Model Intercomparison & Improvement Program (AgMIP) and the Center for Integrated Modeling of Sustainable Agriculture and Nutrition Security (CIMSANS), in partnership with the International Food Policy Research Institute (IFPRI), are announcing a new public-private partnership on open data and open-source code modeling to enhance the climate-resilience of food systems. The new partnership will secure the resources and expertise necessary to evaluate seven novel nutrition and sustainability metrics of global food systems, including all of the world's important staple and non-staple foods, through the year 2050.
+  
+
+
+
+    Amazon Web Services. Amazon Web Services (AWS) is today launching the Amazon Climate Research Grant program and a call for proposals designed to drive innovative climate-change research with a focus on computational analysis. In early September 2014, AWS will award grants of free access to supercomputing resources through Amazon EC2 Spot Instances. By providing grants totaling 50 million core hours, AWS is enabling researchers to accelerate research that can result in an improved understanding of the scope and effects of climate change, and analyses that could suggest potential mitigating actions. Early results of the program will publish in November 2014. Expanding upon AWS's participation in the Open NASA Earth eXchange (NEX), this program will also accelerate the development of open climate data and software resources. Details can be found here.
+  
+
+
+
+    National Socio-Environmental Synthesis Center at the University of Maryland. The National Socio-Environmental Synthesis Center (SESYNC) at the University of Maryland is committing to fund 25 early-career scholars to address critical, actionable research questions on the resilience of food systems to climate change. Advanced Ph.D. students and scholars fewer than two years post-Ph.D. with relevant interests will be invited to apply through an open call. Successful candidates will participate in workshops in which SESYNC and USDA computational experts guide participants in a highly interactive and dynamic process of data discovery, analysis, and visualization, and will be invited to submit proposals for interdisciplinary team projects. SESYNC will fund up to six teams as well as a postdoctoral fellow with expertise in food systems research to undertake and help coordinate research for the program.
+  
+
+
+PepsiCo. PepsiCo is announcing the installation of a 1.7 megawatt solar photovoltaic system designed to supply 3.3 million kilowatt hours of renewable energy for the company's Gatorade manufacturing operations in Tolleson, Arizona. Over the 25 year life of the project, this initiative will prevent the release of approximately 50,000 tons of carbon and other greenhouse gases to the atmosphere. PepsiCo will use data from this solar project to help inform future solar installations and projects as the company works to meet its goal of achieving an absolute reduction in greenhouse gas emissions.
+
+
+Esri. Esri will work with USDA, GEOGLAM, CGIAR and others to expose and unlock authoritative data as live data feeds across dimensions of agricultural production, risk and trade. In the fall of 2014, Esri will host an Executive White Boarding session to target the development of common information products (maps, apps and templates) needed to address specific needs in the domain of climate, society, and agriculture.
+
+
+Michigan Agri-Business Association. In August 2014, the Michigan Agri-Business Association will launch a publicly-available web-based mapping tool for use by the state's agriculture sector. This platform will incorporate Federal, state, and local data that could prove useful to farmers, rural businesses, conservationists and economic development professionals. Resulting maps will aggregate soil, water, meteorological and infrastructure GIS data that can be compared and visualized to meet the needs of a particular project. It is anticipated that this tool will be particularly useful for planning future agricultural activities in response to climate change in Michigan.
+
+
+Sustainable Development Solutions Network and Columbia University Earth Institute. The Sustainable Development Solutions Network is announcing a new initiative on Healthy and Sustainable Diets that will include efforts to build datasets that enable the analysis of food and nutrition security achievements across landscape-level scenarios and rural livelihoods. The Center on Globalization and Sustainable Development (CGSD) in Columbia's Earth Institute, as a partner in the Agriculture and Food Systems group of the Network, is committing to provide this initiative with tools, research, and policy support to address these challenges in a global context.
+
+
+
+    SWIIM System. SWIIM System, Ltd. will develop an application using USDA Quickstats data that will allow users to easily view trends in water use by irrigated agriculture as climate changes occur and as water transfers from agricultural to municipal and industrial (M&I) uses take place. This new application will allow users to explore the consequences of future climate- and water-use scenarios to water available for crop production, and will educate the user on effects of water transfer and climate change on irrigated agriculture on a localized basis. The application will be made available on the SWIIM client page and its parent website. Development is expected to commence in August 2014 and completed within approximately six months.
+  
+
+
+Nestle. Nestlé will review and expand the scope of its public commitments on climate change leadership (detailed in the Nestlé in Society report), setting greenhouse-gas reduction targets that are based upon science and incorporating both absolute-carbon and carbon-intensity aspects. Nestlé will also incorporate climate change provisions into its responsible sourcing & traceability program, will engage in further water stewardship programs, and will extend education and training within its Farmer Connect initiative regarding good farming practices and water stewardship. Nestlé's nutritional profiling tool (which can be used to link nutritional value calculations to calculations of environmental impact) and related data will be made available outside Nestlé through the publication of algorithms for nutritional assessments in peer reviewed scientific journals, the sharing of data on Life Cycle Inventories, and other mechanisms.
+
+
+
+    Rock and Wrap it Up. Rock and Wrap It Up! (RWU) is launching an updated Whole Earth Calculator, a simple mobile app that resides on a mobile-friendly website and can be used on both mobile and laptop/desktop devices. Using EPA datasets and based on information from the Intergovernmental Panel on Climate Change and USDA, the Whole Earth Calculator converts the total pounds of paper products and plastics that are diverted from landfills into the amount of carbon dioxide that is not produced as a result - and then sends this information to social media (Twitter). The tool can also be used to convert total pounds of donated food into meal equivalents and total CO2-averted equivalents.
+  
+
+
+
+    Monsanto. Monsanto is announcing that it will donate a multi-site/multi-year maize breeding trial dataset to open data portals maintained by the International Center for Tropical Agriculture (CIAT) and the Agricultural Model Intercomparison & Improvement Project (AgMIP). Opening these data will it make it possible for public- and private-sector scientists to improve models being used to understand how climate and water-availability changes will impact crop productivity and therefore food security. Monsanto is also partnering with a number of external scientists in the AgMIP community to improve one of the leading publicly available crop-growth simulation models (AgMaize).
+  
+
+
+HabitatSeven and Quandl: HabitatSeven is announcing a partnership with the data platform Quandl to combine Federal climate-impact data with private-sector commodity and supply-chain data. Through this partnership, visualization tools will be developed for private-sector decision makers, investors, and commodity traders to incorporate climate risks and opportunities into commodity prices and resilience strategies.
+
+
+The Climate Corporation: The Climate Corporation has launched a free online and mobile service called Climate Basic that provides farmers with hyper-local weather information to help them identify the impact of recent and current weather conditions on their fields. To enable the development of additional data science driven tools and services to help farmers increase production to meet increasing global demand, the company helped found the Open Ag Data Alliance (OADA), an open source software project to ensure farmers have full data access across different agriculture technology platforms. The Climate Corporation is today committing resources to support OADA's work, as well as code development to enable farmers to fully leverage their data.
+
+
+
+    Center for Robust Decision Making on Climate and Energy Policy at the University of Chicago. The Center for Robust Decision Making on Climate and Energy Policy (RDCEP), a research center at the Computation Institute of the University of Chicago and Argonne National Laboratory, is announcing several new tools to expand access to the data and methods used by experts to understand climate change and its impacts. The RDCEP climate emulator, enables users to work in their own web browser with output data from state-of-the-art climate models that typically require powerful supercomputers. ATLAS, which will launch this fall, will enable users to explore climate impact data on global food security and land use. Additional web tools make up RDCEP's FACE-IT platform, which will be adapted later this year for use by researchers in seven countries, including China, Nigeria, and India, to model and understand local climate risks and vulnerabilities in food supply, agriculture, and economics. Preliminary versions of these applications will be unveiled at the African Food Systems in the Information Age forum in Ibadan, Nigeria, on August 28-30, 2014.
+  
+
+
+Kellogg Company and University of Minnesota. The Global Landscapes Initiative at the University of Minnesota's Institute on the Environment is committing to openly share data and maps that illustrate how climate change affects risks to major crops within the food system. In conjunction with this commitment, Kellogg Company is committing to use these agricultural data and climate-related maps to foster geographically relevant implementation in its global sourcing. Kellogg Company, the Global Landscape Initiative, and other partners will use climate data, research, and assessments to guide education and actions that help create efficient, adaptable, and sustainable supply chains, as well as identify information gaps and needs to improve the resilience of the agricultural sector to climate change.
+
+
+
+    American Red Cross and Red Cross Red Crescent Climate Centre: To better help communities in East and Southern Africa prepare for climate and weather related events, the American Red Cross and the Red Cross Red Crescent Climate Centre are committing to scale up the distribution and use of their participatory games to communicate risk information. This scale-up will bring Climate Centre game designers, trainers, and facilitators to more places served by American Red Cross in the developing world. It will focus initially on a river basin in East or Southern Africa and will help to ensure that communities are better prepared to respond to flood warnings. This experience will be documented and made publicly available on the Climate Centre website and the Global Disaster Preparedness Center website.
+  
+
+
+Mars, Incorporated: Mars, Incorporated, will continue to make major investments in science, including in areas such as food safety and plant science, to create resilience across its agricultural supply chains, improve safety, quality, resource management, and yields. Mars, Inc. will also continue to invest in renewable energy resources. For example, the company has recently invested in a 200 megawatt wind farm in Lamesa, Texas that will provide energy equal to the needs of its North America offices and factories.
+
+
+Walmart. Walmart is committing to the ongoing use of data to help set priorities for future actions to reduce greenhouse gases, including meeting the company's 2020 goal of driving the production or procurement of 7 billion kWh of renewable energy globally every year and reducing the kWh/sq. ft. energy intensity required to power Walmart's buildings globally by 20 percent compared to 2010 levels. Walmart will use data-driven tools such as the Sustainability Index to measure, track, and identify hot spots in its overall supply chain and provide buyers with transparency into the key impacts, such as greenhouse gas emissions, of the products they source. In addition, Walmart recently announced a partnership with eight of the largest food companies to help ensure that tomorrow's food supply is more sustainable, including by bringing an additional eight million acres of farmland into sustainability agriculture programs.
+
+
+
+    UN Global Pulse: In May 2014, United Nations Global Pulse hosted its first Big Data Climate Challenge, calling for cutting-edge examples of how scientists, researchers, and citizens are using big data and analytics to address social, economic and environmental challenges. Submissions were received from 40 countries, representing over 20 disciplines, including agriculture. UN Global Pulse will fly winners of the Challenge to the upcoming Climate Summit on September 24th in New York City and their work will be showcased prominently in front of media, decision-makers and civil society. In addition, Global Pulse will work with partners to summarize the results of the Big Data Climate Challenge in a report that maps the intersection of big data and climate change to build global understanding of how big data can reveal critical insights for strengthening resilience, including in the agriculture sector.
+  
+
+Climate Data in Action:
+In addition to the food- and agriculture-focused commitments launching today, a host of new and ongoing efforts continue to broadly advance the President's Climate Data Initiative, including:
+
+iSeeChange and Berkeley Atmospheric C02 Observation Network collaboration: The public media platform iSeeChange and the Berkeley Atmospheric CO2 Observation Network (BEACO2N) are launching a new collaborative project to develop a pilot citizen-science story-corps to help monitor carbon emissions in the San Francisco Bay area and Oakland. Combining BEACO2N's network of carbon sensors, most mounted atop local schools and museums in the Bay Area, and iSeeChange's digital platform and public media partners, the collaboration will create an information network to monitor local carbon emissions, produce stories that effectively match data and local impacts over time, and more. The partnership will kick off its work at the AAAS Citizen Science Workshop scheduled for February 2014.
+
+
+
+    UCLA Luskin Center and EDF: The UCLA Luskin Center for Innovation and Environmental Defense Fund (EDF) are releasing the newest version of the Los Angeles Solar and Efficiency Report (LASER)—a data-driven mapping tool designed to help communities identify opportunities to invest in projects that will save households money, create clean energy jobs and strengthen climate resilience. The tool illustrates existing pollution and climate change impacts at a community level, and illustrates "hot spots" ripe for rooftop solar investment and energy efficiency building potential at the parcel level.
+  
+
+
+
+    Trust for Public Land: The Trust for Public Land will commit new organizational resources through the use of Geographic Information Systems (GIS) technology to help America's cities lessen their vulnerability to climate-related heat events. Specifically, over the next two years the Trust for Public Land will help fill national gaps in heat-risk spatial data and modeling for cities, expand its Urban Heat Risk Explorer App to new cities, and develop a heat risk reduction GIS toolkit to help cities strategicallytarget green infrastructure for heat resilience.
+  
+
+For more information about steps the Obama Administration is taking to act on climate change, please visit www.whitehouse.gov/climate-change.
+  

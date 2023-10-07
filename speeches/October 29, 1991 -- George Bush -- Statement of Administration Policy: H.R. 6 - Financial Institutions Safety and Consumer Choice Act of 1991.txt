@@ -1,0 +1,110 @@
+
+    STATEMENT OF ADMINISTRATION POLICY
+(House Rules)(Gonzalez (D) Texas)
+The Administration strongly supports H.R. 6 as reported by the Committee on Banking, Finance and Urban Affairs, and with the amendments described below. However, if the Energy and Commerce Committee amendment or a similar amendment to Title IV is adopted, or the interstate branching provisions are substantially weakened, the President's senior advisers would recommend a veto.
+H.R. 6, as reported by the Banking Committee, is comprehensive legislation designed to create a safer, more competitive banking system. H.R. 6 recapitalizes the bank deposit insurance fund, sets clear standards for prompt corrective action by regulators to resolve troubled banks, and permits banks to reduce risk by diversifying their activities across more product lines and more geographic areas. It also greatly enhances the franchise value of banks and greatly expands the ability of banks to attract voluntary private capital into the industry, thereby increasing the capacity of banks to absorb losses ahead of the taxpayer. The Administration strongly supports all of these efforts, though certain modifications would make H.R. 6 even more effective in strengthening the banking system and reducing taxpayer risk.
+Four other House Committees — Energy and Commerce, Ways and Means, Judiciary, and Agriculture — have considered H.R. 6 and recommended amendments to the Banking Committee's bill. The Administration supports the Ways and Means amendment and parts of the Agriculture amendment. The Administration is concerned, however, that the Judiciary Committee's amendment to the bill's anti-tying provisions is unnecessary and could result in overly restrictive regulation of commercial practices.
+The Energy and Commerce Committee has recommended a substitute to Title IV, the provisions that would otherwise increase the value of a bank franchise and attract private capital into the industry to absorb losses ahead of the taxpayer. (A slightly modified version is likely to be substituted for the Energy and Commerce Committee amendment for Rules Committee consideration, but there are no significant differences between the two versions.) As set forth below, the Administration strongly opposes both the Energy and Commerce substitute and the slightly modified compromise substitute as anticompetitive amendments that will weaken thebanking system, impede the economic recovery, and increase taxpayer exposure to deposit insurance fund losses.
+Amendments Supported by the Administration
+While the Administration strongly supports H.R. 6 as reported by the House Banking Committee, the following modifications would substantially strengthen the bill:
+
+—   Limiting deposit insurance coverage for individuals to $100,000 per person per bank, with a separate $100,000 ln coverage for retirement accounts. This will reduce taxpayer exposure by limiting protection to average depositors.
+—   Providing limited flexibility in the "firewall" provisions that will allow regulators to make technical adjustments to promote safety, soundness, and competitiveness.
+—   Providing greater flexibility for bank regulators to avoid the premature shutdown of a weak bank that has clear prospects for recovery.
+—   Eliminating provisions described below that increase the deficit for "pay-as-you-go" purposes by more than $1 billion over four years.
+—   Eliminating the provision that deems the President to have designated the emergency loan guarantee for Rhode Island as an "emergency requirement." This provision violates last year's budget agreement.
+—   Providing flexibility for regulators, in consultation with the Administration, to protect against systemic risk in the banking system, with costs borne by the banking industry.
+—   Eliminating provisions that reduce the regulatory authority of the Office of the Comptroller of the Currency, e.g., enforcement and the resolution of troubled but insolvent institutions. 
+Opposition to Energy and Commerce Amendment
+The Administration strongly opposes the Energy and Commerce Committee amendment or the slightly modified compromise amendment that is likely to be offered as a substitute to Title IV. For the following reasons, these substitutes will make banks weaker and less likely to provide credit in good times and bad; hamstring the ability of U.S. banks to compete with Japanese and European competitors; and increase the likelihood that taxpayers will pay for bank losses:
+
+—   The amendment prohibits diversified companies from owning banks, which will stop new capital from voluntarily flowing into banks to absorb losses ahead of the taxpayer. Commercial firms should at least be able to purchase failing banks where taxpayer savings are immediate and substantial.
+—   The amendment imposes unworkable "firewalls" unrelated to safety and soundness, which penalize banks to protect securities firms from competition.
+—   The amendment requires the Securities and Exchange Commission to regulate the same firewalls as the Federal Reserve. This would undermine functional regulation and lead to regulatory gridlock, confusion, and increased costs.
+—   The amendment takes away riskless and profitable insurance activities of banks, even where permitted by State law. 
+If the Energy and Commerce amendment or the slightly modified compromise amendment is adopted, the Administration would strongly support a motion to strike Title IV from the legislation. Current law is far more likely to keep banks stronger, safer, and more competitive.
+Other Amendments Opposed by the Administration
+The Administration also strongly opposes all of the following amendments:
+
+—   Amendments to strike or weaken the interstate branching provisions, especially one that would (1) prohibit interstate branching unless each State "opted in" by statute and (2) subject national banks to State banking laws for the first time. Such changes would be worse than preserving current law.
+—   An amendment to expand the Community Reinvestment Act to impose onerous new requirements that would impede interstate branching and new financial activities for banks.
+—   A "core bank" amendment with overly stringent lending limitations to one borrower and a form of interest rate controls because it could choke off credit to the economy.
+—   An amendment that requires deposit insurance losses not paid for by the industry to be funded in a deficit neutral manner. This amendment violates last year's budget agreement, which recognized that currently outstanding deposit insurance liabilities should not be subject to pay-as-you-go requirements.
+—   The Agriculture Committee amendment that requires an interstate branch to make a fixed amount of loans in rural areas or risk branch closure. This Government allocation of credit would discourage banks from opening branches in distressed rural areas that need credit.
+—   An amendment that requires the Federal Deposit Insurance Corporation to begin a new housing subsidy program funded by banks. This expense would be shifted to taxpayers because it would require a pay-as-you-go offset.
+—   Amendments that stop banks by statute from making specific kinds of business loans involving highly leveraged transactions, or that stop securities affiliates from underwriting or dealing in high yield bonds. 
+Scoring for Purposes of Pay-As-You-Go
+H.R. 6 would increase direct spending; therefore, it is subject to the pay-as-you-go requirement of the Omnibus Budget Reconciliation Act of 1990 (OBRA). A budget point of order applies in both the House and the Senate against any bill that is not fully offset under CBO scoring. If, contrary to the Administration's recommendation, the House waives any such point of order that applies against H.R. 6, the effects of enactment of this legislation would be included in a look back pay-as-you-go sequester report at the end of the congressional session.
+OMB's preliminary scoring estimates of this bill are presented in the table below. Final scoring of this legislation may deviate from these estimates. If H.R. 6 were enacted, final OMB scoring estimates would be published within five days of enactment, as required by OBRA. The cumulative effects of all enacted legislation on direct spending will be issued in monthly reports transmitted to the Congress.
+ESTIMATES FOR PAY-AS-YOU-GO 1($ in millions)
+
+
+ 
+1992
+1993
+1994
+1995
+1992-95
+
+
+OUTLAYS:
+ 
+ 
+ 
+ 
+ 
+
+
+Rhode Island LoanGuarantee
++70
+--
+--
+--
++70
+
+
+RECEIPTS:
+ 
+ 
+ 
+ 
+ 
+
+
+Credit forDistressedCommunitiesLending andDeposit Gathering
+--
+-266
+-319
+-358
+-943
+
+
+Lifeline banking
+--
+-7
+-9
+-11
+-27
+
+
+NET DEFICITINCREASE (+) ORDECREASE (-) 
++70
++273
++328
++369
++1,040
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+1 The bill's "too big to fail" provisions would decrease outlays, but it is not possible to estimate the size of the decrease. Similarly, estimates of the pay-as-you go impact of the bill's provisions on pass-through Insurance are not available at this time.
+
+
+The above estimate does not take into account anticipated floor amendments.
+  

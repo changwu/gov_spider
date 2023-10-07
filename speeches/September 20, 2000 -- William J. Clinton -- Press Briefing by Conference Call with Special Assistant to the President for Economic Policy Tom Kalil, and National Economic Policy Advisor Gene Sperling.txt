@@ -1,0 +1,114 @@
+
+    2:30 P.M. EDT
+MR. KALIL: As you know, on Thursday, President Clinton will be traveling to Flint, Michigan, a part of his ongoing initiative to bridge the digital divide and create digital opportunity for all Americans. He started this tour and kicked it off in East Palo Alto, California.
+In Flint, the President will be visiting the Assistive Technology Access Center, which is at an organization called the Disability Network, which is a nonprofit that helps empower people with disabilities. And this center will be offering access to cutting-edge technology for people with disabilities and other members of the community.
+To give you some sense for the kinds of technologies that help empower people with disabilities, it includes things like screen readers for people who are blind; voice recognition for people that have a difficult time using a keyboard due to physical disabilities; websites that follow the guidelines of the Worldwide Web consortiums, web accessibility initiative; audio and video captioning, video description; and computers that can be operated by eye movements for people with spinal cord or Lou Gehrig's disease, that type of thing.
+So the President will see demonstrations of a number of different kinds of technologies. And then the President will be giving a speech at Mott Community College in which he will announce concrete actions by both the administration companies, universities and nonprofits, to help ensure that people with disabilities are full participants in the benefits of information technology.
+The goals that we have identified after working with the disability community and the private sector are ensuring that existing information and communications products and services are accessible to and usable by people with disabilities.
+The second goal is to approve the state of the art of the system technology. The third is to ensure that our existing efforts to bridge the digital divide, such as our initiative to create a national network of community technology centers are accessible to people with disabilities.
+The fourth goal is to look at information technology as a way of increasing employment opportunities for people with disabilities. And finally, our last goal is to increase access to technology for people with disabilities that cannot currently afford this.
+Q: Tom, do the federal concrete actions involve money, or what?
+MR. KALIL: Yes, that's right. We're not going to talk about the specific deliverables, but the federal government -- I also wanted to go over some of the reasons why the President is speaking on this issue, to give you some background on sort of where we are currently. Right now, about 24 percent of people with disabilities have access to a computer at home, and that's compared to around 52 percent of those without disabilities. Only 31 percent of the Americans with severe disabilities who are of working age between 21 and 64 are working, and that's compared to about 8 out of 10 of people without disabilities.
+And the interesting thing is that people with disabilities believe that having access to the Internet is very important. And 48 percent of people with disabilities who have access to the Internet believe that it has significantly improved their quality of life compared 27 percent of the adults without disabilities. And that was from a Harris poll that came out in June of 2000.
+Q: You said a percentage of those with severe disabilities between the age of 21 and 64 working was 34 percent?
+MR. KALIL: Thirty-one percent, and that's from the Census Bureau.
+Q: Have any other centers like these opened beside the one in Flint?
+MR. KALIL: Yes, yes. There's an organization -- I want to step back and make a point, though. Our goal is to ensure that all information and communications technologies are accessible for people with disabilities, so one of the things that we are going to be working on is to ensure that the web is accessible for people with disabilities. So it's not like there will be a separate Worldwide Web for people with disabilities and another one for everyone else. The goal is to ensure that all mainstream information in communications technologies are accessible for people with disabilities.
+Q: This is John Williams with Business Week. How do you plan to achieve that goal, and what major businesses in the information tech field are going to take the lead?
+MR. KALIL: Stay tuned for tomorrow.
+Q: Ahh, come on. (Laughter.)
+Q: Is there any carryover between the technology at these centers and the technology that's going to be available at the one-stops, for instance?
+MR. KALIL: Yes. One of the things that's very interesting about the one-stop in Flint is that it has made really a special effort to ensure that it is accessible for people with disabilities.
+Q: Will the President be visiting that center as well?
+MR. KALIL: He will not be visiting that center as well. He'll be at the Assistive Technology Access Center, at the Disability Network, and then he will be giving a speech at Mott Community College.
+Q: Who would be putting together this national network?
+MR. KALIL: I'm sorry, which national network are you referring to?
+Q: Well, you mentioned the national --
+MR. KALIL: Yes, in our budget proposal --
+Q: For fiscal 2001?
+MR. KALIL: For 2001 -- we have proposed $100 million for community technology centers. And that's building on previous investments that we've made in the last two fiscal years. We started out the program at $10 million, and then last year we were able to get $32.5 million. And this year we're requesting $100 million.
+Q: And where are you in that process?
+MR. KALIL: Well, it's getting near the end of the fiscal year. It's in the Department of Education budget, it's in Labor/HHS.
+Q: And how will this center differ from any of the tech centers that are out there now?
+Q: Or the rehab centers that are out there now?
+MR. KALIL: What's different about this center, as opposed to other community technology centers, is that they have made a special effort to ensure that assistive technology is present, and it's co-located with a disability network organization.
+Q: How are they funded?
+MR. KALIL: They have received a grant from the Department of Education, the Community Technology Center. And they've also received some local funding, as well.
+Q: Could you talk a little more specifically about some of the technologies that the President will see tomorrow? For example, you mentioned screen readers. Is he going to see those, and what are they?
+MR. KALIL: There are number of different technologies that the President will be seen. Gene has just joined us. He will be seeing an Eye-Gaze system. This is a really remarkable piece of technology that allows someone with Lou Gehrig's disease or a spinal cord injury that is not able to speak and use a speech recognition system to operate a computer merely by looking at different parts of the screen. So they can send e-mail, they can use a computer, they can turn household appliances on and off just by looking at different parts of the screen.
+Q: And what is that system called? Is that the Genie system, or do you know?
+MR. KALIL: Eye-Gaze.
+Q: Eye-Gaze. It's been around for about five years.
+Q: Oh, that's the brand name.
+Q: Is that available now?
+Q: It's been around for five years.
+Q: Can you describe anything else that he's going to look at? Anything that is new?
+MR. KALIL: Yes. He will also be seeing electronic book technology. And what's really interesting about this is that this is the mainstream electronic book technology that companies are starting to introduce, but it is also going to have the benefit of being fully accessible to people with disabilities?
+Q: How so?
+MR. KALIL: Because you will be able to display the information both -- and also braille.
+Q: So who's system is that?
+MR. KALIL: It's using the daisy technical system.
+Q: National Cash Register has done some publishing with digital talking books.
+Q: I have a question. On the five goals, I noticed one of the goals that is mentioned is universal design and technology from the beginning. Is the President going to make any efforts to make this mandatory, that when software or hardware is created that it's accessible to people with disabilities?
+MR. KALIL: Absolutely. The first goal is to ensure that existing information and communications technology are accessible and usable by people with disabilities. And the President has already taken a number of steps in this area --
+Q: I'm talking about newly developing technology. As they're developing technology, making it -- starting from day one -- universal design so that it's accessible to everybody in the development phase. I'm not talking about existing technology; I'm talking about in the development phase.
+MR. KALIL: Absolutely. And that's been a priority of the administration. That's why the President is a very strong supporter of the provisions of Telecom Act of 1996 -- that's why we fought hard to ensure that the government uses its --
+Q: So you're saying it is mandatory? You're going to make this --
+MR. KALIL: I'm saying that the -- provision, both in the '96 Telecom Act that -- require telecommunications companies to design their -- (phone line gets dropped.)
+MR. SPERLING: This is Gene Sperling and Tom Kalil here.
+Q: When you talked about the 24 percent of those with disabilities who have access to home computers, do you know how big a group that 24 percent -- how many millions of people we're talking about?
+MR. KALIL: The overall number of people with disabilities is 54 million according to the Census.
+Q: And when you talk about the $100 million being sought for these community technology centers, are those technology centers designed exclusively or solely for the disabled, or is that --
+MR. KALIL: No, no.
+Q: These are across the board?
+MR. KALIL: Right.
+Q: Will the address at Mott College following the visit to the Disability Networking Plant, is that going to be on the same subject matter, then?
+MR. KALIL: Yes, that's right. The President, in his address at the community college will announce the specific steps that the government, the private sector, universities and nonprofits are taking to help meet these five goals.
+Q: Will he be offering any types of tax incentives to the businesses to make their --
+MR. KALIL: I'm not going to talk about the specific announcements that he's going to make. The President will make those announcements.
+Q: Can you tell us how you identified the people who will demonstrate the specific technologies, and if you can release their names?
+MR. KALIL: We'll be able to have that information for you tomorrow.
+Q: Not until tomorrow?
+Q: Can you talk a little bit about the rest of the itinerary with the meeting with the Michigan Democrat Party and also with the attorneys, along with Detroit Mayor Dennis Archer?
+MR. KALIL: No, I'm sorry, I'm not in a position to do that.
+Q: Tom or Gene, you mentioned one of the goals was making IT for the -- IT would increase employment opportunities. How does that translate for the civil service?
+MR. KALIL: The President has set a specific goal during the 10th anniversary of the ADA, to increase civil service employment for people with disabilities.
+Q: Okay, so that won't really be further addressed.
+MR. KALIL: That's right. The President addressed that during the 10th anniversary.
+Q: Tom, could you actually speak on the role that corporations are being asked to play in implementing this technology in the workplace?
+MR. KALIL: We think they have a critical role to play, both in terms of the IT companies in designing new products so that they're accessible for people with disabilities, and as employers purchasing this technology and using it as a way of increasing employment for people with disabilities. I think you're starting to see more corporations interested in that, particularly as the labor market gets tighter and tighter.
+Q: Is the President addressing the need for training people in the use of these assistive technologies?
+MR. KALIL: Yes, part of what happens at these community technology centers is it's not just that the technology's available, but that people are there to help people -- explain how to use the technology. And the particular center that we're visiting actually is developing a certification program so that people can get certified in the use of these technologies.
+Q: Would you mind giving me the name of that center one more time? I'm sorry.
+MR. KALIL: Sure, it's the Assistive Technology Access Center, and it's at an organization called the Disability Network. It received funding from the Department of Education's Community Technology Center Program.
+Q: Do you know how old it is?
+MR. KALIL: This is sort of -- I don't know how old the Disability Network is, but this will sort of be the grand opening of the center.
+Q: Tom or Gene, has OPM been encouraged at all to try and recruit people that receive training through these centers for the federal service?
+MR. KALIL: OPM has been very involved in sort of our overall efforts to increase employment for people with disabilities, but I don't have an answer to your specific question.
+Q: What role will Section 508 play in increasing technology access?
+MR. KALIL: We think that the federal government is a large purchaser of information technology. So we think that by requiring that the federal government purchase technology that is designed from the beginning to be accessible for people with disabilities, this will clearly increase the incentive of the private sector to develop more resources to this area.
+Q: Is this particularly community technology center unusual among the ones that have -- because of this technology you're talking about?
+MR. KALIL: I think that they -- because it is located at the Disability Network, I think there are a couple of things that make it unique. Number one, it's staffed by people with disabilities. Number two, it has a certification program to train more people to use assistive technologies. Number three, obviously, they've made a real effort to begin purchasing technologies like screen readers that will make it accessible for people with disabilities. But it's a resource for the entire community, not just people with disabilities. So it's integrated.
+Q: Is this topic the main reason for the trip to Michigan?
+MR. KALIL: Yes.
+MR. SPERLING: Yes. The history of this was that when we were taking our third New Markets trip, which is our focus to try to encourage more mobilization investment on bringing people and communities who weren't fully benefitting from the economy on board, we did it on the digital divide. And then we made a decision during that process whether or not we were going to try to deal with the issue of digital technology and Americans with disabilities. And we decided during that process that we would rather do a separate day on this where we could focus on that. And so we chose to focus more on the poverty aspects in that trip, but we actually announced on that trip that we would do a separate day on this.
+But, clearly, we are looking at this as a way of mobilizing both the private sector and the federal government to look at every opportunity, to look at how technology, visual technology can help close the digital divide. And that means looking at, from the beginning processes, how research is done at companies to the research in the federal government to whether we have the resources to make sure that those technologies are accessible to people regardless of income.
+If you think about the shock and surprise at the high unemployment rates in Native American communities in the face of a strong economy, people should feel that same -- they should be equally disturbed by the unacceptably high unemployment rates among Americans with disabilities. So we feel that this is not only the focusing on closing the digital divide for Americans with disability not only equitable and morally the right thing to do, but it really is an economic imperative when one considers the lack of potential being utilized.
+I also think that, from the government level, people are going to have to do considerable soul searching as this technology is developed -- if we do not have means of making it accessible to lower income Americans with disabilities. Whatever arguments may exist, whatever incentive arguments people worry about, about devoting significant resources in other walks of life, nobody is going to contest that by having generous funding for assistive technology that it's somehow going to give people a negative incentive or an incentive to become disabled -- that's absurd.
+And on the other hand, I think that as you get this technology, I think it's going to be a strain on the nation's conscience to say a disabled person from an upper middle class home can afford something like Eye-Gaze, which has remarkable capabilities, but somebody from a lower-income family simply is told "tough luck" twice.
+Q: Do you anticipate addressing the tenet that a person -- that acquiring assistive technology would have to be necessarily tied to the willingness to work? There are, for instance, older adults with disabilities who are not going to go back to work who could still use the Eye-Gaze system or any number of other assistive technologies.
+MR. SPERLING: Well, think one of the reasons that it's so important for the President to raise this issue is that there has not been a full, or really a partial national debate on that type of issue and the criteria. And certainly people are not even familiar with the full degree of the technologies, but certainly the need for people to have access to technologies that can help them be educated in the first place, and then have productive living in the second place -- one of the things that will be raised tomorrow is we will be raising some inquiries about the degree that key federal programs that have not looked in this area, should. And that could go beyond just the work situation clearly to whether some of these technologies are essential for rehabilitation and independent living.
+But I think these are -- because they're resource questions, they're inherently difficult questions. But I think there will be an increasing imperative.
+Q: Is that Eye-Gaze, is that a brand name?
+MR. KALIL: Yes. I actually had a chance to do the demonstration of that, actually in the -- the technology was actually set up at the Vice President's residence during the commemoration of the ADA Act, so I can just tell you as kind of a novice, you're completely still. You look at the screen, a dot moves around. It tracks your eyes.
+From there they had the set up to a printer, lights, everything, so that you could look to lights. All you had to do was be able to move your eyeball to the box that said lights, and then it would give a chance to turn it on or off, and if you looked at on, the light would turn on, and then -- I tried to type with it. It's just a little hard because if you're not used to it, if you're trying to type your name, you hit letters you don't mean to hit. But it was just -- but for one who'd never experienced it before, it was remarkable.
+Q: Don Joseph from Able TV. Once certification is achieved at one of these centers, is there a plan --
+MR. SPERLING: This is Gene. I apologize. I was late because I was with the President following the meeting with the Italian Prime Minister. I have to now pop off. I'll leave Tom Kalil with you, but thanks for getting on the call.
+Q: Thank you.
+Q: Earlier you mentioned the President's concern for web accessibility. Has he, or does he plan to release standards for web accessibility?
+MR. KALIL: We would anticipate working with the W3C web accessibility initiative.
+Q: As a voluntary standard?
+MR. KALIL: Right. All right, thank you all very much.
+Q: Thank you.
+END 2:55 P.M. EDT
+  

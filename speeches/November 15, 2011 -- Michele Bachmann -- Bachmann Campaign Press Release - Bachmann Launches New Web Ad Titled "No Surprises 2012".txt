@@ -1,0 +1,17 @@
+
+    Sioux City, Iowa — Republican presidential candidate Michele Bachmann announced today the release of a new web ad titled "No Surprises 2012." The Iowa specific web ad highlights the contrast of Bachmann and her republican challengers on key issues of life, a nuclear Iran, illegal immigration, global warming, health care mandates, a nuclear China, and the Second Amendment.
+To watch the full web ad, follow the link below: http://www.youtube.com/watch?v=jIiBPTBO-2M.
+The campaign also launched the website www.nosurprises2012.com which also showcases the candidate contrasts. 
+
+<!--//--><![CDATA[// ><!--
+
+
+//--><!]]>
+
+<!--//--><![CDATA[// ><!--
+
+/* <![CDATA[ */ var shadowbox_conf = {    animate: true,    animateFade: true,    animSequence: "sync",   modal: false,   showOverlay: true,    overlayColor: "#000",   overlayOpacity: "0.8",    flashBgColor: "#000000",    autoplayMovies: true,   showMovieControls: true,    slideshowDelay: 0,    resizeDuration: "0.35",   fadeDuration: "0.35",   displayNav: true,   continuous: false,    displayCounter: true,   counterType: "default",   counterLimit: "10",   viewportPadding: "20",    handleOversize: "resize",   handleUnsupported: "link",    autoDimensions: false,    initialHeight: "160",   initialWidth: "320",    enableKeys: true,   skipSetup: false,   useSizzle: false,   flashParams: {bgcolor:"#000000", allowFullScreen:true},   flashVars: {},    flashVersion: "9.0.0" };  Shadowbox.init(shadowbox_conf);/* ]]]]><![CDATA[> */
+
+//--><!]]>
+
+  

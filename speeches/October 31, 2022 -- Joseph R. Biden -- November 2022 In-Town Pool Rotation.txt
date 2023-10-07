@@ -1,0 +1,222 @@
+
+    
+
+
+DATE
+TV
+PRINT
+RADIO
+
+
+1-Nov
+CNN
+Axios
+VOA
+
+
+2-Nov
+FOX
+Daily Beast
+ABC
+
+
+3-Nov
+NBC
+Daily Caller
+AP
+
+
+4-Nov
+ABC
+Daily Mail
+AURN
+
+
+5-Nov
+CBS
+Dallas Morning News
+BBC
+
+
+6-Nov
+CNN
+The Grio
+CBS
+
+
+7-Nov
+FOX
+The Guardian
+AP
+
+
+8-Nov
+NBC
+Hearst Newspapers
+iHeartMedia
+
+
+9-Nov
+ABC
+The Hill
+NPR
+
+
+10-Nov
+CBS
+HuffPost
+SRN
+
+
+11-Nov
+CNN
+Los Angeles Times
+VOA
+
+
+12-Nov
+FOX
+McClatchy
+ABC
+
+
+13-Nov
+NBC
+National Journal
+AP
+
+
+14-Nov
+ABC
+Newsday
+AURN
+
+
+15-Nov
+CBS
+Newsweek
+BBC
+
+
+16-Nov
+CNN
+New York Post
+CBS
+
+
+17-Nov
+FOX
+New York Times
+FOX
+
+
+18-Nov
+NBC
+Politico
+iHeartMedia
+
+
+19-Nov
+ABC
+RealClearPolitics
+NPR
+
+
+20-Nov
+CBS
+Regional Reporters
+SRN
+
+
+21-Nov
+CNN
+Roll Call
+VOA
+
+
+22-Nov
+FOX
+TIME
+ABC
+
+
+23-Nov
+NBC
+USA Today
+AP
+
+
+24-Nov
+ABC
+Wall Street Journal
+AURN
+
+
+25-Nov
+CBS
+Washington Blade
+BBC
+
+
+26-Nov
+CNN
+Washington Examiner
+CBS
+
+
+27-Nov
+FOX
+Washington Post
+FOX
+
+
+28-Nov
+NBC
+Washington Times
+iHeartMedia
+
+
+29-Nov
+ABC
+Yahoo
+NPR
+
+
+30-Nov
+CBS
+Axios
+SRN
+
+
+1-Dec
+CNN
+Bloomberg Government
+VOA
+
+
+2-Dec
+FOX
+Boston Globe
+ABC
+
+
+3-Dec
+NBC
+Christian Science Monitor
+AP
+
+
+4-Dec
+ABC
+Daily Beast
+AURN
+
+
+5-Dec
+CBS
+Daily Caller
+BBC
+
+
+
+  

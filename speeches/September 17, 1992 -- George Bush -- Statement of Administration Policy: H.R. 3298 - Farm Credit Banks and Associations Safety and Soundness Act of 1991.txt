@@ -1,0 +1,92 @@
+
+    STATEMENT OF ADMINISTRATION POLICY
+(House Rules)(de la Garza (D) Texas)
+The Administration supports the objectives of H.R. 3298 and will work with Congress to secure enactment of the constructive features of H.R. 3298 and S. 1709 as passed by the Senate. Both bills would improve current law by accelerating Farm Credit System (FCS) assessments to repay taxpayer contributions for the 1987 rescue of the system. The Administration also supports the core provisions of H.R. 4906 (discussed in the Attachment), to target Farmers Home Administration (FmHA) loans to beginning farmers and ranchers.
+The Administration urges the Rules Committee not to incorporate H.R. 5237, the Rural Electrification Administration (REA) Improvement Act of 1992", into S. 1709, as proposed by Chairman de la Garza. The Administration recognizes and appreciates that during prior House consideration, the REA bill underwent significant modification and improvement regarding direct spending effects of the bill. However, the bill passed by the House still contains direct spending and insufficient offsets. The Administration believes that this problem can be satisfactorily addressed without undermining the basic principles of the bill, and is committed to working with Members of Congress to accomplish this. However, unless the bill is satisfactorily modified to address the pay-as-you-go requirements of the Omnibus Budget Reconciliation Act of 1990, the President's senior advisers would recommend a veto.
+The Administration position on H.R. 3298 is presented below. Positions on H.R. 5237, H.R. 4906, and the three other bills that Chairman de la Garza seeks to add to S. 1709 are presented in the Attachment.
+H.R. 3298
+The Administration has no objection to House passage of H.R. 3298 as reported by the Agriculture Committee, provided that section 501 is deleted. The Administration will continue to seek amendments to:
+
+Clarify the Funding Corporation's authority to set conditions for establishing financial standards and economic incentives for participation of Farm Credit Banks in FCS debt issuances. Such conditions could include financial standards and risk-based pricing of system-wide obligations. (The Funding Corporation is the FCS-wide entity responsible for coordinating system-wide debt issuance.)
+Add the Administration's proposals to establish risk-based insurance premiums, eliminate potential conflicts of interest between the boards of the Insurance Corporation and the Farm Credit Administration, and give the Insurance Corporation authority to access FCS association capital. (The Insurance Corporation insures against default on system-wide obligations; the Farm Credit Administration is the FCS regulator.)
+
+S. 1709 generally meets the objectives of the above two points.
+The Administration urges the Rules Committee to delete section 501 of H.R. 3298. This section contains the CBO scoring language required by House Rule XXI. In a letter of December 21, 1990, the President stated that he would veto any bill containing such language. The effect of this provision is to overturn a key element of the Federal spending control mechanisms enacted pursuant to the 1990 Budget Agreement.
+Pay-As-You-Go Scoring
+H.R. 3298 would increase receipts and H.R. 5237 would reduce receipts; therefore, both are subject to the pay-as-you-go requirement of the Omnibus Budget Reconciliation Act of 1990 (OBRA). OMB's preliminary scoring estimates of both bills are presented in the table below. Final scoring of these bills may deviate from these estimates. If these bills were enacted, final OMB scoring estimates would be published within five days of enactment, as required by OBRA. A budget point of order applies in both the House and Senate against any bill that is not fully offset under CBO scoring. If, contrary to the Administration's recommendation, the House waives any such point of order, the effects of enactment of this legislation would be included in a look back pay-as-you-go sequester report at the end of the Congressional session.
+Estimates For Pay-As-You-Go 1/(receipts in millions)
+
+
+ 
+1992
+1993
+1994
+1995
+1996
+1997
+1992-1997
+
+
+H.R. 3298 
+53
+--
+--
+--
+--
+--
+53
+
+
+H.R. 5237
+-360
+--
+--
+--
+--
+--
+-360
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+1/ Assumes enactment by September 30, 1992. Enactment after that date would cause amounts shown for FY 1992 to be scored for FY 1993.
+
+
+
+Attachment
+Other Bills Proposed to Be Incorporated into S. 1709
+This Attachment addresses the five bills (besides H.R. 3298) that Chairman de la Garza has proposed for incorporation into a House substitute for S. 1709.
+H.R. 5237 - REA Improvement Act
+If S. 1709 is presented to the President in a form that does not acceptably address the pay-as-you-go effect of H.R. 5237, the President's senior advisors will recommend a veto. In its current form, H.R. 5237 would:
+
+Reduce estimated receipts from outstanding REA loans, causing a $360 million cost in FY 1992 for purposes of the "pay-as-you-go" requirement of the Omnibus Budget Reconciliation Act of 1990 (OBRA). The bill would allow electric "distribution borrowers" whose affiliated "generation and transmission" (G&T) cooperatives are in default to prepay REA loans at a discount and leave the program. These distribution borrowers own and control their affiliated G&T borrowers. They are parties to long term wholesale power contracts which provide the G&T borrowers with revenue necessary to repay their REA loans. The bill would greatly increase the likelihood that distribution borrowers would seek to avoid their obligations under the wholesale power contract. It would set a dangerous precedent.
+Defeat the purpose of Federal subsidies that have already been provided to encourage borrowers to graduate from REA to private credit markets. Specifically, the bill would:
+
+—   Allow 30 borrowers to return for more REA-subsidized loans. These borrowers were given $283 million in loan discounts and a special tax break to prepay outstanding REA loans. Contrary to the contracts they signed, these borrowers would not have to repay most of the discounts and interest as a condition to additional REA loans. Another REA borrower, which was prohibited by law from reentering the program in exchange for $66 million in benefits, would be allowed to borrow again from the REA without repaying the benefits.
+—   Allow financially healthy borrowers with REA loans at interest rates of 2 and 5 percent to repay those loans at a discount and get more 5 percent loans from the REA after 5 years. 
+
+Expand by roughly 650 percent (from 6 million to over 39 million) the copulation eligible for REA telephone loan assistance. Communities such as Palm Beach, Florida, and Falls Church, Virginia, would qualify. Major telephone companies (e.g., regional Bell companies) that now serve most of these communities would become eligible for REA loans at federally-subsidized interest rates of 5 percent.
+
+H.R. 4906 - Agricultural Improvement Act
+The Administration supports targeting FmHA assistance to beginning farmers and has no objection to House passage of H.R. 4906, but will seek amendments to:
+
+Delete the provision that waives fees for unsubsidized loan guarantees by FmHA. These standard FmHA fees are consistent with sound business practice.
+Reduce the time period for loan eligibility. The bill limits direct loan eligibility to 10 years and guaranteed loan eligibility to 15 years. The Administration believes 7 and 10 years, respectively, would provide the necessary assistance while keeping with FmHA's mandate as the "temporary lender of last resort." (Emphasis added.)
+Retain flexibility to match the level of financial assistance to borrower needs. The bill sets the amount of interest subsidy for farm operating direct loans and subsidized guarantees equal to the "limited resource rate" on direct loans (currently 5 percent). This would not allow intermediate levels of assistance. Flexibility would make the program more effective and less costly.
+Delete the provision that allows the FCS to guarantee tax-exempt debt obligations. This guarantee would indirectly constitute a double subsidy from the Federal Government to the tax-exempt issuer. One subsidy arises from exempting interest from taxation. A further subsidy comes from the lower interest rate afforded by the FCS guarantee.
+
+H.R. 5741 - Perishable Agricultural Commodities Act Technical Amendments of 1992
+The Administration does not oppose House passage of H.R. 5741, which would clarify the requirement that a trust be placed on the assets of produce buyers to protect the unpaid produce seller. However, the Administration notes that H.R. 5741 only clarifies present law and does not address the funding problem which will develop if legislated fee caps and reserves, are not revised.
+H.R. 5763 - Relief for Sugarcane Producers
+The Administration has no objection to enactment of H.R. 5763, which relieves sugarcane growers from observing their "proportionate shares" in certain situations. ("Proportionate shares" is the method used to control domestic sugarcane marketings.) However, the Administration urges Congress to consider granting the growers relief by repealing the "proportionate shares" language in section 359f of the Agricultural Adjustment Act of 1938.
+H.R. 5764 - United States Warehouse Act Amendment
+The Administration supports House passage of H.R. 5764. 
+  

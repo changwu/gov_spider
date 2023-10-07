@@ -1,0 +1,222 @@
+
+    
+
+
+DATE
+TV
+PRINT
+RADIO
+
+
+1- January
+FOX
+USA Today
+SRN
+
+
+2- January
+NBC
+Wall Street Journal
+Talk Media News
+
+
+3- January
+ABC
+Washington Blade
+VOA
+
+
+4- January
+CBS
+Washington Examiner
+ABC
+
+
+5- January
+CNN
+Washington Post
+BBC
+
+
+6- January
+FOX
+Washington Times
+CBS
+
+
+7- January
+NBC
+Yahoo
+FOX
+
+
+8- January
+ABC
+Axios
+NPR
+
+
+9- January
+CBS
+BNA
+SRN
+
+
+10- January
+CNN
+Boston Globe
+Supplemental
+
+
+11- January
+FOX
+BuzzFeed
+VOA
+
+
+12- January
+NBC
+CS Monitor
+ABC
+
+
+13- January
+ABC
+Daily Beast
+BBC
+
+
+14- January
+CBS
+Daily Caller
+CBS
+
+
+15- January
+CNN
+Daily Mail
+FOX
+
+
+16- January
+FOX
+Dallas Morning News
+NPR
+
+
+17- January
+NBC
+The Guardian
+SRN
+
+
+18- January
+ABC
+Hearst Newspapers
+Supplemental
+
+
+19- January
+CBS
+The Hill
+VOA
+
+
+20- January
+CNN
+Huffington Post
+ABC
+
+
+21- January
+FOX
+Las Vegas Review-Journal
+BBC
+
+
+22- January
+NBC
+Los Angeles Times
+CBS
+
+
+23- January
+ABC
+McClatchy
+FOX
+
+
+24- January
+CBS
+National Journal
+NPR
+
+
+25- January
+CNN
+Newsday
+SRN
+
+
+26- January
+FOX
+NY Post
+Supplemental
+
+
+27- January
+NBC
+NY Times
+VOA
+
+
+28- January
+ABC
+Politico
+ABC
+
+
+29- January
+CBS
+Real Clear Politics
+AP
+
+
+30- January
+CNN
+Regional Reporters
+BBC
+
+
+31- January
+FOX
+Roll Call
+CBS
+
+
+1- February
+NBC
+TIME
+FOX
+
+
+2- February
+ABC
+USA Today
+NPR
+
+
+3- February
+CBS
+Wall Street Journal
+SRN
+
+
+4- February
+CNN
+Washington Blade
+VOA
+
+
+
+  

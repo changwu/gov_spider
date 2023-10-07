@@ -1,0 +1,228 @@
+
+    
+
+
+DATE 
+TV
+PRINT
+RADIO
+
+
+1-Oct
+CBS
+Newsweek
+BBC
+
+
+2-Oct
+CNN
+New York Post
+CBS
+
+
+3-Oct
+FOX
+New York Times
+SRN
+
+
+4-Oct
+NBC
+Politico
+iHeartMedia
+
+
+5-Oct
+ABC
+RealClearPolitics
+NPR
+
+
+6-Oct
+CBS
+Regional Reporters
+FOX
+
+
+7-Oct
+CNN
+Newsday
+VOA
+
+
+8-Oct
+FOX
+TIME
+ABC
+
+
+9-Oct
+NBC
+USA Today
+AP
+
+
+10-Oct
+ABC
+Wall Street Journal
+AURN
+
+
+11-Oct
+CBS
+Washington Blade
+BBC
+
+
+12-Oct
+CNN
+Washington Examiner
+CBS
+
+
+13-Oct
+FOX
+Washington Post
+FOX
+
+
+14-Oct
+NBC
+Washington Times
+iHeartMedia
+
+
+15-Oct
+ABC
+Yahoo
+NPR
+
+
+16-Oct
+CBS
+Axios
+SRN
+
+
+17-Oct
+CNN
+Bloomberg Government
+VOA
+
+
+18-Oct
+FOX
+Boston Globe
+ABC
+
+
+19-Oct
+NBC
+Christian Science Monitor
+AP
+
+
+20-Oct
+ABC
+Daily Beast
+AURN
+
+
+21-Oct
+CBS
+Daily Caller
+BBC
+
+
+22-Oct
+CNN
+Daily Mail
+CBS
+
+
+23-Oct
+FOX
+Dallas Morning News
+FOX
+
+
+24-Oct
+NBC
+The Grio
+iHeartMedia
+
+
+25-Oct
+ABC
+The Guardian
+NPR
+
+
+26-Oct
+CBS
+Hearst Newspapers
+SRN
+
+
+27-Oct
+CNN
+The Hill
+VOA
+
+
+28-Oct
+FOX
+HuffPost
+ABC
+
+
+29-Oct
+NBC
+Los Angeles Times
+AP
+
+
+30-Oct
+ABC
+McClatchy
+AURN
+
+
+31-Oct
+CBS
+National Journal
+BBC
+
+
+1-Nov
+CNN
+Newsday
+CBS
+
+
+2-Nov
+FOX
+Newsweek
+FOX
+
+
+3-Nov
+NBC
+New York Post
+iHeartMedia
+
+
+4-Nov
+ABC
+New York Times
+NPR
+
+
+5-Nov
+CBS
+Politico
+SRN
+
+
+
+  

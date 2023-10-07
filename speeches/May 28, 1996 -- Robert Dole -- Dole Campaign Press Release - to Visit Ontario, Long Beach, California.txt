@@ -1,0 +1,31 @@
+
+    Senator Bob Dole will attend a Republican Unity Rally in Ontario, California on Tuesday, May 28, 1996. Media planning to attend the event should arrive one hour prior to the event and be prepared to provide local or national credentials with photo identification.
+WHO:           Senator Bob Dole
+WHAT:          Airport arrival
+WHEN:          Tuesday, May 28, 1996 3:55pm PDT
+WHERE:         Raytheon Aircraft Services
+                Ontario International Airport
+                2161 East Avion Street, Ontario, California
+FACILITIES:    100ft Throw, Photo Coverage Only
+WHO:           Senator Bob Dole
+WHAT:          Republican Unity Rally
+WHEN:          Tuesday, May 28, 1996 3:00pm - 5:15pm PDT (event time)
+                Grand Ballroom
+                Ontario Red Lion Inn
+                222 North Vineyard Avenue, Ontario, California
+FACILITIES:    45ft Throw, TV Lighting, Mult, Riser
+WHO:           Senator Bob Dole
+WHAT:          Airport departure
+WHEN:          Tuesday, May 28, 1996 5:45pm PDT
+                Raytheon Aircraft Services
+                Ontario International Air
+                2161 East Avion Street, Ontario, California
+FACILITIES:    100ft Throw, Photo Coverage Only
+WHO:           Senator Bob Dole
+WHAT:          Airport arrival
+WHEN:          Tuesday, May 28, 1996 6:15pm PDT
+WHERE:         AirFlite
+                3250 AirFlite Way
+                Long Beach Airport, Long Beach, California
+FACILITIES:    100ft Throw, Photo Coverage Only
+  

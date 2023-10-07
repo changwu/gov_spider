@@ -1,0 +1,22 @@
+
+    Dear Mr. Speaker: (Dear Mr. President:)
+Pursuant to the International Emergency Economic Powers Act (50 U.S.C. 1701 et seq.) (IEEPA), I hereby report that I have issued an Executive Order (the "order") declaring a national emergency with respect to the unusual and extraordinary threat to the national security, foreign policy, and economy of the United States posed by the increasing prevalence and severity of malicious cyber-enabled activities originating from, or directed by persons located, in whole or in substantial part, outside the United States.
+The order would block the property and interests in property of:
+
+• any person determined by the Secretary of the Treasury, in consultation with the Attorney General and the Secretary of State, to be responsible for or complicit in, or to have engaged in, directly or indirectly, cyber-enabled activities originating from, or directed by persons located, in whole or in substantial part, outside the United States that are reasonably likely to result in, or have materially contributed to, a significant threat to the national security, foreign policy, or economic health or financial stability of the United States and that have the purpose or effect of:
+o harming, or otherwise significantly compromising the provision of services by, a computer or network of computers that support one or more entities in a critical infrastructure sector;
+o significantly compromising the provision of services by one or more entities in a critical infrastructure sector;
+o causing a significant disruption to the availability of a computer or network of computers; or
+o causing a significant misappropriation of funds or economic resources, trade secrets, personal identifiers, or financial information for commercial or competitive advantage or private financial gain; or
+• any person determined by the Secretary of the Treasury, in consultation with the Attorney General and the Secretary of State:
+o to be responsible for or complicit in, or to have engaged in, the receipt or use for commercial or competitive advantage or private financial gain, or by a commercial entity, outside the United States of trade secrets misappropriated through cyber-enabled means, knowing they have been misappropriated, where the misappropriation of such trade secrets is reasonably likely to result in, or has materially contributed to, a significant threat to the national security, foreign policy, or economic health or financial stability of the United States;
+o to have materially assisted, sponsored, or provided financial, material, or technological support for, or goods or services in support of, certain malicious cyber-enabled activities described in the order or any person whose property and interests in property are blocked pursuant to the order;
+o to be owned or controlled by, or to have acted or purported to act for or on behalf of, directly or indirectly, any person whose property and interests in property are blocked pursuant to the order; or
+o to have attempted to engage in any of the malicious activities described in the order.
+
+In addition, the order suspends entry into the United States of any alien determined to meet one or more of the above criteria.
+I have delegated to the Secretary of the Treasury the authority, in consultation with the Attorney General and the Secretary of State, to take such actions, including the promulgation of rules and regulations, and to employ all powers granted to the President by IEEPA as may be necessary to carry out the purposes of the order. All executive agencies are directed to take all appropriate measures within their authority to carry out the provisions of the order.
+I am enclosing a copy of the Executive Order I have issued.
+Sincerely,
+BARACK OBAMA
+  

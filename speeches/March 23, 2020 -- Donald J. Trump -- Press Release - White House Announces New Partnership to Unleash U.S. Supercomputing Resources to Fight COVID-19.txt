@@ -1,0 +1,48 @@
+
+    Office of Science and Technology Policy
+The White House announced the launch of the COVID-19 High Performance Computing Consortium to provide COVID-19 researchers worldwide with access to the world's most powerful high performance computing resources that can significantly advance the pace of scientific discovery in the fight to stop the virus.
+"America is coming together to fight COVID-19, and that means unleashing the full capacity of our world-class supercomputers to rapidly advance scientific research for treatments and a vaccine. We thank the private sector and academic leaders who are joining the federal government as part of the Trump Administration's whole-of-America response," said Michael Kratsios, U.S. Chief Technology Officer. 
+This unique public-private consortium, spearheaded by The White House, the U.S. Department of Energy, and IBM, includes government, industry, and academic leaders who have volunteered free compute time and resources on their machines:
+Industry
+
+IBM
+Amazon Web Services
+Google Cloud
+Microsoft
+Hewlett Packard Enterprise
+
+Academia
+
+Massachusetts Institute of Technology
+Rensselaer Polytechnic Institute
+
+U.S. Department of Energy National Laboratories
+
+Argonne National Laboratory
+Lawrence Livermore National Laboratory
+Los Alamos National Laboratory
+Oak Ridge National Laboratory
+Sandia National Laboratories
+
+Federal Agencies 
+
+National Science Foundation
+NASA
+
+Researchers are invited to submit COVID-19 related research proposals to the consortium via the online portal which will then be reviewed and matched with computing resources from one of the partner institutions. An expert panel of top scientists and computing researchers will work with proposers to quickly assess the public health benefit of the work and coordinate the allocation of the group's powerful computing assets.
+The sophisticated computing systems available through this Consortium can process massive numbers of calculations related to bioinformatics, epidemiology, and molecular modeling, helping scientists develop answers to complex scientific questions about COVID-19 in hours or days versus weeks or months.
+FEDERAL AGENCY PARTNERS
+"Under the Trump Administration, the United States has regained its position as the dominant global force in Supercomputing technology. The Department of Energy is home to the world's fastest and most powerful supercomputers, and we are excited to partner with leaders across the scientific community who will use our world class innovation and technology to combat COVID-19," said U.S. Energy Secretary Dan Brouillette.
+"The Department of Energy's National Labs have made profound advancements towards combatting COVID-19," said U.S. Department of Energy (DOE) Under Secretary for Science Paul Dabbar. "By providing researchers access to world leading technology here in our own backyard, we take an additional leap towards ending this pandemic. We look forward to collaborating with scientists and researchers to bring an end to COVID-19."
+"The National Nuclear Security Administration is eagerly lending its world-class supercomputing resources to combat COVID-19 in collaboration with OSTP and other agencies," said Lisa E. Gordon-Hagerty, DOE Under Secretary for Nuclear Security and NNSA Administrator. "Ten NNSA supercomputers will be available, empowering researchers to understand the COVID-19 virus, develop treatments and vaccines, and ultimately bring an end to this pandemic."
+"The National Science Foundation is pleased to join the COVID-19 HPC Consortium to enhance access to the Nation's leading HPC resources, including the NSF-funded Frontera supercomputer, the world's most powerful HPC system deployed on an US academic campus," said France Cordova, Director of the National Science Foundation. "Frontera and other NSF-funded advanced computing resources will enable the Nation's science and engineering community to pursue data science, computational modeling, and artificial intelligence approaches to help us accelerate our understanding of COVID-19 and strategies for responding to the pandemic."
+"We are pleased to lend NASA's supercomputing expertise to assist in the global fight against this pandemic. For more than six decades the agency has used its expertise to take on challenges that have benefited people worldwide in unexpected ways," said Jim Bridenstine, NASA Administrator. 
+INDUSTRY PARTNERS
+"Accelerating the process of discovery to unlock treatments and a cure for COVID-19 is of vital importance to us all. By bringing together the world's most advanced supercomputers and matching them with the best ideas and expertise, this consortium can drive real progress in this global fight. IBM is proud to have helped kick-start this important effort," said Dario Gil, Director of IBM Research.
+"We know that high performance computing can reduce the time it takes to process massive data sets and perform complex simulations from days to hours," said Mike Daniels, Vice President, Global Public Sector at Google Cloud. "We look forward to participating in this initiative alongside leaders in technology, academia, and the public sector to make more resources available to COVID-19 researchers and to apply Google Cloud computing capabilities toward the development of potential treatments and vaccines."
+"We want to make sure researchers working to combat COVID-19 have access to the tools they need. Through our AI for Health program we've seen first-hand the impact of empowering talented researchers with powerful technology. We hope that by expanding access to the Azure cloud and High Performance Computing capabilities, and by creating more opportunities to collaborate with our own data scientists, we can help accelerate this important work," said John Kahan, Microsoft Global Head, AI for Health Program.
+"We're proud to support this critical work and stand ready with the compute power of AWS to help accelerate research and development efforts," said Teresa Carlson, Vice President, Worldwide Public Sector at AWS. "Working together, government, business, and academic leaders can utilize the power of the cloud to advance the pace of scientific discovery and innovation, and help combat the COVID-19 virus."
+ACADEMIC PARTNERS
+"In order to combat the devastating effects of this pandemic, we must be able to fully grasp the complexities and interconnectedness of biological systems and epidemiological data, as researchers work to develop therapeutic interventions and address gaps in our knowledge," said Rensselaer President Shirley Ann Jackson. "This effort requires expertise, collaboration, and the ability to process incredible amounts of data, and Rensselaer is offering all three at this critical time. In particular, the ability to model at very large scales requires the unique capabilities of AiMOS."
+"Computing and AI have a major role to play in bringing Covid-19 under control," said Christopher Hill, head of MIT's research computing infrastructure. "We want to do our part by making MIT's two most powerful machines, Satori and TX-GAIA, available to researchers who are racing to understand the virus, model the outbreak, and accelerate drug discovery and design. This will be a team effort, and we hope our actions will inspire others to throw their computing power and brain power at the virus."
+  

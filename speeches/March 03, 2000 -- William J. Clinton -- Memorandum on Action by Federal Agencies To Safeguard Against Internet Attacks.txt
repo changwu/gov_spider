@@ -1,0 +1,9 @@
+
+    Memorandum for the Heads of Executive Departments and Agencies 
+Subject: Action by Federal Agencies to Safeguard Against Internet Attacks
+America and the world have benefited tremendously from the amazing advances we have seen with the Internet and computer technology. But with every new technological advance there are new challenges, and we must meet them— both Government and the private sector—in partnership.
+Following recent Internet disruptions, I met with experts and leaders of the information technology industry so we could work together to maximize the promise of the Internet, while minimizing the risks. These Internet disruptions highlight how important computer networks have become to our daily lives; and how vulnerabilities can create risks for all—including the Federal Government.
+Accordingly, I ask that each Cabinet Secretary and agency head renew their efforts to safeguard their department or agency's computer systems against denial-of-service attacks on the Internet. Within legal and administrative limits, attention should also be paid to contractors providing services. The Federal Computer Incident Response Center (FEDCirc) and the National Infrastructure Protection Center (NIPC) have available software tools to assist you in these efforts.
+I have asked my Chief of Staff, John Podesta, to coordinate a review of Federal Government vulnerabilities in this regard and to report back to me by April 1.
+WILLIAM J. CLINTON
+  

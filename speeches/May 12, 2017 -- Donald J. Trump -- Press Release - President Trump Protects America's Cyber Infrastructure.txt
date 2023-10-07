@@ -1,0 +1,76 @@
+
+    "To truly make America safe, we truly have to make cybersecurity a major priority."- Donald J. Trump
+AMERICA'S NETWORK LEFT VULNERABLE: The United States has been left vulnerable to destructive attacks through cyber space. The President is following through on his campaign promise to keep America safe, even in cyberspace.
+
+The Federal Government, as a large and lucrative target for electronic criminals and foreign agents, has been a victim of cyber intrusions for years.
+The cybersecurity of critical American network infrastructure- public and private alike -is under constant attack from both foreign and domestic sources.
+On a daily basis we receive new reports of major corporations in the United States have been hacked by foreign-based threats.
+
+TAKING ACTION TO SECURE OUR NATION'S CYBER DEFENSES: President Donald J. Trump signed an Executive Order to take much needed action to address cybersecurity vulnerabilities.
+
+In order to secure our Nation's defense, we are emphasizing Federal cybersecurity.
+
+It is now the policy of the United States to manage cybersecurity risk as a Federal enterprise.
+The President has mandated the use of the National Institute of Standards and Technology Cybersecurity Framework across government, ensuring the same high standards recommended for private industry are applied everywhere.
+The Executive Order directs agency heads to begin planning for the deliberate modernization of Federal Executive Branch information technology (IT)—a critical, long overdue effort to better manage cyber risk. This work modernizing our IT will be championed from the White House by the President's American Technology Council. 
+Cabinet Secretaries and Agency Directors will be held accountable for managing cyber risk in their respective portfolios, ensuring accountability across the board.
+The Government's information systems will be optimized, prioritizing modernity, safety, usability, and economy, innovating while addressing security. In this effort, the President has directed a preference towards shared services.
+Specific actions include:
+
+Requiring all agencies to use the industry-standard NIST Cybersecurity Framework (Framework) to manage their cybersecurity risks;
+Requiring all agencies to prefer shared IT services in all future procurements, to the maximum extent allowed under the law;
+Requiring all agencies to explicitly document their cybersecurity risk mitigation and acceptance choices, including any decisions to not mitigate known vulnerabilities in a timely manner, and describe their action plan in a report to implement the Framework, in a report to the Department of Homeland Security (DHS) and Office of Management and Budget (OMB);
+Requiring the Secretary of DHS and the Director of OMB to evaluate the totality of these reports to comprehensively assess the adequacy of the Federal Government's overall cybersecurity risk management posture and propose changes in law, policy, and budgeting to protect adequately the executive branch enterprise;
+Requiring the Secretary of Defense and the Director of National Intelligence to undertake comparable efforts for national security systems; and
+Empowering the White House's American Technology Council to launch a process of planning for the deliberate modernization of Federal IT, including the technical feasibility and cost effectiveness of transitioning agencies to one or more consolidated network architectures and shared services such as email.
+
+
+
+
+Government and industry will partner in protecting our Nation's critical infrastructure.
+
+As the private sector is heavily involved in our Nation's infrastructure, this Executive Order will prioritize deeper, more collaborative public-private partnerships in threat assessment, detection, protection and mitigation.
+
+Following the principle that "practice makes perfect," the President will work together with infrastructure providers to boost our national resilience to cyber-attacks through training exercises and other operations.
+Voluntary compliance and collaborative efforts, such as efforts to address denial of service attacks, will be encouraged.
+
+
+Specific actions include:
+
+Establishing a clear policy that the Federal Government should bring to bear all of its authorities and capabilities to support the cybersecurity risk management efforts of the owners and operators of the Nation's critical infrastructure. 
+Requiring civilian, military, and intelligence agencies to develop an integrated, comprehensive inventory of the specific legal authorities and capabilities that agencies could employ to support the cybersecurity risk management efforts of those critical infrastructure entities at greatest risk of attacks that could result in catastrophic impacts;
+Requiring these agencies to offer such support to these entities on a voluntary basis, and to work directly with these entities to solicit their feedback and input on any gaps in the Federal Government's cybersecurity toolkit, including gaps in law, policy, or budgeting;
+Evaluating Federal Government efforts to promote transparency in cybersecurity risk management practices within critical infrastructure to support market-driven risk management decisions;
+Convening the private sector to address complex Internet of Things (IoT) cybersecurity challenges, starting with denial of service attacks perpetrated by IoT devices;
+Strengthening the Nation's ability to respond to and recover from a prolonged power outage caused by a cyber-attack; and
+Mitigating cybersecurity risks to Department of Defense weapons platforms and the defense industrial base, including risks associated with foreign manufacture of sensitive components.
+
+
+
+
+The Executive Order will strengthen our deterrence posture as a Nation and forge international coalitions to fight back against cyberattacks across the globe.
+
+The White House, State Department, and all other applicable Federal agencies will continue to work hand-in-hand with the nations of the world to promote an open, interoperable, reliable, and secure global internet. The internet is a United States invention, it should reflect American values as it continues to transform the future for all nations and all generations.
+
+The State Department shall be tasked with drafting an international engagement strategy for cybersecurity, outlining America's path forward with our allies.
+
+
+The global shortage of cybersecurity professionals must be addressed, the President is committed to working programs that to identify, develop, and retain first-class cyber security talent.
+Other nations will not be allowed to hold us at risk through the use of cyber-attacks, espionage, or other malicious action.
+Specific actions include:
+
+Formulating strategic options for deterring adversaries and better protecting the American people from cyber threats;
+Crafting an international engagement strategy for cybersecurity that will outline how the United States will take the initiative and work with partners to defend against and deter malicious actors, promote an international framework for cyber stability, and safeguard an open, interoperable and secure internet that drives economic and social growth and development in the United States and around the world; and
+Undertaking a comprehensive review of United States efforts in both the public and private sectors to support the development and sustainment of world-class civilian and military cybersecurity workforces, and benchmarking these efforts against parallel efforts by foreign governments to support their workforces.
+
+
+
+
+
+FOLLOWING THROUGH ON CYBERSECURITY: President Trump is committed to our Nation's cyber defense, and has been a tireless advocate for strong, modernized security measures.
+Then-candidate Donald Trump on October 3, 2016:
+
+"To truly make America safe, we truly have to make cybersecurity a major priority."
+"The scope of our cybersecurity problem is enormous. Our government, our businesses, our trade secrets and our citizens' most sensitive information are all facing constant cyberattacks and review by the enemy."
+
+  

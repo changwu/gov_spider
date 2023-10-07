@@ -1,0 +1,55 @@
+
+    Memorandum for the Heads of Executive Departments and Agencies
+Subject: Expanding Broadband Deployment and Adoption by Addressing Regulatory Barriers and Encouraging Investment and Training
+Access to high-speed broadband is no longer a luxury; it is a necessity for American families, businesses, and consumers.
+Affordable, reliable access to high-speed broadband is critical to U.S. economic growth and competitiveness. High-speed broadband enables Americans to use the Internet in new ways, expands access to health services and education, increases the productivity of businesses, and drives innovation throughout the digital ecosystem. The private sector and Federal, State, and local governments have made substantial investments to expand broadband access in the United States, but more must be done to improve the availability and quality of high-speed broadband, particularly in areas lacking competitive choices.
+Today, more than 50 million Americans cannot purchase a wired broadband connection at speeds the Federal Communications Commission has defined as the minimum for adequate broadband service, and only 29 percent of Americans can choose from more than one service provider at that speed. As a result, the costs, benefits, and availability of high-speed broadband Internet are not evenly distributed—with considerable variation among States and between urban and rural areas.
+The Federal Government has an important role to play in developing coordinated policies to promote broadband deployment and adoption, including promoting best practices, breaking down regulatory barriers, and encouraging further investment. Doing so will help deliver higher quality, lower cost broadband to more families, businesses, and communities and allow communities to benefit fully from those investments.
+Therefore, by the authority vested in me as President by the Constitution and the laws of the United States of America, I hereby direct the following:
+Section 1. Policy. It shall be the policy of the Federal Government for executive departments and agencies having statutory authorities applicable to broadband deployment (agencies) to use all available and appropriate authorities to: identify and address regulatory barriers that may unduly impede either wired broadband deployment or the infrastructure to augment wireless broadband deployment; encourage further public and private investment in broadband networks and services; promote the adoption and meaningful use of broadband technology; and otherwise encourage or support broadband deployment, competition, and adoption in ways that promote the public interest.
+Agencies shall pay particular attention to opportunities to promote broadband adoption and competition through incentives to new entrants in the market for broadband services; modernizing regulations; accurately measuring real-time broadband availability and speeds; and other possible measures, including supporting State, local, and tribal governments interested in encouraging or investing in high-speed broadband networks. Agencies shall also pay particular attention to increasing broadband access for under-served communities, including in rural areas, and to exploring opportunities to reduce costs for potential low-income users.
+In so doing, agencies shall ensure: protection of existing and planned Federal, State, local, and tribal government missions and capabilities for delivering services to the public, including those related to national security, public safety, and emergency response.
+Agencies shall coordinate the activities discussed in this section through the Broadband Opportunity Council established in section 2 of this memorandum.
+Sec. 2. Establishing the Broadband Opportunity Council. (a) There is established the Broadband Opportunity Council (Council), to be co-chaired by the Secretaries of Commerce and Agriculture, or their designees. In addition to the Co-Chairs, the Council shall include the heads, or their designees, of:
+(i) the Department of Defense;
+(ii) the Department of State;
+(iii) the Department of the Interior;
+(iv) the Department of Labor;
+(v) the Department of Health and Human Services;
+(vi) the Department of Homeland Security;
+(vii) the Department of Housing and Urban Development;
+(viii) the Department of Justice;
+(ix) the Department of Transportation;
+(x) the Department of the Treasury;
+(xi) the Department of Energy;
+(xii) the Department of Education;
+(xiii) the Department of Veterans Affairs;
+(xiv) the Environmental Protection Agency;
+(xv) the General Services Administration;
+(xvi) the Small Business Administration;
+(xvii) the Institute of Museum and Library Services;
+(xviii) the National Science Foundation;
+(xix) the Council on Environmental Quality;
+(xx) the Office of Science and Technology Policy;
+(xxi) the Office of Management and Budget;
+(xxii) the Council of Economic Advisers;
+(xxiii) the Domestic Policy Council;
+(xxiv) the National Economic Council; (xxv) the National Security Council staff; and
+(xxvi) such other Federal agencies or entities as determined appropriate pursuant to subsection (c) of this section.
+(b) The Council shall consult with other relevant agencies and with the Federal Communications Commission as appropriate. The Council shall also coordinate with existing Federal working groups and committees involved with broadband.
+(c) The Director of the National Economic Council and the Director of the Office of Science and Technology Policy shall review, on a periodic basis, the membership of the Broadband Opportunity Council to ensure that it includes necessary Federal Government entities and that the Council is an effective mechanism for coordinating among agencies on the goals and policies outlined in this memorandum. The Director of the National Economic Council and the Director of the Office of Science and Technology Policy may add or remove members of the Council, as appropriate, based on that review.
+Sec. 3. Functions of the Broadband Opportunity Council. (a) As permitted by law, the agencies as members of the Council shall consult with State, local, tribal, and territorial governments, as well as telecommunications companies, utilities, trade associations, philanthropic entities, policy experts, and other interested parties to identify and assess regulatory barriers and opportunities as outlined in section 1 of this memorandum to determine possible actions.
+(b) Not later than 15 days from the date of this memorandum, each agency shall designate a representative to serve as the main point of contact and will notify the Co-Chairs of the Council of that designee.
+(c) Not later than 60 days from the date of this memorandum, agencies shall submit to the Council a comprehensive survey of Federal programs, including the allocated funding amounts, that currently support or could reasonably be modified to support broadband deployment and adoption, as well as a survey of all agency-specific policies and rules with the direct or indirect effect of facilitating or regulating investment in or deployment of wired and wireless broadband networks. Spectrum allocation decisions affecting broadband deployment and other policies related to spectrum allocation are excluded from this survey and from the work of the Council, and shall continue in accordance with the Presidential Memorandum of June 14, 2013 (Expanding America's Leadership in Wireless Innovation).
+(d) Not later than 120 days from the date of this memorandum, agencies shall submit to the Council an initial list of actions that each of their agencies could take to identify and address regulatory barriers, incentivize investment, promote best practices, align funding decisions, and otherwise support wired broadband deployment and adoption.
+(e) Not later than 150 days from the date of this memorandum, the Council shall report to the President, through the Director of the National Economic Council, a coordinated and agreed prioritized list of recommendations on actions that agencies can take to support broadband deployment and adoption. Such recommendations shall include a list of priority actions and rulemakings, as well as timelines to complete them. Before finalizing and submitting these recommendations, the full Council shall meet at least twice.
+Sec. 4. General Provisions. (a) Nothing in this memorandum shall be construed to impair or otherwise affect:
+(i) the authority granted by law to a department or agency, or the head thereof; (ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals; or
+(iii) the authority of the Federal Communications Commission concerning spectrum allocation decisions.
+(b) Nothing in this memorandum shall be construed to require the disclosure of classified information, law enforcement sensitive information, or other information that must be protected in the interests of national security.
+(c) This memorandum shall not require duplicate efforts underway in accordance with other Executive Orders and memorandums.
+(d) This memorandum shall be implemented consistent with applicable law and subject to the availability of appropriations.
+(e) Independent agencies are strongly encouraged to comply with the requirements of this memorandum.
+(f) This memorandum is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+BARACK OBAMA
+  

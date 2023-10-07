@@ -1,0 +1,11 @@
+
+    SANTA FE, NM -- Democratic Presidential candidate Governor Bill Richardson is in the YouTube You Choose Spotlight this week. He is advancing his bold plan for a New Energy Revolution, which the League of Conservation has rated the most aggressive of any presidential candidate's plans.
+Governor Richardson's ground-breaking YouTube campaign asks all Americans to get involved in the conversation by sending in their ideas and stories about energy conservation and creation. Governor Richardson will personally visit the community that submits the best idea or story.
+"I know that government can only go so far on its own and that a revolution starts with individuals," says Governor Richardson. "An energy revolution must start with citizens making sacrifices to find new ways to conserve energy and individuals discovering the next alternative energy source."
+"Who knows, the next big idea that brings us closer to energy independence might be right in your own neighborhood."
+So far, the response to Governor Richardson's call has been overwhelming -- over 309,220 views on YouTube, hundreds of comments, emails, and video responses. Americans everywhere understand the importance of this issue and they are hungry for change.
+Watch Governor Richardson's call for change at www.richardsonforpresident.com/youtube and read his plan for a New Energy Revolution at www.richardsonforpresident.com/issues/energy.
+
+To embed the video on your website, use the following code:
+<object width="425" height="350"><param name="movie" value="http://www.youtube.com/v/ljWHG7eKM3Y&rel=0"></param><param name="wmode" value="transparent"></param><embed src="https://www.presidency.ucsb.edu/%3Ca%20href%3D"http://www.youtube.com/v/ljWHG7eKM3Y&rel=0">http://www.youtube.com/v/ljWHG7eKM3Y&rel=0" type="application/x-shockwave-flash" wmode="transparent" width="425" height="350"></embed></object>
+  

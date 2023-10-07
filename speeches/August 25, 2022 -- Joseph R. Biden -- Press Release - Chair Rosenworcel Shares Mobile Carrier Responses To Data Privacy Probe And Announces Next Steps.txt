@@ -1,0 +1,7 @@
+
+    FCC Launches Investigation to Learn More About Mobile Carriers' Customer Proprietary Network Information Disclosure Policies
+WASHINGTON, August 25, 2022—Federal Communications Commission Chairwoman Jessica Rosenworcel today publicly shared the responses from the nation's 15 top mobile carriers following a request for information about their data retention and data privacy policies and practices.
+"Our mobile phones know a lot about us. That means carriers know who we are, who we call, and where we are at any given moment. This information and geolocation data is really sensitive. It's a record of where we've been and who we are. That's why the FCC is taking steps to ensure this data is protected.
+"Today, I'm publishing the responses I received from mobile carriers on how they handle geolocation data to help shed light on this issue for consumers. Additionally, I have asked the Enforcement Bureau to launch a new investigation into mobile carriers' compliance with FCC rules that require carriers to fully disclose to consumers how they are using and sharing geolocation data," said Chairwoman Rosenworcel. "Finally, if you, as a consumer, have concerns or complaints about how your provider is handling your private data, the FCC is making it easier for you to file complaints and make your concerns known—so we can take action under the law."
+Consumers can now directly file privacy complaints or share concerns about how providers are handling their information on the FCC's website.
+  

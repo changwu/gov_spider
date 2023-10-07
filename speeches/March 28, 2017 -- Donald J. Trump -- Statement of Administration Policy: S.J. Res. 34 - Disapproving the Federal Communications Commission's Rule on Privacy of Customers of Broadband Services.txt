@@ -1,0 +1,6 @@
+
+    STATEMENT OF ADMINISTRATION POLICY
+(Sen. Flake, R-AZ, and 24 cosponsors)
+The Administration strongly supports House passage of S.J.Res. 34, which would nullify the Federal Communications Commission's final rule titled "Protecting the Privacy of Customers of Broadband and Other Telecommunication Services," 81 Fed. Reg. 87274 (December 2, 2016). The rule applies the privacy requirements of the Communications Act of 1934 to broadband Internet Service Providers (ISPs) and other telecommunications carriers. In particular, the rule requires ISPs to obtain affirmative "opt-in" consent from consumers to use and share certain information, including app usage and web browsing history. It also allows ISPs to use and share other information, including e-mail addresses and service tier information, unless a customer "opts-out." In doing so, the rule departs from the technology-neutral framework for online privacy administered by the Federal Trade Commission. This results in rules that apply very different regulatory regimes based on the identity of the online actor.
+If S.J.Res. 34 were presented to the President, his advisors would recommend that he sign the bill into law.
+  

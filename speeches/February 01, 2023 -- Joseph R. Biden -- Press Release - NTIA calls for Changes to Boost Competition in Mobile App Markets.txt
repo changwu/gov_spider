@@ -1,0 +1,32 @@
+
+    WASHINGTON – The Department of Commerce's National Telecommunications and Information Administration (NTIA) said in a new report Wednesday that the current mobile app store model is harmful to consumers and developers, and recommended policy changes to fix it.
+Mobile apps have become an essential tool for participation in much of daily life. Two companies – Apple and Google – act as gatekeepers over the apps that people and businesses rely on, NTIA found in its "Competition in the Mobile Application Ecosystem" report.
+The companies' policies have the potential to harm consumers by inflating prices and reducing innovation.
+NTIA's report and recommendations are part of the Biden administration's push to promote innovation and competition, and to level the economic playing field. NTIA is the president's principal advisor on telecommunications and Internet policy.
+As President Biden wrote in his Wall Street Journal op-ed, "we need to bring more competition back to the tech sector."
+"From finding directions to chatting with loved ones, apps are a critical tool for consumers and an essential part of doing business online," said Alan Davidson, Assistant Secretary of Commerce for Communications and Information and NTIA Administrator. "It is more important than ever that the market for mobile apps remains competitive. NTIA's recommendations will make the app ecosystem more fair and innovative for everyone."
+"This report identifies important ways we can promote competition and innovation in the app market, which will benefit consumers, startups, and small businesses," said Bharat Ramamurti, Deputy Director of the National Economic Council.
+After broad outreach, and input that included more than 150 comments from a diverse array of stakeholders, NTIA identified two key policy issues hindering a more competitive app ecosystem:
+
+Consumers largely can't get apps outside of the app store model, controlled by Apple and Google. This means innovators have very limited avenues for reaching consumers.
+
+
+Apple and Google create hurdles for developers to compete for consumers by imposing technical limits, such as restricting how apps can function or requiring developers to go through slow and opaque review processes.
+
+While the current app store policies do offer some benefits to consumers, including the potential for tighter security controls, the report found that the costs far outweigh the benefits and that privacy and security protections can still be achieved in a more competitive environment.
+The report recommends several changes to improve the app ecosystem for users, including:
+
+Consumers should have more control over their devices. They should be able to choose their own apps as defaults, use alternative mobile app stores, and delete or hide pre-installed apps.
+
+
+App store operators should not be able to "self-preference" their apps in an anticompetitive manner. Operators should not be able to favor their own apps in how they appear in search results or discriminate against other apps that are similar to their own.
+
+
+Operators should lift restrictions on alternative ways for consumers to download and install apps. While still preserving appropriate latitude for privacy and security safeguards, legislative and regulatory measures should prohibit restrictions on sideloading, alternative app stores and web apps.
+
+
+Addressing limits on in-app purchasing options. This can be done by banning requirements that developers use the app store operators' in-app payment system.
+
+As the report notes, new legislation and additional antitrust enforcement actions are likely necessary to boost competition in the app ecosystem. The measures identified in the report will help open the app ecosystem to greater competition, innovation and potential benefits for users and developers. NTIA developed the report at the direction of President Biden's 2021 Executive Order on Competition, committing the administration to promote innovation and competition across the economy.
+NTIA's recommendations, if enacted, would put fairer rules in place in the mobile app ecosystem, to the benefit of consumers and competition.
+  

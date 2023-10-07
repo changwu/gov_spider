@@ -1,0 +1,12 @@
+
+    Today, the FCC Chairwoman wrote to the top 15 mobile providers requesting information about their data retention and data privacy policies and general practices, consistent with the President's commitment to protecting Americans' privacy
+FORWARDING FROM U.S. FEDERAL COMMMUNICATIONS COMMISSION
+- - - - - - -
+FACT SHEET: CHAIRWOMAN ROSEWORCEL PROBES TOP MOBILE CARRIERS ON DATA PRIVACY PRACTICES
+WASHINGTON, July 19, 2022—Federal Communications Commission Chairwoman Jessica Rosenworcel wrote today to the top 15 mobile providers requesting information about their data retention and data privacy policies and general practices.
+In the letters of inquiry, Chairwoman Rosenworcel asks about their policies around geolocation data, such as how long geolocation data is retained and why and what the current safeguards are to protect this sensitive information. Additionally, the letters probe carriers about their processes for sharing subscriber geolocation data with law enforcement and other third parties' data sharing agreements. Finally, the letters ask whether and how consumers are notified when their geolocation information is shared with third parties.
+The letter also states, "mobile internet service providers are uniquely situated to capture a trove of data about their own subscribers, including the subscriber's actual identity and personal characteristics, geolocation data, app usage, and web browsing data and habits."
+Rosenworcel goes on to say, "the highly sensitive nature of this data—especially when location data is combined with other types of data—and the ways in which this data is stored and shared with third parties is of utmost importance to consumer safety and privacy."
+Mobile providers have until August 3, 2022, to reply and provide a response.
+This latest FCC probe is consistent with previous agency action to protect consumers' location-based data. In February 2020, the Federal Communications Commission held the nation's four largest wireless carriers responsible for more than $200 million in fines for selling access to their customers' location information without taking reasonable measures to protect against unauthorized access to that information. Through its continued oversight the FCC has ensured that these carriers are no longer monetizing their consumers' real-time location in this way, and the agency is continuing its investigation into these practices.
+  

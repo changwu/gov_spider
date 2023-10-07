@@ -1,0 +1,40 @@
+
+    Dear Hospital Administrator:
+On behalf of President Trump and the White House Coronavirus Task Force, I want to extend my gratitude for your tireless efforts to provide healthcare to Americans during this unprecedented pandemic. Your hospital is on the frontlines of America's response, each day providing lifesaving treatment for patients. Your efforts are indispensable, and the Trump Administration values them deeply.
+The Coronavirus Task Force continues to take aggressive and proactive steps to address the COVID-19 pandemic as the health and safety of the American people remain a top priority. FEMA is coordinating the full Federal response along with the Department of Health and Human Services (HHS) to ensure State, local, tribal, and territorial governments receive the supplies and support they need, including medical supplies. This is truly a whole-of-government response that is Locally executed, State managed, and Federally supported.
+As you know, partnership is essential as we work together to address the COVID-19 pandemic. To that end, we are requesting your assistance with reporting data that is critical for epidemiological surveillance and public health decision making. We understand that you may already be reporting to your State, but the data is needed at the federal level to support FEMA and the Centers for Disease Control and Prevention (CDC) in their efforts to support states and localities in addressing and responding to the virus.
+At the President's direction, we are requesting that all hospitals report the following information to HHS:
+
+COVID-19 Test Result Reporting 
+
+We are requesting that all hospitals report data on COVID-19 testing performed in your Academic/University/Hospital "in-house" laboratories. If all of your COVID-19 testing is sent out to private labs and performed by one of the commercial laboratories on the list below, you do not need to report using this spreadsheet.
+
+Commercial laboratories: LabCorp, BioReference Laboratories, Quest Diagnostics, Mayo Clinic Laboratories, and ARUP Laboratories. 
+
+
+
+
+Reporting Instructions: We request that all data for COVID-19 testing completed at "in-house" laboratories or a laboratory not listed above be reported using the attached spreadsheet.
+
+
+Due date/time: The spreadsheet is due EVERY day at 5 PM ET.
+Data to report: The data elements are outlined in the attached spreadsheet, but should include all test results that were completed during the previous day with a midnight cutoff.
+Where to submit: Submit the spreadsheet via email to fema-hhs-covid-diagnostics-tf@fema.dhs.gov.
+Data elements to report: Included in the attached spreadsheet with definitions.
+
+
+For questions about reporting, please contact fema-hhs-covid-diagnostics-tf@fema.dhs.gov.
+
+
+National Healthcare Safety Network (NHSN) COVID-19 Module
+
+To monitor the rapid emergence of COVID-19 and the impact on the healthcare system, all hospitals should report data each day to the National Healthcare Safety Network (NHSN) COVID-19 Patient Impact and Hospital Capacity Module, which has been made available for hospitals to use beginning March 27, 2020. All hospitals that currently use NHSN have received an email from the CDC with additional details about how to report to the new module. Although most hospitals already regularly submit data to NHSN on healthcare-associated infections for purposes of CMS reporting, the data we are now asking you to report is necessary in monitoring the spread of severe COVID-19 illness and death as well as the impact to hospitals. Additional details can be found in the attached documents and at the following website: https://www.cdc.gov/nhsn/acute-care-hospital/covid19/index.html. 
+For questions on this module, please contact NHSN@cdc.gov and put "COVID-19 Module" in the subject line. 
+
+
+
+ The data will help us better understand disease patterns and develop policies for prevention and control of health problems related to COVID-19. All data provided by hospitals will be maintained in accordance with the Privacy Act of 1974, as amended, 5 U.S.C. § 552a.
+We appreciate our strong partnership with you and we are grateful for your cooperation with this request to obtain the data needed to support a robust State and Federal response to COVID-19.
+Sincerely,
+Michael R. Pence Vice President of the United States
+  

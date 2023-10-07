@@ -1,0 +1,8 @@
+
+    Today I am pleased to sign into law H.R. 3116, the "Examination Parity and Year 2000 Readiness for Financial Institutions Act."
+This legislation calls upon Federal financial regulatory agencies to conduct seminars and provide guidance for financial institutions on the implications of the Year 2000 problem. It also extends to the Office of Thrift Supervision and the National Credit Union Administration statutory authority, similar to that of other Federal banking agencies, to examine the operations of contractors that perform services for thrifts and credit unions. These services include data processing and the maintenance of computer systems that are used to track everything from day-today deposit and loan activity to portfolio management.
+Many thrifts and credit unions, particularly smaller ones, rely heavily on the services of outside contractors for the processing of critical business applications. This legislation will assist Federal regulators in better understanding the Year 2000 risks to which thrifts and credit unions may be exposed and will bolster efforts to work with them to ensure that they will be able to continue to provide services to their customers without disruption.
+The Year 2000 problem is one of the great challenges of the Information Age in which we live. My Administration is committed to working with the Congress and the private sector to ensure that we minimize Year 2000-related disruptions in the lives of the American people.
+WILLIAM J. CLINTON
+The White House, March 20, 1998.
+  

@@ -1,0 +1,140 @@
+
+    STATEMENT OF ADMINISTRATION POLICY
+(Senate)(Johnston (D) LA)
+The Administration strongly supports Senate passage of S. 1220, as reported by the Senate Energy and Natural Resources Committee. The bill represents a needed effort to achieve balanced, realistic, and comprehensive energy legislation. It will help move America toward a more secure, cleaner, and more efficient energy future. It is estimated that S. 1220 would reduce domestic oil consumption by about 1.2 million barrels per day beginning in the year 2000 and by 2.4 million barrels per day in the year 2010.
+The Administration supports provisions to reform energy markets by streamlining regulation and allowing market forces to operate freely. These provisions include reform of the Public Utility Holding Company Act to enhance competition in electricity generation and streamlining or simplification of natural gas, hydropower, and nuclear power regulation. Such provisions are essential components of a balanced energy bill. In addition, the Administration supports provisions to increase energy efficiency, promote renewable energy development, and increase the use of alternative fuels in vehicle fleets. Finally, the Administration strongly believes that provisions allowing for the environmentally sensitive development of the Arctic National Wildlife Refuge (ANWR) are vital to America's future.
+The Administration will not support S. 1220 if certain amendments are included in the bill. In particular, the President's senior advisers would recommend a veto if the bill includes amendments which mandate Corporate Average Fuel Economy (CAFE) levels that would jeopardize the safety of American car-buyers, risk American jobs, or impose unacceptable costs on consumers and manufacturers. Furthermore, if the provisions of S. 1220 concerning ANWR development are deleted and the provisions of S. 39 (or similar legislation) are inserted therein, the President's senior advisers would recommend a veto.
+While strongly supporting the overall bill, the Administration recommends that sections of the bill be amended to delete or modify certain objectionable provisions. Changes need to be made to certain alternative fuels provisions in Title IV, specified natural gas related provisions in Title XI, and outlays in the Uranium Enrichment title. These recommended changes are described in the attachment to this statement.
+SCORING FOR THE PURPOSE OF PAY-AS-YOU-GO AND DISCRETIONARY CAPS
+At least one provision of S. 1220 would increase direct spending; therefore, it is subject to the pay-as-you-go requirement of the Omnibus Budget Reconciliation Act (OBRA) of 1990. The Administration supports an amendment to the uranium enrichment title that is similar to a bill which passed the Senate last year. With this amendment, the bill would be deficit neutral for pay-as-you-go purposes. It should be noted that under OMB scoring, which is used to determine the size of any necessary sequester of direct spending programs, the leasing of ANWR creates receipts to the Government which are scorable.
+OMB's preliminary scoring estimates of the bill as written are presented in the table below. Final scoring of this legislation may deviate from these estimates. If S. 1220 were enacted, final OMB scoring estimates would be published within five days of enactment, as required by OBRA. The cumulative effects of all enacted legislation on direct spending will be issued in monthly reports transmitted to the Congress.
+ESTIMATES FOR PAY-AS-YOU-GO(dollars in millions)
+
+
+ 
+1992
+1993
+1994
+1995
+1992-1995
+
+
+Outlays
+ 
+ 
+ 
+ 
+ 
+
+
+Title VII (ANWR)
+$ --
+$ 951
+$ .5
+$ .5
+$ 952
+
+
+Title X (Uranium)
+613
+245
+178
+548
+1584
+
+
+
+   Subtotal
+613
+1196
+178.5
+548.5
+2536
+
+
+Receipts/Revenues
+ 
+ 
+ 
+ 
+ 
+
+
+Title III (CAFE)
+--
+--
+-17
+-33
+-50
+
+
+Title VII (ANWR)
+--
+-1901
+1
+1
+-1899
+
+
+Title VII (OCS)
+--
+--
+5
+--
+5
+
+
+   Subtotal
+--
+-1901
+-11
+-32
+-1944
+
+
+   Total
+$613
+$-705
+$167.5
+$516.5
+$ 592
+
+
+
+Attachment
+Provisions Recommended for Deletion or Modification - Major Concerns
+Subtitle C of Title IV, concerning alternative fuels, is unnecessary and the Administration strongly recommends that it be deleted.
+Subtitle C requires the Secretary of Energy to determine if alternative fuels are in short supply and to enter into "voluntary" agreements with fuel producers to produce and sell alternative motor fuels. The Secretary is directed to submit to Congress a plan to ensure that sufficient alternative fuels are available to meet domestic needs. The plan is to include requirements for fuel providers to produce and distribute alternative fuels. This mandatory production allocation requirement goes well beyond the National Energy Strategy. Centralized supply-demand planning and government production allocation are an intrusion into the market place which will serve no useful purpose.
+With respect to Title III, the Administration favors a flexible rulemaking approach to the setting of fuel economy standards. The Department of Transportation, with the assistance of the National Academy of Sciences, is assessing the feasibility of future fuel economy levels. Fuel economy levels should not be decided upon before the results of this study have been analyzed. The Secretary should also be given discretion to consider approaches other than uniform percentage increase.
+Title XI authorizes the Federal Energy Regulatory Commission (FERC) to engage in simplified certification procedures to expedite construction, extension, and operation of natural gas pipelines, provided certain terms and conditions are met.
+Provisions in sections 11101 and 11102 would limit the use of streamlined licensing options for gas pipelines if such pipelines displace existing service by a local distribution company. These provisions include an "anti-bypass" limitation which is anticompetitive. The anti-bypass limitation would add a layer of regulatory review, uncertainty, and delay to what is intended to be a streamlined alternative to the traditional pipeline construction regulatory process.
+Section 11104(e) conditions the approval of natural gas imports on Federal actions to redress any anti-competitive impacts on domestic producers and transfers the authority to approve imports from the Department of Energy (DOE) to the FERC. This provision should be deleted because it would unduly impair the flexibility that FERC currently has to develop rates which are in the public interest. FERC has been acting under existing authority to address the rate conditions which gave rise to this amendment. This provision, as written, could be interpreted by our trading partners to be in conflict with U.S. obligations under the U.S. Canada Free Trade Agreement. If legislation on this subject is to be included, the compromise language provided by the Administration to Senator Domenici is far preferable to this section.
+
+Attachment: Technical Changes Sought by the Administration
+Title IV, Section 4102, which establishes a time schedule for the Federal purchase of alternative fuel powered vehicles, should be deleted. The prescribed schedule is contrary to the more flexible approach contained in the Executive Order on Federal Energy Management (E.O. 12759), which permits consideration of the availability of alternative fuel vehicles as well as the additional funding necessary to acquire them.
+Section 4111, which delegates enforcement of Federal law to State governors, raises constitutional questions by authorizing persons not appointed pursuant to the Appointments Clause to exercise significant Federal authority. This provision should be deleted.
+The enforcement provisions in title IV, concerning alternative fuel fleets, are inconsistent with comparable provisions in other environmental laws (e.g. the Oil Pollution Act and the Clean Air Act Amendments). These provisions should be amended to conform to section 716 of S. 570, the Administration's National Energy Strategy legislation
+Title V, section 5101 should be amended to remove provisions which infringe upon the President's constitutional power in foreign affairs. The offending provisions require contacts between certain interagency councils and foreign nations or international organizations. This section should also be amended to remove its mandate to establish a Committee on Energy Efficiency Commerce and Trade (COEECT). COEECT would overlap with and duplicate existing interagency working groups on energy trade promotion.
+Section 5104 grants DOE expanded energy export promotion responsibilities which are inconsistent with the mandate of the Department of Commerce (DOC), which is the lead Federal agency in export promotion. Section 5104 should be modified to authorize DOE to assist DOC or to undertake mutually agreed upon activities in support of DOC's mandate, thus preserving DOC's role in export promotion.
+Section 5301, subtitle C, which streamlines the licensing of hydroelectric power projects, should be modified as follows. FERC should be given exclusive authority to set terms and conditions for licenses for non-Federal projects at existing dams. The subtitle should stipulate that a FERC license for a non-Federal project at an existing dam will prevail if there is a conflict between it and any other permit, license, or certificate. Finally, the subtitle should be amended to retain section 4(e) of the Federal Power Act for projects at new dams. Section 4(e) authorizes Secretaries of Federal land management agencies to issue mandatory conditions for new hydroelectric projects on lands under their purview.
+Title VI, section 6101 includes a provision amending Title III of the National Energy Conservation Policy Act by requiring DOE to issue a Federal building energy code to assure the inclusion of energy efficiency measures in Federal buildings. This provision should be modified to exclude public, Department of Housing and Urban Development (HUD)-assisted, and HUD-insured housing from the definition of "Federal building". HUD has been directed to promulgate energy efficiency standards for these buildings under section 109 of the National Affordable Housing Act.
+Sections 6110 and 6111 contain provisions which authorize private groups to trigger the revision of specified Federal regulatory standards. These provisions raise constitutional questions by authorizing persons not appointed pursuant to the Appointments Clause to exercise significant Federal authority and should be deleted. Sections 6110 and 6111 should also be amended to eliminate command and control style mandatory energy efficiency standards for commercial and industrial equipment and for showerheads.
+Section 6201, "Energy Management Requirement for Federal Buildings," should be modified to make the project selection criterion and energy saving goals consistent with E.O. 12759. Section 6201(a)(1) requires each Federal agency, to the maximum extent practicable, to undertake all energy conservation measures with a payback period of less than ten years. E.O. 12759 employs the preferred Federal life cycle cost methodology for project selection. Moreover, E.O. 12759 sets a building energy efficiency goal for each agency of 20 percent savings per square foot by the year 2000 from 1985 usage levels. Section 6201(a)(1) has no specific goal other than the undertaking of numerous projects with lengthy paybacks. As a result, DOE conservatively estimates the cost of implementing Section 6201(a)(1) at $5 billion or more between now and the year 2000.
+The enforcement provisions in Title VII, concerning ANWR leasing, are inconsistent with comparable provisions in other environmental laws (e.g. the Oil Pollution Act and the Clean Air Act Amendments). These provisions should be amended to conform to S. 570, the Administration's National Energy Strategy legislation.
+Section 7601 should be modified to allow all receipts from the development of ANWR to be retained by the Federal Government consistent with the President's FY 1992 budget.
+Title VIII requires DOE and the Nuclear Regulatory Commission to undertake certain actions related to the development of advanced nuclear reactor technologies within unrealistic and inappropriate time-frames. This title should be modified to remove all mandatory time-frames and characterize any remaining time-frames as goals.
+Title X, which restructures the Department of Energy's uranium enrichment enterprise as a wholly-owned Government corporation, raises serious constitutional, litigation, indemnification, and trade problems which should be addressed.
+Title X restricts the President's authority to appoint and remove the corporation's Administrator, and the Secretary of Energy's ability to supervise the Administrator. The corporation is provided budgetary and legislative bypass authority, and Congress is authorized access to most corporation documents. These authorities would impair the President's constitutional power to supervise his subordinates and withhold confidential documents and should be deleted or modified.
+Section 1402(c) gives the corporation authority to litigate in its own name and by its own attorneys and section 1402(k) authorizes the corporation to settle and adjust claims. Both sections impinge upon the Attorney General's litigation authority and should be removed.
+Section 1606, which would authorize the corporation to indemnify its contractors for negligence or misconduct should be deleted. Such authority is unjustified, could establish a very undesirable precedent, and could circumvent limitations on government funding to the corporation contained in this title.
+Section 1402(r), which would provide Federal Tort Claims Act protection for the corporation for claims arising from a nuclear incident prior to its licensing, should also be deleted as inappropriate.
+Subtitle B, which authorizes various Federal programs to aid the domestic uranium industry, should be deleted. This subtitle includes a $300 million subsidy to help uranium companies comply with regulations governing the cleanup of uranium mill tailings. At least 25 percent of this amount will benefit foreign companies.
+Subtitle B includes a provision which would establish both a natural and a depleted uranium reserve to be held in stockpiles for military uses. This provision should be deleted. These reserves can be accomplished through administrative actions. Due to a planned reduction in the size of the nuclear stockpile, DOE is currently studying the use of the large supply of enriched uranium that will be returned to the Department.
+Subtitle B also includes a provision which prohibits the use of foreign uranium in a new "overfeeding" program to produce enriched uranium. This provision should be deleted. It could be interpreted by our trading partners to be in conflict with U.S. obligations under the General Agreement on Trade and Tariffs and the U.S.-Canada Free Trade Agreement. In the same vein, the title also inappropriately restricts Federal purchases of foreign uranium.
+Title XI, Section 11101 contains a provision which would require tariff filings by deregulated pipelines. This provision, proposed section 7(j)(l), should be deleted because of its potential anti-competitive effect.
+Section 11107, which provides additional antitrust protection for joint ventures selling natural gas, should be deleted. Such additional protections are unnecessary. Legitimate joint ventures are already evaluated by the Justice Department under the rule of reason. Special industry-oriented antitrust protections undermine the general applicability of antitrust laws and can lead to confusion and unintended results in the courts.
+Title XII, which provides discretionary financial assistance to States based on OCS drilling activities occurring in coastal waters, should be modified. As currently drafted, title XII will result in substantial litigation against the United States, both with respect to the boundaries drawn and the formulas used for distribution of funds to State and local governments.
+The title should be amended to decrease the amount of revenues lost to the Federal Treasury. The bill's definition of "new revenues" (i.e. revenues from new wells on already producing leases) would be virtually impossible to administer. It should be amended to cover only revenues from leases from which no royalty payments have been made. The distribution of assistance should be based solely on actual production of the new leases, not new drilling on existing leases. Specific amounts should be provided directly to impacted local communities rather than providing all the funds to States. The bill's formula for distributing assistance to States based on seaward lateral boundaries should be deleted. Such a formula would be extremely complicated to administer and would result in extensive litigation, thus making it virtually impossible to distribute funds.
+Title XIV, section 14108, requiring development of a coal export plan and section 14109. establishing a Clean Coal Technology Export Coordination Council, are unnecessary and should be deleted. The Executive branch already has an effective export program under which DOE, DOC and other appropriate agencies are carrying out numerous initiatives to promote coal and coal- related technology exports. The new council would needlessly duplicate the DOC-chaired interagency Trade Promotion Coordination Committee and its Working Group on Energy, Environment, and Infrastructure. The Administration strongly opposes placing lead responsibility for export promotion or an export promotion council in any agency other than DOC. Such action would seriously detract from the overall coordination of the existing export program.
+Section 14109 should also be amended to remove provisions which infringe upon the President's constitutional power in foreign affairs. The offending provisions require contacts between certain interagency councils and foreign nations or international organizations.
+  

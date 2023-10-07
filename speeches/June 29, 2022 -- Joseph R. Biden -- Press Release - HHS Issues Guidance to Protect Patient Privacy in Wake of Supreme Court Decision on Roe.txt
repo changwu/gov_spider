@@ -1,0 +1,27 @@
+
+    Guidance includes information about what's protected – and what's not – when using period trackers and other health information apps on smartphones. 
+On the heels of the Supreme Court ruling in Dobbs vs. Jackson Women's Health Organization, where the right to safe and legal abortion was taken away, President Biden and U.S. Department of Health and Human Services (HHS) Secretary Xavier Becerra called on HHS agencies to take action to protect access to sexual and reproductive health care, including abortion, pregnancy complications, and other related care. Today, in direct response, the HHS Office for Civil Rights (OCR) issued new guidance to help protect patients seeking reproductive health care, as well as their providers.
+In general, the guidance does two things:
+
+addresses how federal law and regulations protect individuals' private medical information (known as protected health information or PHI) relating to abortion and other sexual and reproductive health care – making it clear that providers are not required to disclose private medical information to third parties; and
+addresses the extent to which private medical information is protected on personal cell phones and tablets, and provides tips for protecting individuals' privacy when using period trackers and other health information apps.
+
+According to recent reports, many patients are concerned that period trackers and other health information apps on smartphones may threaten their right to privacy by disclosing geolocation data which may be misused by those seeking to deny care.
+"How you access health care should not make you a target for discrimination. HHS stands with patients and providers in protecting HIPAA privacy rights and reproductive health care information," said HHS Secretary Xavier Becerra. "Anyone who believes their privacy rights have been violated can file a complaint with OCR as we are making this an enforcement priority. Today's action is part of my commitment to President Biden to protect access to health care, including abortion care and other forms of sexual and reproductive health care."
+This guidance addresses the circumstances under which the Health Insurance Portability and Accountability Act (HIPAA) Privacy Rule permits disclosure of PHI without an individual's authorization. It explains that disclosures for purposes not related to health care, such as disclosures to law enforcement officials, are permitted only in narrow circumstances tailored to protect the individual's privacy and support their access to health care, including abortion care. Specifically, the guidance:
+
+Reminds HIPAA covered entities and business associates that they can use and disclose PHI, without an individual's signed authorization, only as expressly permitted or required by the Privacy Rule.
+Explains the Privacy Rule's restrictions on disclosures of PHI when required by law, for law enforcement purposes, and to avert a serious threat to health or safety.
+
+OCR is also issuing information for individuals about protecting the privacy and security of their health information when using their personal cell phone or tablet. This guidance explains that, in most cases, the HIPAA Privacy, Security, and Breach Notification Rules do not protect the privacy or security of individuals' health information when they access or store the information on personal cell phones or tablets. This guidance also provides tips about steps an individual can take to decrease how their cell phone or tablet collects and shares their health and other personal information without the individual's knowledge. This guidance:
+
+Explains how to turn off the location services on Apple and Android devices.
+
+
+Identifies best practices for selecting apps, browsers, and search engines that are recognized as supporting increased privacy and security.
+
+The guidance on the HIPAA Privacy Rule and Disclosures of Information Relating to Reproductive Health Care may be found at https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/phi-reproductive-health/index.html.
+The guidance on Protecting the Privacy and Security of Your Health Information When Using Your Personal Cell Phone or Tablet may be found at https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/cell-phone-hipaa/index.html.
+If you believe that a HIPAA-covered entity or its business associate violated your (or someone else's) health information privacy rights or committed another violation of the Privacy, Security, or Breach Notification Rules, you may file a complaint at https://www.hhs.gov/hipaa/filing-a-complaint/index.html.
+For more information on how HHS is working to protect reproductive rights, visit ReproductiveRights.gov.
+  

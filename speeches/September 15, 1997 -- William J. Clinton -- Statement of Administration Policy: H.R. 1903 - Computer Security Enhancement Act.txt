@@ -1,0 +1,17 @@
+
+    STATEMENT OF ADMINISTRATION POLICY
+(House)
+(Sensenbrenner (R) Wisconsin and 29 others)
+The Administration appreciates the support provided in H.R. 1903 for reinforcing the role of the Commerce Department, especially the National Institute of Standards and Technology (NIST), in its work to promote strong computer security practices. However, the Administration opposes House passage of H.R. 1903, the Computer Security Enhancement Act of 1997, unless it is amended to delete Section 7.
+Section 7 would require NIST to evaluate the foreign availability and strength of encryption technologies subject to U.S. export controls. The regulations that implement U.S. export control policy already provide a mechanism for assessing availability and strength of foreign encryption products. The Administration believes that the availability of encryption technologies from sources outside the United States is but one of many factors that should bear on export control determinations. Moreover, Section 7 would inappropriately put NIST, a non-regulatory agency, in the position of second guessing the existing export control process.
+The Administration also recommends deletion of four other provisions of H.R. 1903:
+
+Section 6, which would require NIST to obtain written recommendations from the Computer System Security and Privacy Advisory Board prior to submitting proposed standards and guidelines for Federal computer security to the Secretary of Commerce. NIST always solicits the views of the Board on proposed standards for Federal computer security in conjunction with its notice and comment process. A requirement for formal written Board comment and recommendations, however, would add significant delay to an already lengthy standards-setting process.
+
+
+Section 8, which would prohibit NIST from adopting standards or carrying out activities or policies for the establishment of encryption requirements for use in non-Federal computer systems. NIST does not develop or issue any required standards for the private sector, but does collaborate with private sector voluntary consensus standards organizations on standards that will serve both commercial and government interests. This provision could be read to preclude such collaboration.
+
+
+Sections 13(3) and 14, which direct the Under Secretary of Commerce for Technology to promote the establishment of a national standards-based infrastructure to support commercial and private uses of encryption, and to establish a national policy panel for digital signatures. Efforts are underway in the private sector to develop agreed-upon digital signature standards, and it is premature to mandate Federally-sponsored national standards at this time. At a minimum, these provisions should not be interpreted to preclude on-going private sector efforts to develop a standard-based infrastructure for confidentiality and authentication.
+
+  

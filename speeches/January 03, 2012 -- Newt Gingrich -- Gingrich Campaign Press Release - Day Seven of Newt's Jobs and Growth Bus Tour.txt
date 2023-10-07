@@ -1,0 +1,8 @@
+
+    Day Six: Newt stops in Ames, Marshalltown, and Waterloo
+Day Five: Newt stops in Council Bluffs and Atlantic
+Day Four: Newt stops in Des Moines, Creston, and Shenandoah
+Day Three: Newt stops in Sioux City, Winterset, Storm Lake, Denison and Carroll
+Day Two: Newt stops in Mason City, Algona, Spencer, and Le Mars
+Day One: Newt stops in Dubuque, Dyersville, and Decorah
+  

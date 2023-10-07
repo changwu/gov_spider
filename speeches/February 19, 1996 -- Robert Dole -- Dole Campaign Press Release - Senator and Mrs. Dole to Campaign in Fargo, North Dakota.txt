@@ -1,0 +1,20 @@
+
+    GOP Presidential front-runner Senator Bob Dole and Mrs. Dole have scheduled a visit to North Dakota, Wednesday, February 21st. Senator and Mrs. Dole will attend a campaign rally in Fargo, North Dakota. Media attending should arrive thirty minutes early and will be asked to provide local or national media credentials.
+WHO:           Senator Bob Dole and Mrs. Dole
+WHAT:          Airport Arrival
+WHEN:          Wednesday, February 21, 1996 12:50 pm CST
+WHERE:         Hector International Airport Valley Aviation, 3801 20th
+                Street, North
+WHAT:          Campaign Rally
+WHEN:          Wednesday, February 21, 1996
+                1:00 pm - 2:50 pm CST
+WHERE:         Centennial Hall (Civic Center)
+                207 North Fourth Street
+                Fargo, North Dakota 58102
+FACILITIES:    Mult, Riser, TV Lighting, Press Filing Center Straight
+                on (throw 50 ft.), Cut away (pool)
+WHAT:          Airport Departure
+WHEN:          Wednesday, February 21, 1996 CST 3:50 pm CST
+WHERE:         Hector International Airport Valley Aviation,
+                3801 20th Street, North
+  

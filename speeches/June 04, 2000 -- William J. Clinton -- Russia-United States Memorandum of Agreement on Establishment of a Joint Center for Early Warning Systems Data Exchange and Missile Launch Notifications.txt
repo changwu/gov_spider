@@ -1,0 +1,79 @@
+
+    The United States of America and the Russian Federation, hereinafter referred to as the Parties, Guided by the Joint Statement of the Presidents of the United States of America and the Russian Federation on the Exchange of Information on Missile Launches and Early Warning of September 2, 1998,
+Taking into account the need to minimize the consequences of a false missile attack warning and to prevent the possibility of a missile launch caused by such false warning,
+Have agreed as follows:
+Article 1
+1. In order to set up an uninterrupted exchange of information on launches of ballistic missiles and space launch vehicles from the early warning systems of the United States of America and the Russian Federation, hereinafter, the warning systems of the Parties, as well as to provide for the possible implementation of a multilateral regime for the exchange of notifications of launches of ballistic missiles and space launch vehicles, the Parties shall establish, in Moscow, a joint center for the exchange of data from early warning systems and notifications of missile launches, hereinafter, the Joint Data Exchange Center (JDEC).
+2. Each Party shall appoint its representative and deputy representatives, hereinafter, respectively, the JDEC Heads and Deputy Heads, who shall have equal rights in managing the activities of the JDEC.
+3. The JDEC Heads shall jointly carry out the daily management of JDEC activities, and shall be jointly responsible for the performance of the tasks assigned to the JDEC.
+4. Operations of the JDEC shall be jointly carried out by specially trained operational personnel of the Parties.
+Article 2
+The JDEC shall provide for the:
+a. implementation of an exchange of information on launches of ballistic missiles and space launch vehicles detected by the warning systems of the Parties;
+b. efficient resolution of possible ambiguous situations related to information from the warning systems of the Parties;
+c. creation of the conditions for the preparation and maintenance of a unified database for a multilateral regime for the exchange of notifications of launches of ballistic missiles and space launch vehicles.
+Article 3
+1. Information shall be exchanged on the following types of objects detected by the warning systems of the Parties in accordance with Appendices 1 and 2 to this Memorandum, which define the types of objects on which information shall be exchanged and the implementation phases of the information exchange:
+a. all launches of ICBMs and SLBMs of the United States of America and the Russian Federation;
+b. launches of ballistic missiles, that are not ICBMs or SLBMs, of the United States of America and the Russian Federation;
+c. launches of ballistic missiles of third states that could pose a direct threat to the Parties or that could create an ambiguous situation and lead to possible misinterpretation;
+d. launches of space launch vehicles.
+2. Each Party, at its discretion, in support of the objectives of this Memorandum or Article 3 of the Agreement on Measures to Reduce the Risk of Outbreak of Nuclear War Between the United States of America and the Union of Soviet Socialist Republics of September 30, 1971, may also provide information on other launches and objects, including de-orbiting spacecraft, and geophysical experiments and other work in near-earth space that are capable of disrupting the normal operation of equipment of the warning systems of the Parties.
+Article 4
+1. The sources for obtaining information exchanged pursuant to paragraph 1 of Article 3 of this Memorandum shall be the equipment of the space- and ground-based warning systems of the Parties. When exchanging information, the sources of the data shall not be specified.
+2. Each Party shall provide processed launch information in a time frame that is near real time, if possible.
+Article 5
+Whenever available, the following information shall be exchanged in accordance with the formats set forth in Appendix 3 to this Memorandum:
+a. when a launch of a ballistic missile is detected—the time of launch, generic missile class, geographic area of the launch, geographic area of payload impact, estimated time of payload impact and launch azimuth;
+b. when a launch of a space launch vehicle is detected—the time of launch, generic missile class, geographic area of the launch and launch azimuth.
+Article 6
+The Parties hereby establish a Joint Commission for purposes of overseeing the activities of the JDEC and coordinating the implementation of this Memorandum. The regulations of the Joint Commission are set forth in Appendix 4 to this Memorandum.
+Article 7
+The Parties shall jointly provide for the:
+a. drafting, agreement and updating of documents establishing JDEC operating procedures, including implementation of JDEC joint duty shifts;
+b. training of personnel for the performance of the tasks assigned to the JDEC at locations agreed by the Parties;
+c. designation of primary and backup communications channels to ensure uninterrupted JDEC operations;
+d. confidentiality of the information exchanged between the JDEC and the warning systems of the Parties.
+Article 8
+1. The Parties intend that the JDEC shall commence operations 365 days after this Memorandum enters into force.
+2. Upon commencement of operations, an operational test period lasting up to 100 days shall precede commencement of Phase I of JDEC operations. During this period, the Parties shall test data exchange procedures, equipment and software and shall correct shortcomings that they find. The operational test period shall conclude and Phase I of JDEC operations shall commence upon agreement of the Joint Commission. Acknowledging that the decision of the Joint Commission to transition to subsequent phases is the determining factor, the Parties intend to implement the transition to subsequent phases as soon as practicable.
+3. The Executive Agents of the Parties for implementing this Memorandum shall be the Department of Defense of the United States of America and the Ministry of Defense of the Russian Federation.
+4. The JDEC shall consist of the facilities, equipment and individual components listed in Appendix 5 to this Memorandum.
+5. The staff and categories of personnel servicing the JDEC are set forth in Appendix 6 to this Memorandum.
+6. The working languages of the JDEC shall be English and Russian.
+Article 9
+1. Funding for establishing the JDEC and funding for its operation shall be shared equally by the Parties.
+2. Determination of the application of customs duties and fees, payments, taxes and other charges to the establishment and operation of the JDEC shall be agreed by the Parties once the JDEC architecture has been defined, consistent with the provisions of paragraph 1 of this Article and taking into account the provisions of the laws of the Parties.
+Article 10
+Each Party shall provide its own transportation to and from the JDEC for its personnel listed in Appendix 6 to this Memorandum.
+Article 11
+Each Party shall provide its own medical services, including medical insurance, for its personnel working at the JDEC listed in Appendix 6 to this Memorandum.
+Article 12
+1. Each Party shall provide for the delivery of equipment to outfit the JDEC. The list of this equipment and procedures for its assembly, installation and adjustment shall be agreed by the Parties. The assembly, installation and adjustment of this equipment shall be supervised by the JDEC Heads. Maintenance of JDEC equipment shall be performed by specially trained personnel of the Parties under the supervision of and in accordance with the decisions of the JDEC Heads.
+2. JDEC communications shall be organized in accordance with procedures agreed by the Parties.
+3. The certification of hardware and software installed in the JDEC shall be carried out as agreed by the Parties, taking into account the technical standards of the United States of America and the laws of the Russian Federation.
+4. Each Party shall retain ownership of any equipment, software or other materials that it provides for use in the JDEC.
+5. Each Party shall not transfer any equipment, software or other materials, hereinafter, materials, received from the other Party pursuant to this Memorandum to any third state or legal or natural person without the written agreement of the Party that provided these materials. Each Party shall use materials received from the other Party only for the purposes of this Memorandum and shall take all reasonable measures within its power to ensure the safekeeping and security of such materials.
+Article 13
+1. Information provided by either Party pursuant to this Memorandum shall be considered to be of a confidential and sensitive nature. This information may not be disclosed or transmitted in any form to a third state or any legal or natural person without the written agreement of the Party that provided the information. This information shall be used only for the purposes of this Memorandum.
+2. Each Party shall itself determine the necessary measures for the appropriate handling of the information and its required protection in accordance with its own laws and regulations. Each Party shall ensure the required protection for information exchanged between the JDEC and that Party.
+3. The Parties shall agree in the Joint Commission on procedures for handling and exchanging information within the JDEC that ensures the information's required protection.
+4. In accordance with paragraph 13 of Appendix 4 to this Memorandum, issues relating to compliance with the provisions of this Article shall be considered by the Parties in the Joint Commission.
+Article 14
+1. Each Party shall facilitate the entry into and exit from its territory by military and civilian personnel of the other Party engaged in implementing this Memorandum.
+2. Upon request from the United States of America, the Russian Federation shall issue the necessary documents required for customs formalities and entry into and exit from the Russian Federation by citizens of the United States of America working at the JDEC and for members of their families. Citizens of the United States of America being sent to work at the JDEC shall be subject to the visa requirements of the Russian Federation.
+3. Any issues relating to the provisions of this Article shall be resolved through diplomatic channels. The relevant documents shall be requested ahead of time; as a rule, at least 20 days in advance.
+Article 15
+The Parties shall work out in the Joint Commission agreements on liability for damages that may arise as the result of activities with respect to the implementation of this Memorandum. Except for pre-construction design work, construction work at the JDEC shall not begin before entry into force of these agreements.
+Article 16
+Neither Party shall display its state symbols on the exterior of the walled perimeter of the JDEC. All signage on the exterior of this perimeter shall be in Russian. All signage within this perimeter shall be in English and Russian.
+Article 17
+Amendments to this Memorandum shall enter into force upon agreement by the Parties in the Joint Commission.
+Article 18
+This Memorandum, including its associated appendices, shall not infringe upon the rights and obligations of the Parties under other treaties or agreements.
+Article 19
+1. This Memorandum, including its associated appendices, all of which form integral parts thereof, shall enter into force on the date of its signature and shall remain in force for ten years.
+2. Upon agreement by the Parties, this Memorandum may be extended for successive five-year periods.
+3. Either Party, upon six months written notice to the other Party, may terminate this Memorandum.
+DONE at Moscow on June 4, 2000, in two copies, each in the English and the Russian languages, both texts being equally authentic.
+  

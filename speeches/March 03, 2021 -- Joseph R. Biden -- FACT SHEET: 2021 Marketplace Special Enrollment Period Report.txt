@@ -1,0 +1,300 @@
+
+    The Centers for Medicare & Medicaid Services (CMS) report that more than 206,000 Americans signed up for health insurance plans during the first two weeks of the 2021 Marketplace Special Enrollment Period (SEP) for consumers in HealthCare.gov States.
+The number of new plan selections from the start of the SEP opportunity on February 15 through February 28 represents an increase from 76,000 and 60,000 consumers signing up for health insurance during the same period in 2020 and 2019, respectively.[1] In previous years, SEPs were available only for qualifying life events, whereas this year the Biden-Harris Administration opened an SEP to all Americans in response to the COVID-19 Public Health Emergency.
+CMS plans to release a report on new plan selections for each month of the 2021 SEP. New plan selections are a count of unique consumers who didn't have an active Marketplace plan as of February 14 and made a plan selection on or after February 15.
+Definitions and details on the data are included in the glossary at the end of the report.
+
+
+
+Plan Selection and Application Activity
+Feb. 15-28, 2021
+
+
+New Plan Selections
+206,236
+
+
+New Consumers Requesting Coverage on an Application Submitted on or after February 15
+385,864
+
+
+Marketplace Eligible
+330,473
+
+
+Medicaid/CHIP Eligible
+54,434
+
+
+
+
+
+
+Call Center and Website Activity
+Feb. 15-28, 2021
+
+
+Call Center Volume
+497,579
+
+
+Calls with Spanish-Speaking Representative
+69,882
+
+
+HealthCare.gov Users
+3,109,862
+
+
+Window Shopping HealthCare.gov Users
+160,772
+
+
+CuidadoDeSalud.gov Users
+134,817
+
+
+Window Shopping CuidadoDeSalud.gov Users
+9,308
+
+
+
+ 
+
+
+
+New Plan Selections by State
+Feb. 15-28, 2021
+Feb. 15-29, 2020
+Feb. 15-28, 2019
+
+
+
+
+Alaska
+432
+143
+132
+
+
+Alabama
+4,226
+1,062
+963
+
+
+Arkansas
+1,461
+733
+649
+
+
+Arizona
+3,773
+1,470
+1,340
+
+
+Delaware
+561
+310
+211
+
+
+Florida
+61,737
+22,872
+16,188
+
+
+Georgia
+16,636
+3,926
+3,042
+
+
+Hawaii
+515
+198
+199
+
+
+Iowa
+1,436
+781
+591
+
+
+Illinois
+5,381
+2,558
+2,306
+
+
+Indiana
+2,493
+1,291
+1,278
+
+
+Kansas
+1,834
+820
+672
+
+
+Kentucky
+1,407
+1,273
+981
+
+
+Louisiana
+1,743
+816
+769
+
+
+Maine
+880
+498
+406
+
+
+Michigan
+4,795
+2,406
+2,162
+
+
+Missouri
+4,875
+1,534
+1,275
+
+
+Mississippi
+2,790
+706
+581
+
+
+Montana
+646
+483
+289
+
+
+North Carolina
+13,208
+3,817
+3,575
+
+
+North Dakota
+467
+226
+203
+
+
+Nebraska
+1,397
+743
+692
+
+
+New Hampshire
+939
+367
+429
+
+
+New Mexico
+825
+327
+340
+
+
+Ohio
+4,432
+2,398
+1,631
+
+
+Oklahoma
+3,796
+1,737
+1,398
+
+
+Oregon
+1,994
+1,313
+1,263
+
+
+South Carolina
+6,104
+1,330
+1,108
+
+
+South Dakota
+706
+228
+216
+
+
+Tennessee
+5,623
+1,696
+1,214
+
+
+Texas
+34,682
+11,674
+7,838
+
+
+Utah
+4,427
+1,872
+1,627
+
+
+Virginia
+5,954
+2,146
+2,130
+
+
+Wisconsin
+3,045
+1,877
+1,777
+
+
+West Virginia
+433
+200
+221
+
+
+Wyoming
+583
+214
+211
+
+
+
+GlossaryNew Plan Selections: The number of unique consumers who didn't have an active enrollment as of February 14, and made a plan selection on or after February 15, that is active as of the end of the reporting period. An active plan selection is one that is non-cancelled with an end date of December 31. While this plan selection metric is net of cancellations and terminations that occur during the reporting period, it doesn't represent effectuated enrollments because reconciliation activity may continue in later periods.
+HealthCare.gov States: This report refers to the 36 Marketplace states that use the HealthCare.gov platform for the 2021 coverage year. The 36 states for 2021include: Alabama, Alaska, Arizona, Arkansas, Delaware, Florida, Georgia, Hawaii, Illinois, Indiana, Iowa, Kansas, Kentucky, Louisiana, Maine, Michigan, Mississippi, Missouri, Montana, Nebraska, New Hampshire, New Mexico, North Carolina, North Dakota, Ohio, Oklahoma, Oregon, South Carolina, South Dakota, Tennessee, Texas, Utah, Virginia, West Virginia, Wisconsin, and Wyoming.
+New Consumers Requesting Coverage on an Application Submitted on or after February 15: The number of unique consumers who submitted an application and are requesting coverage on or after February 15, and didn't have an active enrollment as of February 14. If determined eligible for Marketplace coverage, a consumer still needs to pick a health plan (i.e., plan selection) and pay their premium to have coverage (i.e., effectuate enrollment).
+Marketplace Eligible: The number of unique new consumers requesting coverage on an application submitted on or after February 15 who are determined eligible to enroll in a Marketplace health plan, regardless of whether they applied for or are eligible for financial assistance.
+Medicaid/CHIP Eligible: The number of unique new consumers requesting coverage on an application submitted on or after February 15 who are assessed or determined eligible for enrollment in Medicaid or the Children's Health Insurance Program (CHIP).
+Call Center Volume: The total number of calls received by the Marketplace call center, which supports HealthCare.gov, over the course of the reporting period. Calls with Spanish-speaking representatives aren't included.
+Calls with Spanish-Speaking Representative: The total number of calls received by the Marketplace call center, which supports HealthCare.gov, where consumers chose to speak with a Spanish-speaking representative over the course of the reporting period. These calls aren't included in the Call Center Volume metric.
+HealthCare.gov Users or CuidadoDeSalud.gov Users: These user metrics total how many unique users viewed or interacted with HealthCare.gov or CuidadoDeSalud.gov, respectively, over the course of the reporting period.
+Window Shopping HealthCare.gov Users or CuidadoDeSalud.gov Users: These user metrics total how many unique users interacted with the window-shopping tool at HealthCare.gov or CuidadoDeSalud.gov, respectively, over the course of the reporting period. Users who window-shopped are also included in the HealthCare.gov or CuidadoDeSalud.gov user total.
+  

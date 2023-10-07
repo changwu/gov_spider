@@ -1,0 +1,20 @@
+
+    In response to the G-8 commitment for members to publish national action plans on transparency of company ownership and control, the United States commits to the following actions:
+
+I. Risk Assessment: The United States is currently updating its national risk assessment, a public document assessing major money laundering conduits and methods, which will specifically address abuse of legal entities.
+II. Advocate for Comprehensive Legislation: Continue to advocate for comprehensive legislation to require identification and verification of beneficial ownership information at the time a company is formed. One possible approach could include the following provisions:
+
+
+• Definition of Beneficial Owners—Define beneficial owner as a natural person who, directly or indirectly, exercises substantial control over a covered legal entity or has a substantial economic interest in, or receives substantial economic benefit from, such legal entity, subject to several exceptions.
+• Collection and Verification of Documentation—Include two options for covering legal entities depending on whether the applicant forms the legal entity directly or uses a regulated company formation agent. Both cases would require the collection and verification of the documentation associated with beneficial ownership.
+• Regulation of Company Formation Agents—Extend Anti-Money Laundering obligations to company formation agents, including an obligation to identify and verify beneficial ownership information.
+• Accessibility of Information—Ensure law enforcement authorities, including tax authorities, will be able to access beneficial ownership information upon appropriate request through a central registry at the state level. Although all states currently make some basic information available through public registries, states may choose to make beneficial ownership information publicly available.
+• Transfers—Mandate that entities update information filed with a State or a formation agent within 60 days following any change of beneficial owners.
+• Exemptions—Include, but not limit exemptions to, publically-traded companies in the U.S., federally regulated financial institutions, and operating companies meeting certain employee or revenue requirements.
+• Liabilities—Mandate civil and criminal penalties for knowingly providing false information or documentation to a State or formation agent.
+
+
+III. Clarify and Strengthen Customer Due Diligence Standards for U.S. Financial Institutions: The United States is currently engaged in rulemaking to develop an explicit customer due diligence obligation for U.S. financial institutions, including a general requirement to identify the beneficial owners of legal entity customers.
+IV. International Cooperation: Assess the effectiveness of existing means for complying with requests for mutual legal assistance and other forms of international cooperation related to beneficial ownership of companies.
+
+  

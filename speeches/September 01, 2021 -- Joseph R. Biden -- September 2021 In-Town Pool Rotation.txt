@@ -1,0 +1,216 @@
+
+    
+
+
+DATE
+TV
+PRINT
+RADIO
+
+
+1-Sep
+CBS
+New York Post
+AURN
+
+
+2-Sep
+CNN
+New York Times
+BBC
+
+
+3-Sep
+FOX
+Politico
+CBS
+
+
+4-Sep
+NBC
+RealClearPolitics
+SRN
+
+
+5-Sep
+ABC
+Regional Reporters
+NPR
+
+
+6-Sep
+CBS
+Roll Call
+SRN
+
+
+7-Sep
+CNN
+TIME
+VOA
+
+
+8-Sep
+FOX
+USA Today
+ABC
+
+
+9-Sep
+NBC
+Wall Street Journal
+AP
+
+
+10-Sep
+ABC
+Washington Blade
+AURN
+
+
+11-Sep
+CBS
+Washington Examiner
+BBC
+
+
+12-Sep
+CNN
+Washington Post
+CBS
+
+
+13-Sep
+FOX
+Washington Times
+FOX
+
+
+14-Sep
+NBC
+Yahoo
+NPR
+
+
+15-Sep
+ABC
+Axios
+SRN
+
+
+16-Sep
+CBS
+McClatchy
+VOA
+
+
+17-Sep
+CNN
+Boston Globe
+ABC
+
+
+18-Sep
+FOX
+BuzzFeed
+AP
+
+
+19-Sep
+NBC
+Christian Science Monitor
+AURN
+
+
+20-Sep
+ABC
+Daily Beast
+BBC
+
+
+21-Sep
+CBS
+Daily Caller
+CBS
+
+
+22-Sep
+CNN
+Daily Mail
+FOX
+
+
+23-Sep
+FOX
+Dallas Morning News
+NPR
+
+
+24-Sep
+NBC
+The Guardian
+SRN
+
+
+25-Sep
+ABC
+Hearst Newspapers
+VOA
+
+
+26-Sep
+CBS
+The Hill
+ABC
+
+
+27-Sep
+CNN
+HuffPost
+AP
+
+
+28-Sep
+FOX
+Los Angeles Times
+AURN
+
+
+29-Sep
+NBC
+McClatchy
+BBC
+
+
+30-Sep
+ABC
+National Journal
+CBS
+
+
+1-Oct
+CBS
+Newsday
+FOX
+
+
+2-Oct
+CNN
+New York Post
+NPR
+
+
+3-Oct
+FOX
+New York Times
+SRN
+
+
+4-Oct
+NBC
+Politico
+VOA
+
+
+
+  

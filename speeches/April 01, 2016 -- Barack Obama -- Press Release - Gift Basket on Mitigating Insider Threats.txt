@@ -1,0 +1,37 @@
+
+    This gift basket records the intent of Armenia, Australia, Belgium, Canada, Chile, Czech Republic, Finland, Georgia, Germany, Hungary, Israel, Italy, Japan, Jordan, Kazakhstan, Mexico, Morocco, the Netherlands, Nigeria, Norway, Republic of Korea, Romania, Spain, Sweden, Thailand, United Kingdom, United States and INTERPOL to establish and implement national-level measures to mitigate the insider threat.
+Insiders generally possess access rights which, together with their authority and knowledge, grant them far greater opportunity than outsiders to bypass dedicated nuclear and radiological security elements or other provisions such as safety systems and operating procedures. Insiders, as trusted personnel, are capable of methods of defeat that may not be available to outsiders. As such, insiders—acting alone or in concert with outsiders—pose an elevated threat to nuclear security.
+To establish an integrated, graded approach to mitigating insider threats, nuclear and radiological security programs should include national-level and agency- or facility-specific Insider Threat Mitigation policies and programs, training and awareness activities, and collaboration between facility-level organizations. The Insider Threat Mitigation Program should include strong control and accountability measures for special nuclear material that rigorously assess and continually monitor insider human reliability, deter insiders from theft/diversion, limit their access, and provide prompt detection of theft/diversion.
+1.    States commit to supporting the International Atomic Energy Agency (IAEA) to develop and implement an advanced, practitioner-level training course on preventive and protective measures against insider threats. 
+The IAEA, with the assistance of Member States, has developed and implemented a basic training course to help mitigate insider threats. With support from partner Member States, and in response to IAEA basic insider threat mitigation course participant survey responses, States will support the IAEA with the development of an advanced, practitioner-level training course on preventive and protective measures against insider threats. This more advanced course will provide member states with hands-on training, guidance documents and related self-assessment and training materials. Similar in format to the IAEA's International Training Course on Physical Protection, the course could be piloted in Member States with appropriate facilities, and then transitioned to Nuclear Security Support Centers and Centers of Excellence (NSSC/COEs) in partner States. The training course will focus on physical protection of materials, facilities, and sensitive information from insider threats, as well as Nuclear Material Accounting and Control (NMAC), trustworthiness program, nuclear security culture, and other methodologies to protect against theft of nuclear materials and sabotage of facilities. Future instructors from NSSC/COEs would receive special preparatory training, and then help teach the pilot course and both regional and national NSSC/COEs may adapt the courses as appropriate to meet the threat-based needs of the Member States.
+2.    States will implement measures to mitigate insider risks using a risk-informed graded approach by taking actions that may include one or more of the following: 
+•      Developing and implementing a national-level policy on insider threat mitigation, identifying all relevant stakeholders and information sources, and implementing agency-specific training and education.
+•      Developing or maintaining an outcome focused regulatory approach that will assist those responsible to think more holistically about security risks and mitigations.
+•      Taking specific steps to facilitate collaboration and information sharing among relevant national organizations (e.g., facility security, human resources, personnel security, national security, counter-intelligence and law enforcement).
+•      Establishing or strengthening NMAC programs for nuclear security purposes, and regulations for implementation, including, for example,
+o Systems to identify nuclear material status, movement, and changes. These may include appropriate NMAC software, secure electronic data transfer between facilities and to the national or regional level, and established national- or regional-level plans to respond to suspected theft/diversion;
+o Facility-level Material Control & Accountability (MC&A) programs to detect theft/diversion through modern nuclear material accounting system software, including peer review of software;
+o Regional-, National-, and facility-level programs to conduct performance tests, self-assessments and peer reviews to assess and enhance effectiveness of insider threat mitigation programs to include NMAC systems.
+•      Establishing a nuclear security regime for protection of materials and facilities from insider activities, including, for example:
+o Development and implementation of a training program to mitigate insider risk to include topics such as the importance of the individual in recognizing and preventing insider threats; physical protection systems used to secure materials at facilities and in transit; insider analysis, prevention, and mitigation; and how to develop trustworthiness programs;
+o Physical protection systems used in protection of materials and facilities;
+o Nuclear security culture;
+o Methodologies to protect against protracted and abrupt theft of nuclear materials;
+o Procedures for materials transfer;
+o Protection of materials at the target;
+o Access (e.g. two-person) rules and other administrative and technical measures against insider threats;
+o Defined physical protection design objectives and/or measures as they relate to sabotage and the potential insider threat; and
+o Maintaining good cyber hygiene procedures such as protective monitoring on cyber estate and ensuring user privileges are relevant and appropriate to their current role.
+•      Establishing insider trustworthiness programs that can include:
+o Defining eligibility requirements;
+o Clearly identifying and documenting roles and responsibilities;
+o Conducing background checks;
+o Initial and ongoing:
+§ Vetting of personnel by law enforcement agencies;
+§ Medical and psychological testing;
+§ Drug and alcohol testing;
+o Detecting and reporting aberrant behavior;
+o Process for no-fault self-reporting any condition that may affect an individual's ability to conduct security responsibilities and for reporting any other security concerns;
+o Providing personnel assistance programs to help mitigate life stressors that can impair ability to conduct security duties; and,
+o Regular security awareness training, including cyber security.
+  

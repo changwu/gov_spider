@@ -1,0 +1,22 @@
+
+    WASHINGTON, November 17, 2022—The Federal Communications Commission today unveiled new rules that will for the first time require broadband providers to display easy-to-understand labels to allow consumers to comparison shop for broadband services. The Report and Order approved by the Commission creates rules that require broadband providers to display, at the point of sale, labels that show key information consumers want?prices, speeds, fees, data allowances, and other critical information. The labels resemble the well-known nutrition labels that appear on food products.
+"Broadband is an essential service, for everyone, everywhere. Because of this, consumers need to know what they are paying for, and how it compares with other service offerings," said Chairwoman Rosenworcel. "For over 25 years, consumers have enjoyed the convenience of nutrition labels on food products. We're now requiring internet service providers to display broadband labels for both wireless and wired services. Consumers deserve to get accurate information about price, speed, data allowances, and other terms of service up front."
+Additionally, the new broadband labels will empower consumers with several features including:
+
+Prominent Display. The Order ensures that consumers see their actual label when purchasing broadband by requiring providers to display the label – not simply an icon or link to the label – in close proximity to an associated plan advertisement.
+
+
+Account Portals. The Order requires ISPs to make each customer's label easily accessible to the customer in their online account portal, as well as to provide the label to an existing customer upon request.
+
+
+Machine Readability. To further assist with comparison shopping, the Order requires that providers make the information in the labels machine-readable to enable third parties to more easily collect and aggregate data for the purpose of creating comparison-shopping tools for consumers.
+
+
+Further Refinements. The Commission also adopted a Further Notice of Proposed Rulemaking on ways that it can further refine and improve its rules in order to ensure that we further our consumer transparency goals.
+
+The Report and Order also includes a template of the required label that reflects comments the FCC received from consumers, consumer advocates, and government and industry experts who participated in three public hearings and many others that submitted comments in response to the earlier Notice of Proposed Rulemaking. To ensure the label benefits all consumers, the Commission adopted language and accessibility requirements for the label's display.
+The Infrastructure Investment and Jobs Act directed the FCC to require providers to display consumer-friendly labels with information about their broadband services. The new label is based on voluntary labels the Commission previously approved in a 2016 Public Notice. In adopting the label, the Commission stated that access to accurate, simple-to-understand information about broadband internet access services helps consumers make informed choices and is central to a well-functioning marketplace that encourages competition, innovation, low prices, and high-quality service. The FCC also sought comment on ways it can enhance the newly-adopted label in the future, including different ways to display broadband performance information.
+The Commission will announce the effective date of the label after it has completed necessary next steps, including requirements under the Paperwork Reduction Act.
+Here is a sample of the new broadband label:
+
+  

@@ -1,0 +1,223 @@
+
+    
+
+
+DATE
+TV
+PRINT
+RADIO
+
+
+
+1-Apr
+FOX
+Wall Street Journal
+ABC
+
+
+2-Apr
+NBC
+Washington Blade
+AP
+
+
+3-Apr
+ABC
+Washington Examiner
+AURN
+
+
+4-Apr
+CBS
+Washington Post
+BBC
+
+
+5-Apr
+CNN
+Washington Times
+CBS
+
+
+6-Apr
+FOX
+Yahoo
+FOX
+
+
+7-Apr
+NBC
+Axios
+iHeartMedia
+
+
+8-Apr
+ABC
+Bloomberg Government
+NPR
+
+
+9-Apr
+CBS
+Boston Globe
+SRN
+
+
+10-Apr
+CNN
+Christian Science Monitor
+VOA
+
+
+11-Apr
+FOX
+Daily Beast
+ABC
+
+
+12-Apr
+NBC
+Daily Caller
+AP
+
+
+13-Apr
+ABC
+Daily Mail
+AURN
+
+
+14-Apr
+CBS
+Dallas Morning News
+BBC
+
+
+15-Apr
+CNN
+The Grio
+CBS
+
+
+16-Apr
+FOX
+The Guardian
+FOX
+
+
+17-Apr
+NBC
+Hearst Newspapers
+iHeartMedia
+
+
+18-Apr
+ABC
+The Hill
+NPR
+
+
+19-Apr
+CBS
+HuffPost
+SRN
+
+
+20-Apr
+CNN
+Los Angeles Times
+VOA
+
+
+21-Apr
+FOX
+McClatchy
+ABC
+
+
+22-Apr
+NBC
+National Journal
+AP
+
+
+23-Apr
+ABC
+Newsday
+AURN
+
+
+24-Apr
+CBS
+Newsweek
+BBC
+
+
+25-Apr
+CNN
+New York Post
+CBS
+
+
+26-Apr
+FOX
+New York Times
+FOX
+
+
+27-Apr
+NBC
+Politico
+iHeartMedia
+
+
+28-Apr
+ABC
+RealClearPolitics
+NPR
+
+
+29-Apr
+CBS
+Regional Reporters
+SRN
+
+
+30-Apr
+CNN
+Roll Call
+VOA
+
+
+1-May
+FOX
+TIME
+ABC
+
+
+2-May
+NBC
+USA Today
+AP
+
+
+3-May
+ABC
+Wall Street Journal
+AURN
+
+
+4-May
+CBS
+Washington Blade
+BBC
+
+
+5-May
+CNN
+Washington Examiner
+CBS
+
+
+
+  

@@ -1,0 +1,8 @@
+
+    Dear Mr. Chairman:
+In accordance with the provisions of section 1211(d) of the National Defense Authorization Act for Fiscal Year 1998 (Public Law 105-85), I hereby notify you of my decision to establish a new level for the notification procedure for digital computers set forth in section 1211(a) of Public Law 105-85. The new level will be 85,000 millions of theoretical operations per second (MTOPS). In accordance with the provisions of section 1211(e), I hereby notify you of my decision to remove Lithuania from the list of countries covered under section 1211(b). The attached report provides the rationale supporting these decisions and fulfills the requirements of Public Law 105-85, sections 1211(d) and (e).
+I have also directed the Secretary of Commerce to adjust the licensing requirements for Tier 2 and Tier 3 countries. The countries in Tier 2 will be added to Tier 1, and Tier 2 will be abolished. In addition, the new level above which an individual license will be required for exports to Tier 3 countries is 85,000 MTOPS. The aforementioned licensing adjustments will take place immediately.
+I have made all of these changes based on the recommendation of the Departments of Defense, Commerce, State, and Energy.
+Sincerely,
+WILLIAM J. CLINTON
+  

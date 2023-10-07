@@ -1,0 +1,13 @@
+
+    
+MANCHESTER, N.H. – Democratic presidential candidate Bernie Sanders on Saturday called for an independent investigation of the Democratic National Committee and challenged Hillary Clinton to join him in seeking a probe of DNC data security failures.
+Speaking at the Democratic Party's third presidential debate this year, Sanders also apologized to Clinton for the improper actions of his campaign aides who took advantage of the flaw in the DNC vendor's computer database.
+"Not only do I apologize to Secretary Clinton and I hope that we can work together on an independent investigation from Day One. I want to apologize to my supporters, this is not the type of campaign that we run and if I find anybody else involved in this they will also be fired," Sanders said.
+He addressed questions about the DNC voter database at the outset of the debate one day after the party reinstated his campaign's access to the critically-important voter database. The DNC backed down after Sanders' campaign sued in U.S. District Court in Washington.
+On at least two occasions, Sanders said, sensitive data was exposed because of flaws in DNC vendors' software programs.
+In one instance, about two months ago, Sanders campaign staffers discovered a vulnerability in the DNC software program and quietly reported the problem to the DNC. On that occasion, Sanders said, "our staff at that point did exactly the right thing" and reported the flaw to the party. The DNC once again "screwed up" in a second instance last Wednesday. On that occasion, however, Sanders' campaign aides "did the wrong thing" and looked at Clinton campaign records. The data director for the campaign was fired and the campaign is investigating whether others acted improperly.
+In the second instance, the data breach was leaked to the press and the DNC arbitrarily decided to shut off the Sanders campaign's access to its own information, "crippling our campaign," Sanders said.
+Because of the pattern of serious mistakes by the DNC, Sanders called for "an independent investigation of all of the breaches that have occurred from Day One in our campaign."
+Sanders said he hopes the investigation will determine whether his campaign data has been breached by Clinton campaign aides. "I am not convinced that our information may not have ended up in her campaign, don't know that, but we need an independent investigation and I hope that Secretary Clinton will agree with me for the need of that last point."
+
+  

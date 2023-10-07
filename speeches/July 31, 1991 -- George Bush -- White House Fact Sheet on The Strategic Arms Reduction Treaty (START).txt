@@ -1,0 +1,83 @@
+
+    Today, the United States and the Soviet Union signed the Strategic Arms Reduction Treaty. This treaty marks the first agreement between the two countries in which the number of deployed strategic nuclear weapons will actually be reduced. Reductions will take place over a period of 7 years, and will result in parity between the strategic nuclear forces of the two sides at levels approximately 30 percent below currently deployed forces. Deeper cuts are required in the most dangerous and destabilizing systems.
+START provisions are designed to strengthen strategic stability at lower levels and to encourage the restructuring of strategic forces in ways that make them more stable and less threatening. The treaty includes a wide variety of very demanding verification measures designed to ensure compliance and build confidence.
+Central Limits
+The treaty sets equal ceilings on the number of strategic nuclear forces that can be deployed by either side. In addition, the treaty establishes an equal ceiling on ballistic missile throw-weight (a measure of overall capability for ballistic missiles). Each side is limited to no more than:
+-- 1600 strategic nuclear delivery vehicles (deployed intercontinental ballistic missiles [ICBM's], submarine launched ballistic missiles [SLBM's], and heavy bombers), a limit that is 36 percent below the Soviet level declared in September 1990 and 29 percent below the U.S. level.
+-- 6000 total accountable warheads, about 41 percent below the current Soviet level and 43 percent below the current U.S. level.
+-- 4900 accountable warheads deployed on ICBM's or SLBM's, about 48 percent below the current Soviet level and 40 percent below the current U.S. level.
+-- 1540 accountable warheads deployed on 154 heavy ICBM's, a 50-percent reduction in current Soviet forces. The U.S. has no heavy ICBM's.
+-- 1100 accountable warheads deployed on mobile ICBM's.
+-- Aggregate throw-weight of deployed ICBM's and SLBM's equal to about 54 percent of the current Soviet aggregate throw-weight.
+Ballistic Missile Warhead Accountability
+The treaty uses detailed counting rules to ensure the accurate accounting of the number of warheads attributed to each type of ballistic missile.
+-- Each deployed ballistic missile warhead counts as 1 under the 4900 ceiling and 1 under the 6000 overall warhead ceiling.
+-- Each side is allowed 10 on-site inspections each year to verify that deployed ballistic missiles contain no more warheads than the number that is attributed to them under the treaty.
+Downloading Ballistic Missile Warheads
+The treaty also allows for a reduction in the number of warheads on certain ballistic missiles, which will help the sides transition their existing forces to the new regime. Such downloading is permitted in a carefully structured and limited fashion.
+-- The U.S. may download its three-warhead Minuteman III ICBM by either one or two warheads. The Soviet Union has already downloaded it's seven warhead SS - N - 18 SLBM by four warheads.
+-- In addition, each side may download up to 500 warheads on two other existing types of ballistic missiles, as long as the total number of warheads removed from downloaded missiles does not exceed 1250 at any one time.
+New Types
+The treaty places constraints on the characteristics of new types of ballistic missiles to ensure the accuracy of counting rules and prevent undercounting of missile warheads.
+-- The number of warheads attributed to a new type of ballistic missile must be no less than the number determined by dividing 40 percent of the missile's total throw-weight by the weight of the lightest RV tested on that missile.
+-- The throw-weight attributed to a new type must be no less than the missile's throw-weight capability at specified reference ranges (11,000 km for ICBM's and 9,500 km for SLBM's).
+Heavy ICBM's
+START places significant restrictions on the Soviet SS - 18 heavy ICBM.
+-- A 50-percent reduction in the number of Soviet SS - 18 ICBM's; a total reduction of 154 of these Soviet missiles.
+-- New types of heavy ICBM's are banned.
+-- Downloading of heavy ICBM's is banned.
+-- Heavy SLBM's and heavy mobile ICBM's are banned.
+-- Heavy ICBM's will be reduced on a more stringent schedule than other strategic arms.
+Mobile ICBM's
+Because mobile missiles are more difficult to verify than other types of ballistic missiles, START incorporates a number of special restrictions and notifications with regard to these missiles. These measures will significantly improve our confidence that START will be effectively verifiable.
+-- Nondeployed mobile missiles and non-deployed mobile launchers are numerically and geographically limited so as to limit the possibility for reload and refire.
+-- The verification regime includes continuous monitoring of mobile ICBM production, restrictions on movements, on-site inspections, and cooperative measures to improve the effectiveness of national technical means of intelligence collection.
+Heavy Bombers
+Because heavy bombers are stabilizing strategic systems (e.g., they are less capable of a short-warning attack than ballistic missiles), START counting rules for weapons on bombers are different than those for ballistic missile warheads.
+-- Each heavy bomber counts as one strategic nuclear delivery vehicle.
+-- Each heavy bomber equipped to carry only short-range missiles or gravity bombs is counted as one warhead under the 6000 limit.
+-- Each U.S. heavy bomber equipped to carry long-range nuclear ALCM's (up to a maximum of 150 bombers) is counted as 10 warheads even though it may be equipped to carry up to 20 ALCM's.
+-- A similar discount applies to Soviet heavy bombers equipped to carry long-range nuclear ALCM's. Each such Soviet heavy bomber (up to a maximum of 180) is counted as 8 warheads even though it may be equipped to carry up to 16 ALCM's.
+-- Any heavy bomber equipped for long-range nuclear ALCM's deployed in excess of 150 for the U.S. or 180 for the Soviet Union will be accountable by the number of ALCM's the heavy bomber is actually equipped to carry.
+Verification Regime
+Building on recent arms control agreements, START includes extensive and unprecedented verification provisions. This comprehensive verification regime greatly reduces the likelihood that violations would go undetected.
+-- START bans the encryption and encapsulation of telemetric information and other forms of information denial on flight tests of ballistic missiles. However, strictly limited exemptions to this ban are granted sufficient to protect the flight-testing of sensitive research projects.
+-- START allows 12 different types of on-site inspections and requires roughly 60 different types of notifications covering production, testing, movement, deployment, and destruction of strategic offensive arms.
+Treaty Duration
+START will have a duration of 15 years, unless it is superseded by a subsequent agreement. If the sides agree, the treaty may be extended for successive 5-year periods beyond the 15 years.
+Noncircumvention and Third Countries
+START prohibits the transfer of strategic offensive arms to third countries, except that the treaty will not interfere with existing patterns of cooperation. In addition, the treaty prohibits the permanent basing of strategic offensive arms outside the national territory of each side.
+Air-Launched Cruise Missiles (ALCM's)
+START does not directly count or limit ALCM's. ALCM's are limited indirectly through their association with heavy bombers.
+-- Only nuclear-armed ALCM's with a range in excess of 600 km are covered by START.
+-- Long-range, conventionally armed ALCM's that are distinguishable from nuclear-armed ALCM's are not affected.
+-- Long-range nuclear-armed ALCM's may not be located at air bases for heavy bombers not accountable as being equipped for such ALCM's.
+-- Multiple warhead long-range nuclear ALCM's are banned.
+Sea Launched Cruise Missiles (SLCM's)
+SLCMs are not constrained by the treaty. However, each side has made a politically binding declaration as to its plans for the deployment of nuclear-armed SLCM's. Conventionally-armed SLCM's are not subject to such a declaration.
+-- Each side will make an annual declaration of the maximum number of nuclear-armed SLCM's with a range greater than 600 km that it plans to deploy for each of the following 5 years.
+-- This number will not be greater than 880 long-range nuclear-armed SLCM's.
+-- In addition, as a confidence building measure, nuclear-armed SLCM's with a range of 300 - 600 km will be the subject of a confidential annual data exchange.
+Backfire Bomber
+The Soviet Backfire bomber is not constrained by the treaty. However, the Soviet side has made a politically binding declaration that it will not deploy more than 800 air force and 200 naval Backfire bombers, and that these bombers will not be given intercontinental capability.
+Other Background
+The START agreement consists of the treaty document itself and a number of associated documents. Together they total more than 700 pages. The treaty was signed in a public ceremony by Presidents Bush and Gorbachev in St. Vladimir's Hall in the Kremlin. The associated documents were signed in a private ceremony at Novo Ogaryevo, President Gorbachev's weekend dacha. Seven of these documents were signed by Presidents Bush and Gorbachev. Three associated agreements were signed by Secretary Baker and Foreign Minister Bessmertnykh. In addition, the START negotiators, Ambassadors Brooks and Nazarkin, exchanged seven letters related to START in a separate event at the Soviet Ministry of Foreign Affairs in Moscow.
+Magnitude of START -- Accountable Reductions
+Following is the aggregate data from the Memorandum of Understanding, based upon agreed counting rules in START. (Because of those counting rules, the number of heavy bomber weapons actually deployed may be higher than the number shown in the aggregate.) This data is effective as of September 1990
+(TABLE START)and will be updated at entry into force:
+@h1
+@h1United States
+@h1Soviet Union
+Delivery Vehicles .... 2,246 .... 2,500
+Warheads .... 10,563 .... 10,271
+Ballistic Missile Warheads .... 8,210 .... 9,416
+Heavy ICBM's/Warheads .... None .... 308/3080
+Throw-weight (metric tons) .... 2,361.3 .... 6,626.3
+As a result of the treaty, the above values will be reduced by the following percentages:
+Delivery Vehicles .... 29 percent .... 36 percent
+Warheads .... 43 percent .... 41 percent
+Ballistic Missile Warheads .... 40 percent .... 48 percent
+Heavy ICBM's/Warheads .... None .... 50 percent
+Throw-weight (metric tons) .... None .... 46 percent
+(TABLE END)
+  

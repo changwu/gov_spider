@@ -1,0 +1,6 @@
+
+    Today I signed into law S. 1769, a bill to continue a number of existing Federal reports scheduled to expire on May 15 of this year, as well as modify certain reporting requirements related to two of these reports.
+New section 2519(2)(b)(iv) of title 18 of the United States Code provides for general reporting by the Department of Justice of law enforcement encounters with encrypted communications in the execution of wiretap orders. In signing S. 1769, I state my understanding that the reporting required by section 2519(2)(b)(iv) is limited to general aggregate data concerning the total number of times law enforcement encountered encryption and the total number of instances in which encryption prevented access to plain text. The reporting requirement of S. 1769 does not require specific case-by-case or order-by-order reporting, which could jeopardize law enforcement sources and methods and provide clear direction to criminals seeking to use encryption to hide their unlawful conduct.
+WILLIAM J. CLINTON
+The White House, May 2, 2000.
+  

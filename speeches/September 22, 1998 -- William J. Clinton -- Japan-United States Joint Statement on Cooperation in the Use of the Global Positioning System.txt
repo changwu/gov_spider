@@ -1,0 +1,25 @@
+
+    On the basis of a series of discussions between representatives and experts of the Government of the United States and the Government of Japan, U.S. President William Clinton and Japanese Prime Minister Keizo Obuchi have issued this Joint Statement regarding cooperation in the use of the Global Positioning System (GPS) Standard Positioning Service for global positioning and other applications.
+Background
+GPS is a constellation of orbiting satellites operated by the United States, which provides signals to aid position-location, navigation, and precision timing for civil and military purposes. GPS, as an evolving system, is becoming more important for a wide variety of civilian, commercial, and scientific applications such as car navigation, mapping and land surveying, maritime shipping, and international air traffic management.
+The United States Government is operating a maritime Differential Global Positioning System (DGPS), and the Government of Japan is operating a similar system. Both Governments are developing augmentation systems to support air navigation—the United States is developing the Wide Area Augmentation System (WAAS), and Japan is developing the Multi-functional Transport Satellite (MTSAT)-based Satellite Augmentation System (MSAS).
+The commercial GPS equipment and services industries of the United States and Japan lead the world, and augmentation systems to enhance the use of the GPS Standard Positioning Service Could further expand civil, commercial, and scientific markets.
+Building a Cooperative Relationship
+The United States Government intends to continue to provide the GPS Standard Positioning Service for peaceful civil, commercial, and scientific use on a continuous, worldwide basis, free of direct user fees.
+The Government of Japan intends to work closely with the United States to promote broad and effective use of the GPS Standard Positioning Service as a worldwide positioning, navigation, and timing standard. Both Governments are convinced of the need to prevent the misuse of GPS and its augmentation systems without unduly disrupting or degrading civilian uses, as well as of the need to prepare for emergency situations. Both Governments intend to cooperate to promote and facilitate civilian uses of GPS. It is anticipated that cooperation will:
+
+promote compatibility of operating standards for GPS technologies, equipment, and services;
+help develop effective approaches toward providing adequate radio frequency allocations for GPS and other radio navigation systems;
+identify potential barriers to the growth of commercial applications of GPS and appropriate preventative measures;
+encourage trade and investment in GPS equipment and services as a means of enhancing the information infrastructure of the Asia-Pacific region; and
+facilitate exchange of information on GPSrelated matters of interest to both countries, such as enhancement of global positioning, navigation, and timing technologies and capabilities.
+
+The two Governments intend to work together as appropriate on GPS-related issues that arise in the International Civil Aviation Organization, the International Maritime Organization, the International Telecommunication Union, and Asia Pacific Economic Cooperation, or in other international organizations or meetings.
+Cooperative Mechanism
+The Government of the United States and the Government of Japan have decided to establish a mechanism for bilateral cooperation relating to the use of the GPS Standard Positioning Service, as follows:
+
+A plenary meeting will be held annually to review and discuss matters of importance regarding the use of the GPS Standard Positioning Service.
+Working groups will be set up under the plenary meeting to discuss issues of mutual interest. Discussions will focus initially on commercial and scientific use and transportation safety, including measures to identify and report intentional and unintentional interference, the use of the GPS Standard Positioning Service in emergency situations, and an emergency notification system. Each working group will annually report to the plenary meeting the outcome of its work.
+
+The two Governments share the expectation that this mechanism will help the two Governments identify ways to deal with GPS-related issues that may arise as civilian use of GPS increases, and take actions as appropriate.
+  

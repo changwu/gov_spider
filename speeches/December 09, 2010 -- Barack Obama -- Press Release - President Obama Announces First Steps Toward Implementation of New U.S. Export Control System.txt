@@ -1,0 +1,66 @@
+
+    WASHINGTON, D.C. -- Today, President Obama held a meeting of the President's Export Council at the White House where he discussed progress made on our goal to double exports over the next five years and support millions of new American jobs.
+At the meeting, the President announced that the Administration released a series of regulations and requests for comment as part of the implementation of the new U.S. export control system announced by the President in August. The Administration is also deploying today its Export Control Reform Initiative webpage at www.export.gov. It includes a new tool to facilitate compliance with U.S. export control requirements by bringing together, for the first time, the various screening lists maintained by multiple Departments.
+Today's announcement includes:
+
+The publication of a draft rule setting out the criteria and procedures to be used in determining whether a product is subject to export controls.
+
+
+The application of these criteria to one category of items (Category VII: Tanks and Military Vehicles), to be seen as an example of how the new policies would apply.
+
+
+The publication of a draft rule specifying what licensing policies will apply to products subject to export controls.
+
+In publishing these documents, the Administration is seeking public comment before the rules are finalized and the control lists are completed.
+The export control reform initiative was announced in August 2009, when the President directed a broad-based interagency review of our current export control system to ensure that the system, designed for a bipolar world of the Cold War era, is updated to address the threats we face today and the changing economic and technological landscape. At the end of the review, in August 2010, the President announced, "we need fundamental reform in all four areas of our current system – in what we control, how we control it, how we enforce those controls, and how we manage our controls."
+The President announced today's releases in his meeting with the President's Export Council (PEC). At its September 2010 meeting, the PEC made several recommendations to the President, including formalizing the involvement of industry in the reform effort and devoting more resources to help small businesses comply with the export control laws. Today's releases are responsive to their recommendations.
+Background on Export Control Reform Announcements
+The Control Lists
+Rebuilding the two U.S. export control lists – which currently have completely different structures, take different approaches to defining controlled products, and are administered by two different departments – is the cornerstone of the reform effort because all other aspects of our system are contingent upon what we control.
+As announced in August, agencies have developed new criteria for determining what items need to be controlled and are developing a complementary set of policies for determining when an export license is required. The control list criteria are based on transparent rules, which will reduce the uncertainty faced by our allies, U.S. industry and its foreign partners, and will allow the government to erect higher walls around the most sensitive items in order to enhance national security.
+Eighteen interagency technical teams, under the leadership of the Department of Defense, are applying the criteria and revising the lists of munitions and, to the extent necessary, dual-use items that are controlled for export so that they:
+
+are "tiered" to distinguish the types of items that should be subject to stricter or more permissive levels of control for different destinations, end-uses, and end-users; 
+
+
+create a "bright line" between the two current control lists to clarify which list an item is controlled on, and reduce government and industry uncertainty about whether particular items are subject to the control of the State Department or the Commerce Department; and 
+
+
+are structurally aligned so that they potentially can be combined into a single list of controlled items.
+
+The Administration has determined that the U.S. Munitions List and, to the extent necessary, the Commerce Control List need to be fully structured as "positive lists" to accomplish these tasks. A "positive list" describes controlled items using objective criteria (e.g., technical parameters such as horsepower or microns) rather than broad, open-ended, subjective, generic, or design intent-based criteria. Doing this will end most jurisdictional disputes and ambiguities that hinder our current system.
+Applying the criteria, items on the control lists will be identified as being within the scope of one of three tiers:
+•      Items in the highest tier are those that provide a critical military or intelligence advantage to the United States and are available almost exclusively from the United States, or are weapons of mass destruction or related items.
+•      Items in the middle tier are those that provide a substantial military or intelligence advantage to the United States and are available almost exclusively from our multilateral partners and allies.
+•      Items in the lowest tier are those that provide a significant military or intelligence advantage to the United States but are available more broadly.
+This flexible construct will improve the nation's national security and permit the government to adjust controls in a timely manner over a product's life cycle in order to keep lists targeted and current based on the maturity and sensitivity of an item.
+Licensing Policies
+Once a controlled item is placed into a tier, a corresponding licensing policy will be assigned to it to focus agency reviews on the most sensitive items. The Administration has developed an initial set of proposed licensing policies for dual-use items:
+
+A license will generally be required for items in the highest tier to all destinations. Many of the items in the second tier will be authorized for export to multilateral partners and allies under license exemptions or general authorizations. For less sensitive items, a license will be required for some, but not all, destinations. 
+
+
+For items authorized to be exported without licenses, there will be new limitations imposed on the reexport of those items to prevent their diversion to unauthorized destinations.
+
+
+At the same time, the U.S. Government will continue our sanctions programs directed toward specific countries, such as Iran and Cuba, and prohibited end-uses or end-users.
+
+The Regulations
+Today, the Departments of State and Commerce each published a proposed regulation and a request for public comments within 60 days.
+First, the Department of State published a proposed regulation to rewrite Category VII (Tanks and Military Vehicles) of the U.S. Munitions List (USML). The proposed Category is a "positive list" of those defense articles that an interagency technical working group has determined provide at least a significant military or intelligence advantage to the United States. The Department of State is soliciting public comment to ensure that the new Category clearly and concisely identifies the items that are controlled in this Category.
+The items subject to control in the revised Category account for only about 26 percent of what the Department of State licensed for Category VII last year. We expect approximately 74 percent of the items formerly controlled under this Category on the USML will, once Congressional notification obligations are satisfied, be transferred to the jurisdiction of the Export Administration Regulations. The new Category more precisely focuses on those key items and technologies that should be controlled because they provide, at least, a significant military or intelligence advantage. Once public comments have been received and the Administration completes its final version of a revised Category VII, the Department of State will begin the notification process in cooperation with the Congress to transfer items to the jurisdiction of the Export Administration Regulations. At that point, the agencies will begin a process to determine which of those items should remain on the EAR's Commerce Control List (CCL) and which do not need to be listed on the CCL. At the end of this process, we anticipate that a significant percentage of the items that are transferred off of the USML would be permitted to be exported without a license.
+Second, the Department of State published a companion notice that provides details on the U.S. Government's methodology for generating the revised, positive Category VII as a model for other categories. The notice also solicits public input for virtually all the remaining categories on the USML (excluding the categories for classified defense articles and for miscellaneous articles), requesting input on:
+
+Describing currently controlled defense articles in a "positive manner;"
+Recommending each defense article's proposed tier of control; and
+Identifying any current defense article that does not meet any of the tiered control criteria, with an explanation of the analysis that resulted in that conclusion.
+
+These inputs will be reviewed by the interagency technical working groups as the U.S. Government continues its work in revising the control lists. The Administration has an aggressive schedule to complete its rewrite of the entire USML in 2011.
+Third, the Department of Commerce published a similar notice requesting public input on entries on the Commerce Control List as well as requesting foreign availability information on a wide range of controlled items outside a proposed set of countries who are allies and multilateral regime partners.
+Fourth, the Department of Commerce published a proposed regulation that offers an initial set of new licensing policies. The proposed regulation would create a new license exception that would allow exports of controlled items (consistent with statutory and treaty requirements) to countries that are members of all four multilateral export control regimes or other regime members that also are members of NATO. It would also allow exports of items controlled on the Wassenaar Arrangement's Basic List to countries that are members of or adherents to all four multilateral export control regimes, members of NATO, or for civil end-uses in destinations that have not historically represented a significant diversion or proliferation risk for U.S.-origin items. The proposed exception would impose new requirements to provide safeguards against possible unauthorized re-exports, including notification, destination control statement and consignee statement requirements.
+Export Control Reform Initiative On-Line
+Today the Administration also debuted its Export Control Reform Initiative webpage, a new component of export.gov. It features the Government's first-ever consolidated electronic screening list, which will enhance exporter compliance. Until today, exporters had to check different lists published in different formats maintained by different departments, or read the Federal Register every day for names that are not published on any list, to ensure they were not exporting to someone who is sanctioned or otherwise requires special scrutiny before receiving U.S. origin goods.
+For the first time, exporters can download a single electronic list of the literally thousands of names maintained across the U.S. Government for whom there is an export control restriction or special requirement. This will provide significant time-saving and compliance benefits, particularly to small businesses.
+All these steps – more clearly identifying what is controlled, how it is controlled, and how to screen to ensure that items do not end up where they shouldn't – are tangible results in implementing the Administration's common sense approach to export controls. This clarity ensures that our export control system works as it was intended, as a key tool in protecting our national security.
+As we continue to release proposed revisions to our export control system, the Administration will keeping working with Congress and the export control community.
+  

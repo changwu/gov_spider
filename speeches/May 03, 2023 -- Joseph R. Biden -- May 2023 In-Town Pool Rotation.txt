@@ -1,0 +1,235 @@
+
+    
+
+
+DATE
+TV
+PRINT
+RADIO
+
+
+
+ 
+ 
+ 
+ 
+
+
+1-May
+FOX
+TIME
+ABC
+
+
+2-May
+NBC
+USA Today
+AP
+
+
+3-May
+ABC
+Wall Street Journal
+AURN
+
+
+4-May
+CBS
+Washington Blade
+BBC
+
+
+5-May
+CNN
+Washington Examiner
+CBS
+
+
+6-May
+FOX
+Washington Post
+FOX
+
+
+7-May
+NBC
+Washington Times
+iHeartMedia
+
+
+8-May
+ABC
+Yahoo
+NPR
+
+
+9-May
+CBS
+Axios
+SRN
+
+
+10-May
+CNN
+Bloomberg Government
+VOA
+
+
+11-May
+FOX
+Boston Globe
+ABC
+
+
+12-May
+NBC
+Christian Science Monitor
+AP
+
+
+13-May
+ABC
+Daily Beast
+AURN
+
+
+14-May
+CBS
+Daily Caller
+BBC
+
+
+15-May
+CNN
+Daily Mail
+CBS
+
+
+16-May
+FOX
+Dallas Morning News
+FOX
+
+
+17-May
+NBC
+The Grio
+iHeartMedia
+
+
+18-May
+ABC
+The Guardian
+NPR
+
+
+19-May
+CBS
+Hearst Newspapers
+SRN
+
+
+20-May
+CNN
+The Hill
+VOA
+
+
+21-May
+FOX
+HuffPost
+ABC
+
+
+22-May
+NBC
+Los Angeles Times
+AP
+
+
+23-May
+ABC
+McClatchy
+AURN
+
+
+24-May
+CBS
+National Journal
+BBC
+
+
+25-May
+CNN
+Newsday
+CBS
+
+
+26-May
+FOX
+Newsweek
+FOX
+
+
+27-May
+NBC
+New York Post
+iHeartMedia
+
+
+28-May
+ABC
+New York Times
+NPR
+
+
+29-May
+CBS
+Politico
+SRN
+
+
+30-May
+CNN
+RealClearPolitics
+VOA
+
+
+31-May
+FOX
+Regional Reporters
+ABC
+
+
+1-Jun
+NBC
+Roll Call
+AP
+
+
+2-Jun
+ABC
+TIME
+AURN
+
+
+3-Jun
+CBS
+USA Today
+BBC
+
+
+4-Jun
+CNN
+Wall Street Journal
+CBS
+
+
+5-Jun
+FOX
+Washington Blade
+FOX
+
+
+
+  

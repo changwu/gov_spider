@@ -1,0 +1,30 @@
+
+    Memorandum for the Heads of Executive Departments and Agencies 
+Subject: Privacy and Personal Information in Federal Records
+Privacy is a cherished American value, closely linked to our concepts of personal freedom and well-being. At the same time, fundamental principles such as those underlying the First Amendment, perhaps the most important hallmark of American democracy, protect the free flow of information in our society.
+The Federal Government requires appropriate information about its citizens to carry out its diverse missions mandated by the Constitution and laws of the United States. Long mindful of the potential for misuse of Federal records on individuals, the United States has adopted a comprehensive approach to limiting the Government's collection, use, and disclosure of personal information. Protections afforded such information include the Privacy Act of 1974, the Computer Matching and Privacy Protection Act of 1988, the Paperwork Reduction Act of 1995, and the Principles for Providing and Using Personal Information ("Privacy Principles"), published by the Information Infrastructure Task Force on June 6, 1995, and available from the Department of Commerce.
+Increased computerization of Federal records permits this information to be used and analyzed in ways that could diminish individual privacy in the absence of additional safeguards. As development and implementation of new information technologies create new possibilities for the management of personal information, it is appropriate to reexamine the Federal Government's role in promoting the interests of a democratic society in personal privacy and the free flow of information. Accordingly, I hereby direct the heads of executive departments and agencies ("agencies") as follows:
+It shall be the policy of the executive branch that agencies shall:
+
+(a) assure that their use of new information technologies sustain, and do not erode, the protections provided in all statutes relating to agency use, collection, and disclosure of personal information;
+(b) assure that personal information contained in Privacy Act systems of records be handled in full compliance with fair information practices as set out in the Privacy Act of 1974;
+(c) evaluate legislative proposals involving collection, use, and disclosure of personal information by the Federal Government for consistency with the Privacy Act of 1974; and
+(d) evaluate legislative proposals involving the collection, use, and disclosure of personal information by any entity, public or private, for consistency with the Privacy Principles. 
+To carry out this memorandum, agency heads shall:
+
+(a) within 30 days of the date of this memorandum, designate a senior official within the agency to assume primary responsibility for privacy policy;
+(b) within 1 year of the date of this memorandum, conduct a thorough review of their Privacy Act systems of records in accordance with instructions to be issued by the Office of Management and Budget ("OMB"). Agencies should, in particular:
+
+(1) review systems of records notices for accuracy and completeness, paying special attention to changes in technology, function, and organization that may have made the notices out of date, and review routine use disclosures under 5 U.S.C. 552a(b)(3) to ensure they continue to be necessary and compatible with the purpose for which the information was collected;
+(2) identify any systems of records that may not have been described in a published notice, paying special attention to Internet and other electronic communications activities that may involve the collection, use, or disclosure of personal information; 
+(c) where appropriate, promptly publish notice in the Federal Register to add or amend any systems of records, in accordance with the procedures in OMB Circular A-130, Appendix I;
+(d) conduct a review of agency practices regarding collection or disclosure of personal information in systems of records between the agency and State, local, and tribal governments in accordance with instructions to be issued by OMB; and
+(e) within 1 year of the date of this memorandum, report to the OMB on the results of the foregoing reviews in accordance with instructions to be issued by OMB. 
+The Director of the OMB shall:
+
+(a) issue instructions to heads of agencies on conducting and reporting on the systems of record reviews required by this memorandum;
+(b) after considering the agency reports required by this memorandum, issue a summary of the results of the agency reports; and
+(c) issue guidance on agency disclosure of personal information via the routine use exception to the Privacy Act (5 U.S.C. 552a(b)(3)), including sharing of data by agencies with State, local, and tribal governments. 
+This memorandum is intended only to improve the internal management of the executive branch and does not create any right or benefit, substantive or procedural, enforceable at law or equity by a party against the United States, its agencies or instrumentalities, its officers or employees, or any other person.
+WILLIAM J. CLINTON
+  

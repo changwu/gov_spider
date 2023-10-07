@@ -1,0 +1,98 @@
+
+    Memorandum for the Heads of Executive Departments and Agencies 
+Subject: Designation and Sharing of Controlled Unclassified Information (CUI)
+Purpose 
+(1) This memorandum (a) adopts, defines, and institutes "Controlled Unclassified Information" (CUI) as the single, categorical designation henceforth throughout the executive branch for all information within the scope of that definition, which includes most information heretofore referred to as "Sensitive But Unclassified" (SBU) in the Information Sharing Environment (ISE), and (b) establishes a corresponding new CUI Framework for designating, marking, safeguarding, and disseminating information designated as CUI. The memorandum's purpose is to standardize practices and thereby improve the sharing of information, not to classify or declassify new or additional information.
+Background—The Current SBU Environment 
+(2) The global nature of the threats facing the United States requires that (a) our Nation's entire network of defenders be able to share information more rapidly so those who must act have the information they need, and (b) the United States Government protect sensitive information, information privacy, and other legal rights of Americans. A uniform and more standardized governmentwide framework for what has previously been known as SBU information is essential for the ISE to succeed. Accordingly, this memorandum establishes a standardized framework designed to facilitate and enhance the sharing of Controlled Unclassified Information.
+Definitions 
+(3) In this memorandum, the following terms have the meaning indicated:
+a. "Controlled Unclassified Information" is a categorical designation that refers to unclassified information that does not meet the standards for National Security Classification under Executive Order 12958, as amended, but is (i) pertinent to the national interests of the United States or to the important interests of entities outside the Federal Government, and (ii) under law or policy requires protection from unauthorized disclosure, special handling safeguards, or prescribed limits on exchange or dissemination. Henceforth, the designation CUI replaces "Sensitive But Unclassified" (SBU).
+b. "CUI Council" is a subcommittee of the Information Sharing Council (ISC), created by the Intelligence Reform and Terrorism Prevention Act of 2004 (Public Law 108-458) (IRTPA).
+c. "CUI Framework" refers to the single set of policies and procedures governing the designation, marking, safeguarding, and dissemination of CUI terrorism-related information that originates in departments and agencies, regardless of the medium used for the display, storage, or transmittal of such information.
+d. "CUI Framework Standards Registry" (the "CUI Registry") refers to the official list of, and recognized standards for, CUI markings including "safeguarding," and "dissemination" maintained by the Executive Agent.
+e. "Departments and Agencies" means executive agencies as defined in section 105 of title 5, United States Code; the United States Postal Service; but not the Government Accountability Office.
+f. "Enhanced Safeguarding" is a handling requirement that means the information so designated is subject to measures more stringent than those normally required because inadvertent or unauthorized disclosure would create a risk of substantial harm. This requirement is indicated by the marking "Controlled Enhanced."
+g. "Executive Agent" means the National Archives and Records Administration (NARA).
+h."Information" means any communicable knowledge or documentary material, regardless of its physical form or characteristics, that is owned by, is produced by or for, or is under the control of the Federal Government.
+i. "Information Sharing Environment" means an approach that facilitates the sharing of "terrorism information," as defined by section 1016 of IRTPA.
+j. "Safeguarding" means measures and controls that are prescribed to protect controlled unclassified information.
+k. "Sensitive But Unclassified" refers collectively to the various designations used heretofore within the Federal Government for documents and information that are sufficiently sensitive to warrant some level of protection from disclosure but that do not warrant classification.
+l. "Specified Dissemination" is a handling instruction that means the information so designated is subject to additional instructions governing the extent to which dissemination is permitted.
+m. "Standard Dissemination" is a handling instruction that means dissemination is authorized to the extent it is reasonably believed that dissemination would further the execution of lawful or official mission purpose, provided that individuals disseminating this information do so within the scope of their assigned duties.
+n. "Standard Safeguarding" is a handling requirement that means the information so designated is subject to baseline safeguarding measures that reduce the risks of unauthorized or inadvertent disclosure. This requirement shall be indicated through the use of the marking "Controlled."
+o. "Terrorism-Related Information" means (i) information, as defined by Implementing Recommendations of the 9/11 Commission Act of 2007, Public Law 110-53, section 504; (ii) homeland security information, as defined by 6 U.S.C. 482(f); and (iii) law enforcement information relating to terrorism.
+Policy—The CUI Framework 
+(4) The uniform use of CUI is essential to fostering an effective ISE. All departments and agencies shall apply the CUI Framework, which consists of the following policies and standards, as outlined in paragraphs 5-19 for the designation, marking, safeguarding, and dissemination of any CUI terrorism-related information within the ISE that originates in departments and agencies, regardless of the medium used for its display, storage, or transmittal.
+(5)All CUI shall merit one of two levels of safeguarding procedures: standard (marked "Controlled") or enhanced (marked "Controlled Enhanced").
+(6)All CUI shall merit one of two levels of dissemination controls: "Standard Dissemination" or "Specified Dissemination."
+(7)All CUI shall be (a) categorized into one of three combinations of safeguarding procedures and dissemination controls, and
+(b)so indicated through the use of the following corresponding markings:
+(i) "Controlled with Standard Dissemination" meaning the information requires standard safeguarding measures that reduce the risks of unauthorized or inadvertent disclosure. Dissemination is permitted to the extent that it is reasonably believed that it would further the execution of a lawful or official purpose.
+(ii) "Controlled with Specified Dissemination" meaning the information requires safeguarding measures that reduce the risks of unauthorized or inadvertent disclosure. Material contains additional instructions on what dissemination is permitted.
+(iii) "Controlled Enhanced with Specified Dissemination" meaning the information requires safeguarding measures more stringent than those normally required since the inadvertent or unauthorized disclosure would create risk of substantial harm. Material contains additional instructions on what dissemination is permitted.
+(8)Any additional CUI markings may be prescribed only by the Executive Agent. Use of additional CUI markings is prohibited unless the Executive Agent determines that extraordinary circumstances warrant the use of additional markings.
+(9)Departments and agencies shall apply the CUI Registry's standards. The originator of CUI may not impose any additional safeguarding or dissemination requirements upon the recipient(s). No department or agency shall create CUI categories or rules outside the CUI Framework.
+(10)Recipients of CUI shall report any unauthorized or inadvertent disclosures to the designating agency.
+(11)All CUI shall be marked in a clear manner and conform to statutory and regulatory requirements, if any, regarding markings. Recipients of CUI that is not marked shall mark the information appropriately and inform the originator that it has been so marked.
+(12)Wherever possible, it is expected that departments and agencies will re-mark archived or legacy material when it is incorporated into the ISE.
+(13)CUI markings may inform but do not control the decision of whether to disclose or release the information to the public, such as in response to a request made pursuant to the Freedom of Information Act (FOIA).
+(14)Originating departments and agencies shall retain control of decisions regarding whether to disseminate CUI materials beyond their Standard or Specified Dissemination instructions, including any dissemination to the media or general public.
+(15)Material that contains both CUI and non-CUI information, or that contains multiple categories of CUI, should be marked accordingly by portions such that those categorical distinctions are apparent.
+(16)The CUI markings shall be incorporated into ISE-related information technology (IT) projects under development or developed in the future and shall be reflected in plans for new information technologies.
+(17)The CUI markings shall be used regardless of the medium through which the information appears or conveys. Oral communications should be prefaced with a statement describing the controls when necessary to ensure that recipients are aware of the information's status.
+(18)Departments or agencies shall not impose safeguarding requirements or dissemination controls on information in the ISE that is neither classified nor CUI.
+(19)When a department or agency receives CUI originating from a State, local, tribal, private sector, or foreign partner, any nonfederal legacy markings shall be retained, unless the originator authorizes its removal.
+(20)Implementation of the CUI Framework shall commence upon the date of this memorandum and shall be completed within 5 years.
+CUI Framework Implementation 
+(21) The Executive Agent shall be responsible for overseeing and managing implementation of this CUI Framework.
+(22)The Executive Agent shall have the following authorities and responsibilities:
+a.Develop and issue CUI policy standards and implementation guidance consistent with this memorandum, including appropriate recommendations to State, local, tribal, private sector, and foreign partner entities for implementing the CUI Framework. As appropriate, establish new safeguarding and dissemination controls, and, upon a determination that extraordinary circumstances warrant the use of additional CUI markings, authorize the use of such additional markings;
+b. Establish and chair the CUI Council;
+c.Establish, approve, and maintain safeguarding standards and dissemination instructions, including "Specified Dissemination" requirements proposed by the heads of departments and agencies;
+d.Publish the CUI safeguarding and dissemination standards in the CUI Registry;
+e.Monitor department and agency compliance with CUI policy, standards, and markings;
+f.Establish baseline training requirements and develop an ISE-wide CUI training program to be implemented by departments and agencies;
+g.Provide appropriate information regarding the CUI Framework to the Congress, to State, local, tribal, and private sector entities, and to foreign partners;
+h.Advise the heads of departments and agencies on the resolution by the CUI Council of complaints and disputes among such departments and agencies concerning the proper designation or marking of CUI; and
+i.Establish, in consultation with affected departments and agencies, a process that addresses enforcement mechanisms and penalties for improper handling of CUI.
+(23)A CUI Council is hereby established as a subcommittee of the ISC. Its members shall be drawn from the ISC's membership. The CUI Council shall:
+a.Serve as the primary advisor to the Executive Agent on issues pertaining to the CUI Framework;
+b.Advise the Executive Agent in developing procedures, guidelines, and standards necessary to establish, implement, and maintain the CUI Framework;
+c.Ensure coordination among the departments and agencies participating in the CUI Framework;
+d.Advise the Executive Agent on the resolution of complaints and disputes among departments and agencies about proper designation or marking of CUI; and
+e. As appropriate, consult with the ISC's State, Local, Tribal, and Private Sector Subcommittee.
+(24)The head of each department and agency with possession of terrorism-related information shall:
+a.Ensure the implementation of the CUI Framework within such department or agency;
+b.Promulgate guidance for the implementation of the CUI Framework within such department or agency, consistent with ISE-wide CUI policies issued by the CUI Executive Agent, as established in paragraph 21;
+c.Adopt markings listed in the CUI Registry maintained by the Executive Agent as the exclusive CUI markings used by such department or agency, consistent with paragraphs 5-8 of this memorandum;
+d.Propose any necessary "Specified Dissemination" instructions to the Executive Agent for approval and listing in the CUI Registry;
+e.Designate an appropriately qualified senior official from within the department or agency as its representative on the CUI Council;
+f.Implement a CUI training program for their respective department or agency, based on the ISE-wide training program established by the Executive Agent, and ensure all appropriate personnel (i) understand CUI policies and procedures, and (ii) can apply them when creating, disseminating, or safeguarding CUI material;
+g. Establish a process that enables their respective department or agency to address noncompliance with the new CUI Framework within the agency, and ensure management and oversight issues or concerns can be elevated to the appropriate department or agency decision-makers;
+h.Establish a process within their respective department or agency that, where appropriate, promptly raises to the Executive Agent matters of concern regarding the Framework; and
+i. Ensure full implementation of the CUI Framework, consistent with policies, guidance, and standards established by the Executive Agent, within 5 years of the date of this memorandum.
+Designating CUI 
+(25) Information shall be designated as CUI and carry an authorized CUI marking if:
+a.a statute requires or authorizes such a designation; or
+b.the head of the originating department or agency, through regulations, directives, or other specific guidance to the agency, determines that the information is CUI. Such determination should be based on mission requirements, business prudence, legal privilege, the protection of personal or commercial rights, safety, or security. Such department or agency directives, regulations, or guidance shall be provided to the Executive Agent for review.
+(26)Notwithstanding the above, information shall not be designated as CUI:
+a.to (i) conceal violations of law, inefficiency, or administrative error; (ii) prevent embarrassment to the Federal Government or any Federal official, any organization, or agency; (iii) improperly or unlawfully interfere with competition in the private sector; or (iv) prevent or delay the release of information that does not require such protection;
+b.if it is required to be made available to the public; or
+c.if it has already been released to the public under proper authority.
+Exceptions to CUI 
+(27) This memorandum requires that all CUI originated by departments and agencies and shared within the ISE shall conform to the policies and standards for the designating, marking, safeguarding, and disseminating established in accordance with this memorandum. However, infrastructure protection agreements not fully accommodated under the CUI Framework (and its associated markings, safeguarding requirements, and dissemination limitations) shall be considered exceptions to this CUI Framework. Infrastructure protection exceptions include and apply to information governed by or subject to the following regulations:
+a.6 CFR Pt. 29—PCII (Protected Critical Infrastructure Information);
+b.49 CFR Pts. 15 (Department of Transportation) & 1520 (Department of Homeland Security/Transportation Security Administration)—SSI (Sensitive Security Information);
+c.6 CFR Pt. 27—CVI (Chemical Vulnerability Information); and
+d.10 CFR Pt. 73—SGI (Safeguards Information).
+(28)The CUI Framework shall be used for such information to the maximum extent possible, but shall not affect or interfere with specific regulatory requirements for marking, safeguarding, and disseminating.
+(29)The affected department or agency is authorized to select the most applicable CUI safeguarding marking for the regulation. Any additional requirements for the safeguarding beyond that specified under the CUI Framework shall be appropriately registered in the CUI Registry. Any regulatory marking shall follow the CUI marking, and a specified dissemination instruction shall articulate any additional regulatory requirements.
+General Provisions
+(30) This memorandum:
+a.shall be implemented in a manner consistent with applicable law, including Federal laws protecting the information privacy rights and other legal rights of Americans, and subject to the availability of appropriations;
+b.shall be implemented in a manner consistent with the statutory authority of the principal officers of departments and agencies as heads of their respective departments or agencies;
+c.shall not be construed to impair or otherwise affect the functions of the Director of the Office of Management and Budget relating to budget, administrative, and legislative proposals; and
+d.is intended only to improve the internal management of the Federal Government and is not intended to, and does not, create any rights or benefits, substantive or procedural, enforceable at law or in equity by a party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+GEORGE W. BUSH
+  

@@ -1,0 +1,60 @@
+
+    Chairman Leahy's Substitute Would Unduly Burden Collection Of Foreign Intelligence
+Information And Walk Back Important Provisions Of The Bipartisan SSCI Bill
+In October, the Senate Select Committee on Intelligence (SSCI) completed a bill with strong bipartisan support to modernize the Foreign Intelligence Surveillance Act of 1978 (FISA). The SSCI bill would reauthorize core foreign intelligence collection authorities under the Protect America Act (PAA) and provide meaningful liability coverage to companies accused in lawsuits of assisting our Nation in the aftermath of the attacks of September 11, 2001.
+
+Prior to the passage of the PAA, outdated provisions of FISA substantially impeded the Intelligence Community's ability to collect valuable foreign intelligence information necessary to protect the Nation. Critical provisions of the PAA expire in less than three months. Accordingly, now is the time for Congress to enact lasting FISA modernization legislation. The SSCI bill is a significant step in the right direction because it reflects careful consideration of the needs of our Intelligence Community given the terrorist risks facing our Nation.
+
+
+Although it is not perfect, the SSCI bill – like the PAA – would keep critical intelligence gaps closed by allowing our Intelligence Community to target foreign terrorists and other intelligence targets believed to be located outside the United States without obtaining prior court approval. In addition, the SSCI bill would provide immunity, in carefully limited circumstances, to electronic communication service providers that face massive lawsuits for allegedly assisting the Intelligence Community after the 9/11 attacks.
+
+
+Unfortunately, Senate Judiciary Committee Chairman Leahy has proposed a substitute for the SSCI bill that would make a number of changes constituting significant steps backwards from this sound, bipartisan product. This substitute, introduced just hours before the Senate Judiciary Committee mark-up on the SSCI bill, was offered without consultation with any of the FISA experts in the Intelligence Community or at the Justice Department and as of now does not enjoy the same bipartisan support as the SSCI bill.
+
+
+
+
+Chairman Leahy's Substitute
+
+SSCI's Bipartisan Bill
+
+
+The substitute contains an unnecessary amendment to the "exclusive means" provision of FISA that could burden the Intelligence Community's ability to collect valuable foreign intelligence information.
+The SSCI bill reaffirms the 1978 statement in FISA that the Act and provisions of Title 18 of the United States Code (dealing with crimes and criminal proceedings) are the exclusive means by which electronic surveillance and the interception of domestic communications may be conducted.
+
+
+The substitute would not allow intelligence collection to continue while an appeal of a FISA Court decision is pending. The effect of this substitute is that whole categories of surveillance directed outside the United States could be halted based on a single judge's opinion prior to review by the FISA Court of Review.
+In the event the FISA Court fails to approve the procedures that the Government uses to determine that targets are located outside the United States, or the minimization procedures used by the Government for information concerning U.S. persons, the SSCI bill allows acquisition to continue pending any appeal to the FISA Court of Review. This provision is necessary to ensure that we do not go "dark" on overseas targets during legal appeals.
+
+
+The substitute would impose significant new restrictions on the use of foreign intelligence information, including information not concerning U.S. persons, obtained or derived from acquisitions using targeting procedures that the FISA Court later found to be unsatisfactory. By requiring analysts to go back to databases and pull out the information, as well as to determine what other information is derived from that information, this mandate would place a difficult, and perhaps insurmountable, operational burden on the Intelligence Community in implementing authorities that target terrorists and other foreign intelligence targets located overseas.
+
+    The SSCI bill does not include these restrictions on the use of foreign intelligence information.
+
+
+The substitute would allow the FISA Court to review compliance with minimization procedures used for the acquisition of foreign intelligence information only from individuals outside the United States. This proposal could place the FISA Court in a position where it would be obligated to conduct individualized review of the Intelligence Community's foreign communications intelligence activities. This approach is inconsistent with the Court's role of approving generally applicable procedures rather than individual surveillance efforts.
+The SSCI bill does not contain this provision.
+
+
+Although Not Perfect, The Bipartisan SSCI Bill Contains Many Provisions That Would Strengthen Our National Security
+1) The SSCI Bill Preserves The Core Collection Authority Conferred By The Protect America Act.
+Like the Protect America Act, the SSCI bill would allow our Intelligence Community to target foreign terrorists and other foreign intelligence targets believed to be located outside the United States without obtaining prior court approval. Instead, the FISA Court would review after-the-fact the procedures that the Government uses to determine that targets are located outside the United States, and the minimization procedures for information concerning U.S. persons.
+2) The SSCI Bill Rightly Provides Liability Protection.
+
+The SSCI bill would provide immunity, in specified circumstances, to electronic communication service providers that face massive lawsuits for allegedly assisting the Intelligence Community after the attacks of September 11, 2001. The immunity is limited in several key respects:
+
+
+The immunity would apply only to civil lawsuits against electronic communication service providers; the SSCI bill would not immunize the government itself and does not apply to criminal cases.
+An action may be dismissed only if the Attorney General certifies to the court that either (i) the electronic communication service provider did not provide the assistance; or (ii) the assistance was provided in the wake of the 9/11 attacks and was described in a written request indicating that the activity was authorized by the President and was determined to be lawful.
+A court must review the Attorney General's certification before any legal action may be dismissed.
+3) The SSCI Bill Contains Important Streamlining Provisions.
+
+
+The SSCI bill would eliminate unnecessary paperwork, while ensuring that the FISA Court has the information it needs to process applications for FISA Court orders.
+The bill would also increase the time the Government has to file an application for a court order after authorizing emergency surveillance. Currently the Executive Branch has 72 hours to obtain court approval after emergency surveillance is initially authorized by the Attorney General, and the SSCI bill would extend the emergency period to seven days.
+
+The SSCI Bill Also Contains Some Troublesome Provisions, Which Chairman Leahy's Substitute Does Not Amend
+The so-called "Wyden Amendment" to the SSCI bill would require for the first time that a court order be obtained to surveil U.S. persons abroad. In addition to having serious technical problems, this provision would impose burdens on foreign intelligence collection abroad that do not exist with respect to collection for law enforcement purposes.
+The SSCI bill contains a six-year sunset, which the Administration opposes. While this limitation is preferable to the short sunset in the House legislation, the vital authorities to surveil overseas targets should be put on a permanent footing. Any sunset period introduces a significant level of uncertainty as to the rules employed by our intelligence professionals and followed by private partners.
+The SSCI bill contains a reporting requirement that poses serious operational difficulties for the Intelligence Community. The SSCI bill contains a requirement that intelligence analysts count "the number of persons located in the United States whose communications were reviewed." This provision might well be impossible to implement. In addition, it does not reflect the way in which intelligence analysis is conducted – for instance, once analysts determine that a communication is not relevant, they move on to the next piece of information; they do not analyze the irrelevant communication to determine the location of the persons who were parties to the communication. To require analysts to do so would not only waste resources but also pose a needless intrusion on privacy.
+  

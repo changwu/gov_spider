@@ -1,0 +1,228 @@
+
+    
+
+
+DATE
+TV
+PRINT
+RADIO
+
+
+1-Nov
+CNN
+National Journal
+ABC
+
+
+2-Nov
+FOX
+Newsday
+AP
+
+
+3-Nov
+NBC
+Newsweek
+AURN
+
+
+4-Nov
+ABC
+New York Post
+BBC
+
+
+5-Nov
+CBS
+New York Times
+CBS
+
+
+6-Nov
+CNN
+Politico
+FOX
+
+
+7-Nov
+FOX
+RealClearPolitics
+NPR
+
+
+8-Nov
+NBC
+Regional Reporters
+SRN
+
+
+9-Nov
+ABC
+Roll Call
+VOA
+
+
+10-Nov
+CBS
+TIME
+ABC
+
+
+11-Nov
+CNN
+USA Today
+AP
+
+
+12-Nov
+FOX
+Wall Street Journal
+AURN
+
+
+13-Nov
+NBC
+Washington Blade
+BBC
+
+
+14-Nov
+ABC
+Washington Examiner
+CBS
+
+
+15-Nov
+CBS
+Washington Post
+FOX
+
+
+16-Nov
+CNN
+Washington Times
+NPR
+
+
+17-Nov
+FOX
+Yahoo
+SRN
+
+
+18-Nov
+NBC
+Axios
+VOA
+
+
+19-Nov
+ABC
+BNA
+ABC
+
+
+20-Nov
+CBS
+Boston Globe
+AP
+
+
+21-Nov
+CNN
+BuzzFeed
+AURN
+
+
+22-Nov
+FOX
+Christian Science Monitor
+BBC
+
+
+23-Nov
+NBC
+Daily Beast
+CBS
+
+
+24-Nov
+ABC
+Daily Caller
+FOX
+
+
+25-Nov
+CBS
+Daily Mail
+NPR
+
+
+26-Nov
+CNN
+Dallas Morning News
+SRN
+
+
+27-Nov
+FOX
+The Guardian
+VOA
+
+
+28-Nov
+NBC
+Hearst Newspapers
+ABC
+
+
+29-Nov
+ABC
+The Hill
+AP
+
+
+30-Nov
+CBS
+HuffPost
+AURN
+
+
+1-Dec
+CNN
+Los Angeles Times
+BBC
+
+
+2-Dec
+FOX
+McClatchy
+CBS
+
+
+3-Dec
+NBC
+National Journal
+FOX
+
+
+4-Dec
+ABC
+Newsday
+NPR
+
+
+5-Dec
+CBS
+Newsweek
+SRN
+
+
+6-Dec
+CNN
+New York Post
+VOA
+
+
+
+  

@@ -1,0 +1,20 @@
+
+    WHEREAS, the Federal Government should set an example in the energy efficient operation of its facilities and the procurement of pollution preventing technologies;
+WHEREAS, the Federal Government should minimize its operating costs, make better use of taxpayer-provided dollars, and reduce the Federal deficit; and
+WHEREAS, the Federal Government is the largest purchaser of computer equipment in the world and therefore has the capacity to greatly accelerate the movement toward energy efficient computer equipment;
+NOW, THEREFORE, by the authority vested in me as President by the Constitution and the laws of the United States of America, including section 381 of the Energy Policy and Conservation Act, as amended (42 U.S.C. 6361), section 205 of the Federal Property and Administrative Services Act, as amended (40 U.S.C. 486), section 152 of the Energy Policy Act of 1992 (Public Law 102–486), and section 301 of title 3, United States Code, and to ensure the energy efficient operation of the Federal Government’s facilities and to encourage the procurement of pollution preventing technologies that will save taxpayer money, reduce the Federal deficit, and accelerate the movement to energy efficient designs in standard computer equipment, it is hereby ordered as follows:
+Section 1. Procurement of Computer Equipment that Meets EPA Energy Star Requirements for Energy Efficiency. (a) The heads of Federal agencies shall ensure that, within 180 days from the date of this order, all acquisitions of microcomputers, including personal computers, monitors, and printers, meet "EPA Energy Star" requirements for energy efficiency. The heads of Federal agencies may grant, on a case-by-case basis, exemptions to this directive for acquisitions, based upon the commercial availability of qualifying equipment, significant cost differential of the equipment, the agency’s performance requirements, and the agency’s mission.
+
+(b)
+Within 180 days from the date of this order, agencies shall specify that microcomputers, including personal computers, monitors, and printers, acquired by the agency shall be equipped with the energy efficient lowpower standby feature as defined by the EPA Energy Star computers program. This feature shall be activated when the equipment is shipped and shall be capable of entering and recovering from the low-power state unless the equipment meets Energy Star efficiency levels at all times. To the extent permitted by law, agencies shall include this specification in all existing and future contracts, if both the Government and the contractor agree, and if any additional costs would be offset by the potential energy savings.
+(c)
+Agencies shall ensure that Federal users are made aware of the significant economic and environmental benefits of the energy efficient low-power standby feature and its aggressive use by including this information in routine computer training classes.
+(d)
+Each agency shall report annually to the General Services Administration on acquisitions exempted from the requirements of this Executive order, and the General Services Administration shall prepare a consolidated annual report for the President.
+
+Sec. 2. Definition. For purposes of this order, the term "agency" has the same meaning given it in section 151 of the Energy Policy Act of 1992.
+Sec. 3. Judicial Review. This order does not create any right or benefit, substantive or procedural, enforceable by a non-Federal party against the United States, its officers or employees, or any other person.
+William J. Clinton
+THE WHITE HOUSE,
+April 21, 1993.
+  

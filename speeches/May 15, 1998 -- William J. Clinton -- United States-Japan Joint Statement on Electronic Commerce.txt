@@ -1,0 +1,42 @@
+
+    Electronic commerce will be an engine of economic growth in the Twenty-first Century, with the potential to invigorate economies by enhancing productivity, streamlining distribution, and revamping corporate structures.
+Electronic commerce will enhance the standard of living of citizens in the United States and Japan, as well as the rest of the globe, by creating new, high-paying jobs and opportunities. Small and medium-sized enterprises, in particular, will benefit from new opportunities to sell their products to a worldwide market.
+The Governments of the United States and Japan recognize the importance of working together to promote global electronic commerce. We support and endorse the following fundamental principles and policies, which should guide the development of electronic commerce.
+I. General Principles
+1. The private sector should lead in the development of electronic commerce and in establishing business practices.
+2. Both governments should avoid imposing unnecessary regulations or restrictions on electronic commerce. Government actions, when needed, should be clear, transparent, and predictable to the private sector.
+3. Governments should encourage effective selfregulation through codes of conduct, model contracts, guidelines, and enforcement mechanisms developed by the private sector.
+4. Cooperation and harmonization among all countries, from all regions of the world and all levels of development, will assist in the construction of a seamless environment for electronic commerce.
+II. Policy Issues
+5. Tariffs.
+There are currently no customs duties on electronic transmissions. The United States and Japan will work toward a global understanding that this duty free environment should remain, for free trade in electronic commerce will promote the growth of electronic commerce and economic growth worldwide.
+The United States and Japan welcome the announcement of the Quad Ministers to work toward a comprehensive work program in the WTO on the trade-related aspects of electronic commerce, and both nations will actively participate in this process. In the meantime, both nations will adopt a standstill, as outlined in the Quad statement, that preserves the current practice of not imposing customs duties on electronic transmissions.
+6. Taxes.
+We will actively participate within the Organisation for Economic Co-operation and Development to work toward developing framework conditions for the taxation of electronic commerce. Close cooperation and mutual assistance are necessary to ensure effective tax administration and to prevent tax evasion and avoidance on the Internet.
+7. Electronic Authentication/Electronic Signatures.
+Governments should support the development of a global framework that will recognize, facilitate and enforce electronic transactions worldwide. Authentication methods and technologies are developing rapidly, and the range of uses is expanding. The United States and Japan support the development worldwide of legal structures that will support a variety of authentication methods and technologies, as well as a variety of implementation models. As nations review their own legal framework to address authentication methods, including digital signatures, they should observe the following principles:
+a. The efforts of the private sector in constructing rules and guidelines should be encouraged.
+b. Electronic signatures should be recognized as functionally equivalent to handwritten signatures, and acceptable for legal purposes.
+c. Furthermore, parties to a transaction should have the opportunity to prove in court that the authentication technique used in the transaction is valid.
+d. Parties to a transaction should be permitted to determine the appropriate technological and business methods of authentication for their transaction.
+e. Governments should take a non-discriminatory approach to electronic signatures and authentication methods from other countries.
+
+8. Privacy.
+Ensuring the effective protection of privacy with regard to the processing of personal data on global information networks is necessary as is the need to continue the free flow of information. With regard to frameworks for personal data protection, governments and businesses should consider consumers' concern about their private information. Since content, usage, and the method for collection of private information differ from industry to industry, means for privacy protection should be considered by each industry. Enforcement mechanisms would be developed and implemented by the private sector, including preparing guidelines and developing verification and recourse methodologies, and supported by the public sector. If data in a certain industry is highly confidential, legal methods can be considered for that industry.
+9. Content.
+Content should be transmitted freely across national borders in response to a user's request. The Internet will promote cultural diversity by expanding the selection and reach of low cost distribution options for content, so trade barriers to the free flow of content should be avoided. Governments should not impose stronger restrictions on content on the Internet than exist in the real world. In instances where users do not wish to receive certain types of content, such as that which is unsuitable for children, filtering/ blocking systems or other tools should be made available. On-line service providers should not be asked to monitor all the content being transmitted over their network, but should be expected to work with domestic law enforcement authorities as well as with their international counterparts to stem the transmission of illegal content.
+10. Electronic payments.
+Developments in this area should recognize the importance of private sector leadership, and should promote both a competitive market for and user confidence in electronic payment systems.
+11. Intellectual Property Rights.
+Growth of electronic commerce depends on the adequate protection of intellectual property rights including industrial property rights and copyrights. The global protection of patents concerning infrastructure of electronic commerce is essential for the progress of electronic commerce. The protection of copyrights will be assisted by the prompt ratification and implementation of the WIPO Copyright Treaty and the WIPO Performances and Phonograms Treaty.
+12. Domain Name System.
+In order to reach its full potential, the system for registering, allocating and governing domain names should be global, fair and market-based and reflect the geographically and functionally diverse nature of the Internet. The said system should also give business the confidence that trademark rights are to be protected by establishing a self-regulatory regime on a global basis.
+13. Consumer Protection.
+Electronic commerce should afford consumers the same level of protection as is provided in other forms of commerce.
+III. Future Work
+We will continue to work together to support the development of global electronic commerce in the future, through:
+14. Close policy coordination between the United States and Japan to promote electronic commerce.
+15. Continuing substantive bilateral discussions at the experts level on issues regarding electronic commerce.
+16. Encouraging private sector leadership through dialogue and cooperation between the private sectors of both countries, for example, the Working Group on Electronic Commerce of the U.S.-Japan Business Council.
+17. Close cooperation between the United States and Japan at international fora—which may include, for example, WTO, OECD, WIPO, UNCITRAL and APEC—to support the development of global electronic commerce.
+  

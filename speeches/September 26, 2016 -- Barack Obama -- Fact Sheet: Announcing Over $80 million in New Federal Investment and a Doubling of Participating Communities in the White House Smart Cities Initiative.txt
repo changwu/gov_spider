@@ -1,0 +1,190 @@
+
+    "If we can reconceive of our government so that the interactions and the interplay between private sector, nonprofits, and government are opened up, and we use technology, data, social media in order to join forces around problems, then there's no problem that we face in this country that is not soluble." – President Barack Obama
+With nearly two-thirds of Americans living in urban settings, many of our fundamental challenges—from climate change to equitable growth to improved health—will require our cities to be laboratories for innovation. The rapid pace of technological change, from the rise of data science, machine learning, artificial intelligence, and ubiquitous sensor networks to autonomous vehicles, holds significant promise for addressing core local challenges.
+That's why last September the White House launched the Smart Cities Initiative to make it easier for cities, Federal agencies, universities, and the private sector to work together to research, develop, deploy, and testbed new technologies that can help make our cities more inhabitable, cleaner, and more equitable.
+Today, to kick off Smart Cities Week, the Administration is expanding this initiative, with over $80 million in new Federal investments and a doubling of the number of participating cities and communities, exceeding 70 in total. These new investments and collaborations will help cities of all sizes, including in the following key areas:
+•      Climate: The Administration is announcing nearly $15 million in new funding and two new coalitions to help cities and communities tackle energy and climate challenges. For example, one Department of Energy (DOE) campaign has already signed up 1,800 buildings representing 49 million square feet with data analytics tools that could reduce their energy footprint by 8 percent or more, on average.
+•      Transportation: The Administration is announcing more than $15 million in new grants and planned funding to evolve the future of urban transportation, including National Science Foundation (NSF) funding for researchers in Chattanooga to test, for the first time, how an entire urban network of connected and autonomous vehicles can automatically cooperate to improve travel efficiency and operate safely during severe weather events.
+•      Public safety: The Administration is announcing more than $10 million in new grants and planned funding for public safety, resilience, and disaster response. For example, the Department of Homeland Security (DHS) is funding the development of low-cost flood sensor-based tools in flood-prone areas of Texas, where predictive analytics will give first responders and local officials new capability to issue alerts and warnings, and the ability to respond more rapidly to save lives when a flood strikes.
+•      Transforming city services: MetroLab Network is launching a new effort to help cities adopt promising innovations in social programs, like a collaboration between three counties surrounding Seattle and the University of Washington to use predictive analytics to identify precisely when city services succeed in helping homeless individuals transition into permanent housing, offering the promise of a future of personalized intervention.
+Background
+The White House Smart Cities Initiative represents an example of how the Administration has worked over the past seven and a half years to develop a smarter, more collaborative approach to working with local communities—putting citizens, community groups, and local leaders at the center of its efforts. The Administration's approach involves working together with communities to identify local needs and priorities, develop and build upon evidence-based and data-driven solutions, and strategically invest Federal funding and technical assistance.
+The Smart Cities Initiative is informed by and builds on the work of the President's Council of Advisors on Science and Technology (PCAST), including its Technology and the Future of Cities report. In the report, PCAST identified several actions that the Federal Government can take to help cities leverage technology, and which the initiative is already beginning to implement.
+The initiative has supported a number of breakthrough activities in the last year. Two such examples are:
+•      Smart City Challenge: In June, the Department of Transportation (DOT) selected Columbus, Ohio to receive $40 million to prototype the future of urban transportation, out of 78 cities that accepted its Smart City Challenge. The city's plan, which will also leverage over $100 million in private resources, involves piloting new technologies, from connected vehicle technology that improves traffic flow and safety to data-driven efforts to improve public transportation access and health care outcomes to electric self-driving shuttles that will create new transportation options for underserved neighborhoods.
+•      Fitness Tracker for Cities: With funding from NSF and Argonne National Laboratory, the City of Chicago and the University of Chicago last month began installing a "fitness tracker for the city"—500 outdoor sensor boxes called the "Array of Things" that will allow the city and public to instantly obtain block-by-block data on air quality, noise levels, and traffic. This real-time open data will help researchers and city officials reduce air pollution, improve traffic safety, and more. For example, a team is already working to build a mobile application that will alert asthma sufferers about poor air quality based on real-time measurements taken on their city block.
+In addition to the initiative, the Administration has also taken several complementary steps that support local innovation, including the newly-announced Advanced Wireless Research Initiative, through which NSF is working with the private sector to invest nearly $100 million to develop four city-scale testing platforms for wireless technologies, including 5G and beyond. Additionally, the Administration's Opportunity Project is spurring the creation of private sector digital tools based on Federal open data that help communities find information about resources needed to thrive, such as affordable housing, quality schools, and jobs. The Police Data Initiative and Data-Driven Justice Initiative are helping local authorities use data to improve community policing and divert low-level offenders out of the criminal justice system, respectively.
+The upcoming White House Frontiers Conference, held in Pittsburgh on Wednesday, October 13, will further advance the initiative by bringing together some of the world's leading innovators to discuss how investing in science and technology frontiers—including smart and inclusive local communities—can help improve lives and keep America on the cutting edge of innovation.
+Key Steps by the Administration Being Announced Today
+NSF is announcing over $60 million in new smart cities-related grants in FY16 and planned new investments in FY17. NSF is bringing together academic researchers from an array of disciplines with community stakeholders to unlock transformational progress on important community challenges. Examples of this work include an effort by researchers in Chattanooga to test an entire urban network of automatically cooperating connected and autonomous vehicles; and a flood-warning pilot project in several Maryland cities that integrates sensor data and social media posts in a novel way to potentially save lives by providing advance notice of flash floods, which kill more people in the United States each year than tornadoes, hurricanes, or lightning. The investments include:
+•      $24.5 million in planned investment in FY17 and $8.5 million in new awards under the Smart & Connected Communities program. The planned investment significantly expands NSF's research focus in this area and builds on a number of high-risk, high-reward Early Concept Grants for Exploratory Research awards supporting integrative research that enhances understanding and design of our future cities and communities.
+•      $10 million in new awards to develop and scale next-generation Internet applications and technologies through the US Ignite program, supporting access to the gigabit-enabled networks and services that bring data and analytics to decision-makers in real time.
+•      $7 million in new Partnerships for Innovation: Building Innovation Capacity projects that involve academic-industry collaborations to translate breakthrough discoveries into emerging technologies related to smart communities, ranging from smart buildings to sensor networks that improve transportation efficiency.
+•      $4 million in new Cyber-Physical Systems awards focused on Smart & Connected Communities. Collectively, these awards help establish the technological foundation for smart cities and the Internet of Things, which enables connection of physical devices at enormous scale to the digital world through sensors and other IT infrastructure.
+•      $2 million in new "Spokes" that extend the Big Data Regional Innovation Hubs and $1.4 million in new Big Data research, which will use data science to improve the smart electric grid, keep bridges safer, grow better crops through the use of drone technology, and allow students to conduct citizen science on air pollution.
+•      $1.5 million in new Smart and Connected Health research awards with a focus on Smart & Connected Communities. The awards being announced today will support the development of next-generation health care solutions that leverage sensor technology, information and machine learning technology, decision support systems, and more.
+•      $1 million for researchers to participate in the 2016 NIST Global City Teams Challenge, supporting high-risk, high-reward research on the effective integration of digital and physical systems to meet real-world community challenges.
+•      $1 million in new research and capacity-building awards supporting lifelong learning that will be critical to cities and communities of the future.
+DOE is announcing new coalitions to build cleaner, smarter communities, and more than $15 million in new and planned funding to support smart, energy-efficient urban transportation systems and to unlock distributed clean energy sources.
+•      DOE is announcing the launch of the Better Communities Alliance (BCA), a new DOE-led network of cities and counties with the goal of creating cleaner, smarter, and more prosperous communities for all Americans. Through the BCA, which is part of the Better Buildings Initiative, DOE is creating a one-stop shop for cities and counties to plug into DOE resources and AmeriCorps resources from the Corporation for National and Community Service to support them in tackling energy and climate challenges. DOE will gather key stakeholders to promote knowledge exchange and collaboration, while streamlining access to community-focused DOE resources and funding through coordinated assistance across programs and a common digital portal. Initial member communities and affiliate organizations include:
+§ Anchorage, Alaska
+§ Atlanta, Georgia
+§ Boston, Massachusetts
+§ Boulder, Colorado
+§ Broward County, Florida
+§ Chattanooga, Tennessee
+§ Chicago, Illinois
+§ Chula Vista, California
+§ Des Moines, Iowa
+§ Dubuque, Iowa
+§ Fort Worth, Texas
+§ Huntington Beach, California
+§ Kansas City, Missouri
+§ King County, Washington
+§ Knoxville, Tennessee
+§ Los Angeles County, California
+§ Miami-Dade County, Florida
+§ Milwaukee, Wisconsin
+§ New York, New York
+§ Newark, New Jersey
+§ Orlando, Florida
+§ Philadelphia, Pennsylvania
+§ Phoenix, Arizona
+§ Portland, Oregon
+§ Richmond, Virginia
+§ Roanoke, Virginia
+§ Rochester, New York
+§ Salt Lake City, Utah
+§ San Francisco, California
+§ Seattle, Washington
+§ Sonoma County, California
+§ West Palm Beach, Florida
+§ Will County, Illinois
+§ Alliance to Save Energy
+§ American Council for an Energy-Efficient Economy
+§ Arup
+§ C40 Cities Climate Leadership Group
+§ Cityzenith
+§ Emerald Cities Collaborative
+§ Energy Foundation
+§ Global Cool Cities Alliance
+§ Governing Institute
+§ Hatch
+§ ICLEI USA - Local Governments for Sustainability
+§ Institute for Market Transformation
+§ Institute for Sustainable Communities
+§ International City/County Management Association
+§ Kresge Foundation
+§ National Association of Counties
+§ National Association of State Energy Officials
+§ National League of Cities
+§ Natural Resources Defense Council
+§ Philips Lighting
+§ Smart Cities Council
+§ Solar Foundation
+§ STAR Communities
+§ Surdna Foundation
+§ U.S. Green Building Council
+§ Urban Sustainability Directors Network
+•      DOE is launching a new Better Buildings Accelerator to assist local governments in developing "Zero Energy Districts" within their communities. Through the Accelerator—which will help participants overcome deployment barriers by providing a framework for collaboration among participants as well as technical assistance—DOE will work with city leaders, district developers, planners, owners, and additional key stakeholders to develop the business case and energy master planning documents needed to replicate Zero Energy Districts, which aggregate buildings' renewable energy sources so that the combined on-site renewable energy offsets the combined building energy usage from the buildings in the district.
+•      DOE's Better Buildings Initiative is launching a Smart Energy Analytics Campaign with an inaugural group of members committing to using smart building energy management technologies to unlock energy savings. Eighteen inaugural members representing 1,800 buildings and 49 million square feet have signed up to adopt data analytics tools—known as Energy Management and Information Systems (EMIS)—that could reduce their energy footprint by 8 percent or more, on average. Some of the campaign participants and their plans include:
+
+o      The Wendy's Company is piloting software to move all 300 of their company-owned restaurants onto EMIS analytics.
+o      Macy's will leverage its experience using fault detection and diagnostics across their portfolio of over 700 stores to share best practices.
+o      University of California, San Francisco will expand its innovative program of "Connected Commissioning" to use fault detection and diagnostics based on a consistent flow of building data analytics to help commission major building renovations and ensure they operate efficiently from the start.
+o      Rhode Island Office of Energy is starting a multi-year EMIS project with 18-buildings that will leverage lessons learned through the Campaign to help streamline the rollout of EMIS to a large portion of their portfolio.
+The following organizations will also provide technical assistance to the campaign partners: Lawrence Berkeley National Laboratory, Building Owners Management Association, International Facility Managers Association, Commonwealth Edison, California Commissioning Collaborative, and the Building Commissioning Association.
+•      DOE is announcing $10 million in current and planned investment to expand the DOE SMART Mobility consortium to support the emergence of smart, energy-efficient urban transportation systems and establish a "Technologist in Cities" pilot. In collaboration with the DOT Smart City Challenge, and with an initial focus on Columbus, Ohio, and Detroit, Michigan, DOE's "Technologist in Cities" pilot will pair national laboratory technologists with city leaders to help cities address critical mobility needs with new capacity, tools, and technologies that significantly improve energy efficiency and reduce carbon emissions. The DOE Systems and Modeling for Accelerated Research in Transportation Mobility consortium leverages the unique capabilities of DOE National Laboratories to examine the nexus of energy and mobility for future transportation systems, including through connected and automated vehicles, urban and decision sciences, multi-modal transport, and integrated vehicle-fueling infrastructure systems.
+•      DOE's Office of Electricity Delivery and Energy Reliability is announcing approximately $7 million in funding to support the development of sensors and modeling that allow communities to more effectively integrate distributed clean energy sources into their power grids. Currently, integration of distributed clean energy sources—and the emissions, reliability and resilience benefits they provide—is a challenge for electric grids originally designed solely for distribution of electricity, not local generation. Funding will support research and development at utilities and technology providers to harness new sensor data and improved modeling to allow for integration of these resources with greater efficiency and reliability, while aiming to deliver new benefits, such as improved grid resilience against outages in emergency situations.
+The National Institute of Standards and Technology (NIST) is continuing to expand the smart cities movement and support technical progress in the Internet of Things.
+•      NIST and its collaborators are announcing a new international coalition dedicated to developing an Internet of Things-Enabled Smart City Framework, with an initial release planned for next summer. Through an open, technical working group studying real-world smart city applications and architectures, the coalition will identify pivotal points of interoperability, where emerging alignment on standards can enable landscape of diverse but interoperable smart city solutions. Coalition members include the American National Standards Institute, the U.S. Green Building Council, the Republic of Korea's Ministry of Science, ICT, and Future Planning, the Italian Energy and Innovation Agency, the European Telecommunications Standards Institute, and the FIWARE Foundation.
+•      NIST's Global City Teams Challenge is establishing multi-team super-clusters to take on grand challenges too big for any single city team to tackle. Examples include multi-city resilience to large-scale natural disasters, intelligent transportation systems that work in any city, and regional air quality improvements through coordinated local action. This initiative brings together groups of communities formed around lead cities—Portland, Oregon; Atlanta, Georgia; Newport News, Virginia; Columbus, Ohio; Bellevue, Washington; Kansas City, Kansas; and Kansas City, Missouri—to work with NIST and its collaborators, including DOT, DHS Science and Technology Directorate, NSF, the Environmental Protection Agency, the National Telecommunications and Information Administration, the International Trade Administration, the Economic Development Administration, IBM, AT&T, CH2M, Verizon, Qualcomm Intelligent Solutions, Intel, US Ignite, and Urban-X, to develop ‘blueprints' for shared solutions that will be collaboratively implemented in multiple cities and communities.
+•      NIST is announcing $350,000 in four new grants enabling 11 cities and communities to work together on innovative smart city solutions. The Replicable Smart City Technologies grants to teams of communities led by Newport News, Virginia; Bellevue, Washington; Montgomery County, Maryland; and Portland, Oregon focus on the development and deployment of interoperable technologies to address important public concerns regarding air pollution, flood prediction, rapid emergency response, and improved citizen services through interoperable smart city solutions that can be implemented by communities of all types and sizes.
+The National Telecommunications and Information Administration (NTIA) within the Department of Commerce is releasing a new toolkit to help communities leverage private-sector resources and expertise to advance smart cities. A core challenge that communities face when implementing smart city solutions is limited expertise and resources needed to develop and deploy new large-scale technology projects. Successful public-private partnerships can be a cost-effective way to ensure the fastest delivery of improved services to local residents. To assist local communities, NTIA is releasing a toolkit for local officials and citizen groups to use as a guide for building productive public-private partnerships that will enable smart cities to flourish. Using Partnerships to Power a Smart City: A Toolkit for Local Communities identifies factors to consider when developing a partnership—including what to look for in a partner, assessing partner contributions, and how to structure the most fruitful partnership agreements.
+The DHS Science and Technology Directorate is announcing an investment of $3.5 million for development of low-cost sensor technologies through its Flood Apex Program. The program is applying Internet of Things-based approaches to facilitate evacuations, flood monitoring, and resilience of critical infrastructure. For example, through a collaboration with the Lower Colorado River Authority, FEMA, and the National Weather Service in flood-prone areas of Texas, the program will share real-time data to give first responders and local officials the ability to respond more rapidly when a flood strikes and make the right preventive investments in flood protection to help save lives and protect infrastructure.
+The Networking and Information Technology Research and Development Program is announcing a Federal Smart Cities and Communities Task Force. Recognizing the need for collaboration across agencies given the cross-cutting nature of community challenges like resilience, the task force is charged with developing a draft strategy for interagency cooperation on smart cities. It will also create a resource guide to Federal smart city programs, helping stakeholders discover the broad array of Federal funding opportunities and other resources. The draft strategy will be available for comment this fall, and the resource guide will be online in November.
+New Steps Being Taken by Communities, Universities, Industry, and Others in Response to the Administration's Call to Action
+Four additional companies are joining the Administration's NSF-led Advanced Wireless Research Initiative, collectively committing over $8 million in in-kind contributions to help support the design, deployment, and operation of four city-scale advanced wireless testing platforms. The companies joining the effort are announcing the following new steps:
+•      Anritsu will contribute microwave components, spectrum analysis tools, and equipment to support testing, measurement, and service assurance.
+•      Crown Castle will support the testing platforms by providing network deployment and tower siting advice and space on wireless towers.
+•      Ericsson will provide resources in the form of researchers, systems and technology expertise, software-defined networking and radio network engineering support, with a focus on spectrum flexibility, spectrum sharing, security, IoT, and advanced radio technologies.
+•      FiberTower will contribute mmWave spectrum services in support of selected geographic regions.
+MetroLab Network, with new support from the Annie E. Casey Foundation, will launch a Lab focused on the intersection of big data and human services. The Big Data and Human Services Lab will bring together stakeholders from the Network's membership—local government policymakers and university researchers—as well as industry, policy experts, and non-profits to connect disparate policy and research efforts that harness data-driven approaches to transform human services. This effort will support coordination across communities, develop new tools and infrastructure, and help replicate what works, such as the collaboration between University of Washington and Seattle to use predictive analytics to identify precisely when city services succeed in helping homeless individuals transition into permanent housing, offering the promise of a future of personalized intervention. In addition, in the year since its launch, MetroLab has added the following new members, including four that are joining today:
+•      Los Angeles, with California State University, Los Angeles (joining today)
+•      Greater Miami (Miami-Dade County, City of Miami, City of Miami Beach), with University of Miami, Florida International University, and Miami Dade College (joining today)
+•      San Francisco, with University of California, Berkeley (joining today)
+•      University of Pittsburgh, joining an existing collaboration between Pittsburgh and Carnegie Mellon University (joining today)
+•      Arlington County, with Virginia Tech-National Capital Region
+•      Austin, with University of Texas at Austin
+•      Baltimore, with John Hopkins University and University of Baltimore
+•      Boulder and Denver, with University of Colorado-Boulder
+•      Burlington, with University of Vermont
+•      Charlotte, with University of North Carolina at Charlotte
+•      Columbus, with Ohio State University
+•      Jacksonville, with University of Florida and University of North Florida
+•      Kansas City, Kansas and Kansas City, Missouri, with University of Missouri-Kansas City and University of Kansas
+•      Newark, with New Jersey Institute of Technology
+•      Orlando, with University of Central Florida
+•      Santa Fe, with Santa Fe Institute
+•      Schenectady, with University at Albany, State University of New York
+•      Columbia University, joining an existing collaboration between New York City and New York University
+The Smart Cities Council will award challenge grants to help five American cities apply smart technologies to improve urban livability, workability, and sustainability. For each of the five winning cities, the Council will deliver a tailored one-day readiness bootcamp, where experts from the Council, its members, and its advisors will assist each city in building or enhancing its smart city roadmap based on what works. In addition to the readiness bootcamp, the following Council members will contribute the following to each winning city:
+•      Ameresco will provide consulting to help optimize smart street lighting.
+•      AT&T will provide up to 25 AT&T Internet of Things Starter Kits.
+•      CH2M and Qualcomm will collaborate to host a one-day follow-on workshop to develop and deploy a smart cities ecosystem.
+•      Computing Technology Industry Association will provide free training, software, and access to its technology educational materials.
+•      Dow Building and Construction will provide consultation on optimizing building design as part of a smart cities ecosystem.
+•      IDC will assess each city's progress through a comprehensive Smart City Maturity Benchmark.
+•      Sensus will provide a citywide hosted communications network free of charge for one year.
+•      Telit will provide each city free access to its Telit IoT platform.
+•      TM Forum will help cities assess progress through its Smart City Maturity and Benchmark Model.
+•      Transdev will provide up to three days of technical assistance to investigate new and more efficient urban mobility options.
+More than twenty cities, along with the newly formed Council of Global City Chief Information Officers, are launching a new initiative focused on ensuring responsible and equitable deployment of smart city technologies. The effort, led by the City of New York, has three primary goals: (1) provide a common framework to help governments develop and expand policies and procedures related to the Internet of Things; (2) ensure openness and transparency regarding the use of public space or assets for smart city technologies; and (3) advance the public dialogue about how government, the private sector and academia can collaborate to ensure these technologies are used in a way that maximizes public benefit. The following twenty-one cities have committed to a common set of guiding principles that emphasize privacy, security, sustainability, resilience, equity and efficiency in their use of these technologies:
+•      Atlanta, Georgia
+•      Austin, Texas
+•      Boston, Massachusetts
+•      Cambridge, Massachusetts
+•      Charlotte, North Carolina
+•      Chicago, Illinois
+•      Dallas, Texas
+•      Greenville, South Carolina
+•      Kansas City, Missouri
+•      Los Angeles, California
+•      New York, New York
+•      Palo Alto, California
+•      Philadelphia, Pennsylvania
+•      Pittsburgh, Pennsylvania
+•      Portland, Oregon
+•      San Antonio, Texas
+•      San Diego, California
+•      San Francisco, California
+•      Seattle, Washington
+•      Spokane, Washington
+•      Washington, District of Columbia
+US Ignite is announcing the addition of four cities joining the network of Smart Gigabit Communities. The Smart Gigabit Communities Program was announced by NSF with the launch of the Smart Cities Initiative last September. The four cities each committing to developing six gigabit applications that serve community needs are:
+•      Adelaide, Australia (also the first city outside the United States to join)
+•      Albuquerque, New Mexico
+•      Salisbury, North Carolina
+•      Washington, District of Columbia
+1776 is launching the Urban Innovation Council, a coalition of cities, startups, and corporate stakeholders dedicated to overcoming challenges to building smarter cities through entrepreneurship. The council will tackle a range of enablers for startup innovation, including development of model urban regulations that enable rather than stymie innovation, and practical research that informs decisions made by entrepreneurs and city leaders. Initial members include:
+•      Arlington County, Virginia
+•      Dubai, United Arab Emirates
+•      Montgomery County, Maryland
+•      Pittsburgh, Pennsylvania
+•      Global Automakers
+•      Microsoft
+•      Radiator Labs
+•      SeamlessDocs
+•      TransitScreen
+•      Uber
+•      Vornado
+Additional efforts being announced include:
+•      The Center for Technology in Government at the University at Albany, State University of New York is creating smart city guidebooks for small and medium-sized cities. Mayors of such cities face a wide range of financial, organizational, policy, and political challenges that can slow the pace of innovation. The guidebooks will focus on key considerations for technology adoption in the small and medium-sized city context, with a focus on critical implementation steps.
+•      The City of New York is launching a new digital platform to help local governments navigate the smart city marketplace. Developed through a public-private partnership, marketplace.nyc includes information about a growing list of more than 100 companies—including new and emerging firms—and their relevant products and services. The platform helps local government employees identify innovative technologies within their respective focus areas while also encouraging interagency coordination by offering a repository of information on past or existing city pilots and contracts. The resource is designed to enable both replication and data sharing across cities.
+•      City Digital, a Chicago-based consortium, is announcing results from its first pilot launched in September 2015 as part of the Smart Cities Initiative, including new technology components to create a novel digital underground infrastructure mapping platform. The pilot team has now successfully engineered the platform's components, which will allow cities and utilities to move through construction and development processes in less than half the current time.
+•      Dallas Innovation Alliance and Envision Charlotte are announcing "For Cities, By Cities," a new collaboration that will bring cities together from around the globe over the next two years to workshop steps to become smarter, more sustainable, and efficient. Convening in Dallas, Texas in 2017 and Charlotte, North Carolina in 2018, the conferences will feature city officials sharing their perspective with peers about lessons learned regarding what works, what to avoid, how to get started, and how to define success.
+•      Dallas will be launching the Dallas Innovation District in the West End neighborhood in downtown Dallas, focused on bringing together civic, corporate, and startup innovation efforts through a single district-level testbed. This collaboration will bring together the Dallas Innovation Alliance's Smart Cities Living Lab, the Dallas Entrepreneur Center's efforts to seed new startups, and new innovation initiatives from corporations in the technology, banking and healthcare sectors.
+•      Mapbox is announcing the launch of the Mapbox Cities Lab, offering municipalities free access to Mapbox tools and support, and providing three cities with in-depth mentorship to help tackle their most pressing issues, from traffic safety to neighborhood health. Mapbox will work with each participating city to gather data on its particular challenges, and then collaborate to create insightful and actionable data-driven maps incorporating open data and real-time traffic data from Mapbox.
+•      Microsoft is announcing new smart cities-related resources to help communities across the country leverage technology for public safety and transportation. Microsoft and Genetec are providing 10 U.S. cities with Project Green Light starter kits to enable local businesses to connect surveillance cameras to the cloud and local law enforcement. Working with Cubic, Microsoft also is offering a cloud-based surface transport management solution pilot to five U.S. cities to help them increase efficiency and safety.
+•      Orange Silicon Valley will launch a workshop this fall on business-to-business data sharing for public and private benefit, with a particular focus on smart cities and the Internet of Things. The workshop will bring together private sector actors with other stakeholders to examine models for private sector data sharing across businesses and sectors, related challenges and opportunities, and new models for generating social value from private sector data.
+  

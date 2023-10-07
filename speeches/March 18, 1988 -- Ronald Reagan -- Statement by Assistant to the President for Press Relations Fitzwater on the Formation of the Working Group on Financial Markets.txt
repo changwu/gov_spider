@@ -1,0 +1,41 @@
+
+    In view of the extraordinary events in the financial markets in 1987 and the findings of the numerous market studies, including studies by Federal agencies, self-regulatory organizations, and the President's Task Force on Market Mechanisms, it is clear that further, closely coordinated work needs to be done. Despite our financial system's notable success in withstanding the shock of those events, we need to ensure that the public is protected by assuring financial integrity of the markets during periods of significant price changes.
+We also must be concerned about the quality and fairness of our markets for all participants and the willingness of individuals and institutions to participate in these markets. In addressing these issues, we must keep clearly in mind the vital national interest in preserving the efficiency and international competitiveness of our financial markets and institutions.
+To these ends, the President is asking the Secretary of the Treasury to chair a select Working Group on Financial Markets to coordinate the Government's efforts to evaluate recommendations and to seek the resolution of the complex issues involved. The other Working Group members will be the Chairmen of the Board of Governors of the Federal Reserve System, the Securities and Exchange Commission, and the Commodities Futures Trading Commission.
+The President expects that they will consult with the various exchanges, clearinghouses, self-regulatory bodies, and major market participants as they proceed. He has asked the Working Group to consult also with the Congress as this work progresses. The goals of the Working Group are twofold: first, to ensure the continued integrity, competitiveness, and efficiency of our nation's financial markets, and second, to maintain the public's confidence in those markets. Much can be done within the existing legal framework by both regulators and market participants, but the President has asked the Working Group to consider also whether any legislature changes are necessary.
+In the President's judgment and that of his senior advisers, the major items the Working Group should address are investor confidence, credit and settlement system risks, and maintenance of orderly, efficient, and internationally competitive markets. The issues raised by the several studies that in our view merit the greatest attention are listed below. None of them is simple, and while deserving high priority, may not be resolved quickly or without considerable reflection. A significant number of issues have been suggested by most of the reports and commentators, while others have had more limited support. The list, which was developed in consultation with all members of the Working Group, is not intended to include all of the suggestions made nor all of the items that may be addressed by the Working Group; nor is it intended to imply an endorsement of all items listed. The major issues the President has asked the Working Group to address are attached.
+ISSUES FOR CONSIDERATION
+A. Investor Confidence
+1. Adequacy of mechanisms to address intermarket front-running and price manipulation.
+2. Expansion of information dissemination and trade processing capacities of exchanges, member firms, service bureaus, and clearing systems.
+3. Better evaluation and enforcement of affirmative market-maker obligations.
+4. Adequacy of customer protection rules and their enforcement in all markets.
+5. Adequacy of regulatory agency and self-regulatory organization resources and staffing levels.
+6. Assessment of a variety of approaches to assuring better access and order execution for individuals' orders.
+B. Credit System Issues
+1. Coordination of clearing system operations and information exchange.
+2. Adequacy of private sector capital for futures floor traders, market-makers, broker-dealers, and futures commission merchants, including any appropriate revisions of capital rules.
+3. Adequacy and clarity of private sector credit arrangements for exchange settlement systems and market participants.
+4. Progress toward on-line clearing and same-day trade comparisons for all equity and derivative products.
+5. Changes in margin requirements and additional security deposits for financial protection against price-spike volatility, settlement capability for variation margin, and positions with concentrated risk.
+6. Establishment of harmonized leverage requirements for uncovered customer positions in cash and derivative markets.
+C. Market Mechanisms
+1. The desirability of simultaneous, brief trading halts in all markets based on clear authority and carefully established and known standards.
+2. Coordination of openings and continuing trading of index futures and options with the trading of the underlying stocks.
+3. Establishment of separate trading of index "baskets" of stock.
+4. Providing for or requiring physical delivery for settlement of index futures and options.
+5. Development of block trading procedures for index futures and options on futures.
+6. Revision of the equity market short sale rules.
+7. Use of "open outcry," "one price auction," and specialist book disclosure approaches in large, intraday order imbalance situations in specialist markets to facilitate price discovery and market clearing and minimize intermarket disruptions and discontinuities.
+8. Emergency measures to restrict large, rapid liquidations of positions.
+9. Preestablished standards for shortened trading hours for all markets in periods of sustained heavy volume.
+10. Investigation of the usefulness of enhanced reporting requirements for broker dealer record keeping, large trader tracking systems, and program trades, with due consideration to financial privacy concerns and international capital flows.
+11. Imposition of price limits for index futures and options.
+12. Full day closings in response to specified price moves.
+13. Restrictions on access to the DOT system for program trades based on either volume or price move limits.
+14. Price limits on individual stocks.
+15. Aggregate cash and derivative market position limits.
+D. Regulatory Structure
+1. Careful consideration of the desirability of more formal intermarket coordination and cooperation mechanisms, different regulatory regimes, a "tie-breaking referee" for intermarket issues, or emergency powers.
+2. Development of mechanisms for international coordination on multimarket issues.
+  

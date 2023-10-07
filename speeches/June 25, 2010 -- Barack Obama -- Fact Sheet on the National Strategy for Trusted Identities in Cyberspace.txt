@@ -1,0 +1,27 @@
+
+    Today, June 25th, the draft National Strategy for Trusted Identities in Cyberspace is being released for public comment and input. Key facts and concepts about the strategy are provided below. For the report and blog post from the President's Cybersecurity Coordinator, Howard Schmidt please visit http://www.whitehouse.gov/blog/.
+I. Impetus
+• One of the near term action items of the President's Cyberspace Policy Review is to develop a "cybersecurity-focused identity management vision and strategy." The National Strategy for Trusted Identities in Cyberspace (NSTIC) answers that requirement.
+• The need for such a strategy is due to the rising tide of identity theft, online fraud and cyber intrusions, the proliferation of usernames and passwords that individuals must remember, and the need to deliver online services more securely and efficiently.
+ II. Development Process
+• The National Security Staff (NSS) has led an interagency writing team to develop the draft strategy through a very transparent, open, and collaborative process.
+• The writing team has engaged with approximately 70 industry advisory councils and associations to collect input on drafts of the strategy. These stakeholder groups represent various communities, including privacy, state and local government, healthcare, and the financial sector. Nearly 4000 comments from industry and government have been collected and adjudicated.
+• The current final draft is posted on www.nstic.ideascale.com for public review and input. The Department of Homeland Security is supporting the NSS in this public review period and is providing NSS with the use of an Open Government tool called IdeaScale to collect and prioritize comments. The document will be posted for a three week period (closing July 19th).
+• NSS is aiming to finalize the document (including Presidential signature) in October 2010 to coincide with National Cybersecurity Awareness Month.
+III. Scope
+• The strategy is focused on improving our ability to identify and authenticate the organizations, individuals, and underlying infrastructure (e.g., routers, servers, desktops, mobile devices, software, data, etc.) involved in an online transaction.
+• Online transactions can include everything from accessing electronic health records, to online banking, to making a purchase online, to sending an email.
+• There are many ways to do this identification and authentication, ranging from less secure user names and passwords to more secure Public Key Infrastructure (or PKI).
+IV. Organization
+• The Strategy contains an introduction, a vision, guiding principles, goals and objectives, and a call to action.
+• Accompanying the Strategy will be an implementation plan that lays out specific recommendations that align to the goals in the strategy. These recommendations call for development of new standards, new pilots, new grants, new programs, and new offices. The recommendations are where the rubber meets the road, and where we will be driving real change in our effort to build this identity ecosystem.
+ V. Goals of the Strategy
+• We want to create an environment, or an Identity Ecosystem as we refer to it in the Strategy, where individuals and organizations can complete online transactions with confidence, trusting the identities of each other and the identities of the infrastructure that the transaction runs on.
+• End users in this Identity Ecosystem should be able to use strong (e.g., multifactor), interoperable credentials to authenticate themselves online for a variety of different transactions.
+• In order to get to this future world the draft strategy lays out four goals. They are:
+1. Design the Identity Ecosystem. This includes working with industry to develop and identify the standards and policies that govern the identity ecosystem. It also includes addressing legal issues in the Identity Ecosystem such as defining liability caps for identity providers.
+2. Build the Identity Ecosystem infrastructure. This includes working with industry and state and local government to deploy strong, interoperable identity solutions. It also includes reinvigorating government efforts to encourage the deployment of device and object relative authentication protocols such as Domain Name Security (DNSSEC), Internet Protocol Security (IPSEC), and Border Gateway Protocol Security (BGPSEC).
+3. Strengthen privacy protections for end users and increase awareness of risks. This includes formally adopting (perhaps through new laws) enhanced privacy protections for individuals in the Identity Ecosystem. For example, we are considering requiring identity providers to abide by the Fair Information Practice Principles. This goal also includes working with the interagency working group that has been established to create a national awareness campaign for cybersecurity and ensure that trusted identities messaging is included in that campaign.
+4. Manage the Identity Ecosystem. This includes establishing the proper structures within government, including a program office to oversee implementation of the strategy and an industry advisory council, to ensure the long term success of the identity ecosystem. It also includes enhanced government participation in various international fora, including policy bodies and standards organizations.
+To Comment on the report please visit http://www.nstic.ideascale.com.
+  

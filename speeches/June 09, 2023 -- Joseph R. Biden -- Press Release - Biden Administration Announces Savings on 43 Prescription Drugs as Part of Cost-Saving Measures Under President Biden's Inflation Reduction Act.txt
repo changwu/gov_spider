@@ -1,0 +1,34 @@
+
+    HHS also releases analysis highlighting trends driving growth in spending for Medicare Part B drugs prior to President Biden's Inflation Reduction Act
+President Biden has made lowering prescription drug costs in America a key priority, and the Biden-Harris Administration continues to ensure Americans can feel the benefits of the health care cost-saving provisions under the Inflation Reduction Act. Today, the Department of Health and Human Services (HHS) announced, through the Centers for Medicare & Medicaid Services (CMS), the list of 43 prescription drugs for which Medicare Part B beneficiaries' coinsurances may be lower between July 1 – September 30, 2023. HHS also today released a new report analyzing trends that have driven growth in spending for Medicare Part B coverage prior to President Biden passing the Inflation Reduction Act. President Biden's Inflation Reduction Act aims to lower prices of prescription drugs which contribute to higher health care costs for millions of seniors and people with disabilities, among other efforts to lower health care costs for millions of American families.
+"Thanks to President Biden's new lower cost prescription drug law—the Inflation Reduction Act—manufacturers of qualifying drugs must pay rebates to Medicare if the price of those drugs increases at a rate faster than the rate of inflation. And, Medicare now has the authority to negotiate lower prescription drug prices for the first time," said HHS Secretary Xavier Becerra. "The research announced today reinforces that President Biden's new law is helping control drug spending while making sure seniors and people with disabilities can afford the medications they need."
+The Inflation Reduction Act is already lowering out-of-pocket Part B drug costs. As part of the new law, manufacturers are required to pay a rebate to Medicare if a drug's price increase exceeds the rate of inflation. CMS intends to send the first invoices in 2025 to manufacturers for the rebates owed to Medicare in 2023 and 2024. Some people with Medicare Part B may pay lower coinsurance on 43 drugs, whose prices rose faster than the rate of inflation in a benchmark quarter. People who take these drugs may save between $1 and $449 per average dose between July 1 – September 30, 2023, depending on their individual coverage.
+The President's new lower cost prescription drug law also authorizes Medicare to directly negotiate drug prices for select medications. Part B drugs may be eligible to be selected for negotiation starting in 2026 for prices effective in 2028. These provisions may lower costs for the Medicare program.
+Today HHS also released new research on Medicare Part B, which has had the fastest rate of spending growth for drugs in the Medicare program in the decades prior to the Inflation Reduction Act going into effect. Medicare Part B generally covers drugs provided in doctors' offices and hospital outpatient departments, while Medicare Part D drugs generally are purchased at the pharmacy counter or by mail order.
+The research from the HHS Office of the Assistant Secretary for Planning and Evaluation (ASPE) identifies the major drivers of Medicare Part B drug spending between 2008-2021, such as its concentration among a small number of drugs; rapid spending growth on biologics; and spending on specialty drugs in oncology, ophthalmology, and rheumatology. The report also discusses the impact of incentives in the current payment system as well as provisions in the Inflation Reduction Act that aim to lower prescription drug prices.
+Key points of the report include:
+
+Medicare fee-for-service (FFS) Part B drug program spending in 2021 was $33 billion; that is about 27 percent of Medicare drug spending, 3.6 percent of total Medicare spending, and 6 percent of the nation's drug spending.
+
+
+Over the 2008-2021 period, Medicare Part B drug spending per enrollee grew on average at 9.2 percent annually. This spending growth was more than triple the rate in Part D (2.6 percent) and nearly 4 times as high as the rate of per capita annual prescription drug spending across all payers reflected in the National Health Expenditures Account (2.4 percent).
+
+
+Medicare Part B drug spending is concentrated among a small number of drugs: the top 20 drugs account for 53 percent of spending, while the top 10 account for 40 percent of Part B drug spending in 2021.
+
+
+Medicare spending on biologics has grown much more rapidly than spending on non-biologics over the past 13 years. From 2008-2021, spending growth on biologics accounted for nearly all (89 percent) of Medicare Part B drug spending growth. Biologics account for about 79 percent of Medicare FFS Part B prescription drug spending in 2021.
+
+
+Part B drug spending is shifting from physician offices to hospital outpatient departments: the share of Part B spending in this setting nearly doubled from 23 percent in 2008 to 41 percent in 2021, while the share of spending in physicians' offices declined from 63 percent to 53 percent.
+
+
+Medicare Part B drug spending is largely driven by three medical specialties: ophthalmology, oncology and rheumatology. Drugs to treat cancer continued to account for the largest share of Part B drug program spending and accounted for over half of such spending in 2021.
+
+
+Among specific therapies, Part B spending on intravenous immuno-globulin (IVIG), and treatment for osteoporosis, rheumatoid arthritis, and cancer grew the most rapidly with an annual growth rate higher than 10 percent from 2008-2021.
+
+To read the full ASPE report Medicare Part B Drugs: Trends in Spending and Utilization, 2008-2021, visit: https://aspe.hhs.gov/reports/medicare-part-b-drugs-spending-utilization
+Information about the 43 Part B drugs and biological products with lower coinsurance in the quarterly Average Sales Price (ASP) public files is available at https://www.cms.gov/medicare/medicare-part-b-drug-average-sales-price/2023-asp-drug-pricing-files
+A fact sheet is available at https://www.cms.gov/files/document/fact-sheet-part-b-rebatable-drug-coinsurance-reduction.pdf.
+  

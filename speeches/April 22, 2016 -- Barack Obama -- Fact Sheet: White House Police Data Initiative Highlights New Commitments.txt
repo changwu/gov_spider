@@ -1,0 +1,82 @@
+
+    "The question then is how do we bridge these issues: concern about fairness and a concern about effectiveness in making sure that police officers get the support they need. That's why I set up a Task Force on 21st Century Policing last year that came up with detailed recommendations that departments and officers can implement to keep building trust . . . It talked about having open data and independent investigations to make sure the system was fair . . ."
+—President Obama, International Association of Chiefs of Police Speech, 2015
+WASHINGTON, DC – In 2014, President Obama launched the Task Force on 21st Century Policing to identify the best means to provide an effective collaboration between law enforcement and local communities that reduces crime and increases trust. In response to several of the Task Force recommendations that speak to the importance of technology and transparency, in May 2015 the White House launched the Police Data Initiative (PDI), a community of practice that includes leading law enforcement agencies, technologists, and researchers committed to improving the relationship between citizens and police through uses of data that increase transparency, build community trust, and strengthen accountability.
+Today the Administration is announcing that 53 jurisdictions, covering more than 41 million people, have now committed to the Police Data Initiative, with over 90 data sets released to date. These commitments represent concrete steps toward building trust and speak to a larger shift in the culture of policing that is at the core of the Task Force's recommendations.
+The White House is hosting an event today titled, "The Police Data Initiative Year of Progress: Building on the President's Call to Action to Leverage Open Data to Increase Trust between Police and Citizens." At the event, local law enforcement leaders, cities, and stakeholders will share lessons learned about data and transparency and hone concrete ideas for continuing their groundbreaking work. This convening highlights the leadership and local innovation PDI jurisdictions have demonstrated over the past year in using open data to build community trust. To watch this event live, visit www.whitehouse.gov/live at 9:00 AM ET on April 22.
+Building off of the work of PDI, the White House Advisor on Violence Against Women in the Office of the Vice President hosted an event yesterday titled, "Opportunities & Challenges: Open Police Data and Ensuring the Safety and Security of Victims of Intimate Partner Violence and Sexual Assault." This convening brought together domestic violence and sexual assault advocates, law enforcement officers, local government officials, and technology and privacy experts. These stakeholders discussed how police open data initiatives can align with the privacy and safety concerns of intimate partner violence and sexual assault victims while promoting the transparency and accountability objectives of city governments and law enforcement agencies.
+The White House Advisor on Violence Against Women in the Office of the Vice President announced plans for two future hackathons with advocates, police departments, and city governments. The purpose of these events will be to further explore how to successfully balance the opportunities presented by open police data and protecting the privacy and safety of victims of intimate partner violence and sexual assault.
+Committed PDI Jurisdictions
+1. Albuquerque, NM
+2. Atlanta, GA
+3. Austin, TX
+4. Baltimore PD
+5. Bedford, VA
+6. Bloomington, IN
+7. Burlington, VT
+8. Camden County, NJ
+9. Charlotte-Mecklenburg, NC
+10. Chattanooga, TN
+11. Chula Vista, CA
+12. Cincinnati, OH
+13. Columbia, SC
+14. Cuyahoga County, OH
+15. Dallas, TX
+16. Danville, VA
+17. Denver, CO
+18. Detroit, MI
+19. Fayetteville, NC
+20. Ft Lauderdale, FL
+21. Hampton, VA
+22. Hartford, CT
+23. Indianapolis, IN
+24. Knoxville, TN
+25. Los Angeles County, CA
+26. Los Angeles, CA
+27. Louisville, KY
+28. Menlo Park, CA
+29. Montgomery County, MD
+30. New Orleans, LA
+31. New York, NY
+32. Newark, NJ
+33. Newport News, VA
+34. Oak Creek, WI
+35. Oakland, CA
+36. Orlando, FL
+37. Philadelphia, PA
+38. Providence, RI
+39. Rancho Cucamonga
+40. Richmond, CA
+41. Rutland, VT
+42. Salt Lake City, UT
+43. San Antonio, TX
+44. San Diego, CA
+45. San Francisco, CA
+46. San Jose, CA
+47. Santa Rosa, CA
+48. Seattle, WA
+49. Spokane, WA
+50. St. Louis, MO
+51. Tacoma, WA
+52. Tucson, AZ
+53. Vallejo, CA
+Administration Commitments to Leverage Open Data to Increase Trust between Police and Citizens
+The Obama Administration is also announcing new Federal commitments to further the PDI.
+•      The Department of Justice Office of Community Oriented Policing Services (COPS) will advance the work of the Police Data Initiative through their ongoing engagement with departments through their Collaborative Reform Initiative for Technical Assistance and Critical Response programs, as well as through other training and technical assistance initiatives, that will help departments nationwide implement the recommendations of the President's Task Force on 21st Century Policing.
+•      The Department of Justice Office on Violence Against Women (OVW), in collaboration with its technical assistance provider the National Network to End Domestic Violence (NNEDV), will create a resource that helps jurisdictions opening police and crime data balance the value of open data with the need to protect victim privacy. OVW will also work with national training and technical assistance providers to develop resources and tools that support the use of open data in the implementation of the 2015 DOJ Guidance on Identifying and Preventing Gender Bias in Law Enforcement Response to Sexual Assault and Domestic Violence.
+Answering the President's Call to Action to Leverage Open Data to Increase Trust between Police and Citizens: Private Sector and Nonprofit Announcements
+The Administration recently issued a call to action asking private sector and nonprofit organizations what new steps they would take to further the Police Data Initiative's goals of increasing transparency, building community trust, and strengthening accountability.
+The private sector and nonprofit organizations that have committed to providing policy, technical assistance, and evangelism for open data in policing include:
+•      The Police Foundation and the Open Justice Broker Consortium will collaborate to assist law enforcement agencies in making their open data sets more useful to those using the data by promoting consistency and standardization across common high-priority datasets.
+•      The Police Foundation and SEARCH will publish 5 "How-To" Guides that describe each priority dataset such as Officer-Involved Shootings, Assaults on Officers, Community Engagement, Pedestrian Stops, and describe the most commonly available attributes, features, and variables within the Police Data Initiative. These fact sheets will make it easier for agencies to develop and release open datasets by identifying how and what other agencies have already released.
+•      The California Department of Justice will host a "White House Police Data Initiative – Open Justice" convening for all participating California jurisdictions.
+•      The International Association of Chiefs of Police (IACP) will encourage agencies to participate in the Police Data Initiative through the newly launched Institute for Community-Police Relations.
+•      Sunlight Foundation's Hall of Justice will track data sets released by Police Data Initiative jurisdictions as part of its searchable data inventory of nearly 10,000 criminal justice datasets and research documents spanning all 50 states and the Federal government.
+•      Esri will host a series of webinars to show law enforcement agencies how they can leverage the technology they already have to start sharing information with the community. Esri will also host an open data panel at their National Security and Public Safety Summit in San Diego in June highlighting the work of Police Data Initiative jurisdictions.
+The private sector and nonprofit organizations that have committed to providing digital tools to reduce barriers to opening and interpreting data include:
+•      Socrata is offering Police Data Initiative participating jurisdictions a discount to its Socrata for Public Safety starter kit bundle that allows for publishing of police data, context, and stories around that data, and also a map-based interface for viewing crime data, for the remainder of 2016.
+•      Safe Software is providing a free 1-year license of FME Desktop—software that can extract data from systems, transform it, and load it into an open data platform—to any new Police Data Initiative jurisdiction, along with free support and unlimited instructor-led online training. Also, in collaboration with Socrata, any law enforcement agency will be able to obtain and share scripts that extract data from common policing systems and put that data into the Socrata platform.
+•      GovDelivery will develop the DKAN Public Safety Edition and contribute it to the open source community. This tool will be a full-featured publishing and engagement platform for data released under the Police Data Initiative that includes content management, data visualization, and standardization so the data is easily identifiable. All of these components will available for any agency to download, install, and use at no cost.
+•      OpenGov will expand precomputed safety key performance indicators for all 3,000+ counties and 35,000+ townships/municipalities in the U.S. – currently based on Census, FBI, and other Federal data sources – to include standardized open data relevant to the Police Data Initiative.
+•      Nextdoor will roll out two new features to increase community engagement: a voluntary polling feature to receive data from residents, and a "forward to police" feature that allows residents to forward posts to police so that the police have a sense of what is being discussed by a particular neighborhood and can join in the conversation.
+  

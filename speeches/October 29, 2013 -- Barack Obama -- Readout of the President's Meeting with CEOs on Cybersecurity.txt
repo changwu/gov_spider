@@ -1,0 +1,16 @@
+
+    The President met today with a group of CEOs from the information technology, financial services, and energy sectors to discuss our shared efforts to improve the cybersecurity of our nation's critical infrastructure.
+The conversation highlighted the importance of the voluntary Cybersecurity Framework that is being created by the Department of Commerce's National Institute of Standards and Technology in partnership with a range of public and private stakeholders. The framework is part of Executive Order 13636 on Improving Critical Infrastructure Cybersecurity, which was introduced in the President's 2013 State of the Union Address. The preliminary version of the framework was released in the Federal Register today for a 45 day comment period.
+The framework is intended to raise the level of cybersecurity across the U.S. critical infrastructure. To do so, the framework will lay out a set of core practices for organizations to manage their cybersecurity risk. The CEOs expressed appreciation for the way the framework was developed in partnership with the private sector and support for the process moving forward. The conversation focused on how to encourage its adoption. Participants discussed the need for framework adoption by both critical infrastructure and by their suppliers -- and the difficulties involved in helping small and medium sized business to adopt best practices. Both companies and government officials also expressed the strong desire to have Congress pass information sharing legislation that protects privacy and civil liberties.
+Attendees included:
+
+Ajay Banga, President and CEO, MasterCard
+Steve Bennett, President and CEO, Symantec
+Wes Bush, Chairman, President and CEO, Northrup Grumman
+Marilyn Hewson, President and CEO, Lockheed Martin
+Renée James, President, Intel
+Brian T. Moynihan President and CEO, Bank of America
+Joseph Rigby, Chairman, President and CEO, Pepco Holdings
+Charles W. Scharf, Director and CEO, Visa
+
+  

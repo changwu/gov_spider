@@ -1,0 +1,17 @@
+
+    The Administration has stated repeatedly that malicious cyber actors seeking to harm critical infrastructure, damage computer systems, and steal trade secrets or sensitive information pose a serious threat to the United States' national security and economic competitiveness.
+Today, President Obama issued an Executive Order creating a new, targeted authority for the U.S. government to better respond to the most significant of these threats, particularly in situations where malicious cyber actors may operate beyond the reach of existing authorities. This Executive Order declares a national emergency with respect to the unusual and extraordinary threat to the national security, foreign policy, and economy of the United States posed by the increasing prevalence and severity of malicious cyber-enabled activities originating from, or directed by, persons located, in whole or in substantial part, outside the United States.
+This new Executive Order authorizes the Secretary of the Treasury, in consultation with the Attorney General and the Secretary of State, to impose sanctions on individuals or entities that engage in significant malicious cyber-enabled activities that are reasonably likely to result in, or have materially contributed to, a significant threat to the national security, foreign policy, or economic health or financial stability of the United States, and that have the purpose or effect of:
+
+Harming or significantly compromising the provision of services by entities in a critical infrastructure sector;
+Significantly disrupting the availability of a computer or network of computers (for example, through a distributed denial-of-service attack); or
+Causing a significant misappropriation of funds or economic resources, trade secrets, personal identifiers, or financial information for commercial or competitive advantage or private financial gain (for example, by stealing large quantities of credit card information, trade secrets, or sensitive information).
+
+The new Executive Order further authorizes the Secretary of the Treasury, in consultation with the Attorney General and the Secretary of State, to impose sanctions on certain individuals or entities that:
+
+Knowingly receive or use trade secrets that were stolen by cyber-enabled means for commercial or competitive advantage or private financial gain, where the underlying theft of the trade secrets is reasonably likely to result in, or has materially contributed to, a significant threat to the national security, foreign policy, or economic health or financial stability of the United States (for example, where a corporation knowingly profits from stolen trade secrets); or
+Attempt, assist in, or provide material support for any of the above harms.
+
+This authority will be used in a targeted manner against the most significant cyber threats that we face, whether they are directed against our critical infrastructure, our companies, or our citizens. The United States will continue to employ all available means, including diplomatic and law enforcement mechanisms, to counter these threats.
+This Executive Order augments the U.S. government's existing authorities to combat the growing threat posed by malicious cyber actors.
+  

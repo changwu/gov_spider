@@ -1,0 +1,918 @@
+
+    Program to Create Jobs in Low-Income Communities, Help CHCs Serve More Than 500,000 Additional Patients
+WASHINGTON - Today President Obama announced nearly $600 million in American Recovery and Reinvestment Act (Recovery Act) awards to support major construction and renovation projects at 85 community health centers nationwide and help networks of health centers adopt Electronic Health Records (EHR) and other Health Information Technology (HIT) systems. The awards are expected to not only create new job opportunities in construction and health care, but also help provide care for more than half a million additional patients in underserved communities. The President also announced a new demonstration initiative to support the delivery of advanced primary care to Medicare beneficiaries through community health centers.
+"Together, these three initiatives – funding for construction, technology and a medical home demonstration project – won't just save more money, and create more jobs, they'll give more people the peace of mind of knowing that health care will be there for them and their families when they need it," said President Obama. "Ultimately, that's what health reform is really about."
+"One of the first investments we made through the Recovery Act was in supporting our nation's community health centers – and today we build on that progress by funding new construction and improvement projects at more than 80 facilities nationwide," said Vice President Biden. "This is what the Recovery Act is all about – providing immediate assistance for hard-hit families, improving our nation's infrastructure and creating new opportunities for stable, well-paid work."
+To qualify for funding, a health facility must be a Federally Qualified "Community" Health Center. Grants of $508.5 million will be provided through the Facility Investment Program (FIP) program to address pressing health center facility needs. Also, as much as $88 million will be available to help Health Center Controlled Networks improve operational effectiveness and clinical quality in health centers by providing management, financial, technology and clinical support services.
+The new Recovery Act funds are the latest in a series of grants awarded to community health centers, which deliver preventive and primary care services at more than 7,500 service delivery sites around the country to patients regardless of their ability to pay. Health centers serve more than 17 million patients, about 40 percent of whom have no health insurance.
+Both programs will be administered by the Health Resources and Services Administration (HRSA), an agency of the U.S. Department of Health and Human Services (HHS).
+President Obama directed the Department of Health and Human Services to implement a demonstration initiative designed to evaluate the impact of the advanced primary care practice model on access, quality and cost of care provided to Medicare beneficiaries served by community health centers.
+This model, known as the "medical home," promotes accessible, continuous, and coordinated family-centered care. Developed and administered by the Centers for Medicare and Medicaid Services (CMS), the demonstration will last three years. CMS anticipates that up to 500 health centers will participate.
+"Because community health centers already provide comprehensive health care to people who face the greatest barriers to accessing care, these demonstration projects have the potential to support and improve the care delivered not only to Medicare beneficiaries, but also to others who rely on community health centers for primary care," said HHS Secretary Kathleen G. Sebelius.
+HRSA has received a total of $2 billion through the Recovery Act to expand health care services to low-income and uninsured individuals through its health center program. To date, nearly $1 billion of these funds have been awarded to community-based organizations across the country.
+FIP grants are listed below. They were awarded through a competitive process:
+
+
+
+
+Name of Health Center
+
+City
+
+State
+
+ Award Amount
+
+
+
+Health Services Inc.
+
+Montgomery
+
+Ala.
+
+$11,231,000
+
+
+
+Seldovia Village Tribe
+
+Seldovia
+
+Alaska
+
+$2,258,091
+
+
+
+Alaska Island Community Services
+
+Wrangell
+
+Alaska
+
+$3,736,490
+
+
+
+North Country Healthcare Inc.
+
+Flagstaff
+
+Ariz.
+
+$7,433,776
+
+
+
+Canyonlands Community Health Care
+
+Page
+
+Ariz.
+
+$1,840,695
+
+
+
+Clinica Sierra Vista
+
+Bakersfield
+
+Calif.
+
+$4,008,251
+
+
+
+Solano County Health & Social Services Dept.
+
+Fairfield
+
+Calif.
+
+$2,194,196
+
+
+
+South Central Family Health Center
+
+Los Angeles
+
+Calif.
+
+$953,743
+
+
+
+Contra Costa County Health Services Dept.
+
+Martinez
+
+Calif.
+
+$12,000,000
+
+
+
+Golden Valley Health Center
+
+Merced
+
+Calif.
+
+$9,573,010
+
+
+
+Petaluma Health Center Inc.
+
+Petaluma
+
+Calif.
+
+$8,906,986
+
+
+
+Clinica De Salud Del Valle De Salinas
+
+Salinas
+
+Calif.
+
+$2,327,857
+
+
+
+Santa Clara Valley Health And Hospital System
+
+San Jose
+
+Calif.
+
+$2,643,343
+
+
+
+San Mateo County Health Services Agency
+
+San Mateo
+
+Calif.
+
+$1,765,876
+
+
+
+Centro De Salud De La Comunidad San Ysidro
+
+San Ysidro
+
+Calif.
+
+$9,754,515
+
+
+
+Vista Community Clinic
+
+Vista
+
+Calif.
+
+$11,473,212
+
+
+
+Charter Oak Health Center Inc.
+
+Hartford
+
+Conn.
+
+$10,000,000
+
+
+
+Community Health Services Inc.
+
+Hartford
+
+Conn.
+
+$6,160,675
+
+
+
+Unity Health Care Inc.
+
+Washington
+
+D.C.
+
+$12,000,000
+
+
+
+Suncoast Community Health Centers Inc.
+
+Riverview
+
+Fla.
+
+$3,767,091
+
+
+
+Project Health Inc.
+
+Sumterville
+
+Fla.
+
+$5,222,774
+
+
+
+Tampa Family Health Centers Inc.
+
+Tampa
+
+Fla.
+
+$2,903,145
+
+
+
+Palmetto Health Council Inc.
+
+Atlanta
+
+Ga.
+
+$6,317,838
+
+
+
+Southwest Georgia Health Care Inc.
+
+Richland
+
+Ga.
+
+$1,208,700
+
+
+
+Kokua Kalihi Valley Comprehensive Family Services
+
+Honolulu
+
+Hawaii
+
+$1,500,000
+
+
+
+Lawndale Christian Health Center
+
+Chicago
+
+Ill.
+
+$10,000,000
+
+
+
+Greater Elgin Family Care Center
+
+Elgin
+
+Ill.
+
+$2,452,172
+
+
+
+PCC Community Wellness Center
+
+Oak Park
+
+Ill.
+
+$4,053,042
+
+
+
+Crusaders Central Clinic Association
+
+Rockford
+
+Ill.
+
+$5,342,337
+
+
+
+Healthnet Inc.
+
+Indianapolis
+
+Ind.
+
+$10,426,357
+
+
+
+Primary Health Care Inc.
+
+Des Moines
+
+Iowa
+
+$2,615,429
+
+
+
+Bucksport Regional Health Center
+
+Bucksport
+
+Maine
+
+$2,459,420
+
+
+
+Sacopee Valley Health Center
+
+Parsonsfield
+
+Maine
+
+$802,951
+
+
+
+Choptank Community Health System Inc.
+
+Denton
+
+Md.
+
+$1,085,542
+
+
+
+Dorchester House Multi-Service Center
+
+Dorchester
+
+Mass.
+
+$7,024,029
+
+
+
+East Boston Neighborhood Health Center
+
+East Boston
+
+Mass.
+
+$12,000,000
+
+
+
+Healthfirst Family Care Center Inc.
+
+Fall River
+
+Mass.
+
+$12,000,000
+
+
+
+Community Health Connections Inc.
+
+Fitchburg
+
+Mass.
+
+$10,732,754
+
+
+
+Lowell Community Health Center
+
+Lowell
+
+Mass.
+
+$9,351,067
+
+
+
+Mattapan Community Health Center
+
+Mattapan
+
+Mass.
+
+$11,550,000
+
+
+
+Greater New Bedford Community Health Center
+
+New Bedford
+
+Mass.
+
+$5,331,145
+
+
+
+Whittier Street Health Committee Inc.
+
+Roxbury
+
+Mass.
+
+$12,000,000
+
+
+
+Baldwin Family Health Care Inc
+
+Baldwin
+
+Mich.
+
+$3,000,000
+
+
+
+Intercare Community Health Network
+
+Bangor
+
+Mich.
+
+$8,500,000
+
+
+
+Cedar Riverside Peoples Center
+
+Minneapolis
+
+Minn.
+
+$2,113,595
+
+
+
+Central Mississippi Civic Improvement
+
+Jackson
+
+Miss.
+
+$3,881,043
+
+
+
+Nevada Rural Health Centers Inc.
+
+Carson City
+
+Nev.
+
+$11,253,351
+
+
+
+Avis Goodwin Community Health Center
+
+Dover
+
+N.H.
+
+$4,957,300
+
+
+
+Ammonoosuc Community Health Services Inc.
+
+Littleton
+
+N.H.
+
+$2,641,157
+
+
+
+Lamprey Health Care
+
+Newmarket
+
+N.H.
+
+$2,150,250
+
+
+
+Zufall Health Center Inc.
+
+Dover
+
+N.J.
+
+$3,920,442
+
+
+
+Ocean Health Initiatives Inc.
+
+Lakewood
+
+N.J.
+
+$4,753,399
+
+
+
+Newark City Health and Human Services
+
+Newark
+
+N.J.
+
+$4,996,563
+
+
+
+Newark Community Health Centers Inc.
+
+Newark
+
+N.J.
+
+$6,453,000
+
+
+
+La Familia Medical Center
+
+Santa Fe
+
+N.M.
+
+$1,216,338
+
+
+
+Montefiore Medical Center
+
+Bronx
+
+N.Y.
+
+$795,000
+
+
+
+Urban Health Plan Inc.
+
+Bronx
+
+N.Y.
+
+$12,000,000
+
+
+
+Family Health Network of Central New York Inc.
+
+Cortland
+
+N.Y.
+
+$1,400,387
+
+
+
+Community Healthcare Network
+
+New York
+
+N.Y.
+
+$1,365,788
+
+
+
+Family Healthcare Center
+
+Fargo
+
+N.D.
+
+$6,666,583
+
+
+
+Capital Park Family Health Center
+
+Columbus
+
+Ohio
+
+$4,417,688
+
+
+
+Muskingum Valley Health Centers Inc.
+
+McConnelsville
+
+Ohio
+
+$5,997,980
+
+
+
+Butler County Community Health Consortium Inc.
+
+Middletown
+
+Ohio
+
+$4,669,197
+
+
+
+Healthsource of Ohio Inc.
+
+Milford
+
+Ohio
+
+$9,764,690
+
+
+
+Great Salt Plains Health Center Inc.
+
+Cherokee
+
+Okla.
+
+$2,828,647
+
+
+
+Oklahoma Community Health Services Inc.
+
+Oklahoma City
+
+Okla.
+
+$11,985,000
+
+
+
+Central City Concern
+
+Portland
+
+Ore.
+
+$8,950,000
+
+
+
+Cornerstone Care
+
+Burgettstown
+
+Pa.
+
+$2,574,643
+
+
+
+Keystone Rural Health Center
+
+Chambersburg
+
+Pa.
+
+$11,515,000
+
+
+
+Southeast Lancaster Health Services
+
+Lancaster
+
+Pa.
+
+$3,250,000
+
+
+
+Esperanza Health Center
+
+Philadelphia
+
+Pa.
+
+$6,552,799
+
+
+
+Greater Philadelphia Health Action Inc.
+
+Philadelphia
+
+Pa.
+
+$3,937,796
+
+
+
+Squirrel Hill Health Center
+
+Pittsburgh
+
+Pa.
+
+$792,700
+
+
+
+Salud Integral En La Montana Inc.
+
+Naranjito
+
+P.R.
+
+$8,752,140
+
+
+
+Rincon Rural Health Initiative Project Inc
+
+Rincon
+
+P.R
+
+$5,915,227
+
+
+
+Little River Medical Center Inc.
+
+Little River
+
+S.C.
+
+$5,523,205
+
+
+
+Beaufort-Jasper Comprehensive Health Services Inc.
+
+Ridgeland
+
+S.C.
+
+$7,912,493
+
+
+
+Brownsville Community Health Center
+
+Brownsville
+
+Texas
+
+$7,500,000
+
+
+
+Project Vida Health Center
+
+El Paso
+
+Texas
+
+$6,000,422
+
+
+
+Su Clinica Familiar
+
+Harlingen
+
+Texas
+
+$7,500,000
+
+
+
+El Centro Del Barrio Inc.
+
+San Antonio
+
+Texas
+
+$11,051,134
+
+
+
+Heart of Texas Community Health Center Inc.
+
+Waco
+
+Texas
+
+$5,296,239
+
+
+
+Blue Ridge Medical Center Inc.
+
+Arrington
+
+Va.
+
+$5,000,000
+
+
+
+Community Health Center of Burlington Inc.
+
+Burlington
+
+Vt.
+
+$10,964,476
+
+
+
+La Clinica/South Columbia Rural Health
+
+Pasco
+
+Wash.
+
+$7,425,870
+
+
+
+
+
+Total: $508,549,051
+
+
+
+FACT SHEET
+Community Health Centers and the Recovery Act
+Health centers deliver preventive and primary care services at more than 7,500 service delivery sites around the country to patients regardless of their ability to pay; charges for services are set according to income. Health centers serve more than 17 million patients, about 38 percent of whom have no health insurance.
+Three sets of health center awards have already been funded through Recovery Act appropriations on the following dates:
+•       On March 2, President Obama announced grants worth $155 million to establish 126 new health center sites. Those grants will provide access to essential preventive and primary health care for more than 750,000 people in 39 states and two territories.
+•       On March 27, HHS also awarded $338 Million in Increased Demand for Services grants for health centers. Health centers are using these funds to provide care to more than 2 million additional patients over the next two years, including approximately 1 million uninsured people. In addition, over the next two years, health centers will use the funds to create and retain approximately 6,400 health center jobs.
+•       On June 29, First Lady Michelle Obama announced the release of $851 million in Recovery Act grants to upgrade over 1,500 health center sites and open their doors to more patients. More than 650 centers will use the funds for health information technology (HIT) systems, and nearly 400 health centers will adopt and expand the use of electronic health records.
+The Facility Investment Program awards announced today are the fourth set of health center grants provided through the Recovery Act. 
+Facility Investment Program (FIP) Grants
+The Obama Administration announced $508.5 million awarded in Facility Investment Program grants to community health centers nationwide to address the pressing needs of health center facilities and expanded their capacities to serve an additional 500,000 patients. The funds were made available by the American Recovery and Reinvestment Act (Recovery Act). The Facility Investment Program (FIP) grants support major construction and renovation at our nation's health centers. These funds will help health centers build new facilities, modernize current sites and create employment opportunities in underserved communities.
+Recipients of FIP funds are expected to commit grant funds and complete the proposed projects within two years. The grants will cover two types of projects:
+1. Alteration/renovation: This project type includes work required to modernize, improve or change the interior arrangements or other physical characteristics of an existing facility, and purchase/install equipment. Alterations and renovations make existing space usable for another purpose. This type of project does not increase square footage.
+2. Construction (new site or expansion of existing site): This project type includes—(i) adding a new structure to an existing site that increases the total square footage of the facility; and (ii) permanently affixing structure (e.g., modular units, prefabricated buildings) to real property (i.e., land).
+FIP grants, along with the entire health center program, are administered by the Health Resources and Services Administration (HRSA), a component of the U.S. Department of Health and Human Services.
+Health Center Controlled Networks (HCCN)
+The Obama Administration announced the availability of $88 million in grants to help networks of health centers adopt Electronic Health Records (EHR) and other Health Information Technology (HIT) systems. The funds are part of the $1.5 billion allotted to the Health Resources and Services Administration, a component of the Department of Health and Human Services, by the American Recovery and Reinvestment Act (Recovery Act) for construction, renovation, equipment, and the acquisition of HIT systems for health center programs.
+The Health Center Controlled Networks (HCCN) grant program was developed in 1994 to support the creation, development, and operation of electronic networks, controlled by groups of collaborating health centers, to improve health center operations. The networks are controlled by and operate on behalf of HRSA-supported health centers. Each network comprises at least three collaborating organizations.  
+HCCNs integrate core business functions among their individual health center members, who may be anywhere in the country, but are often in the same state or region. The core business functions these networks share are: administrative, clinical, managed care, fiscal, or health information systems.
+Networks provide these functions at or below marketplace cost to their members. In launching a network, members assess their respective environments and existing infrastructure to determine the most appropriate mix of business functions to share. The networks seek to:
+•       increase access for the low-income, uninsured population they predominantly serve;
+•       enhanced the efficiency of their operations; or
+•       create a higher level of performance and value.
+Networks that receive HCCN funds are given great flexibility in determining their activities. Each network is unique, depending on its state or regional environment, marketplace, collaborators, needs and interests.
+HRSA awarded $36 million in grants to support the operations of 53 Health Center Controlled Networks in fiscal year 2009.
+Medicare Federally Qualified Health Center Advanced Primary Care Practice Demonstration Initiative
+Today, President Obama directed the Department of Health and Human Services (HHS) to implement a demonstration initiative to support federal qualified health centers in delivering advanced primary care to Medicare beneficiaries. HHS' agencies, Health Resources and Services Administration and the Centers for Medicare and Medicaid Services, will work together to conduct this 3-year demonstration and anticipate that 500 federally qualified health centers will participate.
+Advanced Primary Care Model
+The Advanced Primary Care model, also known as the patient-centered medical home, promotes targeted, accessible, continuous, and coordinated family-centered care. The demonstration is designed to evaluate the impact of the advanced primary care practice model on access, quality and cost of care provided to Medicare beneficiaries served by federal qualified health centers.
+Federally Qualified Health Centers (FQHC)
+FQHCs provide comprehensive primary and preventive health care for medically underserved populations who face the greatest economic and geographic barriers to accessing care. Overseen by the Health Resources and Services Administration (HRSA), the Health Center program is a national network of more than 1,100 community, migrant, homeless and public housing health center grantees. These organizations provide health care at more than 7,500 clinical sites, ranging from large medical facilities to mobile vans. In 2008, health centers served more than 17 million medically underserved people. FQHCs provide an environment to demonstrate the benefits of medical homes can offer to Medicare beneficiaries.
+New Medicare Demonstration
+The Centers for Medicare and Medicaid Services (CMS) and HRSA will develop the demonstration, which would include a solicitation of applications from FQHC grantees. To participate, FQHC grantees will need to demonstrate that their clinic sites have the capacity to deliver continuous and coordinated care across providers and settings, including improving access to care by expanding service hours, facilitating and following up on referrals, and managing medications prescribed by different physicians. FQHC clinic sites selected to participate in the demonstration will receive a monthly care management fee for each Medicare fee-for-service beneficiary they enroll into the demonstration, in addition to payment for any other covered Medicare services they provide.
+Research Design
+This demonstration will evaluate whether federal qualified health centers that deliver advanced primary care improve access and quality, promote appropriate use of services, and reduce health care costs. The Centers for Medicare and Medicaid Services will begin soliciting applications in spring 2010, aiming to begin implementation of the 3-year demonstration initiative in January 2011. CMS will conduct an independent evaluation of this demonstration.
+  

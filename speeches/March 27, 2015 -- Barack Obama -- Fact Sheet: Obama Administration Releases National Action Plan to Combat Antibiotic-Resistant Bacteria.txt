@@ -1,0 +1,61 @@
+
+    Today, the White House released a comprehensive plan that identifies critical actions to be taken by key Federal departments and agencies to combat the rise of antibiotic-resistant bacteria. The National Action Plan for Combating Antibiotic-Resistant Bacteria, which was developed by the interagency Task Force for Combating Antibiotic-Resistant Bacteria in response to Executive Order 13676: Combating Antibiotic-Resistant Bacteria, outlines steps for implementing the National Strategy on Combating Antibiotic-Resistant Bacteria and addressing the policy recommendations of the President's Council of Advisors on Science and Technology (PCAST) report on Combating Antibiotic Resistance.
+Antibiotics have been a critical public health tool since the discovery of penicillin in 1928, saving the lives of millions of people around the world. The emergence of drug resistance in bacteria is undermining our ability to treat bacterial infections and perform a range of modern medical procedures, including chemotherapy, surgery, dialysis, and organ transplantation. The Centers for Disease Control and Prevention (CDC) estimates that drug-resistant bacteria cause 23,000 deaths and 2 million illnesses each year in the United States. Antibiotic resistance also threatens animal health, agriculture, and the economy.
+The National Action Plan provides a roadmap to guide the Nation in rising to the challenge of antibiotic resistance and potentially saving thousands of lives. The Action Plan outlines Federal activities over the next five years to enhance domestic and international capacity to prevent and contain outbreaks of antibiotic-resistant infections; maintain the efficacy of current and new antibiotics; and develop and deploy next-generation diagnostics, antibiotics, vaccines, and other therapeutics. These activities are consistent with investments in the President's FY 2016 Budget, which nearly doubles the amount of Federal funding for combating and preventing antibiotic resistance to more than $1.2 billion.
+Implementation of the Action Plan will require the sustained, coordinated, and complementary efforts of individuals and groups around the world, including public and private sector partners, healthcare providers, healthcare leaders, veterinarians, agriculture industry leaders, manufacturers, policymakers, and patients. Efforts carried out as part of the Action Plan will help the Federal government curb the rise of antibiotic-resistant bacteria with the goal of saving lives.
+To provide advice, information, and recommendations regarding programs and policies intended to support and evaluate the implementation of Executive Order 13676, including the National Strategy for Combating Antibiotic-Resistant Bacteria and the National Action Plan for Combating Antibiotic-Resistant Bacteria, the Secretary of Health and Human Services established the Presidential Advisory Council on Combating Antibiotic-Resistant Bacteria (Advisory Council). HHS is currently seeking nominations of individuals who are interested in being considered for appointment to the Advisory Council.
+ National Action Plan for Combating Antibiotic-Resistant Bacteria
+The Action Plan is organized around five goals for collaborative action by the U.S. Government, in partnership with foreign governments, individuals, and organizations aiming to strengthen healthcare, public health, veterinary medicine, agriculture, food safety, and research and manufacturing. Aggressive action will move the nation towards major reductions in the incidence of urgent and serious drug-resistant threats.
+These goals are:
+
+Slow the Emergence of Resistant Bacteria and Prevent the Spread of Resistant Infections. 
+Strengthen National One-Health Surveillance Efforts to Combat Resistance, 
+Advance Development and Use of Rapid and Innovative Diagnostic Tests for Identification and Characterization of Resistant Bacteria.
+Accelerate Basic and Applied Research and Development for New Antibiotics, Other Therapeutics, and Vaccines.
+Improve International Collaboration and Capacities for Antibiotic Resistance Prevention, Surveillance, Control, and Antibiotic Research and Development. 
+
+ Slow the Emergence of Resistant Bacteria and  Prevent the Spread of Resistant Infections
+Judicious use of antibiotics in healthcare and agricultural settings is essential to slow the emergence of resistance and extend the useful lifetime of effective antibiotics. The CDC estimates that up to half of all human antibiotic use is unnecessary or inappropriate. The Action Plan includes activities to foster improvements in the appropriate use of antibiotics (i.e., antibiotic stewardship) by improving prescribing practices across all healthcare settings. , preventing the spread of drug-resistant threats in healthcare facilities and communities, and continuing to eliminate the use of medically-important antibiotics for growth promotion in animals.
+By 2020, significant outcomes in this area will include:
+
+Establishment of antimicrobial stewardship programs in all acute care hospitals and improved antimicrobial stewardship across all healthcare settings.
+Reduction of inappropriate antibiotic use by 50% in outpatient settings and by 20% in inpatient settings.
+Establishment of State Antibiotic Resistance (AR) Prevention (Protect) Programs in all 50 states to monitor regionally important multi-drug resistant organisms and provide feedback and technical assistance to health care facilities.
+Elimination of the use of medically-important antibiotics for growth promotion in food-producing animals.
+
+ Strengthen National-Surveillance Efforts for Resistant Bacteria
+The "One-Health" approach to disease surveillance for human and animal pathogens is critical to combat antibiotic resistance. Improved detection and control of antibiotic resistance in human and animal pathogens will be achieved through a "One-Health" approach to disease surveillance that integrates data from multiple monitoring networks. This approach will significantly increase the currently very limited data and provide high-quality information, including detailed genomic data, necessary to track resistant bacteria in diverse settings in a timely fashion.
+By 2020, significant outcomes in this area will include:
+
+Creation of a regional public health network—the Detect Network of AR Regional Laboratories—for resistance testing, a specimen repository for resistant bacterial strains, and a National Sequence Database of Resistant Pathogens.
+Routine reporting of antibiotic use and resistance data to National Health Safety Network (NHSN) by 95% of Medicare-eligible hospitals, as well as by Department of Defense and Veterans Affairs healthcare facilities.
+Routine testing of zoonotic and animal pathogens for antibiotic susceptibility at ten to twenty National Animal Health Laboratory Network (NAHLN) and Veterinary Laboratory Investigation and Response Network (Vet-LIRN) member laboratories, using standardized testing methods and data sharing practices.
+
+ Advance Development and Use of Rapid and Innovative Diagnostic Tests for Identification and Characterization of Resistant Bacteria
+With the support of funding agencies such as the National Institutes of Health, today's researchers are taking advantage of new technologies to develop rapid "point-of-need" diagnostic tests that can be used during a healthcare visit to distinguish between viral and bacterial infections and identify bacterial drug susceptibilities — an innovation that could significantly reduce unnecessary antibiotic use. The availability of new rapid diagnostic tests, combined with ongoing use of culture-based assays to identify new resistance mechanisms, will advance the detection and control of resistant bacteria.
+By 2020, significant outcomes in this area will include:
+
+Development and dissemination of authorized point-of-need diagnostic tests that rapidly distinguish between bacterial and viral infections.
+Validation of diagnostic tests that rapidly determine the antibiotic resistance profiles of bacteria of public health concern.
+
+ Accelerate Basic and Applied Research and Development for New Antibiotics, Other Therapeutics, and Vaccines
+Antibiotics that lose their effectiveness for treating human disease through antibiotic resistance must be replaced with new drugs; alternatives to antibiotics are also needed in veterinary medicine. The Action Plan will boost basic scientific research, attract greater private investment, and facilitate clinical trials in order to advance the discovery and development of new antibiotics and alternative therapies to combat resistance.
+By 2020, significant outcomes in this area will include:
+
+Characterization of the gut microbiome—the communities of microorganisms that live within the gastrointestinal tract—of at least one animal species raised for food. This outcome will help us understand how antibiotic treatments disrupt normal gut bacteria and how animal growth might be promoted—and bacterial diseases might be treated—without using antibiotics.
+Advancement of at least two new antibiotic drug candidates, non-traditional therapeutics, and/or vaccines from pre-clinical testing to clinical trials for treatment or prevention of human disease.
+Development of at least three new drug candidates or probiotic treatments as alternatives to antibiotics for promoting growth or preventing disease in animals.
+Creation of a biopharmaceutical incubator—a consortium of academic, biotechnology and pharmaceutical industry partners—to promote innovation and increase the number of antibiotics and antibodies in the drug-development pipeline.
+
+ Improve International Collaboration and Capacities for  Antibiotic Resistance Prevention, Surveillance, Control, and  Antibiotic Research and Development
+Antibiotic resistance is a global problem that requires global solutions. The United States will engage with international ministries and institutions to strengthen national and international capacities to detect, monitor, analyze, and report antibiotic resistance; provide resources and incentives to spur the development of therapeutics and diagnostics for use in humans and animals; and strengthen regional networks and global partnerships that help prevent and control the emergence and spread of resistance.
+By 2020, significant outcomes in this area will include:
+
+Elevation of antibiotic resistance as an international priority for global health and security.
+Enhanced capacity to identify antimicrobial resistant pathogens in more than 15 partner countries.
+Establishment of a common U.S.-European Union (EU) system for sharing and analyzing bacterial resistance patterns for priority pathogens.
+Development of a global database to collect harmonized quantitative data on the use of antibacterial agents in animals.
+Development of national plans to combat antibiotic resistance and improve antibiotic stewardship in low- and middle-income countries.
+Strengthened regulatory and supply chain systems that assure the quality, safety, and efficacy of antibiotics used in low- and middle-income countries. 
+
+  

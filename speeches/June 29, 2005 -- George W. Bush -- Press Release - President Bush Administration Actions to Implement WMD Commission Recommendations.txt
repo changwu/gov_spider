@@ -1,0 +1,1218 @@
+
+    The President directed in Executive Order 13328 the formation of the bipartisan, independent Commission on the Intelligence Capabilities of the United States Regarding Weapons of Mass Destruction ("Commission") to advise him on improving the intelligence capabilities of the United States, particularly with respect to weapons of mass destruction (WMD).
+President Bush welcomed the report of the Commission. In its final report, the Commission offered a series of detailed, thoughtful and far-reaching recommendations, including several describing significant change America's Intelligence Community must undertake to confront the national security threats of the 21st Century. The President committed in the Executive Order to consult with Congress within 90 days of receiving the Commission's report and recommendations.
+The President asked Frances Fragos Townsend, the Assistant to the President for Homeland Security and Counterterrorism, to oversee a comprehensive review of the recommendations. Over the past three months, interagency expert panels studied the recommendations and provided advice on how each might be implemented to improve the quality and timeliness of intelligence provided by the Intelligence Community. These review panels - with the concurrence of the President's senior advisors on national and Homeland security - endorsed the objectives articulated in 70 of the 74 recommendations in the Commission's report. Three recommendations by the Commission will require further study, while a single recommendation from the classified portion of the Commission's report was not endorsed.
+President Bush has acted to implement these recommendations, including by:
+
+Establishing a National Counter Proliferation Center to manage and coordinate the Intelligence Community's activities related to nuclear, biological and chemical weapons, as well as their delivery systems;
+Signing an Executive Order to combat trafficking in weapons of mass destruction and related materials by blocking (or freezing) the assets of persons engaged in proliferation activities and their supporters;
+Directing the creation of a National Security Service within the Federal Bureau of Investigation to capitalize on the FBI's progress, and to fully integrate the FBI's intelligence elements into the broader Intelligence Community;
+Directing the reorganization of the Department of Justice to bring together its primary national security elements to enhance collaboration and ensure a unified approach to national security matters; and
+Clarifying authorities concerning information sharing by granting the Director of National Intelligence authority and control over the Program Manager for the Information Sharing Environment.
+
+The Director of National Intelligence, and other members of the Administration, will take many further actions in the coming months to implement Commission recommendations and related provisions of the Intelligence Reform and Terrorism Prevention Act of 2004 to improve the work of America's intelligence agencies.
+The Administration calls upon the Congress to act swiftly to implement other key Commission recommendations, including by:
+
+Amending the Foreign Intelligence Surveillance Act to extend the duration of electronic surveillance in cases involving agents of foreign powers who are not U.S. persons (Chapter 7);
+Creating a new Assistant Attorney General position (Chapter 10); and
+Renewing the Export Administration Act (Chapter 13).
+
+Further actions by the Congress may be required to implement the Commission's classified recommendations, and to support the Director of National Intelligence as he develops more detailed plans for implementing recommendations in the human resources and other areas.
+The Administration also encourages the Congress to reform its structures for intelligence oversight, including by careful consideration of the recommendations in Chapter 6 of the Commission's report and similar, previous recommendations in the final report of the National Commission on Terrorist Attacks Upon the United States.
+The following report summarizes the Administration's response to the Commission's recommendations.
+
+
+
+Table of Contents
+
+
+6.16.26.36.46.56.66.76.86.97.1
+7.27.37.47.57.67.77.87.97.107.11
+8.18.28.38.48.58.68.78.88.98.10
+8.118.128.138.148.158.169.19.29.39.4
+9.59.69.79.810.110.210.310.411.111.2
+11.311.411.513.113.213.313.413.513.613.7
+13.813.913.1013.1113.1213.1513.16
+ 
+
+
+
+ 
+
+
+
+
+Rec. No.
+
+
+WMD Commission Recommendation
+
+
+Endorsed
+
+
+Administration's Response
+
+
+Lead Entity
+
+
+
+
+6.1
+
+
+We recommend that the Director of National Intelligence (DNI) bring a mission focus to the management of Community resources for high-priority intelligence issues by creating a group of "Mission Managers" on the DNI staff, responsible for all aspects of the intelligence process relating to those issues.
+
+
+ 
+
+
+Recommendations 6.1, 6.2, 7.1, 7.2, and 8.1 are treated jointly. The objectives outlined in the Commission's report are reflected in the Office of the Director of National Intelligence (ODNI) organizational structure. In general, the DNI will employ existing structures whenever possible to achieve strategic Intelligence Community (IC) objectives. The DNI will rationalize, and perhaps modify, these structures but existing organizational arrangements that function effectively will not be abandoned. The designation of a mission manager would apply only to a limited set of high priority issues. The Deputy Director of National Intelligence (DDNI) for Collection and Analysis and an Associate Deputy Director for the National Intelligence Priorities Framework (NIPF) will collaborate with one other and consult with relevant agencies on target development, prioritization, management of collection, and analytical production.
+
+
+ODNI
+
+
+
+
+6.2
+
+
+We recommend that the DNI create a management structure that effectively coordinates Community target development. This new target development process would be supported by an integrated, end-to-end "collection enterprise."
+
+
+ 
+
+
+See Recommendation 6.1.
+
+
+ODNI
+
+
+
+
+6.3
+
+
+We recommend that the new DNI overhaul the Community's information management system to facilitate real and effective information sharing.
+
+
+ 
+
+
+This issue should be addressed on a priority basis by the DNI. Considerable work in this area is already underway with policy direction from the joint National Security Council (NSC)-Homeland Security Council (HSC) Policy Coordination Committee (PCC) on Information Sharing. The DNI will name a Chief Information Officer (CIO) for the IC to assist in coordinating and implementing new policies and procedures applicable to the IC for increased information sharing and information security, and also to evaluate and monitor information technology development efforts.
+
+
+ODNI
+
+
+
+
+6.4
+
+
+We recommend that the DNI use his human resources authorities to establish a central human resources authority for the Intelligence Community; create a uniform system for performance evaluations and compensation; develop a more comprehensive and creative set of performance incentives; direct a "joint" personnel rotation system; and establish a National Intelligence University.
+
+
+ 
+
+
+The DNI will devise implementation strategies to accommodate unique mission needs and business processes while ensuring uniform standards. The DNI will pursue creative performance incentives and a "joint" personnel rotation system. In addition, a National Intelligence University (NIU) system will be established. The ODNI Chief Human Capital Officer will be responsible for establishing, coordinating and implementing human resource (HR) plans and strategies for the IC. The ODNI Senior Training and Education Officer will establish and manage the NIU system.
+
+
+ODNI
+
+
+
+
+6.5
+
+
+We recommend that the DNI take an active role in equipping the Intelligence Community to develop new technologies.
+
+
+ 
+
+
+The DNI will take an active role in technology development. An integrated Community Advanced Research and Development Plan will be critical. This objective will be addressed by the National Intelligence Science and Technology Committee (NISTC). Work is already underway in closely related areas. The DNI will name an Assistant Director for Science and Technology (ADNI/S&T) who will assume leadership of the NISTC and direct this group to develop new initiatives for synergistic systems across different types of intelligence collection (e.g., HUMINT, SIGINT).
+
+
+ODNI
+
+
+
+
+6.6
+
+
+We recommend that the President establish a National Counter Proliferation Center (NCPC) that is relatively small (i.e., fewer than 100 people) and that manages and coordinates analysis and collection on nuclear, biological, and chemical weapons across the Intelligence Community. Although government-wide "strategic operational planning" is clearly required to confront proliferation threats, we advise that such planning not be directed by the NCPC.
+
+
+ 
+
+
+An NCPC will be established within the ODNI. The NCPC will exercise strategic oversight of the IC's work as it relates to the threat posed by weapons of mass destruction (WMD). The DNI will appoint a Director who will report to the DNI and serve as his mission manager on WMD issues. The DNI also will ensure that the NCPC establishes strategic intelligence collection and analysis requirements related to WMD that are consistent with U.S. policies.
+
+
+ODNI
+
+
+
+
+6.7
+
+
+We recommend that the Executive Branch improve its mechanisms for watching over the Intelligence Community in order to ensure that intelligence reform does not falter. To this end, we suggest that the Joint Intelligence Community Council (JICC) serve as a standing intelligence community "customer council" and that a strengthened President's Foreign Intelligence Advisory Board (PFIAB) assume a more vigorous role in keeping watch over the progress of reform in the Community.
+
+
+ 
+
+
+Executive Branch oversight will be critical to the success of IC reform. The JICC and the PFIAB will play a role in overseeing the IC reform effort. The JICC can provide the DNI with valuable feedback on intelligence support to policy consumers and on significant issues that arise in the course of implementing reforms. A PFIAB with a mandate to monitor and evaluate IC reform efforts will provide valuable counsel to the President and the DNI.
+
+
+NSC and ODNI
+
+
+
+
+6.8
+
+
+We recommend that the President suggest that Congress take steps to improve its structure for intelligence oversight.
+
+
+ 
+
+
+Absent changes by Congress, IC reform efforts will be handicapped and experience difficulty in reaching the desired outcomes. Action to improve the means by which Congress oversees the IC is deemed critical and the Administration will express that view to the leadership in both chambers.
+
+
+Congress
+
+
+
+
+6.9
+
+
+The Intelligence Community should improve its internal processes for self-examination, including increasing the use of formal "lessons learned" studies.
+
+
+ 
+
+
+Increased self-examination is a worthy objective. Under the leadership of the DDNI for Analysis, the IC will study existing "lessons learned" programs and processes within the IC with the aim of improving the effectiveness of such efforts. In addition, to maximize the impact and exposure of such lessons, increased exchange within the IC will be promoted, lessons will be incorporated into education and training curricula, and outside experts will be tapped. Consistent with the Commission's recommended approach, such self-examination efforts will focus on developing "best practices."
+
+
+ODNI
+
+
+
+
+7.1
+
+
+The DNI should create a new management structure within the office of the DNI that manages collection as an "integrated collection enterprise." Such an integrated approach should include coordinated target development, collection management, data management, strategic planning and investment, and the development of new collection techniques.
+
+
+ 
+
+
+See Recommendation 6.1.
+
+
+ODNI
+
+
+
+
+7.2
+
+
+Target Development Boards, which would be chaired by the Mission Managers, should develop collection requirements and strategies and evaluate collectors' responsiveness to these needs.
+
+
+ 
+
+
+See Recommendation 6.1.
+
+
+ODNI
+
+
+
+
+7.3
+
+
+The CIA's authority to manage and coordinate overseas human intelligence operations across the Intelligence Community should be strengthened through the creation of a Human Intelligence Directorate outside the Directorate of Operations.
+
+
+ 
+
+
+The CIA will restructure its senior management to meet the objectives outlined in the report and improve its overseas human intelligence (HUMINT) operational capabilities. The CIA also will strengthen its management of covert action. (Further detail provided in the Classified Annex.)
+
+
+CIA
+
+
+
+
+7.4
+
+
+The CIA should develop and manage a range of new overt and covert human intelligence capabilities. In particular, a "Human Intelligence Innovation Center," independent of CIA's Directorate of Operations, should be established to facilitate the development of new and innovative mechanisms for collecting human intelligence.
+
+
+ 
+
+
+See recommendation 7.3. (Further detail provided in the Classified Annex.)
+
+
+CIA
+
+
+
+
+7.5
+
+
+The CIA should take the lead in systematizing and standardizing the Intelligence Community's asset validation procedures, and integrating them with all information gathering activities across the human intelligence spectrum.
+
+
+ 
+
+
+The CIA's asset validation procedures will serve as the model for the HUMINT collection community. The CIA and Defense Intelligence Agency's Defense HUMINT Service (DIA/DHS) will take the lead in developing an implementation strategy relevant to clandestine and overt sources, respectively. (Further detail provided in the Classified Annex.)
+
+
+CIA/DIA
+
+
+
+
+7.6
+
+
+The Intelligence Community should train more human intelligence operators and collectors, and its training programs should be modified to support the full spectrum of human intelligence collection methods.
+
+
+ 
+
+
+Expanding the cadre of human intelligence collectors is a vital need for the IC. The DDNI for Collection, in coordination with relevant departments and agencies, will review existing plans and applicable standards and, as required, develop and implement new programs to achieve a larger force of better trained and more operationally effective collectors. The CIA and FBI already are implementing plans to expand and improve HUMINT collection capabilities based on Presidential Directives issued in November 2004.
+
+
+ODNI, CIA, and DIA
+
+
+
+
+7.7
+
+
+The President should seek to have the Foreign Intelligence Surveillance Act (FISA) amended to extend the duration of electronic surveillance and "pen registers" in cases involving agents of foreign powers who are not U.S. persons.
+
+
+ 
+
+
+Extending the duration of FISA orders for non-U.S. person agents of foreign powers will result in a substantial savings of resources and permit the Department of Justice (DOJ) to focus more time and attention on other FISA matters where U.S. persons are involved. DOJ has already proposed legislation that would extend the duration not only for electronic surveillance and pen register orders, but also physical search orders in cases involving agents of foreign powers who are not U.S. persons. This proposed legislation has been shared with appropriate Committees of the House and Senate.
+
+
+DOJ and Congress
+
+
+
+
+7.8
+
+
+The DNI should appoint an authority responsible for managing and overseeing innovative technologies, including the use of technologies often classified as "MASINT."
+
+
+ 
+
+
+The ADNI/S&T, with support from the Undersecretary of Defense for Intelligence (USD(I)), should assume the recommended oversight and management role. Such oversight should encompass shaping research and development programs to reflect DNI priorities, leveraging efforts in the Department of Defense (DOD) and other departments and organizations, rejuvenating the S&T workforce, ensuring the use of best R&D practices across the IC, and determining the appropriate level of investment for different technologies. Consistent with the Commission's view, the ADNI/S&T's oversight should not single out for special treatment any particular technology, including Measurement and Signature Intelligence (MASINT) systems, and its oversight should not extend to direct, hands-on acquisition, tasking, or operation of intelligence technologies, including MASINT.
+
+
+ODNI
+
+
+
+
+7.9
+
+
+The DNI should create an Open Source Directorate in the CIA to use the internet and modern information processing tools to greatly enhance the availability of open source information to analysts, collectors, and users of intelligence.
+
+
+ 
+
+
+It is critical to enhance the availability of open source information to analysts, collectors, and users of intelligence. Sponsorship of a Community-wide open source program -- including both foreign and domestic open source information -- should reside in the ODNI. The DDNI for Collection will create an Assistant Deputy Director for Open Sources position to manage this effort and serve as an advocate for open source collection.
+
+
+ODNI
+
+
+
+
+7.10
+
+
+Efforts should be taken to significantly reduce damaging losses in collection capability that result from authorized disclosures of classified information related to protection of sources and methods.
+
+
+ 
+
+
+Efforts to minimize damage to fragile sources and collection methods from authorized disclosures are appropriate. In the case of diplomatic demarches and other policy uses of intelligence information, the IC should track more closely the cumulative impact of disclosures to a state or states over time and carefully balance the risk to intelligence sources and methods against the expected policy gains when disclosures are considered.
+
+
+ODNI
+
+
+
+
+7.11
+
+
+The DNI should ensure that all Inspectors General in the Intelligence Community are prepared to conduct leak investigations for their agencies; this responsibility can be coordinated by a Community-wide Inspector General in the Office of the DNI, if such an office is established.
+
+
+ 
+
+
+The IC should increase its efforts to reduce losses to sources and methods from unauthorized disclosures. Leaks investigations, however, should be conducted by security and/or counterintelligence offices rather than by IG offices. An interagency IG group and security personnel have discussed the best mechanisms for reducing harmful disclosures and means by which the DNI could prepare the IC to conduct prompt and thorough leak investigations. In addition, mechanisms ultimately adopted must entail close coordination with law enforcement agencies. ODNI will continue to address this issue in coordination with relevant departments and agencies.
+
+
+ODNI
+
+
+
+
+8.1
+
+
+Mission Managers should be the DNI's designees for ensuring that the analytic community adequately addresses key intelligence needs on high priority topics.
+
+
+ 
+
+
+See Recommendation 6.1.
+
+
+ODNI
+
+
+
+
+8.2
+
+
+The DNI should create a small cadre of all-source analysts -- perhaps 50 -- who would be experts in finding and using unclassified, open source information.
+
+
+ 
+
+
+See Recommendation 7.9.
+
+
+ODNI
+
+
+
+
+8.3
+
+
+The DNI should establish a program office within the CIA's Open Source Directorate to acquire, or develop when necessary, information technologies to permit prioritization and exploitation of large volumes of data without the need for prior human translation or transcription.
+
+
+ 
+
+
+See Recommendation 7.9.
+
+
+ODNI
+
+
+
+
+8.4
+
+
+The Intelligence Community should expand its contacts with those outside the realm of intelligence by creating at least one not-for-profit "sponsored research institute."
+
+
+ 
+
+
+By relying on existing contracts and other arrangements between IC elements and research institutes, organizations, and companies, the IC believes it can meet the objective of this recommendation. Examples of such activity include greater outreach on strategic issues, drawing on outside expertise for studies or alternative analysis, and the appropriate exchange of information through the NIC. The IC will explore opportunities for such outreach.
+
+
+ODNI
+
+
+
+
+8.5
+
+
+The Community should develop and integrate into regular use new tools that can assist analysts in filtering and correlating the vast quantities of information that threaten to overwhelm the analytic process. Moreover, data from all sources of information should be processed and correlated Community-wide before being conveyed to analysts.
+
+
+ 
+
+
+The IC must make greater progress on developing filtering and correlating tools to help make better connections between isolated pieces of data. Much work in this area is already underway at the National Security Agency (NSA) and elsewhere. The NISTC should explore the degree to which increased investments of this kind are warranted, whether directed at individual agencies or across the Community.
+
+
+ODNI
+
+
+
+
+8.6
+
+
+A new long-term research and analysis unit, under the mantle of the National Intelligence Council (NIC), should be created to wall off all-source analysts from the press of daily demands and serve as the lead organization for interagency projects involving in-depth analysis.
+
+
+ 
+
+
+The objective of this recommendation is sound, and the DNI and NIC will explore and propose a series of alternative approaches for reaching that goal that might include establishing such a long-term research and analysis capability in IC production centers. Any plan ultimately will be executed by the DDNI for Analysis working jointly with relevant departments and agencies.
+
+
+ODNI/NIC
+
+
+
+
+8.7
+
+
+The DNI should encourage diverse and independent analysis throughout the Intelligence Community by encouraging alternative hypothesis generation as part of the analytic process and by forming offices dedicated to independent analysis.
+
+
+ 
+
+
+Analysts and analytical units should receive the requisite training, methodological rigor, and procedural guidance to ensure such alternative and independent analysis is brought to bear at all stages of the analytic process. In addition, best practices in how to conduct such analysis should be tapped from within the IC, from elsewhere in the U.S. Government, and from research institutes and think tanks.
+
+
+ODNI
+
+
+
+
+8.8
+
+
+The Intelligence Community must develop a Community program for training analysts, and both analysts and managers must prioritize this career-long training.
+
+
+ 
+
+
+While certain training standards are agency specific, others lend themselves to Community-wide standardization. Managers should assign a high priority to long-term, continuous training as an essential element in career development. The DNI will assign a senior training officer under the DDNI for Management to address systematically the training issues identified in the report. Review and implementation of any new training measures will be undertaken in coordination with relevant departments and agencies.
+
+
+ODNI
+
+
+
+
+8.9
+
+
+The Intelligence Community must develop a Community program for training managers, both when they first assume managerial positions and through their careers.
+
+
+ 
+
+
+More Community focus on managerial training would be beneficial and will be implemented, but such training should apply across all disciplines, not only in the analytical field.
+
+
+ODNI
+
+
+
+
+8.10
+
+
+Finished intelligence should include careful sourcing for all analytic assessments and conclusions, and these materials should -- whenever possible in light of legitimate security concerns -- be made easily available to intelligence customers.
+
+
+ 
+
+
+This recommendation overlaps significantly with 8.11. Most IC analytic components already have established procedures governing "sourcing" of intelligence products. Citations and supporting documents should generally be available to IC counterparts and customers. Existing data management tools should include this capability, which also should be integrated into the design of future IT systems. The DNI's CIO will address these and related information management issues identified in the report.
+
+
+ODNI
+
+
+
+
+8.11
+
+
+The analytic community should create and store sourced copies of all analytic pieces to allow readers to locate and review the intelligence upon which analysis is based, and to allow for easy identification of analysis that is based on intelligence reports that are later modified.
+
+
+ 
+
+
+Analysts should have access to IT systems with the capability to identify products based on reports that are later modified or retracted. See also response to 8.10 above.
+
+
+ODNI
+
+
+
+
+8.12
+
+
+The DNI should develop and implement strategies for improving the Intelligence Community's science and technology and weapons analysis capabilities.
+
+
+ 
+
+
+The ADNI/S&T and DDNI for Analysis, working with relevant departments and agencies, will implement measures to improve these critical analytical capabilities.
+
+
+ODNI
+
+
+
+
+8.13
+
+
+The DNI should explore ways to make finished intelligence available to customers in a way that enables them -- to the extent they desire -- to more easily find pieces of interest, link to related materials, and communicate with analysts.
+
+
+ 
+
+
+Customer access to intelligence products and analysts should be improved, and the DNI will implement measures to do so. The DDNI for Customer Outcomes will regularly assess both customer requirements and satisfaction levels.
+
+
+ODNI
+
+
+
+
+8.14
+
+
+The President's Daily Brief (PDB) should be restructured. The DNI should oversee the process and ensure a fair representation of divergent views. Reporting on terrorism intelligence should be combined and coordinated by the DNI to eliminate redundancies and material that does not merit Presidential action.
+
+
+ 
+
+
+Efforts to determine what the President needs to know, eliminate duplicative or less significant material, and ensure divergent views are reflected are already underway under the guidance of the ODNI. Oversight of the PDB process will be handled by the DNI, supported by the DDNI for Analysis.
+
+
+ODNI
+
+
+
+
+8.15
+
+
+The Intelligence Community should expand the use of non-monetary incentives that remind analysts of the importance of their work and the value of their contributions to national security.
+
+
+ 
+
+
+The IC will improve efforts to identify high performers and to appropriately recognize and reward them on a non-monetary basis. Under the direction of the DDNI for Analysis and the Chief Human Capital Officer, the DNI will inventory existing non-monetary recognition and reward programs, whether employed by the IC, the U.S. Government, or the private sector, and then work with individual agencies to establish an effective Community-wide program.
+
+
+ODNI
+
+
+
+
+8.16
+
+
+Examinations of finished intelligence should be routine and ongoing, and the lessons learned from the "post-mortems" should be incorporated into the intelligence education and training program.
+
+
+ 
+
+
+The IC will emphasize evaluating the quality of analytic products, deriving lessons from their strengths and weaknesses, integrating such lessons into formal and informal training, and establishing an oversight process to ensure analytic integrity. To fulfill these objectives, the ODNI will establish an analytic integrity program.
+
+
+ODNI
+
+
+
+
+9.1
+
+
+The confused lines of authority over information sharing created by the intelligence reform act should be resolved. In particular: (1) The Information Sharing Environment should be expanded to encompass all intelligence information, not just terrorism intelligence; (2) The Director of the National Counterterrorism Center should report to the DNI on all matters relating to information sharing; and (3) The overlapping authorities of the DNI and the Program Manager should be reconciled and coordinated -- a result most likely to be achieved by requiring the Program Manager to report to the DNI.
+
+
+ 
+
+
+Several efforts are underway to clarify legal authorities and to coordinate information sharing responsibilities. Among other steps, the President has directed the DNI to exercise authority, direction, and control over the Program Manager for U.S. Government-wide terrorism information sharing who is responsible for planning for and overseeing the Information Sharing Environment (ISE). In addition, the ISE Program Manager is required under the Intelligence Reform and Terrorism Prevention Act (IRTPA) to work in accordance with the authorities granted to the DNI, the Secretary of Homeland Security, and the Attorney General in the development of the ISE.
+
+
+ODNI and PM
+
+
+
+
+9.2
+
+
+The DNI should give responsibility for information sharing, information technology, and information security within the Intelligence Community to an office reporting directly to the DNI or to the Principal Deputy DNI.
+
+
+ 
+
+
+There is an inherent conflict between increased access to information and the protection of sources and methods. The DNI will consider designating a single office responsible for IC information sharing, information technology, and information security practices and policies. The ODNI's CIO will perform these functions. The CIO also will support the ISE Program Manager and ensure common standards and guidelines are developed and implemented for intelligence and information sharing inside and outside the IC.
+
+
+ODNI
+
+
+
+
+9.3
+
+
+In designing an Information Sharing Environment, the DNI should, to the extent possible, learn from and build on the capabilities of existing Intelligence Community networks. These lessons include: (1) The limitations of "need to know" in a networked environment; (2) The importance of developing mechanisms that can protect sources and methods in new ways; (3) Biometrics and other user authentication (identification) methods, along with user activity auditing tools, can promote accountability and enhance counterintelligence capabilities; (4) System-wide encryption of data can greatly reduce the risks of network penetration by outsiders; and (5) Where sensitive information is restricted to a limited group of users, the Information Sharing Environment should ensure that others searching for such information are aware of its existence and provided with a point of contact who can decide quickly whether to grant access.
+
+
+ 
+
+
+In building the Information Sharing Environment (ISE), it is essential to learn from and build upon the capabilities of existing IC networks. However, lessons also need to be learned from other enterprises and networks across the entire U.S. Government. Properly balancing legitimate security and counterintelligence concerns with information access will be all the more important given that the ISE will involve not only IC members but also others outside the Community, including non-Federal entities. The ISE Program Manager will work closely with chief information officers and mission-focused components of ISE participants across the U.S. Government to ensure mission needs drive ISE design, issues are appropriately addressed, lessons are learned, technical capabilities are capitalized upon, and existing systems and networks are leveraged.
+
+
+ODNI and PM
+
+
+
+
+9.4
+
+
+Primary institutional responsibility within the Intelligence Community for establishing clear and consistent "U.S. persons" rules should be shifted from individual collection agencies to the Director of National Intelligence. These rules would continue to be subject to the Attorney General's review and approval. To the extent possible, the same rules should apply across the Intelligence Community.
+
+
+ 
+
+
+A review of current "U.S. person" rules to identify unnecessary inconsistencies between the rules applied by different agencies (inconsistencies not justified by differing authorities, operational responsibilities, or technologies used by those agencies) would be beneficial. ODNI, in conjunction with DOJ, should coordinate such a review through an interagency working group. Although the drafting of U.S. person rules should be closely coordinated with the DNI and DOJ, the shifting of drafting responsibility away from individual collection agencies requires further consideration and should be examined further.
+
+
+ODNI and DOJ
+
+
+
+
+9.5
+
+
+DNI should set uniform information management policies, practices, and procedures for all members of the Intelligence Community.
+
+
+ 
+
+
+Standardization across the IC of data and meta-data formats, firewalls, network gateways and other aspects of a modern networked environment is necessary. Notably, much of the conceptualization on this score occurred last fall pursuant to Executive Order 13356. Common standards that would enable the transfer of information in a consistent, identifiable manner have been identified, and common security and handling markings have been specified. In addition, advanced policy discussion has occurred to ensure that disseminated terrorism information is free of originator and compartmental controls to the maximum extent possible consistent with national security requirements. The DNI will build upon work already done in this area.
+
+
+ODNI and PM
+
+
+
+
+9.6
+
+
+All users of the Information Sharing Environment should be registered in a directory that identifies skills, clearances, and assigned responsibilities of each individual (using aliases rather than true names where necessary). The environment should enable users to make a "call for assistance" that assembles a virtual community of specialists to address a particular task, and all data should be catalogued within the Information Sharing Environment in a way that enables the underlying network to compare user privileges with data sensitivity.
+
+
+ 
+
+
+Establishment of a comprehensive online directory of analysts and technical experts (or its functional equivalent) that would be available to users of the ISE is favored in concept, but its specific design and implementation must take into account many complex security and counterintelligence considerations. The ISE Program Manager, in coordination with the interagency process, is defining the specific mission-oriented purpose of such a service.
+
+
+ODNI and PM
+
+
+
+
+9.7
+
+
+The DNI should propose standards to simplify and modernize the information classification system with particular attention to implementation in a network-centric Information Sharing Environment.
+
+
+ 
+
+
+The issue of simplifying the classification system will be addressed by the relevant IC collection and security elements. Data management systems all remain in step with prevailing classification guidelines.
+
+
+ODNI
+
+
+
+
+9.8
+
+
+We recommend several parallel efforts to keep the Information Sharing Environment on track: (1) Collection of metrics. The chief information management officer should introduce performance metrics for the Information Sharing Environment and automate their collection. These metrics should include the number and origination of postings to the shared environment, data on how often and by whom each item was accessed, and statistics on the use of collaborative tools and communications channels, among others. Such performance data can help to define milestones and to determine rewards and penalties. (2) Self-enforcing milestones. Milestones should include specific and quantifiable performance criteria for the sharing environment, as well as rewards and penalties for succeeding or failing to meet them. The DNI should empower the chief information management officer to use the DNI's budget, mission-assignment, and personnel authorities to penalize poor agency performance. (3) Incentives. The DNI should ensure that collectors and analysts receivehonors or monetary prizes for intelligenceproducts that receive widespread use oracclaim. Users should post comments or ratethe value of individual reports or analyticproducts, and periodic user surveys can serveas peer review mechanisms. (4) Training.The DNI should promote the training of all users in the Information Sharing Environment, with extended training for analysts, managers, and other users of the environment.
+
+
+ 
+
+
+Measures will be taken to heighten prospects of ISE success. Such measures, which are likely to consist of metrics, training, milestones, and incentive programs, have been generally identified as beneficial by other interagency and commercial forums focused on information sharing. The ISE Program Manager, in coordination with appropriate departments and agencies, will consider how to best approach these efforts, as some of the specific proposals (e.g., creation of a Chief Information Management Officer) may not be appropriate while others (e.g., self-enforcing milestones) may unfairly penalize smaller IC and non-IC entities with small CIO management staffs.
+
+
+ODNI & PM
+
+
+
+
+10.1
+
+
+To ensure that the FBI's intelligence elements are responsive to the Director of National Intelligence, and to capitalize on the FBI's progress, we recommend the creation of a new National Security Service within the FBI under a single Executive Assistant Director. This service would include the Bureau's Counterterrorism and Counterintelligence Divisions and the Directorate of Intelligence. The service would be subject to the coordination and budget authorities of the DNI as well as to the same Attorney General authorities that apply to other Bureau divisions.
+
+
+ 
+
+
+The President has issued a Directive to the Attorney General to implement this recommendation.
+
+
+DOJ
+
+
+
+
+10.2
+
+
+The DNI should ensure that there are effective mechanisms for preventing conflicts and encouraging coordination among intelligence agencies in the United States.
+
+
+ 
+
+
+The DNI has approved a draft Memorandum of Understanding developed by the CIA and FBI to promote effective coordination and cooperation between these agencies in intelligence activities. In the interest of protecting civil liberties, intelligence activities must be undertaken in accordance with the Attorney General Guidelines for FBI national security investigations and foreign intelligence collection. In consultation with relevant departments and agencies, the DNI will expand these mechanisms to ensure similarly effective coordination of all IC intelligence activities in the U.S. and abroad.
+
+
+ODNI
+
+
+
+
+10.3
+
+
+The Department of Justice's primary national security elements -- the Office of Intelligence Policy and Review, and the Counterterrorism and Counterespionage sections -- should be placed under a new Assistant Attorney General for National Security.
+
+
+ 
+
+
+The President has issued a Directive to the Attorney General to implement this recommendation. Legislation will be required to create a new Assistant Attorney General position.
+
+
+DOJ and Congress
+
+
+
+
+10.4
+
+
+Secretary of Homeland Security should rescind Treasury Order 113-01 as it applies to Department of Homeland Security elements.
+
+
+ 
+
+
+The Secretary of Homeland Security issued a new DHS policy to govern the review and approval of IC requests for assistance, support, or services, which go beyond the routine exchange of information. That policy rescinded Treasury Order 113-01 as it applies to the former Treasury law enforcement components that are now housed at DHS. The objective of the new directive is to streamline cooperation with the IC regarding requests for DHS law enforcement assistance, support and services from the IC while providing Departmental oversight over the long-term commitment of resources to support IC operations and the exercise of non-routine assistance by DHS law enforcement components.
+
+
+DHS
+
+
+
+
+11.1
+
+
+The National Counterintelligence Executive should become the DNI's Mission Manager for counterintelligence, providing strategic direction for the whole range of counterintelligence activities across the government.
+
+
+ 
+
+
+Dramatic change, beginning with centralizing counterintelligence (CI) leadership, is essential to effective execution of CI resources and activities across the Government. The National Counterintelligence Executive (NCIX) is already assigned many of the authorities and responsibilities consistent with the strategic management of the Nation's counterintelligence assets.
+
+
+ODNI/NCIX
+
+
+
+
+11.2
+
+
+The National Counterintelligence Executive should work closely with agencies responsible for protecting U.S. information infrastructure in order to enhance the United States' technical counterintelligence capabilities.
+
+
+ 
+
+
+The NCIX will devote particular attention to working with agencies that already devote substantial resources to protecting information infrastructure. The NCIX will develop an action plan for interagency review to ensure all applicable resources are brought to bear on CI issues. (Further detail provided in the Classified Annex.)
+
+
+ODNI/NCIX
+
+
+
+
+11.3
+
+
+The CIA should create a new capability dedicated to mounting offensive counterintelligence activities abroad.
+
+
+ 
+
+
+The CIA has already begun implementing a strategic operational plan, spearheaded by the Counterintelligence Center (CIC), to further build this capability. (Further detail provided in the Classified Annex.)
+
+
+CIA
+
+
+
+
+11.4
+
+
+The Department of Defense's Counterintelligence Field Activity should have operational and investigative authority to coordinate and conduct counterintelligence activities throughout the Defense Department.
+
+
+FurtherStudy
+
+
+The DOD Counterintelligence Field Activity's (CIFA's) management, strategic planning and coordination authorities will be expanded to include mission tasking over DOD CI elements, but a determination regarding the granting of investigative or additional operational authorities to CIFA at this time must be deferred, pending further review.
+
+
+DOD
+
+
+
+
+11.5
+
+
+The FBI should create a National Security Service that includes the Bureau's Counterintelligence Division, Counterterrorism Division, and the Directorate of Intelligence. A single Executive Assistant Director would lead the Service subject to the coordination and budget authorities of the DNI.
+
+
+ 
+
+
+See Recommendation 10.1.
+
+
+DOJ
+
+
+
+
+13.1
+
+
+The DNI should create a Community-wide National Biodefense Initiative to include a Biological Science Advisory Group, a government service program for biologists and health professionals, a post-doctoral fellowship program in biodefense and intelligence, and a scholarship program for graduate students in biological weapons-relevant fields.
+
+
+ 
+
+
+The IC's biological weapons analysis will benefit from greater outreach to academia and the private sector. The Departments of Health and Human Services, Commerce, and Homeland Security have developed an implementation plan for improving coordination between the intelligence, defense, and biological and medical science communities, and for formalizing a mechanism by which the IC can obtain consistent and contemporary advice from expert scientists actively engaged in these disciplines.
+
+
+ODNI, HHS, and DHS
+
+
+
+
+13.2
+
+
+The DNI should use the Joint Intelligence Community Council to form a Biological Weapons Working Group. This Working Group would serve as the principal coordination venue for the Intelligence Community and biodefense agencies, including the Department of Homeland Security's National Biodefense and Countermeasures Center, NIH, CDC, the Department of Agriculture, and USAMRIID.
+
+
+ 
+
+
+Ties between the IC and experts and scientists within the U.S. Government, such as at CDC, NIH, and USDA will be fostered, particularly at the working level, building on the work already being done through the Homeland Security Biodefense Policy Coordination Committee, which has encouraged communications between agencies. Implementation of this recommendation will be undertaken in the context of the creation of the NCPC.
+
+
+ODNI
+
+
+
+
+13.3
+
+
+The DNI should create a deputy within the National Counter Proliferation Center that is specifically responsible for biological weapons; this deputy would be responsible to the Proliferation Mission Manager to ensure the implementation of a comprehensive biological weapons targeting strategy and direct new collection initiatives.
+
+
+ 
+
+
+There is merit in designating a focal point within the NCPC to develop, manage, and direct a comprehensive targeting and collection strategy on biological warfare. This recommendation will be implemented in connection with the establishment of the NCPC.
+
+
+ODNI
+
+
+
+
+13.4
+
+
+The National Security Council should form a Joint Interagency Task Force to develop a counter-biological weapons plan within 90 days that draws upon all elements of national power, including law enforcement and the regulatory capabilities of the Departments of Homeland Security, Health and Human Services, Commerce, and State.
+
+
+ 
+
+
+A government-wide counter-biological weapons plan is essential, and the National Policy for Biodefense signed last year already provides such a plan. Notably, the policy delineates 59 distinct tasks identified through a comprehensive end-to-end review of biodefense efforts across the U.S. Government. To ensure interagency implementation of the actions and identify any missing policy elements, the National Security Proliferation Strategy PCC and the Homeland Security Biodefense PCC will continue to convene on a monthly basis.
+
+
+NSC
+
+
+
+
+13.5
+
+
+The State Department should aggressively support foreign criminalization of biological weapons development and the establishment of biosafety and biosecurity regulations under the framework of United Nations Security Council Resolution 1540. U.S. law enforcement and intelligence agencies should jointly sponsor biological weapons information sharing events with foreign police forces.
+
+
+ 
+
+
+Developing close relationships with foreign governments on biological weapons issues is imperative if the U.S. is to monitor and contain biological threats. The U.S. will pursue more focused and aggressive engagement with foreign governments, building on ongoing efforts associated with the Biological Weapons Convention (BWC) Experts Group. The Department of State has developed a plan to expand bilateral and multilateral efforts, and will regularly inform the National Security Proliferation Strategy PCC and the Homeland Security Biodefense PCC on the progress being made to address the objective of this recommendation.
+
+
+DOS
+
+
+
+
+13.6
+
+
+The United States should remain actively engaged in designing and implementing both international and regulatory inspection regimes. It should consider extending its existing biosecurity and biosafety regulations to foreign institutions with commercial ties to the United States, using the possibility of increased liability, reduced patent protection, or more burdensome and costly inspections to encourage compliance with appropriate safeguards.
+
+
+ 
+
+
+The Departments of State and Health and Human Services have developed an implementation plan for ensuring that research funded by the U.S. Government in foreign laboratories, including research funded through bio-redirection efforts in countries of the former Soviet Union, complies with internationally-accepted biosafety and pathogen security standards or, if such standards do not exist, with relevant U.S. standards. The United States also will assist States in drafting national legislation and regulations on biosafety and pathogen security.
+
+
+DOS and HHS
+
+
+
+
+13.7
+
+
+The President should establish a Counterproliferation Joint Interagency Task Force to conduct counterproliferation interdiction operations; to detect, monitor, and handoff suspected proliferation targets; and to coordinate interagency and partner nations' counterproliferation activities.
+
+
+ 
+
+
+There is a need to ensure national-level coordination of U.S. Government interdiction activities. The NCPC will be the IC strategic focal point for ensuring intelligence participation in proliferation interdiction, and will work closely with agencies to expand efforts to provide direct, day-to-day intelligence support to interdiction operations and related activities. (Further detail provided in the Classified Annex.)
+
+
+ODNI
+
+
+
+
+13.8
+
+
+The DNI should designate the National Counter Proliferation Center as the Intelligence Community's leader for interdiction-related issues and direct the Center to support the all-source intelligence needs of the Counterproliferation Joint Interagency Task Force, the National Security Council, and other customers.
+
+
+FurtherStudy
+
+
+The National Counter Proliferation Center will serve as the strategic focal point for the IC to ensure intelligence participation in proliferation interdiction. Implementation of the specific aspects of this recommendation will be the subject of further discussion in the context of the establishment of the NCPC.
+
+
+ODNI
+
+
+
+
+13.9
+
+
+The President should establish, probably through a National Security Presidential Directive, a real-time, interagency decision-making process for counterproliferation interdiction operations, borrowing from Presidential Directive 27, the interagency decision-making process that supports counternarcotics interdictions.
+
+
+ 
+
+
+Timely and effective decision-making on interdiction cases is vital. The Administration has an established interagency process that allows for real-time decision-making in interdiction cases. We will continue to refine the policies overseeing decision-making in such cases and, as necessary, modify interagency procedures to improve our ability to rapidly respond to WMD interdiction opportunities. (Further detail provided in the Classified Annex.)
+
+
+NSC
+
+
+
+
+13.10
+
+
+The State Department should enter into additional bilateral ship-boarding agreements that also help to meet the tagging, tracking, and locating requirements of the Intelligence Community and its users.
+
+
+ 
+
+
+It is important to enhance U.S. capabilities to locate and track vessels at sea, including through legally binding standards for automated maritime location reporting. Notably, initiatives undertaken pursuant to NSPD-41 will effectively support this objective. The U.S. Government will undertake efforts within the International Maritime Organization to establish internationally-binding standards for location reporting in the context of the Safety of Life at Sea Convention.
+
+
+DOS
+
+
+
+
+13.11
+
+
+The DNI should ensure that Customs and Border Protection has the most up-to-date terrorism and proliferation intelligence. In turn, Customs and Border Protection should ensure that the National Counterterrorism Center and NCPC have real-time access to its databases.
+
+
+ 
+
+
+Better sharing of information between the IC, Customs and Border Protection, and the Department of Defense is a positive and necessary goal. An implementation plan has been prepared that addresses technical aspects of this requirement, as well as related legal, information privacy, and civil liberties concerns.
+
+
+ODNI and DHS
+
+
+
+
+13.12
+
+
+The DNI and Secretary of Homeland Security should undertake a research and development program to develop better sensors capable of detecting nuclear-related materials. The effort should be part of a larger border defense initiative to foster greater intelligence support to law enforcement at our nation's borders.
+
+
+ 
+
+
+The DNI, DHS, and DOE will work closely together on S&T programs that materially improve U.S. defenses against hostile nuclear materials that might cross our borders. This cooperation should occur at both the system level -- to incorporate new and existing sensors into an integrated attack, sensing and warning infrastructure -- and at a component level to include innovative sensors, signal processing systems, software, and other key emerging technologies. The IC will also provide actionable intelligence on adversary nuclear capabilities and intentions to DHS and DOE to enhance the effectiveness of those agencies' counter-nuclear efforts. Specific types of sensors may be developed at DHS, IC, DOE, or DOD facilities that are best suited to fill particular missions.
+
+
+ODNI, DHS, DOE, CIA, and DOD
+
+
+
+
+13.15
+
+
+The President should expand the scope of Executive Order 13224 beyond terrorism to enable the Department of the Treasury to block the assets of persons and entities who provide financial support to proliferation.
+
+
+ 
+
+
+Expanded Treasury Department authorities to allow the freezing of assets of WMD proliferators and their supporters represent an important new tool against proliferation networks. For that reason, the President has signed an Executive Order that responds to this recommendation.
+
+
+Treasury
+
+
+
+
+13.16
+
+
+The President should seek to have Congress amend Section 311 of the USA PATRIOT Act in order to give the Department of the Treasury the authority to designate foreign business entities involved in proliferation as "primary money laundering concerns."
+
+
+ 
+
+
+The new Executive Order referenced in the Administration's response to recommendation 13.15 addresses this recommendation. The Order allows the U.S. Government to deny to foreign business entities designated under the Order access to U.S. financial and commercial systems.
+
+
+Treasury
+
+
+
+
+ 
+
+
+The Director of National Intelligence should hold accountable the organizations that contributed to the flawed assessments of Iraq's WMD programs.
+
+
+FurtherStudy
+
+
+The DNI is reviewing the need for reforms to IC methodologies and practices. That review will take into account the conclusions and recommendations reached by ongoing investigations by components of the IC. The DNI will address any identified deficiencies, including those that may have contributed to the assessment of Iraq's WMD capabilities, through actions that may include greater DNI oversight and changes in organizational roles and responsibilities.
+
+
+ODNI
+
+
+
+
+  

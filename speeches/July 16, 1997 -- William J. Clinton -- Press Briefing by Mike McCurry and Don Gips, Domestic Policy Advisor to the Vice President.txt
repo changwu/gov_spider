@@ -1,0 +1,211 @@
+
+    The Briefing Room
+1:55 P.M. EDT
+MR. MCCURRY: Good afternoon, ladies and gentlemen, and welcome to our briefing today. Just an update. Earlier today I was not quite certain whether the President would drop by the working meeting the Vice President had with some of the industry leaders and representatives of the industry, parents groups and others who are working together in a strategy to create a family-friendly Internet. He did. He clearly enjoyed it a great deal. I think you can probably tell from his remarks.
+And I've asked Don Gips, who is new on the staff of the Vice President, his chief Domestic Policy Advisor, who's been working on this issue, to be here in case you had some questions about what the President is working on.
+Q: Before you get into it, can you say whether there's going to be an announcement today on joint chief?
+MR. MCCURRY: No. Well, I can't say whether there will be. I don't at this point anticipate it.
+Q: Is the President meeting with Cohen --
+MR. MCCURRY: I'll do that after we're done with this. But I know your colleagues at the Pentagon are breathing heavy and you should just tell them to cool off a little bit.
+Q: I have a couple of Internet related things. The ACLU is complaining that they weren't invited to the meeting today. You guys were obviously aware that civil libertarians, civil liberties groups had concerns about the positions the administration has taken on this. Why weren't they included?
+MR. GIPS: The ACLU was invited, and I believe they actually did attend the event.
+Q: Do you know who was there, the name of the person?
+Q: When were they invited?
+MR. GIPS: Yesterday. I don't know the name.
+Q: Were there people from any of the religious organizations who have been active in promoting the CDA -- were they involved, or invited as well?
+MR. GIPS: This was a first set of meetings. We will have continuing meetings which clearly will involve them. They've been involved in some of the conversations with groups who are at these meetings, and this will be an ongoing process and they definitely will be involved.
+Q: But they weren't invited to this meeting?
+MR. GIPS: I don't believe that there were any religious groups at the meeting.
+Q: Did the President drop by?
+MR. GIPS: The President did drop by the early meeting.
+Q: Did he have anything to say?
+MR. GIPS: Yes, he heard what the meeting -- people had gone through. He asked question of the people, how to use the technology, and as he said, the industry came back and challenged him to get on line and be a tester for some of the software to see if he could make it work.
+Q: And did he?
+MR. GIPS: He said he would accept the challenge.
+Q: There was a lot of talk on how this replaces or acts kind of as a V-chip for computers. Is there still a plan underway or being considered here for a V-chip type set-up for computers.
+MR. GIPS: What this is, is a virtual toolbox. The Internet is different than television and you need a whole set of tools to address the issues that CDA originally enacted to address. The announcement today was about creating a virtual toolbox, and another way of thinking of it is sort of digital doorways -- some you want to lock up so that your children can't go there, and others you want to open so that your children can go to the good stuff on the Internet.
+So what we're really talking about is sort of a two-part strategy here -- figure out how to lock off the bad stuff and figure out how to direct parents and children to the good stuff that's on the Internet.
+Q: What part of this would exist anyway if the White House didn't get involved in this, and what part is new?
+MR. GIPS: Industry has been working on some of this in the past. The new announcements today were Netscape announcing that they're going to add this picks technology, which is the underlying technology that allows you to rate, to their browser in their next addition. That will mean that 90 percent -- over 90 percent of the browsers out there on the market will have this.
+In addition, the search engines, which are like the Yellow Pages on the Internet, have all said that they're going to incentives rating so that anybody who rates -- any new content that's put on the Internet will be incentivized to rate.
+In addition, there were numerous other announcements that some of the companies made. American Library Association talked about how they're going to put out on their Web site ways to get to good content. The Center for Democracy and Technology and other nonprofits created a Web site, WWNETPARENTS.org, that is a one-stop shop for parents to go to find out about all the things that are out there to help steer their children on the Internet.
+Q: But wouldn't they have don't that anyway?
+MR. GIPS: This is something we've been working with them on to try and encourage them.
+Q: So you're saying without any prodding -- did they decide to do this?
+MR. GIPS: You know, the industry here wants to try and find a solution. We're working with them. I don't want to take credit for tall this. I think this is a broad industry, government, parents groups, religious groups hopefully -- all in partnership trying to find a way to move this forward.
+Q: You said that it would be incentives for new Web sites to rate. What about existing Web sites?
+MR. GIPS: We're going to try and work on that problem, too. Now, remember, the Internet, because it's dynamic, people are constantly updating their Web sites, changing them. In that process, we hope to try and encourage more and more people to rate. That's sort of the chicken and the egg problem. Until we had Netscape committing to put picks into their browser, people were saying, well, if I rate, half of the people that are looking stuff won't get access to it anyway. So you need to move this forward on all fronts.
+There is another type of technology that I want to highlight, too, which is a lot of the companies will create safe areas on the Internet that don't depend on the rating. They go out and review the sites and say, this is a safe place for children to go. And it's like -- somebody used the analogy of a sand box. It's a sand box where you can send your children and you know you can play safely there.
+Q: When you say incentives, can you describe what you mean? I mean, is there some financial incentive for companies?
+MR. GIPS: No, basically when you go to create a Web site, there is a whole set of steps to register a Web site. There is a whole set of steps you have to go through. This would make it -- rating just would appear on your screen. You would almost have to sort of try and figure out how to get around is. That's the tool that they're going to try and put in, so that it becomes just a part of what you do. It becomes a part of netiquette, as sort of standard of etiquette on the Internet.
+Q: And then what would you say to parents for whom some of the terms you're using, like netiquette and digital doorways, is just Greek -- and people who can't get on the WWWNetParents.org because they're not on the Net -- or they don't know how to get on? What do you say to parents --
+MR. GIPS: This is what the American Library Association, the PTA, all the groups who were at the meeting are committed, along with industry, to try and figure out how do we make this so simple. And what the industry people at the meeting today said is this has to be easier than programming your VCR, because a lot of parents still can't do that. And that's the challenge.
+We're not there yet. And today the President and Vice President laid out the challenge; industry and parents groups accepted the challenge and were very much looking forward to working together to achieve it.
+Q: There are figures out there for how many households have televisions. How many American children are actually on the Internet or going on the Internet.
+SPOKESMAN: About 20-25 percent of households have Internet access at this point.
+Q: And how many of those have children?
+MR. GIPS: I think it's higher than that. But we can try and get you that number. I think it's closer to 40 percent of families with children. But I'm not positive of that. Don't quote me on that. Let us get you that number.
+Q: But this is the number of families who have computers or who have Internet access?
+SPOKESMAN: There are over 40 million children who have Internet access -- people who have Internet access at this point.
+Q: And you don't know how many of those are children?
+MR. GIPS: We'll get you that.
+Q: Didn't the PTA woman say a million?
+MR. GIPS: Did she?
+Q: Wouldn't a lot of those 40 million be people who have access at work and not necessarily at home?
+Q: Or school?
+MR. GIPS: Schools, work, home, libraries.
+Q: What role would the White House play in this October summit? Is it a White House-organized event or --
+MR. GIPS: No. This is -- I don't know if we'll appear at it, or not. It's an industry-led, along with parents groups. The group that they talked about is organizing that summit, and it is an outgrowth of what we are doing today.
+Q: Two question on the rating. The earlier question about the oversights, you say that they're updated fairly frequently so that then they'd have to be rated.
+MR. GIPS: And some of them already rate, too.
+Q: What's to force a company who wants to put something that kids shouldn't see on the Internet not to update, just so that every time they want they can tap into it?
+MR. GIPS: The way the technology works is you can set it to say I don't want to look at anything that isn't rated, period. So if you haven't rated you're not going to be seen.
+Q: Also, who rates?
+MR. GIPS: That's an important question. There's self-rating, and then there are third party rating systems. And one of the things that I think people will be working on is figuring out which of the third party rating systems people want to back, what should those third party systems include, and is there one standard or is there going to be many standards. That's an open question that I think industry and parents groups will be working on and will be involved in that discussion.
+Q: Do the school systems have this pretty much under control, or are some more measures needed to control the intranet?
+MR. GIPS: School systems -- the problem does exist for school systems as well. Given that classrooms are more of a monitored situation, the teachers are in the room, they can see what's happening. The NEA who was at the meeting today talked about the types of steps they're taking to train teachers in how to make sure the children in the classroom are looking at appropriate material and accessing appropriate material.
+Q: So that these same rating systems would be available to school children?
+MR. GIPS: Sure, sure.
+Q: When do you think the ratings will be in effect? And what do you hope -- what else do you hope will grow out of these continued meetings with industry?
+MR. GIPS: The ratings will be an evolutionary -- I mean, there are sites already rated today. So this will be an evolutionary process. More and more of the content, we hope will be rated on the Web.
+The second part of your question was, what are the other things we hope to grow out of this. Really, a continued discussion on how do we make what exists today more widespread, both ratings and technology, make it simpler for parents to us, and make it completely understandable.
+And a second key piece of what we talked about today that hasn't gotten much mention is the CDA -- only portions of the CDA are overturned. And Justice Department is going to aggressively continue to prosecute child pornographers on line and to try and make sure that we do our part to enforce the existing laws as aggressively as we can.
+Q: Would the White House still prefer to have seen the entire CDA pass muster and be the law of the land? Or have you all now concluded that this is, in fact, a better way to police the Internet?
+MR. GIPS: We are going to go forward with this approach. The goal is the same.
+Q: You're obviously going forward with it, but do you prefer this approach now to the other approach?
+MR. GIPS: The goal is the same, which is to protect children, and we're going to do our best to make sure that we protect children in a First Amendment consistent fashion.
+Q: One of parents' primary concerns is not just the content of sites, but that someone might approach their children over the Internet. Did you discuss at all today anything that can be done about that? Is there anything that can be done about people using e-mail in chat rooms to approach kids?
+MR. GIPS: Yes, some of these tools actually block e-mail and block chat rooms. And that's part of this whole virtual tool kit, about blocking certain things that are out there. And that's going to be a continuing discussion. I know that's going to be one of the major themes at the summit that the industry is going to be holding as well.
+Q: But if an approach is not explicit or obviously improper in some way, how could that be blocked by --
+MR. GIPS: You can block certain classes of e-mail. You can have e-mail lists that are only accessible to names you've approved. You can block out certain chat rooms. There are varying range of technologies to achieve this. It really depends how much you want to restrict access for your child.
+Q: Wouldn't you prefer that the industry come up with one sort of rating standard?
+MR. GIPS: That will be a very interesting discussion, and we don't have an answer to that now. There are many people who think it's better, no, to actually have a number of different rating standards because different groups will rate things differently and view issues differently. Others think one is the right answer. And that's part of this dialogue that we're looking forward to have.
+Q: Does the White House have a position on that?
+MR. GIPS: Not yet.
+THE PRESS: Thanks.
+Q: Mike, do the White House computers have filters? (Laughter.)
+MR. MCCURRY: You're asking the absolute wrong guy.
+Q: So you guys have web searches, don't you?
+MR. MCCURRY: I don't believe so. Do we have -- we don't have that technology on our Netscape browser, not to my knowledge. On the other hand, government employees shouldn't be using that. Unless they have some very specific job-related purpose for accessing sites like that, they shouldn't be accessing that in any event.
+Q: Was that a consideration, to put them on either the government or White House computers, some sort of filter that --
+MR. MCCURRY: You should really ask people from information technology divisions within government that question.
+Q: Mike, is the White House getting ready to officially announce the nomination of William Weld?
+MR. MCCURRY: We are in the final stages of preparing Governor Weld's nomination as U.S. Ambassador to Mexico. The President looks forward to fighting hard for that nomination. We hope we can prevail in the Senate and see his nomination confirmed. He'd be an excellent U.S. ambassador.
+Q: Mike, wasn't it embarrassing that the President had to say that he was going to nominate Weld only after Weld challenged him to either put up or shut up?
+MR. MCCURRY: I think I said here yesterday the President considered him an excellent choice for U.S. Ambassador to Mexico. If I did not, I recall saying that.
+Q: You also said you would give up the ghost eventually.
+MR. MCCURRY: Well, I also said that we understand that there is an advice and consent process, and we'll have to see how that plays out and how it's reconciled with the President's strong support for the nominee.
+Q: But he is going to submit the nomination?
+MR. MCCURRY: Yes.
+Q: Could you describe what fighting hard means? Is the President going to --
+MR. MCCURRY: You've all seen nomination fights around here before, and we will have to have resources deployed to it. Most of those have ended successfully for us this year, as you know.
+Q: The President was also accused of not fighting hard enough.
+MR. MCCURRY: Well, we have fought hard for nominees this year that have been challenged, and they've been confirmed; haven't they?
+Q: Mike, the Chemical Weapons Treaty was stuck in the same committee until the President enlisted the help of Senator Lott. Might he do this kind of thing again with the nomination?
+MR. MCCURRY: We will certainly have discussions with the Majority Leader about the status of the nomination.
+Q: How much support have you gotten from other Republicans? What kinds of --
+MR. MCCURRY: It's pretty clear we will need strong support if the nomination is going to be confirmed?
+Q: And have you gotten that support, gotten any indications?
+MR. MCCURRY: The nomination hasn't been sent forward to the Senate yet. We've made some soundings, but I think you could do that yourself.
+Q: Does the President plan to talk to Senator Helms?
+Q: How close are you to announcing it? How close? Is the FBI screen finished? When you say you're in the final stages --
+MR. MCCURRY: The background checks for ambassadors are done by Diplomatic Security personnel at the State Department. They are, in my understanding, completing their work and we're completing the other paperwork associated with the nomination. And when finalized, it will be sent to the Hill.
+Q: Mike, does the President plan to Senator Helms directly about the nomination to overcome his opposition?
+MR. MCCURRY: He has asked, as you know in the past, Secretary of State Albright to have some conversations. I believe she has. And I'll leave it open whether the President will be talking to the Chairman about it.
+Q: She struck out, though, didn't she?
+Q: Mike, can you tell us what's going on for tomorrow as far as Chicago and Pittsburgh?
+MR. MCCURRY: The President is going to go to Pittsburgh and speak to the NAACP and then to Chicago, the National Association of Black Journalists. In both venues he will be talking about his recently announced race initiative. I think he'll have some specific things to say in Pittsburgh tomorrow to the NAACP about ways that we can continue to promote diverse environments for education in America and ways in which we can enhance educational opportunities, especially for African Americans.
+Q: This is the first time talking to large black audiences on this race initiative. Can you talking about the importance of that venue and the fact that he's packing two of them into the same day?
+MR. MCCURRY: Well, it's in some sense a coincidence that both organizations are choosing to meet at this time. The NAACP is of course one of the nation's venerable institutions promoting civil rights. It has been through many struggles over many, many years and has a very proud legacy of promoting tolerance, racial diversity, respect for the differences that exist in America which are underpinnings of the President's own initiative. And the Society of Journalists that he'll speak to in Chicago is an effort by the President the fulfill a commitment I think he made last year, that he would attempt to attend their convention this year, and it happens to fall during the same time period.
+Q: Will the White House extend six months more for Title III of the Helms-Burton --
+MR. MCCURRY: We've already announced that. Yes. The President -- we've already put out the announcement from the President on that, and I believe Under Secretary of State Eizenstat has now briefed on that at the State Department.
+Q: Back on tomorrow's issue, Angela Oh had made some statements the other day during the task force, the Race Advisory Board, during their first meeting, she said it should not just be a black-white issue that should be focused upon, but expanded. Will the President address that tomorrow as well at the NAACP?
+MR. MCCURRY: I think he in a sense addressed that in his speech at the University of California-San Diego, and talked about the different complexion of diversity in America as we think about multiethnicity and the different racial compositions of different parts of America and think of how that's going to change over time looking ahead to the 21st century. So I think in a sense the President already addressed that point himself.
+Q: Now that this group has held its organizational meeting, is he in a better position to use this speech tomorrow to elaborate on where he hopes this effort will go?
+MR. MCCURRY: I think he is going to talk about it -- I mean, this is not to give them a schedule of meetings or anything like that. I think he wants to talk in a broader sense about the importance of the initiative he has announced. Specifically, he wants to talk about the role education plays in helping America become more diverse and helping people come to understand the differences that exist so we can be more tolerant of each other. I think that will be the central theme of his remarks.
+Q: Education at what level? Are you talking about --
+MR. MCCURRY: Public education -- he'll talk principally about public education and some of the issues related to the integration of public school environments and how important that is.
+Q: Well, what about -- he said that he's disturbed by what's happening in graduate schools. Is he going to have specific solutions for those?
+MR. MCCURRY: I'm glad your interest has been piqued on the speech. I think the President will answer those questions tomorrow.
+Q: The European Union is intensifying its opposition to the Boeing-McDonnell Douglas merger. Any further --
+MR. MCCURRY: That kind of like changes hourly. Is that the latest hourly report?
+Q: A group of antitrust experts have recommended that the commission reject the merger and President Chirac has said that's a good idea.
+MR. MCCURRY: There has been an -- over the last 48-72 hours, been an ongoing consultation with the European Union. We hope it will be resolved satisfactorily and most importantly, we hope it will be done consistent with antitrust laws that's applied within the union. We think the principles of competitiveness are those that ought to attend to the European Union's consideration of the proposed merger.
+Q: Will the President meet with a prospective candidate for chairman of the Joint Chiefs this afternoon?
+MR. MCCURRY: On the question of the Joint Chiefs, I'm going to do something -- just try something different here. The President is making a personnel decision. It's an important one for the future of the U.S. military, it's an important one to him personally as Commander-In-Chief, and I'm going to respect his ability to make that decision in private. I'm not going to answer any questions about who he's considering or what the process is. There is a good process under way, he's worked closely with the Secretary of Defense about it, he'll talk to the Secretary of Defense about it, he will presumably want to talk to the candidate recommended by the Secretary of Defense, and the President will want to think hard, and I don't know how long and hard, about a decision that is very important to every American, in one sense or another.
+Q: Can I ask it from a different direction? Is he going to meet with the Secretary of Defense this afternoon?
+MR. MCCURRY: He probably will. I think I told everyone this morning I expected that to happen.
+Q: Do you know when?
+MR. MCCURRY: Maybe even now.
+Q: On the Versace murder, since it's attracted so much worldwide attention, do you have anything to say about the safety of the United States, about the crime system, any comments you can make?
+MR. MCCURRY: Say it again?
+Q: The murder of the fashion designer, Versace.
+MR. MCCURRY: Local law enforcement officials are handling that. They have announced a suspect that is on the FBI's Most Wanted list. We hope that local law enforcement, working with cooperative Americans, are able to apprehend the suspect that they're looking for.
+Q: The way the press is playing it overseas is, it's another example of how dangerous this country is. Do you have any stronger statements?
+MR. MCCURRY: I can't -- every country overseas also has its own moments when they have particularly high-profile cases of what appears to be murder. We hear here in the United States about sensational cases that occur overseas from time to time. I don't think that we -- hopefully, no one makes judgments based on isolated incidents.
+Q: Mike, one other question on Chicago. Is the White House disturbed at all that groups like the Klan plans to use his meeting and his high-profile initiative tomorrow to protest?
+MR. MCCURRY: I think the President is generally concerned about the Klan and about its history and about the values that it proposes to espouse in America. But he also cherishes the right of free speech.
+Q: Mike, is Secretary Cohen meeting with the President as we speak?
+MR. MCCURRY: I don't know the answer to that. It was likely he would meet at some point this afternoon with the Secretary.
+Q: Are they meeting alone, or is there going to be anybody with Secretary Cohen? We've had some indications that there will be a general coming along with Secretary Cohen.
+MR. MCCURRY: Well, I've told you I'm going to give the President some space to consider the recommendation of the Secretary. I'm not going to describe the process. If folks at the Pentagon talk about it that's their business.
+Q: One other point. When you say the person recommended by the Secretary of Defense -- it sounds like he's going to have a choice of one person. Is he going to have more than one?
+MR. MCCURRY: I think, if I'm not mistaken, the Secretary in the past has said he would like to be in a position of recommending a candidate to the President. But if that changes, we'll brief you on it at the point the President has made a decision.
+Q: But the President won't have a selection then to pick from?
+MR. MCCURRY: Not unless the Secretary of Defense for some reasons presents him a choice.
+Q: Do you rule out an announcement today on that, Mike?
+MR. MCCURRY: I'm not describing any further the process we're using. I made that pretty clear, I think.
+Q: I'm not asking about the process, I'm asking about the timetable.
+Q: Why are you so touchy about it?
+MR. MCCURRY: Because I think it's important -- personnel decision, just as people here have interviewed for jobs, you like to have a certain amount of confidentiality applied to that. Someone goes and applies for a job, and if you don't get the job you don't want the whole world to know you didn't get the job.
+Q: Well, do you think someone leaked it deliberately to put you on the spot?
+MR. MCCURRY: Who knows. Do you want me to spend time trying to find out who leaks things in our government, Helen. Are you suggesting that?
+Q: Did the President fire Walter Dellinger because of a New Yorker article?
+MR. MCCURRY: No. Absolutely not.
+Q: There is going to be a period of time before he selects a chairman of the joint chiefs.
+MR. MCCURRY: I think we were talking about solicitor general.
+Q: I know.
+Q: Can I ask one more race question? Is tomorrow's speech the first in sort of a series of race events? Like, will there be one a month that the President will do over the next year? I mean, I know about the town hall meetings.
+MR. MCCURRY: There will be a series of events. I wouldn't necessarily say one a month, but that might end up being a likely timetable -- maybe more than one a month, in which the President advances some of the dialogue with respect to the race initiative that he suggested he would pursue in the speech in California. I think that he wants to continue to do that.
+Q: When do you think the first town meeting will be?
+MR. MCCURRY: I'm not in a position to announce anything. I don't know that it's been set yet.
+Q: Is he going to Arkansas for a personal visit? Is he planning any travel to Arkansas in the near future? I heard there was another funeral.
+MR. MCCURRY: Can you guys check that? I hadn't heard that myself.
+Q: Related to the race initiative, the hearing tomorrow on the Civil Rights Commission based on a GAO report that says there is mismanagement or lack of management in that commission; there have been other problems brought up by Jesse Jackson and others -- can you go into what the administration plans to do to improve that commission?
+MR. MCCURRY: I can, but if you want to ask me tomorrow after the report comes out, we can deal with that tomorrow.
+Q: Mike, both the President and the First Lady --
+Q: After what report?
+MR. MCCURRY: I thought you said the -- Report.
+Q: No, the report has been out for a while.
+MR. MCCURRY: Okay, well, we'll -- I'll take a look at it, and maybe we can do some more on that tomorrow.
+Q: Both the President and the First Lady have been very intimately involved in the micro lending issue and there's a Treasury Department report that came out yesterday saying that some senior officials in that Treasury Department CDFI program may have doctored documents that were being provided to Congress. Is the White House concerned about that or looking into that at all?
+MR. MCCURRY: Well, certainly, the White House would be concerned about that specifically. But I think that specifically has been addressed by the Treasury Secretary, and if I'm not mistaken, the Treasury Secretary has sent a letter to Congressman Lewis today that outlines some of the thinking in the Treasury Department on that. You may want to contact them.
+Q: Mike, did the White House note with concern the skirmish, I guess you'd call it, on the Korean Peninsula yesterday? And did they think that it might endanger or derail the upcoming peace talks in New York?
+MR. MCCURRY: I think, to the contrary, the administration believes that the continuing status of ongoing hostility absent a peace agreement between the two Koreas is precisely the reason why the President and the President of the Republic of Korea advanced the proposal for four-party talks. We hope that the dialogue that we are seeking to foster will create a more secure, safer, more peaceful environment on the Korean Peninsula. That's the answer to incidents such as the one that has occurred.
+Q: Mike, did the President have any personal reaction to the Starr report on Vince Foster?
+MR. MCCURRY: No.
+Q: Has Dellinger's resignation been accepted -- just to clarify?
+MR. MCCURRY: He has resigned. It's been announced. The President met with him for 10 minutes this morning, thanked him for his extraordinary service to the country. He has been a superb litigator on behalf of all the people of the United States of America. He has been an astute and, in many ways, brilliant analysis of constitutional law. The President, as one who highly values constitutional interpretation, has highly valued Walter Dellinger's service to the country. And with great regret, the President accepted the resignation even though for some time the Acting Solicitor General has indicated that he wanted to return to private life.
+Q: Why didn't he formally nominate him?
+MR. MCCURRY: We will have a statement -- we'll have a statement from the President shortly, I'm told. Correct?
+Q: If he thought it was so great, why didn't he formally nominate him?
+MR. MCCURRY: I'm not aware he was under consideration for anything to be nominated.
+Q: Mike, back on the Internet thing, are there any prohibited Web sites for White House officials, and are they monitored in any way by --
+MR. MCCURRY: I think Internet use here at the White House can be monitored by our Office of Administration. And people know the rules -- they're not supposed to be accessing sites that they don't have any business being on.
+Q: Sort of a generic question related to the event this morning. How do you avoid giving the appearance of endorsing -- of a White House endorsement of a particular product, given the problems, particularly of America Online. Is that something you all worry about?
+MR. MCCURRY: Steve Case from America Online has been indisputably a leader within the industry on this. But of course the company has got a leading position within the industry, too. But representatives of some of their competitors were there and he was there on behalf of all in the industry who have come together. I think one of the things that came out of the meeting is that even though the industry is competitive itself, there is great desire across the industry to deal with the issues that were raised by the concern that people have over indecency on the Internet. In fact, just about every company executive who was there said, look, we are not only people in the business of making a profit because of the explosive growth of the Internet, we're also, for the most part, parents and people who are active in our community and we care about these issues, too.
+Q: But just to follow up on Bill's question. You said that people in the White House know they're not supposed to be on sites they have no business on. Is there some kind of a list of restricted sites? How do they know that?
+MR. MCCURRY: I don't think -- I mean, common sense rule applies. You should be working on things related to your business, for official purposes only. The taxpayers pay for those machines and that time, and you're not supposed to be goofing around on the Internet.
+Q: So you're saying people never play cards on the --
+MR. MCCURRY: Oh, I think they probably do the same things you do with your company's computer from time to time. (Laughter.)
+Q: Does the President have any reaction to the American soldier shot in Bosnia today?
+MR. MCCURRY: I'm not aware of any incident. I was aware of a soldier being stabbed earlier today, and that's being investigated.
+Q: There was also a bombing.
+MR. MCCURRY: There have been some sporadic reports of bombing. The incident in Vlasenica is being investigated right now. So far, what we're hearing from military authorities that we've been talking to is it sounds like a criminal incident. But we are -- my understanding is, it's under investigation.
+Q: You don't see it related to efforts to pick up war criminals?
+MR. MCCURRY: This is not -- there was no suggestion that we've seen or I've heard of that this particular incident, I believe it was yesterday, had a political motivation.
+Q: On the Boeing thing, would the administration consider any kind of retaliatory response if the Europeans do block?
+MR. MCCURRY: That's probably a trade law question. I don't want to answer that casually. I'd have to check on that.
+Okay. See you tomorrow.
+END 2:28 P.M. EDT
+  

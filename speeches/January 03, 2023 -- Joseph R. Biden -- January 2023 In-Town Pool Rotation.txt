@@ -1,0 +1,228 @@
+
+    
+
+
+DATE
+TV
+PRINT
+RADIO
+
+
+1-Jan
+FOX
+Axios
+ABC
+
+
+2-Jan
+NBC
+Bloomberg Government
+AP
+
+
+3-Jan
+ABC
+Boston Globe
+AURN
+
+
+4-Jan
+CBS
+Christian Science Monitor
+BBC
+
+
+5-Jan
+CNN
+Daily Beast
+CBS
+
+
+6-Jan
+FOX
+Daily Caller
+FOX
+
+
+7-Jan
+NBC
+Daily Mail
+iHeartMedia
+
+
+8-Jan
+ABC
+Dallas Morning News
+NPR
+
+
+9-Jan
+CBS
+The Grio
+SRN
+
+
+10-Jan
+CNN
+The Guardian
+VOA
+
+
+11-Jan
+FOX
+Hearst Newspapers
+ABC
+
+
+12-Jan
+NBC
+The Hill
+AP
+
+
+13-Jan
+ABC
+HuffPost
+AURN
+
+
+14-Jan
+CBS
+Los Angeles Times
+BBC
+
+
+15-Jan
+CNN
+McClatchy
+CBS
+
+
+16-Jan
+FOX
+National Journal
+FOX
+
+
+17-Jan
+NBC
+Newsday
+iHeartMedia
+
+
+18-Jan
+ABC
+Newsweek
+NPR
+
+
+19-Jan
+CBS
+New York Post
+SRN
+
+
+20-Jan
+CNN
+New York Times
+VOA
+
+
+21-Jan
+FOX
+Politico
+ABC
+
+
+22-Jan
+NBC
+RealClearPolitics
+AP
+
+
+23-Jan
+ABC
+Regional Reporters
+AURN
+
+
+24-Jan
+CBS
+Roll Call
+BBC
+
+
+25-Jan
+CNN
+TIME
+CBS
+
+
+26-Jan
+FOX
+USA Today
+FOX
+
+
+27-Jan
+NBC
+Wall Street Journal
+iHeartMedia
+
+
+28-Jan
+ABC
+Washington Blade
+NPR
+
+
+29-Jan
+CBS
+Washington Examiner
+SRN
+
+
+30-Jan
+CNN
+Washington Post
+VOA
+
+
+31-Jan
+FOX
+Washington Times
+ABC
+
+
+1-Feb
+NBC
+Yahoo
+AP
+
+
+2-Feb
+ABC
+Axios
+AURN
+
+
+3-Feb
+CBS
+Bloomberg Government
+BBC
+
+
+4-Feb
+CNN
+Boston Globe
+CBS
+
+
+5-Feb
+FOX
+Christian Science Monitor
+FOX
+
+
+
+  

@@ -1,0 +1,10 @@
+
+    Clean air saves lives, yet not all parts of the U.S. can breathe freely. Large swaths of the U.S., especially in the Rust Belt and South, maintain PM2.5 levels at or above the annual national ambient air quality standards (NAAQS) of 12 µg/m³. These particles are small enough to enter lungs and in some cases even the bloodstream, which could pose a significant health risk.
+The map below illustrates annual PM2.5 levels by county with black representing levels at or above the national standard. The map also overlays coal and petroleum power plant locations. Fossil fuel combustion by-products include carbon dioxide emissions and toxic air pollutants, which cause both rapid climate change and harmful environmental pollution. Air quality and power plant data are both as of 2014.
+Source: CDC and EIA
+Making matters worse, living in a county meeting the national standard is no guarantee for a healthy life. A recent study by the Journal of the American Medical Association (JAMA), not only identified nine causes of death associated with PM2.5 air pollution, it suggests that 99% of the negative health effects occurred in areas where PM2.5 levels were below the national standard. While the national standard was revised lower in 2012 to 12 from 15, the study suggests it is still too high.
+Additionally, it found that black individuals and socioeconomically disadvantaged communities were being disproportionately impacted. The map below shows poverty rates by county, highlighting the locations of some of the country's most disadvantaged communities, which have a heavy concentration in the south.
+ 
+Source: U.S. Census
+Read Mike's plan to move to 100% clean power.
+  

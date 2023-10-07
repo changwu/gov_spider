@@ -1,0 +1,30 @@
+
+    President George W. Bush today announced his intention to appoint the following individuals to serve as Members of the President's Information Technology Advisory Committee for two-year terms:
+Marc Benioff of California, will serve as Co-Chair
+Edward D. Lazowska of Washington, will serve as Co-Chair
+Ruzena Bajcsy of Pennsylvania
+J. Carter Beese, Jr. of Maryland
+Pedro Celis of Washington
+Bernard Daines of Washington
+Patricia Evans of Virginia
+Manuel Fernandez of Florida
+Luis Fiallo of Virginia
+Jose Marie Griffiths of Pennsylvania
+William J. Hannigan of Texas
+Jonathan C. Javitt of Maryland
+Judith L. Klavans of New York
+F. Thomson Leighton of Massachusetts
+Harold Mortazavian of California
+Randy D. Mott of Texas
+Peter M. Neupert of Washington
+Eli M. Noam of New York
+David A. Patterson of California
+Alice G. Quintanilla of New Mexico
+Daniel A. Reed of Illinois
+Eugene H. Spafford of Indiana
+David H. Staelin of Massachusetts
+Peter S. Tippett of Virginia
+Geoffrey Yang of California
+The President's Information Technology Advisory Committee (PITAC) was established by Executive Order and is chartered by Congress under the High-Performance Computing Act of 1991 (P. L. 102-194) and the Next Generation Internet Act of 1998 (P. L. 105-305). PITAC will help guide the Administration's efforts to accelerate the development and adoption of information technologies vital for American prosperity in the 21st century.
+The members of PITAC, who are leading IT experts from industry and academia, will provide the President with expert, independent advice on maintaining America's preeminence in advanced information technologies, including such important elements of the national IT infrastructure as high performance computing, large-scale networking, and high assurance software and systems design.
+  

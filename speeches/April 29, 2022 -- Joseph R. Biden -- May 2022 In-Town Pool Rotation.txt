@@ -1,0 +1,216 @@
+
+    
+
+
+DATE
+TV
+PRINT
+RADIO
+
+
+1-May
+FOX
+Christian Science Monitor
+AP
+
+
+2-May
+NBC
+Daily Beast
+AURN
+
+
+3-May
+ABC
+Daily Caller
+BBC
+
+
+4-May
+CBS
+Daily Mail
+CBS
+
+
+5-May
+CNN
+Dallas Morning News
+FOX
+
+
+6-May
+FOX
+The Guardian
+NPR
+
+
+7-May
+NBC
+Hearst Newspapers
+SRN
+
+
+8-May
+ABC
+The Hill
+VOA
+
+
+9-May
+CBS
+HuffPost
+ABC
+
+
+10-May
+CNN
+Los Angeles Times
+AP
+
+
+11-May
+FOX
+McClatchy
+AURN
+
+
+12-May
+NBC
+National Journal
+BBC
+
+
+13-May
+ABC
+Newsday
+CBS
+
+
+14-May
+CBS
+Newsweek
+FOX
+
+
+15-May
+CNN
+New York Post
+NPR
+
+
+16-May
+FOX
+New York Times
+SRN
+
+
+17-May
+NBC
+Politico
+VOA
+
+
+18-May
+ABC
+RealClearPolitics
+ABC
+
+
+19-May
+CBS
+Regional Reporters
+AP
+
+
+20-May
+CNN
+Roll Call
+AURN
+
+
+21-May
+FOX
+TIME
+BBC
+
+
+22-May
+NBC
+USA Today
+CBS
+
+
+23-May
+ABC
+Wall Street Journal
+FOX
+
+
+24-May
+CBS
+Washington Blade
+NPR
+
+
+25-May
+CNN
+Washington Examiner
+SRN
+
+
+26-May
+FOX
+Washington Post
+VOA
+
+
+27-May
+NBC
+Washington Times
+ABC
+
+
+28-May
+ABC
+Yahoo
+AP
+
+
+29-May
+CBS
+Axios
+AURN
+
+
+30-May
+CNN
+BNA 
+BBC
+
+
+31-May
+FOX
+Boston Globe
+CBS
+
+
+1-Jun
+NBC
+BuzzFeed
+FOX
+
+
+2-Jun
+ABC
+Christian Science Monitor
+NPR
+
+
+3-Jun
+CBS
+Daily Beast
+SRN
+
+
+
+  

@@ -1,0 +1,69 @@
+
+    Tomorrow, President Obama will announce a major step forward in the Administration's efforts to fundamentally reform the export control system and will outline the foundation of our new export control system. These changes – in what we control, how we control it, how we enforce those controls and how we manage our controls – will help strengthen our national security by focusing our efforts on controlling the most critical products and technologies and by enhancing the competitiveness of key U.S. manufacturing and technology sectors.
+Last August, the President directed a broad-based interagency review of the U.S. export control system with the goal of strengthening national security and the competitiveness of key U.S. manufacturing and technology sectors by focusing on current threats and adapting to the changing economic and technological landscape. The review determined that the current export control system is overly complicated, contains too many redundancies, and, in trying to protect too much, diminishes our ability to focus our efforts on the most critical national security priorities:
+
+The current system operates under two different control lists with fundamentally different approaches to defining controlled products, administered by two different departments. This has caused significant ambiguity, confusion and jurisdictional disputes, delaying clear license determinations for months and, in some cases, years;
+
+
+There are three different primary licensing agencies, each applying their own policies. None sees the others' licenses, and each operates under unique procedures and definitions, leading to gaps in the system and disparate licensing requirements for nearly identical products;
+
+
+A multitude of agencies with overlapping and duplicative authorities currently enforce our export controls, creating redundancies and jeopardizing each other's cases; and
+
+
+All these agencies operate on a number of separate information technology (IT) systems, none of which is accessible to other licensing or enforcement agencies or easily compatible with the other systems, resulting in the U.S. Government not having the capability of knowing what it has approved for export and, more significantly, what it has denied.
+
+The Control Lists
+Under the approach outlined by the President, agencies will apply new criteria for determining what items need to be controlled and a common set of policies for determining when an export license is required. The control list criteria are based on transparent rules, which will reduce the uncertainty faced by our Allies, U.S. industry and its foreign partners, and will allow the government to erect higher walls around the most sensitive items in order to enhance national security.
+Agencies will apply the criteria and revise the lists of munitions and dual use items that are controlled for export so that they:
+
+are "tiered" to distinguish the types of items that should be subject to stricter or more permissive levels of control for different destinations, end-uses, and end-users,
+
+
+create a "bright line" between the two current control lists to clarify jurisdictional determinations and reduce government and industry uncertainty about whether particular items are subject to the control of the State Department or the Commerce Department, and 
+
+
+are structurally aligned so that they potentially can be combined into a single list of controlled items.
+
+To accomplish these tasks, both the U.S. Munitions List and the Commerce Control List need to be fully structured as "positive lists." A "positive list" is a list that describes controlled items using objective criteria (e.g., technical parameters such as horsepower or microns) rather than broad, open-ended, subjective, catch-all, or design intent-based criteria. Doing this will end most, if not all, jurisdictional disputes and ambiguities that have come to define our current system.
+Applying the criteria, the existing two lists will be split into three tiers:
+•      Items in the highest tier are those that provide a critical military or intelligence advantage to the United States and are available almost exclusively from the United States, or items that are a weapon of mass destruction.
+•      Items in the middle tier are those that provide a substantial military or intelligence advantage to the United States and are available almost exclusively from our multilateral partners and Allies.
+•      Items in the lowest tier are those that provide a significant military or intelligence advantage but are available more broadly.
+This flexible construct will improve the nation's national security and permit the government to adjust controls in a timely manner over a product's life cycle in order to keep lists targeted and up-to-date based on the maturity and sensitivity of an item.
+Licensing Policies
+Once a controlled item is placed into a tier, a corresponding licensing policy will be assigned to it to focus agency reviews on the most sensitive items:
+
+A license will generally be required for items in the highest tier to all destinations. Many of the items in the second tier will be authorized for export to multilateral partners and Allies under license exemptions or general authorizations. For less sensitive items, a license will not be required more broadly. 
+
+
+For items authorized to be exported without licenses, there will be new controls imposed on the re-export of those items to prevent their diversion to unauthorized destinations.
+
+
+At the same time, the U.S. Government will continue our sanctions programs directed toward specific countries, such as Iran and Cuba.
+
+The restructuring of the control lists and the harmonized licensing policies based on the tier of control will revolutionize our current control system. The preliminary results of deploying this new system highlight this fact.
+
+Technical experts across the government have completed the overhaul of one category of controls on the U.S. Munitions List and the corresponding entries on the Commerce Control List and have restructured USML Category VII (Tanks and Military Vehicles) into a positive, tiered list. 
+
+
+The results are significant. Our preliminary analysis is that about 74 percent of the 12,000 items we licensed last year in this Munitions List category will either be moved to the Commerce Control List or will be decontrolled altogether. 
+
+
+Our preliminary estimate is that about 32 percent of the total may be decontrolled altogether. Of the 26 percent of items that remain on the Munitions List, none were found to be in the highest tier of control, about 18 percent are in the middle tier, and the remaining 8 percent in the lowest tier.
+
+Under the current system, whether a product requires a license depends on which list it falls. The same product may be subject to two significantly different licensing requirements, depending on how it is categorized.
+
+Examples include brake pads for the M1A1 tank. These brake pads are virtually identical to brake pads for fire trucks but the tank brake pads require a license to be exported to any country around the world, while the fire truck brake pads can be exported to virtually all countries without a license. Still, under our current system, we devote the same resources to protecting the brake pad as we do to protecting the M1A1 tank itself. 
+
+Restructuring the control lists and applying the same licensing policies across the government will eliminate these anomalies and allow us to focus our resources on protecting the items and technologies most critical to our national security.
+Export Enforcement
+Agencies will focus and strengthen our enforcement efforts, including by building higher walls around the most sensitive items. There will be additional end-use assurances against diversion from foreign consignees, increased outreach and on-site visits domestically and abroad, and enhanced compliance and enforcement.
+
+The President will announce tomorrow that he will sign an executive order establishing an Export Enforcement Coordination Center that will coordinate and strengthen the U.S. Government's enforcement efforts – and eliminate gaps and duplication – across all relevant departments and agencies.
+
+Information Technology Systems
+Finally, the U.S. Government is transitioning to a single information technology (IT) system to administer its export control system. The Departments of State and Defense are currently being linked to the same IT system and the Department of Commerce will integrate into this system by next year. All relevant departments and agencies will have access to the system. These improvements will create efficiencies within the U.S. Government for reviewing applications and ensure that decisions are fully informed. It will also make it easier for exporters seeking licenses and for enforcement authorities to see what actions have been taken.
+The Administration's goal is to begin issuing proposed revisions to the control lists and licensing policies later this year. These changes, along with enhancements to enforcement capabilities and information technology systems, will create an export control system that is more effective, transparent and predictable – one that enhances U.S. national security, improves the functioning of the government, and maintains the competitiveness of critical manufacturing and technology sectors.
+As we implement these steps, the Administration will continue to work with Congress and the export control community, including on the necessary authorities to consolidate these activities under a single licensing agency and single export enforcement coordination agency.
+  

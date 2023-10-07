@@ -1,0 +1,96 @@
+
+    [As Prepared for Delivery]
+Thank you, Tom, for that kind introduction. And let me thank John Podesta and the Center for American Progress for inviting me to speak here today.
+Many of you may not know that my first experience working for the federal government occurred when I was a senior in high school, when I got an internship with a freshman Senator that I never heard of from a state I had never been to.
+I was fortunate that spring because that office – Senator Daschle's office – was very much like the man who stands before you today: open to debate and good ideas, inclusive, and kind.
+My workspace has since been upgraded from Tom Daschle's mailroom to an office in the Eisenhower building. And when I moved into that office, I must admit that I took down a picture of President Eisenhower and replaced it with a portrait of Alexander Hamilton.
+It's interesting that in the first line of the very first of the 85 Federalist Papers, Hamilton laid out why the United States needed a new form of government. It wasn't because the Founders had second thoughts about the basic idea of democracy. Instead, it was, as he put it, because of the "unequivocal experience of the inefficiency of the subsisting federal government."
+There it is in the first line of our founding narrative: a practical concern for the delivery and performance of the federal government.
+And it is that enduring struggle to create a federal government that is of, by, and for the people – and that accomplishes those goals in a way that is efficient and effective – that I want to discuss today.
+Too often in Washington, we spend more time developing, debating, and deciding which policies to pursue than we do actually figuring out how to implement them.
+But in reality, execution matters – and matters a lot.
+Take the Recovery Act as an example. One of the largest pieces of domestic legislation in recent memory, it was designed to jumpstart economic activity and prevent another Great Depression, and it is as complex as it is large in dollar amount.
+The evidence strongly suggests that the Recovery Act has been effective in reviving economic growth. We have seen, for example, a swing from an average GDP decline of 5.9 percent on an annualized basis at the end of 2008 and beginning of 2009 to an average growth rate of 4.3 percent a year later, the largest one-year swing in GDP growth in three decades.
+And what has been most striking is that for an initiative this large, we have not seen any substantial incidences of fraud and abuse.
+This, I believe, is to the credit of "Sheriff Joe" – our Vice President – who has made it his mission to make sure that the Recovery Act is implemented swiftly and effectively.
+Just as the dog that doesn't bark doesn't get any attention, effective implementation does not garner the headlines. But it is central to making government work better, reducing waste, and actually delivering the services people want and need.
+That is why from curbing the use of no-bid contracts to reducing improper payments – from changing how we hire federal workers to how we purchase and use information technology, the President has undertaken a far-reaching effort to modernize and reform government.
+And we are lucky to have Jeff Zients serving as the nation's first Chief Performance Officer to oversee this initiative.
+The effort is necessary for three reasons.
+First, we have massive national challenges that require national responses: laying the foundation for long-term economic growth, bringing about a clean energy economy, improving the quality of and reducing the costs of health care, reforming and improving our schools, protecting our homeland, and the list goes on and on.
+Second, just as the American people expect more to be done, they are skeptical that it can be done.
+According to the Pew Center, from 1987 to 2007 – with one exception immediately after the 9/11 attacks – about two-thirds of Americans believe that "when something is run by government it is usually inefficient and wasteful."
+In effect, Americans have determined that their government cannot deliver what they want, an unsustainable fact for the life of our democracy.
+Third and perhaps most importantly, as stewards of the American public's tax dollars, we cannot afford to waste money on programs that do not work, that are out-dated, or that are duplicative of one another.
+Right now, there are over 110 funded programs in Science, Technology, Engineering and Mathematics education in 14 departments and agencies across the federal government; over 100 programs that support youth mentoring scattered across 13 agencies; and more than 40 programs located in 11 departments with responsibility for employment and training.
+This redundancy wastes resources and makes it harder to act on each of these worthy goals. That is one reason why the Administration proposed approximately $20 billion of terminations, reductions, and savings in both the FY 2010 and 2011 budgets.
+And while recent administrations have seen between 15 to 20 percent of their proposed discretionary cuts actually enacted, we worked with Congress to enact 60 percent of proposed discretionary cuts for FY 2010.
+This type of redundancy and waste is also why the President two weeks ago asked Congress for expedited rescission authority so Congress can act quickly and cleanly to remove unnecessary and wasteful programs.
+To be sure, reducing this waste will not close the significant budget gap we face. But that fact does not absolve us from the obligation we have to use funds wisely.
+What is driving these trends and the skepticism so many of us have about government?
+One important reason is that over the years, Americans have seen huge advances in efficiency and technology both at work and in their daily lives.
+They have witnessed the movement from one-size-fits-all, mass production and secretarial pools to the age of just-in-time, customized manufacturing and instant communications. Organizations outside government have experienced impressive advances in productivity and have become more responsive to their customers.
+The government, however, has not kept pace.
+Let's look at the facts.
+Public sector productivity growth matched the private sector's until about 1987. But something changed in the late 1980s. From 1987 until 1995, private sector productivity rose by an average of 1.5 percent a year. Meanwhile, the public sector's productivity rose by only 0.4 percent per year – or about one-third as much – over roughly the same period.
+At that point, reliable data on public sector productivity are not available because the Bureau of Labor Statistics – paradoxically, as part of a cost-cutting effort – stopped collecting the numbers.
+The best analysis we have, from the McKinsey Global Institute, suggest that since 1995 it appears that the public sector continued to fall behind the private sector which saw productivity surge during that period.
+Some of this increasing gap has to do with advances in management techniques in the private sector. Some, undoubtedly, has to do with the challenges the federal government has in attracting and hiring top talent. Keep in mind that the average time it takes to hire a new federal employee is 140 days – and by that time, many of the best candidates, understandably, have gone elsewhere.
+But I believe that the biggest driver of this productivity divide is the information technology gap.
+At one time, a federal worker went to the office and had access to the most cutting-edge computer power and programs. Now, he often has more of both in a device clipped to his belt.
+Closing the IT gap is perhaps the single most important step we can take in creating a more efficient and responsive government.
+Indeed, the IT gap is the key differentiator between our effort to modernize and reform government and those that have come before.
+While it would be better if we did not find ourselves in this position, note that because the gap is so big, the potential upside is substantial. Our historical shortcomings in IT may ironically give us a "late-mover advantage," by allowing us to leapfrog costly, less developed technologies and go directly to the less expensive, more powerful ones.
+How big is this IT gap?
+It is hard to quantify, but anecdotally the data are telling.
+Let's consider the divergence in data center usage. In the private sector, IBM has reduced the number of data centers it uses from 235 to 12. Hewlett-Packard has consolidated 14 data centers into one, reducing energy usage by 40 percent.
+What about the federal government?
+Since 1998, we have gone from 432 data centers to more than 1100.
+Or look at how the federal government has tried to introduce systemic technological improvements to its operations.
+In the conversations we had with CEOs at our modernizing government forum in January, most told us that they terminate a substantial number of bad IT projects soon after they start. High-performing companies kill roughly one out of every three IT projects in their first six months. The Federal Government, by and large, terminates almost none.
+For example, the Census Bureau awarded in 2006 a $595 million contract to develop a handheld computer for census workers to use this year. Two years and $600 million later, the project was canceled with nothing to show for it.
+And census workers out there today still use pen and paper.
+Or as the President pointed out before, the Patent Office receives more than 80 percent of patent applications electronically. That's great.
+However, these applications are then manually printed out, re-scanned, and entered into an outdated case management system. The average processing time for a patent is roughly three years.
+And this is the agency that interacts with the most creative and innovative individuals and companies in our country.
+Clearly, we have massive room for improvement. Pursuing that improvement and closing the IT gap will help us create a government that is more efficient and less wasteful, and that is more open and more responsive to the American people.
+So what are we doing?
+First, we're using IT to identify and cut waste.
+Take the dashboard concept – a graphically clear, data-rich web portal that enables a manager, and actually any member of the general public, to see how money is being spent.
+Our IT Dashboard now provides a transparent look into the approximately $80 billion a year the federal government spends on IT. By using the dashboard, the VA has been able to identify 45 IT projects that are at-risk, eventually terminating 12 of them.
+This same concept is being used by the Centers for Medicare and Medicaid Services with its dashboard to track inpatient hospital spending and how much Medicare is spending on other payments to providers for medical education, treating low-income patients, and operating in a high-cost region – to name just a few.
+We also are using IT to increase data-sharing among agencies to reduce the $100 billion in improper payments – payments that go to the wrong person, for the wrong amount, or at the wrong time – each year.
+And we're doing that by expanding recapture payment audits, bolstering internal control methods, and creating online dashboards of key indicators and statistics about improper payments – so the public can hold agencies accountable for how their money is being spent.
+Similarly, as part of the Administration's effort to save $40 billion in contracting by 2011 – a goal we are well on the way of reaching – we have launched the so-called FAPIIS system, which takes data from government contractors on things such as how they did their job and if they were suspended or debarred – and combines them into one database that contracting officers can access before making a decision.
+This will dramatically reduce the chance that an underperforming contractor with one agency will keep winning business from another.
+Second, we are using IT in our efforts to boost the efficiency of government operations.
+I mentioned earlier the growth in the number of federal data centers, which runs counter to the movement in the private sector toward reducing the number of data centers and moving to cloud computing in which applications and data are centrally housed.
+Through our Cloud Computing Initiative, we are just beginning to take steps toward the cloud. And this holds substantial promise to save money on IT infrastructure, increase collaboration, and boost productivity.
+Third, in addition to identifying and rooting out waste, we can use information technology to make government more open and responsive – delivering services in ways that are convenient and cost-effective.
+In almost every facet of one's daily life, you can use online and mobile devices – whether it's managing your money, paying a bill, buying a birthday gift, or arranging your own travel.
+We need to bring that kind of convenience to government services.
+That's why the Department of Homeland Security added an online tracking service for visa and citizenship applications – replacing the letters mailed back and forth when people wanted an update on their status.
+And it's why the Social Security Administration is implementing an idea that we got through our SAVE Award process from a front-line worker in Alabama to allow people to make appointments online to see a Social Security caseworker, freeing up this personnel to actually help people.
+Another way to deliver better services is to empower people directly with the information they need to serve themselves.
+As part of our Open Government Initiative, we have unlocked the valuable federal data that the government has – and put it out on data.gov – so that it can be leveraged for wider and greater use.
+In just one year, data.gov has grown from 47 datasets to more than 270,000. This information can be used by the American people directly to learn about things such as the safety ratings of children's car seats or the safety of different work places.
+And the data are increasingly being used by developers to build new tools to help Americans in their daily lives.
+Let's take FlyOnTime.us, for example.
+This application takes data from the Bureau of Transportation combines them with weather information and user-generated content about airline security lines – such as "tweets" from people waiting in those lines – to give travelers an accurate look at travel conditions.
+In the months ahead, we will be looking to unveil more of these technology-driven solutions that bring the public sector more in line with the private when it comes to customer service.
+That is the promise of closing the IT gap: increasing productivity and responsiveness; efficiency and customer service.
+And that brings me to a final point: these improvements will help agencies meet what are increasingly tight fiscal constraints.
+As many of you know, in this year's Budget, the President proposed a three-year freeze on non-security discretionary funding, saving $250 billion over the next decade.
+This spending restraint complements other measures in the Budget that, together, produce more deficit reduction over the next 10 years than any Budget that has been proposed in over a decade.
+In his State of the Union address, the President was abundantly clear to Congress that he will use the veto pen to enforce this freeze.
+And in the Budget guidance for Fiscal Year 2012 issued to agencies this morning, that seriousness of purpose was underscored yet again.
+We are asking each agency to develop a list of their bottom 5 percent performing discretionary programs, as measured by their impact in furthering the agency's mission.
+In addition, to ensure that we can meet the President's absolute insistence on a freeze for non-security agencies while funding priority areas, we are asking non-security agencies to specify how they would reduce their budgets by 5 percent which will give us the ability to achieve the overall non-security freeze even while meeting inevitable new needs and priorities.
+The reform efforts I outlined above should make it easier for agencies to identify their laggard programs and live within the three-year freeze.
+Ultimately, our goal is not to cut for cutting's sake, but to modernize and reform government, to empower people with the information they require to make choices about what's best for them, to make their voices heard by government officials, and to give the American people the data they need to bring about change.
+The bottom line is that IT can help us achieve this in a government that is increasingly complex, serving a nation of 300 million people.
+As a professor of political science at my alma mater noted: "There is scarcely a single duty of government which was once simple which is not now complex; government once had but a few masters; it now has scores of masters."
+Those words were written by Professor Woodrow Wilson – in 1887, before he was the president of Princeton, and well before he was President of the United States. And they are no less true today than they were more than a century ago.
+The lesson is: implementation matters. And it is our duty to continually strive to be prudent and productive stewards of tax dollars, creating a government that is efficient and effective in service of the American people.
+Thank you, and I'd be delighted to take your questions.
+  

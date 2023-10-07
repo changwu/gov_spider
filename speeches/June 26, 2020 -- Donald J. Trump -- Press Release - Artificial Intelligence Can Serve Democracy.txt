@@ -1,0 +1,8 @@
+
+    By: Michael Kratsios, U.S. CTO
+The U.S. is using every tool at its disposal to defeat the novel coronavirus, including artificial intelligence. American laboratories are harnessing AI to discover new therapeutics. The Food and Drug Administration approved an AI tool to help detect coronavirus in CT scans. And the White House led an initiative to create a database with more than 128,000 articles that scientists can analyze using AI to help understand the virus better and develop treatments.
+At the same time, AI is being twisted by authoritarian regimes to violate rights. The Chinese Communist Party is reportedly using AI to uncover and punish those who criticize the regime's pandemic response and to institute a type of coronavirus social-credit score—assigning people color codes to determine who is free to go out and who will be forced into quarantine.
+As the world begins to recover from the pandemic, nations face a stark choice about what vision of artificial intelligence will prevail. As Group of Seven nations meet this year under the organization's U.S. presidency, there is a critical opportunity to shape the evolution of AI in a way that respects fundamental rights and upholds our shared values. That is why G-7 technology ministers will agree Thursday to launch the Global Partnership on Artificial Intelligence, or GPAI, together with other democratic countries.
+Read the full op-ed here.
+THIS OP-ED WAS PUBLISHED ON WSJ.COM ON MAY 27, 2020
+  

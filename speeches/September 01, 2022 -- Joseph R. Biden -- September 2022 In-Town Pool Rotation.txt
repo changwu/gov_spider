@@ -1,0 +1,216 @@
+
+    
+
+
+DATE
+TV
+PRINT
+RADIO
+
+
+1-Sep
+CBS
+Bloomberg Government
+SRN
+
+
+2-Sep
+CNN
+Boston Globe
+VOA
+
+
+3-Sep
+FOX
+Christian Science Monitor
+ABC
+
+
+4-Sep
+NBC
+Daily Beast
+AP
+
+
+5-Sep
+ABC
+Daily Mail
+AURN
+
+
+6-Sep
+CBS
+Dallas Morning News
+FOX
+
+
+7-Sep
+CNN
+The Guardian
+CBS
+
+
+8-Sep
+FOX
+The Hill
+FOX
+
+
+9-Sep
+NBC
+HuffPost
+iHeartMedia
+
+
+10-Sep
+ABC
+Los Angeles Times
+NPR
+
+
+11-Sep
+CBS
+McClatchy
+SRN
+
+
+12-Sep
+CNN
+National Journal
+VOA
+
+
+13-Sep
+FOX
+Newsday
+ABC
+
+
+14-Sep
+NBC
+Newsweek
+AP
+
+
+15-Sep
+ABC
+New York Post
+AURN
+
+
+16-Sep
+CBS
+New York Times
+BBC
+
+
+17-Sep
+CNN
+Politico
+CBS
+
+
+18-Sep
+FOX
+RealClearPolitics
+FOX
+
+
+19-Sep
+NBC
+Regional Reporters
+iHeartMedia
+
+
+20-Sep
+ABC
+Roll Call
+NPR
+
+
+21-Sep
+CBS
+TIME
+SRN
+
+
+22-Sep
+CNN
+USA Today
+VOA
+
+
+23-Sep
+FOX
+Wall Street Journal
+ABC
+
+
+24-Sep
+NBC
+Washington Blade
+AP
+
+
+25-Sep
+ABC
+Washington Examiner
+AURN
+
+
+26-Sep
+CBS
+Washington Post
+BBC
+
+
+27-Sep
+CNN
+Washington Times
+CBS
+
+
+28-Sep
+FOX
+Yahoo
+FOX
+
+
+29-Sep
+NBC
+Axios
+iHeartMedia
+
+
+30-Sep
+ABC
+Bloomberg Government
+NPR
+
+
+1-Oct
+CBS
+Boston Globe
+SRN
+
+
+2-Oct
+CNN
+Christian Science Monitor
+VOA
+
+
+3-Oct
+FOX
+Daily Beast
+ABC
+
+
+4-Oct
+NBC
+Daily Mail
+AP
+
+
+
+  

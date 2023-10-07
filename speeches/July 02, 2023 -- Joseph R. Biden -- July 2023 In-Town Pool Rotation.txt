@@ -1,0 +1,234 @@
+
+    
+
+
+DATE
+TV
+PRINT
+RADIO
+
+
+ 
+ 
+ 
+ 
+
+
+1-Jul
+NBC
+RealClearPolitics
+AP
+
+
+2-Jul
+ABC
+Regional Reporters
+AURN
+
+
+3-Jul
+CBS
+Roll Call
+BBC
+
+
+4-Jul
+CNN
+TIME
+CBS
+
+
+5-Jul
+FOX
+USA Today
+FOX
+
+
+6-Jul
+NBC
+Wall Street Journal
+iHeartMedia
+
+
+7-Jul
+ABC
+Washington Blade
+NPR
+
+
+8-Jul
+CBS
+Washington Examiner
+SRN
+
+
+9-Jul
+CNN
+Washington Post
+VOA
+
+
+10-Jul
+FOX
+Washington Times
+ABC
+
+
+11-Jul
+NBC
+Yahoo
+AP
+
+
+12-Jul
+ABC
+Axios
+AURN
+
+
+13-Jul
+CBS
+Bloomberg Government
+BBC
+
+
+14-Jul
+CNN
+Boston Globe
+CBS
+
+
+15-Jul
+FOX
+Christian Science Monitor
+FOX
+
+
+16-Jul
+NBC
+Daily Beast
+iHeartMedia
+
+
+17-Jul
+ABC
+Daily Caller
+NPR
+
+
+18-Jul
+CBS
+Daily Mail
+SRN
+
+
+19-Jul
+CNN
+Dallas Morning News
+VOA
+
+
+20-Jul
+FOX
+The Grio
+ABC
+
+
+21-Jul
+NBC
+The Guardian
+AP
+
+
+22-Jul
+ABC
+Hearst Newspapers
+AURN
+
+
+23-Jul
+CBS
+The Hill
+BBC
+
+
+24-Jul
+CNN
+HuffPost
+CBS
+
+
+25-Jul
+FOX
+Los Angeles Times
+FOX
+
+
+26-Jul
+NBC
+McClatchy
+iHeartMedia
+
+
+27-Jul
+ABC
+National Journal
+NPR
+
+
+28-Jul
+CBS
+Newsday
+SRN
+
+
+29-Jul
+CNN
+Newsweek
+VOA
+
+
+30-Jul
+FOX
+New York Post
+ABC
+
+
+31-Jul
+NBC
+New York Times
+AP
+
+
+1-Aug
+ABC
+Politico
+AURN
+
+
+2-Aug
+CBS
+RealClearPolitics
+BBC
+
+
+3-Aug
+CNN
+Regional Reporters
+CBS
+
+
+4-Aug
+FOX
+Roll Call
+FOX
+
+
+5-Aug
+NBC
+TIME
+iHeartMedia
+
+
+
+  

@@ -1,0 +1,1101 @@
+
+    Grant Awards to Help Make Health IT Available to Over 100,000 Health Providers by 2014, Support Tens of Thousands of Jobs Nationwide
+WASHINGTON, DC - Health and Human Services Secretary Kathleen Sebelius and Labor Secretary Hilda Solis today announced a total of nearly $1 billion in Recovery Act awards to help health care providers advance the adoption and meaningful use of health information technology (IT) and train workers for the health care jobs of the future. The awards will help make health IT available to over 100,000 hospitals and primary care physicians by 2014 and train thousands of people for careers in health care and information technology. This Recovery Act investment will help grow the emerging health IT industry which is expected to support tens of thousands of jobs ranging from nurses and pharmacy techs to IT technicians and trainers.
+The over $750 million in HHS grant awards Secretary Sebelius announced today are part of a federal initiative to build capacity to enable widespread meaningful use of health IT. This assistance at the state and regional level will facilitate health care providers' efforts to adopt and use electronic health records (EHRs) in a meaningful manner that has the potential to improve the quality and efficiency of health care for all Americans. Of the over $750 million investment, $386 million will go to 40 states and qualified State Designated Entities (SDEs) to facilitate health information exchange (HIE) at the state level, while $375 million will go to an initial 32 non-profit organizations to support the development of regional extension centers (RECs) that will aid health professionals as they work to implement and use health information technology - with additional HIE and REC awards to be announced in the near future. RECs are expected to provide outreach and support services to at least 100,000 primary care providers and hospitals within two years.
+"Health information technology can make our health care system more efficient and improve the quality of care we all receive," said Secretary of Health and Human Services Kathleen Sebelius. "These grant awards, the first of their kind, will help develop our electronic infrastructure and give doctors and other health care providers the support they need as they adopt this powerful technology."
+The more than $225 million in DOL grant awards Secretary Solis announced will be used to train 15,000 people in job skills needed to access careers in health care, IT and other high growth fields. Through existing partnerships with local employers, the recipients of these grants have already identified roughly 10,000 job openings for skilled workers that likely will become available in the next two years in areas like nursing, pharmacy technology and information technology. The grants will fund 55 separate training programs in 30 states to help train people for secure, well-paid health jobs and meet the growing employment demand for health workers. Employment services will be available via the Department of Labor's local One Stop Career Centers, and training will be offered at community colleges and other local education providers.
+"The Recovery Act's investments are making a positive difference in the lives of America's working families," said Secretary of Labor Hilda L. Solis. "The investments announced today will ensure thousands of workers across the nation can receive high-quality training and employment services, which will lead to good jobs in healthcare and other industries offering career-track employment and good pay and benefits."
+The HHS and DOL awards are part of an overall $100 billion investment in science, innovation and technology the Administration is making through the Recovery Act to spur domestic job creation in growing industries and lay a long-term foundation for economic growth. In addition to the 10,000 jobs the DOL grantees expect to fill with freshly trained workers, the health IT extension centers are expected to hire over 3,000 technology workers nationwide in the months ahead. Overall, the Administration investments in health IT and training will help significantly expand an emerging industry expected to support tens of thousands of secure, well-paid jobs nationwide.
+A complete listing of the state HIE, REC and job training grant recipients is as follows:
+State HIE Awards:
+
+
+
+
+State HIE Awardee
+
+
+Award Amount
+
+
+
+
+
+
+Alabama Medicaid Agency
+
+
+$      10,564,789
+
+
+
+
+Arizona Governor's Office of Economic Recovery
+
+
+$           9,377,000
+
+
+
+
+Arkansas Dept of Finance and Administration
+
+
+$ 7,909,401
+
+
+
+
+California Health and Human Services Agency
+
+
+$       38,752,536
+
+
+
+
+Colorado Regional Health Information Organization
+
+
+$ 9,175,777
+
+
+
+
+Delaware Health Information Network
+
+
+$ 4,680,284
+
+
+
+
+Government of the District of Columbia
+
+
+$ 5,189,709
+
+
+
+
+Georgia Department of Community Health
+
+
+$      13,003,003
+
+
+
+
+Office of the Governor (Guam)
+
+
+$         1,600,000
+
+
+
+
+The Hawaii Health Information Exchange
+
+
+$ 5,602,318
+
+
+
+
+Illinois Department of Health care and Family Services
+
+
+$       18,837,639
+
+
+
+
+Kansas Health Information Exchange Project
+
+
+$        9,010,066
+
+
+
+
+Cabinet for Health and Family Services (Kentucky)
+
+
+$        9,750,000
+
+
+
+
+State of Maine/Governor's Office of Health Policy & Finance
+
+
+$        6,599,401
+
+
+
+
+Massachusetts Technology Park Corporation
+
+
+$       10,599,719
+
+
+
+
+Michigan Department of Health
+
+
+$       14,993,085
+
+
+
+
+Minnesota Department of Health
+
+
+$        9,622,000
+
+
+
+
+Missouri Depart of Social Services
+
+
+$      13,765,040
+
+
+
+
+Nevada Department of Health and Human Services
+
+
+$       6,133,426
+
+
+
+
+New Hampshire Department of Health and Human Services
+
+
+$       5,457,856
+
+
+
+
+Lovelace Clinic Foundation, New Mexico
+
+
+$        7,070,441
+
+
+
+
+New York eHealth Collaborative Inc.
+
+
+$      22,364,782
+
+
+
+
+Commonwealth of the NMI, Department of Public Health
+
+
+$ 800,000
+
+
+
+
+North Carolina Department of State Treasurer
+
+
+$      12,950,860
+
+
+
+
+Ohio Health Information Partnership LLC
+
+
+$      14,872,199
+
+
+
+
+Oklahoma Health Care Authority
+
+
+$        8,883,741
+
+
+
+
+Pacific Ecommerce Development Corporation (American Samoa)
+
+
+$ 600,000
+
+
+
+
+State of Oregon
+
+
+$        8,579,992
+
+
+
+
+Governor's Office of Health Care Reform Commonwealth of Pennsylvania
+
+
+$           17,140,446
+
+
+
+
+Oticina del Gobernador La Fortaeza (Puerto Rico)
+
+
+$        7,770,980
+
+
+
+
+Rhode Island Quality Institute
+
+
+$        5,280,000
+
+
+
+
+State of Tennessee
+
+
+$       11,664,580
+
+
+
+
+Utah Department of Health
+
+
+$          6,296,705
+
+
+
+
+Vermont Department of Human Services
+
+
+$ 5,034,328
+
+
+
+
+Virgin Islands Department of Health
+
+
+$ 1,000,000
+
+
+
+
+Virginia Department of Health
+
+
+$       11,613,537
+
+
+
+
+Health Care Authority (Washington)
+
+
+$       11,300,000
+
+
+
+
+West Virginia Department of Health and Human Resources
+
+
+$        7,819,000
+
+
+
+
+Wisconsin Department of Health and Family Services
+
+
+$        9,441,000
+
+
+
+
+Office of the Governor (Wyoming)
+
+
+$       4,873,000
+
+
+
+
+Total Award Amount
+
+
+$   385,978,640
+
+
+
+
+Regional Extension Center Awards:
+
+
+
+
+RECs Awardee
+
+
+Award Amount
+
+
+
+
+
+
+Altarum Institute, Michigan
+
+
+ $       19,619,990
+
+
+
+
+Arkansas Foundation For Medical Care
+
+
+ $      7,400,000
+
+
+
+
+CIMRO of Nebraska
+
+
+ $       6,647,371
+
+
+
+
+Colorado RHIO
+
+
+ $     12,475,000
+
+
+
+
+District of Columbia Primary Care Association
+
+
+ $       5,488,437
+
+
+
+
+Fund for Public Health New York
+
+
+ $     21,754,010
+
+
+
+
+Greater Cincinnati HealthBridge (Ohio-Kentucky)
+
+
+ $     9,738,000
+
+
+
+
+Health Choice Network, Inc.,Florida
+
+
+ $       8,500,000
+
+
+
+
+HealthInsight, Utah-Nevada
+
+
+ $            6,917,783
+
+
+
+
+Iowa IFMC
+
+
+ $       5,508,019
+
+
+
+
+Kansas Foundation for Medical Care Inc.
+
+
+ $       7,000,000
+
+
+
+
+Key Health Alliance (Stratis Health), Minnesota - North Dakota
+
+
+ $     19,000,000
+
+
+
+
+Lovelace Clinic, New Mexico
+
+
+ $       6,175,000
+
+
+
+
+Massachusetts Technology Park Cooperation
+
+
+ $     13,433,107
+
+
+
+
+MetaStar, Inc, Wisconsin
+
+
+ $     9,125,000
+
+
+
+
+ Morehouse School of Medicine, Inc., Georgia
+
+
+ $     19,521,542
+
+
+
+
+New York eHealth Collaborative (NYeC)
+
+
+ $     26,534,999
+
+
+
+
+University of North Carolina, Chapel Hill
+
+
+ $     13,569,169
+
+
+
+
+Northern California Regional Extension Center
+
+
+ $     17,286,081
+
+
+
+
+Northern Illinois University
+
+
+ $       7,546,000
+
+
+
+
+Northwestern University
+
+
+ $      7,649,533
+
+
+
+
+OCHIN Inc. (Primary), Oregon
+
+
+ $     13,201,499
+
+
+
+
+Ohio Health Information Partnership
+
+
+ $     28,500,000
+
+
+
+
+Oklahoma Foundation for Medical Quality, Inc.
+
+
+ $       5,331,685
+
+
+
+
+Purdue University
+
+
+ $     12,000,000
+
+
+
+
+Qsource (Tennessee)
+
+
+ $       7,256,155
+
+
+
+
+Qualis Health, Washington - Idaho
+
+
+ $     12,846,482
+
+
+
+
+Rhode Island Quality Institute
+
+
+ $       6,000,000
+
+
+
+
+Southern California Regional Extension Center
+
+
+ $     13,961,339
+
+
+
+
+Vermont Information Technology Leaders, Inc.
+
+
+ $       6,762,080
+
+
+
+
+VHQC and the Center for Innovative Technology, for The Virginia Consortium
+
+
+ $     12,425,000
+
+
+
+
+West Virginia Health Improvement Institute Inc.
+
+
+ $       6,000,000
+
+
+
+
+Total Award Amount
+
+
+ $   375,173,281
+
+
+
+
+Job Training Awards:
+
+
+
+
+Healthcare / High Growth Grant Recipient
+
+
+Award Amount
+
+
+
+
+Calhoun Community College
+
+
+$3,470,830
+
+
+
+
+Mid-South Community College
+
+
+$3,391,053
+
+
+
+
+South Arkansas Community College
+
+
+$3,520,612
+
+
+
+
+Kern Community College District (KCCD)
+
+
+$2,768,572
+
+
+
+
+Los Rios Community College District
+
+
+$4,988,561
+
+
+
+
+Mt. San Antonio Community College District
+
+
+$2,239,714
+
+
+
+
+San Diego State University Research Foundation
+
+
+$4,953,575
+
+
+
+
+San Jose State University Research Foundation
+
+
+$5,000,000
+
+
+
+
+San Bernardino Community College District
+
+
+$4,260,863
+
+
+
+
+Youth Policy Institute
+
+
+$3,623,473
+
+
+
+
+Spanish Speaking Unity Council
+
+
+$3,559,139
+
+
+
+
+Otero Junior College
+
+
+$4,999,350
+
+
+
+
+National Council of La Raza
+
+
+$3,457,516
+
+
+
+
+Providence Health Foundation of Providence Hospital
+
+
+$4,953,999
+
+
+
+
+DeKalb Technical College (DTC)
+
+
+$2,043,859
+
+
+
+
+Governors State University
+
+
+$4,994,686
+
+
+
+
+Indianapolis Private Industry Council, Inc.
+
+
+$4,885,812
+
+
+
+
+Ivy Tech Community College of Indiana
+
+
+$5,000,000
+
+
+
+
+Iowa Workforce Development
+
+
+$3,403,164
+
+
+
+
+Maysville Community and Technical College
+
+
+$2,007,637
+
+
+
+
+Louisiana Technical College, Greater Acadiana Region 4
+
+
+$4,859,040
+
+
+
+
+Southern University at Shreveport
+
+
+$4,296,308
+
+
+
+
+Maine Department of Labor
+
+
+$4,892,213
+
+
+
+
+The Community College of Baltimore County (CCBC)
+
+
+$4,928,654
+
+
+
+
+Macomb Community College
+
+
+$4,971,642
+
+
+
+
+American Indian Opportunities Industrialization Center
+
+
+$5,000,000
+
+
+
+
+Northland Community and Technical College
+
+
+$4,996,844
+
+
+
+
+MN State Colleges & Universities DBA Pine Technical College
+
+
+$4,230,950
+
+
+
+
+South Central College
+
+
+$4,506,101
+
+
+
+
+The Montgomery Institute
+
+
+$4,519,625
+
+
+
+
+Full Employment Council
+
+
+$4,998,344
+
+
+
+
+Crowder College
+
+
+$3,576,760
+
+
+
+
+Maryville University - St. Louis
+
+
+$4,699,354
+
+
+
+
+University of New Hampshire
+
+
+$2,944,732
+
+
+
+
+Passaic County Community College
+
+
+$4,475,041
+
+
+
+
+Fulton Montgomery Community College (FMCC)
+
+
+$2,865,657
+
+
+
+
+Hudson Valley Community College (HVCC)
+
+
+$3,382,200
+
+
+
+
+University Behavioral Associates, Inc.
+
+
+$5,000,000
+
+
+
+
+Workforce Investment Board of Herkimer, Madison, and Oneida Counties
+
+
+$2,700,096
+
+
+
+
+Goodwill Industries, Inc., Serving E. Neb and SW Iowa
+
+
+$2,007,846
+
+
+
+
+Nevada Cancer Institute
+
+
+$3,262,676
+
+
+
+
+Berea Children's Home
+
+
+4,927,843
+
+
+
+
+BioOhio
+
+
+$5,000,000
+
+
+
+
+Cincinnati State Technical and Community College
+
+
+$4,935,132
+
+
+
+
+Columbus State Community College
+
+
+$4,605,303
+
+
+
+
+Enterprise for Employment and Education
+
+
+$2,373,073
+
+
+
+
+Trident Technical College
+
+
+$2,624,532
+
+
+
+
+Florence-Darlington Technical College (FDTC)
+
+
+$4,346,351
+
+
+
+
+The University of South Dakota
+
+
+$5,000,000
+
+
+
+
+Centerstone of Tennessee, Inc.
+
+
+$5,000,000
+
+
+
+
+North Central Texas College
+
+
+$4,150,005
+
+
+
+
+San Jacinto Community College District
+
+
+$4,722,919
+
+
+
+
+The University of Texas Medical Branch at Galveston (UTMB)
+
+
+$4,655,799
+
+
+
+
+Shenandoah Valley Workforce Investment Board, Inc. (SVWIB)
+
+
+$4,951,991
+
+
+
+
+Workforce Training and Education Coordinating Board
+
+
+$5,000,000
+
+
+
+
+Total
+
+
+$226,929,446
+
+
+
+ 
+
+
+
+ 
+Additional information about the state HIE and RECs may be found at http://HealthIT.HHS.gov/statehie and http://healthit.hhs.gov/extensionprogram.
+Information about other health IT programs funded through the American Recovery and Reinvestment Act of 2009 can be found here: http://HealthIT.HHS.gov
+Information about Healthcare/High Growth Grants, and other DOL training programs is available at http://www.doleta.gov/.
+For more information about the Recovery Act, please visit: www.hhs.gov/recovery, www.dol.gov/recovery, and www.recovery.gov.
+  

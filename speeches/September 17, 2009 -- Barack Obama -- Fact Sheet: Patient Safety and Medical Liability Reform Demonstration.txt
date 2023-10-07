@@ -1,0 +1,61 @@
+
+    On September 9, 2009, President Obama addressed a joint session of Congress to announce his proposals for health insurance reform. One component of such a plan includes investing in new ways to manage medical liability claims. The President stated:
+Now, finally, many in this chamber -- particularly on the Republican side of the aisle -- have long insisted that reforming our medical malpractice laws can help bring down the cost of health care…Now, I don't believe malpractice reform is a silver bullet, but I've talked to enough doctors to know that defensive medicine may be contributing to unnecessary costs. So I'm proposing that we move forward on a range of ideas about how to put patient safety first and let doctors focus on practicing medicine. I know that the Bush administration considered authorizing demonstration projects in individual states to test these ideas. I think it's a good idea, and I'm directing my Secretary of Health and Human Services to move forward on this initiative today.
+Background Facts on Patient Safety and Medical Liability
+Too many patients experience significant challenges with health care quality and patient safety, and injured patients are not well-served by the current medical liability system.
+•      According to the IOM report To Err is Human, between 44,000 and 98,000 patients die each year from medical errors.[i]
+•      Patients who are seriously harmed from medical errors often wait too long for compensation.[ii]
+•      Many experts believe fear of liability is a substantial barrier to the development of transparent and effective patient safety initiatives in hospitals and other settings.[iii]
+The medical community reports serious problems with the medical liability system.
+•      Many doctors believe that medical liability concerns lead to "defensive medicine," which in turn may contribute to higher costs.[iv]
+•      Many physicians continue to struggle to pay their medical malpractice premiums, which vary tremendously by specialty and by state.[v] The cost of insurance continues to be one of the highest practice expenses for some specialties.[vi]
+•      Fears of medical malpractice claims may lead to altered practices, restricted emergency coverage, and limited or discontinued high-risk procedures.[vii]
+•      The evidence regarding the impact of prior efforts to reduce the occurrence of lawsuits or the unintended consequences of lawsuits (e.g., physician shortages in selected areas) is equivocal.[viii]
+New HHS Initiative to Address Patient Safety and Medical Liability
+As directed by President Obama, the Secretary of the Department of Health and Human Services (HHS) will launch a new demonstration initiative that will help states and health care systems to test models that meet the following goals:
+•      Put patient safety first and work to reduce preventable injuries;
+•      Foster better communication between doctors and their patients;
+•      Ensure that patients are compensated in a fair and timely manner for medical injuries, while also reducing the incidence of frivolous lawsuits; and
+•      Reduce liability premiums.
+Initiative
+This competitive three-pronged initiative will support the following:
+•      Grants to jump-start and evaluate efforts. Grants for up to three years for up to $3 million each will be given on a competitive basis to states and health systems for implementation and evaluation of evidence-based patient safety and medical liability demonstrations.
+•      Planning grants.  States and health systems that want to plan to implement and evaluate evidence-based patient safety and medical liability demonstrations will be eligible for competitive one-year grants for up to $300,000. In addition, applicants will be eligible for technical assistance.
+•      Review of what works. A rapid and comprehensive review of initiatives that improve health care quality and patient safety and decrease medical liability will be conducted and reported in December 2009. This review will guide the initiative, provide information to applicants and help evaluate grant submissions.
+Priority Areas of Focus for Grant Proposals
+HHS will solicit applications for demonstrations that meet the core principles and goals of putting patient safety first and working to reduce preventable injuries; fostering better communication between doctors and their patients; ensuring that patients are fairly and quickly compensated for medical injuries, while also reducing the incidence of frivolous lawsuits; and reducing liability premiums.
+Specific metrics may include the following:
+Patient safety 
+•      Incidence of selected patient safety events;
+•      Reduction in antecedent or precipitating factors;
+•      System changes and corrective actions taken (if any);
+•      Effectiveness of risk mitigation approaches implemented; and
+•      Increased transparency of patient safety events on a state or system wide basis.
+Medical Liability 
+•      Effectiveness of strategies to expedite claim resolution and, as appropriate, compensation. Specific metrics may include adoption of early mediation or early disclosure protocols, and reduction of liability claims being filed and processing times;
+•      Patient and provider satisfaction with interventions; and
+•      Cost and sustainability of new interventions or systems.
+Long-term metrics, such as the number of physicians choosing to practice in high-risk specialty areas and in specific geographic areas, will be studied as well.
+Timeline for Grant Awards
+The Funding Opportunity Announcement will be available on Grants.gov within 30 days of the September 17, 2009 Presidential Memorandum. Potential grantees will have two months to complete and submit their applications. AHRQ will review applications and make award decisions in early 2010.
+Funding 
+HHS will allocate $25 million for this initiative. The funding will support grants that will vary depending on the size and complexity of the proposal. The "Review of What Works" and overall program evaluation will be conducted by contracts with existing AHRQ funding.
+Advisory Council
+Prior to finalizing the Funding Opportunity Announcement, the chairman of AHRQ's National Advisory Council will convene a subcommittee with diverse representation from expert and stakeholder groups to develop and report recommendations for this initiative. The date, time, location and agenda for the subcommittee meeting, which will be open to the public, will be announced in the Federal Register no later than two weeks in advance of such meeting. Members of the public will have the opportunity to submit comments to the subcommittee. This subcommittee will not review individual grants nor participate in award decisions.
+AHRQ Grant Review Process
+As required by law for all AHRQ grants, funding proposals submitted under this initiative that meet the criteria described in the Funding Opportunity Announcement must undergo rigorous peer review by independent, scientific experts. Award decisions will reflect peer review scores, program balance, technical merit and feasibility. More information can be found at http://www.ahrq.gov/fund/grconix.htm.
+Evaluation of Initiative
+To allow evaluation of this initiative, grantees will be required to submit patient safety data to AHRQ's network of patient safety databases and use the common formats for patient safety events released 9/2/09 by HHS (http://edocket.access.gpo.gov/2009/E9-21080.htm). Specific information regarding submission of all data, including required data elements and process for submission, will be included in the Notice of Grant Award. The evaluation, which will be released publicly as one report or a series of reports within 18 months of the end of the initiative, will focus on short-term improvements in both patient safety and medical liability systems. The evaluation will be designed to allow long-term assessment of improvements as well. 
+Authority
+This new demonstration program will be administered by AHRQ within HHS. AHRQ will use authority granted by 42 USC 299a(a) to support this program as part of its Patient Safety portfolio.
+
+
+[i] Kohn LT, Corrigan JM, Donaldson MS, eds. To err is human: building a safer health system. Washington, D.C.: National Academy Press, 2000.
+[ii] JCAHCO. Health Care at the Crossroads: Strategies for Improving the Medical Liability System and Preventing Patient Injury. 2005, at 31, See also Studdert, DM, Mello, MM, Brennan TA. Medical Malpractice. NEJM 350; 3. January 15, 2004.
+[iii] Studdert, DM, Mello, MM, Brennan TA. Medical Malpractice. NEJM 350; 3 at 286. January 15, 2004.
+[iv] Studdert DM, Mello MM, Sage WM et al. Defensive Medicine among High-risk Specialist Physicians in a Volatile Malpractice Environment. JAMA 2005; 293(21). See also Studdert, DM, Mello, MM, and Brennan TA. Medical Malpractice. NEJM 350; 3 at 286-287. January 15, 2004
+[v] See Medical Liability Monitor 2008 Rate Survey. American Medical News. January 5, 2009. Available at www.americanmednews.com.
+[vi] Terry K. 2008 Exclusive Survey – Malpractice premiums: Dropping but still high. Medical Economics. August 1, 2008. http://medicaleconomics.modernmedicine.com/memag/article/articleDetail.jsp?id=532640&pageID=1&sk=&date=.
+[vii] Studdert DM, Mello MM, Sage WM et al. Defensive Medicine among High-risk Specialist Physicians in a Volatile Malpractice Environment. JAMA 2005; 293(21) at 2612-14.
+[viii] Kessler, DP, Sage, WM, Becker DJ. Impact of malpractice reforms on the supply of physician services. JAMA 2005; 293: 2618-2625. See also Budetti PP. Tort Reform and the Patient Safety Movement: Seeking Common Ground. JAMA 2005; 293(21) at 2661.
+  

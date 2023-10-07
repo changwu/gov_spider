@@ -1,0 +1,39 @@
+
+    With vaccination rates rising across the country, this week's Census Pulse Survey showed more Americans feel safe going to work because they are protected from the coronavirus. And with tens of millions of families—including 40 million today—getting Child Tax Credit checks each month thanks to the President's American Rescue Plan, the number of households with kids reporting that they don't have enough to eat fell by 25%.
+Read more below:
+Axios: Fewer workers worried about COVID[Sam Ro, 8/12/21]
+Data: U.S. Census Bureau; Chart: Axios Visuals
+The rise in COVID-19 infections isn't motivating more workers to exit the workforce.
+Why it matters: Fear of falling ill or spreading the virus has been the primary reason millions of Americans have either left their jobs or halted their job searches.
+By the numbers: According to the Census' Household Pulse Survey (conducted July 21 to August 2) 2.48 million Americans said they were not working because they were "concerned about getting or spreading the coronavirus."
+
+This is down from the 2.82 million print from the prior survey (June 23 to July 5).
+This number peaked at 6.24 million in July 2020 but has trended lower ever since.
+
+Zoom out: The recent month's decline comes at a time when more Americans got vaccinated.
+
+From July 5 to August 2, the number of fully vaccinated people in the U.S. increased by 7.4 million to 164.9 million.
+
+What to watch: Through July, the labor force participation rate was still below pre-pandemic levels. If fewer workers are concerned about the virus, labor force participation should be expected to rise.
+
+The next update on this metric will come with the August jobs report, scheduled for Sept. 3.
+
+Census: Household Pulse Survey Collected Responses Just Before and Just After the Arrival of the First CTC Checks[Daniel J. Perez-Lopez, 8/11/21]
+A drop in the number of households with children that reported food insufficiency and trouble paying household expenses may be linked to the child tax credit checks issued last month, according to new Household Pulse Survey (HPS) results.
+The Internal Revenue Service last month (July 15) began issuing a monthly Advance Child Tax Credit (CTC) to families with children. About 35 million eligible families received the first monthly payment of up to $300 for each child age 5 and under and up to $250 for each child ages 6 to 17. Payments will continue monthly through December.
+The U.S. Census Bureau's experimental HPS collected survey responses just before and just after the arrival of the first checks.
+The survey shows introduction of the CTC coincided with a drop in food insufficiency in households with children. It also showed that in those households, there was a drop in difficulty paying weekly expenses. 
+Several changes were made to the child tax credit as part of the American Rescue Plan, signed in March 2021.
+The program provides the tax credit to all families with children, including those who are not required to file a federal tax return.
+In addition, the credit was increased — up to $3,600 per year for children ages 5 and under at the end of this year on a sliding scale based on income; and up to $3,000 a year for those ages 6 to 17. Half of the annual credit amount is being paid out in advance in monthly checks that began on July 15. 
+Food Insufficiency Dropped Quickly After Checks ArrivedAlthough HPS data show an overall decline in the share of adults in households experiencing food insufficiency (sometimes or often not having enough to eat), the drop was largely driven by adults in households with children.
+Even though adults in households with children are more likely to experience food insufficiency, those households saw a 3 percentage point decline between the surveys conducted before and after the CTC payments.
+Adults in households without children did not see a change in food insufficiency during the same period.
+
+Financial Hardship of Families With Children Also DroppedThe HPS asks respondents how difficult it was to pay their usual household expenses in the previous week. Adults in households with children were more likely to say that it was somewhat difficult or very difficult in both time periods.
+However, when we compare households with children before and after the arrival of the CTC payments, we see a decline in the share of adults in households struggling to pay expenses.
+In contrast, the share of adults in households without children that had difficulty paying expenses increased slightly during this period.
+
+How Families Spent Their CTCMany HPS respondents reported spending their CTC payments on more than one thing. About 47% reported spending it on food.
+Nearly 10% of adults in households that received the CTC — and 17% of those with at least one child under age 5 — spent their CTC on child care.
+  

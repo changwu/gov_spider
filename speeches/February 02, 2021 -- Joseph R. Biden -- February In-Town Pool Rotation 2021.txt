@@ -1,0 +1,211 @@
+
+    
+
+
+DATE
+TV
+PRINT
+RADIO
+
+
+
+1-Feb
+NBC
+TIME
+FOX
+
+
+2-Feb
+ABC
+USA Today
+NPR
+
+
+3-Feb
+CBS
+Wall Street Journal
+SRN
+
+
+4-Feb
+CNN
+Washington Blade
+VOA
+
+
+5-Feb
+FOX
+Washington Examiner
+ABC
+
+
+6-Feb
+NBC
+Washington Post
+AP
+
+
+7-Feb
+ABC
+Washington Times
+BBC
+
+
+8-Feb
+CBS
+Yahoo
+CBS
+
+
+9-Feb
+CNN
+Axios
+FOX
+
+
+10-Feb
+FOX
+BNA
+NPR
+
+
+11-Feb
+NBC
+Boston Globe
+SRN
+
+
+12-Feb
+ABC
+BuzzFeed
+VOA
+
+
+13-Feb
+CBS
+CS Monitor
+ABC
+
+
+14-Feb
+CNN
+Daily Beast
+AP
+
+
+15-Feb
+FOX
+Daily Caller
+BBC
+
+
+16-Feb
+NBC
+Daily Mail
+CBS
+
+
+17-Feb
+ABC
+Dallas Morning News
+FOX
+
+
+18-Feb
+CBS
+The Guardian
+NPR
+
+
+19-Feb
+CNN
+Hearst Newspapers
+SRN
+
+
+10-Feb
+FOX
+The Hill
+VOA
+
+
+21-Feb
+NBC
+Huffington Post
+ABC
+
+
+22-Feb
+ABC
+Las Vegas Review-Journal
+AP
+
+
+23-Feb
+CBS
+Los Angeles Times
+BBC
+
+
+24-Feb
+CNN
+McClatchy
+CBS
+
+
+25-Feb
+FOX
+National Journal
+FOX
+
+
+26-Feb
+NBC
+Newsday
+NPR
+
+
+27-Feb
+ABC
+NY Post
+SRN
+
+
+28-Feb
+CBS
+NY Times
+VOA
+
+
+1-Mar
+CNN
+Politico
+ABC
+
+
+2-Mar
+FOX
+RealClearPolitics
+AP
+
+
+3-Mar
+NBC
+Regional Reporters
+BBC
+
+
+4-Mar
+ABC
+Roll Call
+CBS
+
+
+5-Mar
+CBS
+TIME
+FOX
+
+
+
+  
